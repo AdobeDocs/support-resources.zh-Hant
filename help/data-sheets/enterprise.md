@@ -2,9 +2,9 @@
 title: 企業支援
 description: Adobe Experience Cloud 企業支援服務提供增強型支援服務層級目標 (SLT)、技術專長的好處以及具有指定支援工程師身分的宣傳者。
 exl-id: f3dfbc40-df11-4ad9-9693-568d9e35ec04
-source-git-commit: 101d0a5b6d49211ccffe55ce8c023d6fb281602e
+source-git-commit: eab88ea8d66a5ae104369655137c389822671e0f
 workflow-type: tm+mt
-source-wordcount: '1205'
+source-wordcount: '1199'
 ht-degree: 95%
 
 ---
@@ -344,7 +344,6 @@ Adobe 解決方案專家可向客戶和實作合作夥伴提供以最佳實務�
   <tr>
     <td colspan="4">
       <p><sup>1</sup><i>僅提供英文和日文的語言支援。</i></p>
-      <p><i>Adobe Commerce 不包含日文語言支援。</i></p>
       <p><i>P2、P3、P4案例僅限於日本的營業時間。</i></p>
     </td>
   </tr>

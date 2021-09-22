@@ -2,9 +2,9 @@
 title: Elite 支援
 description: Adobe Experience Cloud Elite 支援服務提供同級最佳的服務層級目標 (SLT)、主動式支援，以及與技術客戶經理和指定的支援工程師的合作關係。
 exl-id: 46a0f6bb-dccb-4554-a811-de1384db2747
-source-git-commit: 101d0a5b6d49211ccffe55ce8c023d6fb281602e
+source-git-commit: eab88ea8d66a5ae104369655137c389822671e0f
 workflow-type: tm+mt
-source-wordcount: '1368'
+source-wordcount: '1362'
 ht-degree: 96%
 
 ---
@@ -395,7 +395,6 @@ Adobe 解決方案專家可向客戶和實作合作夥伴提供以最佳實務�
   <tr>
     <td colspan="4">
       <p><sup>1</sup><i>僅提供英文和日文的語言支援。</i></p>
-      <p><i>Adobe Commerce 不包含日文語言支援。</i></p>
       <p><i>P2、P3、P4案例僅限於日本的營業時間。</i></p>
     </td>
   </tr>
