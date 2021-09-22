@@ -1,11 +1,11 @@
 ---
 title: 線上支援
-description: Adobe Experience Cloud線上支援服務提供有限的電話支援。
+description: Adobe Experience Cloud 線上支援服務提供有限的電話支援。
 exl-id: ea7eb128-9d7a-486f-9ce2-7d1330749c9a
-source-git-commit: 50e19758d2d1bee37e89b3c636d4f052fcdb03a3
+source-git-commit: 101d0a5b6d49211ccffe55ce8c023d6fb281602e
 workflow-type: tm+mt
-source-wordcount: '733'
-ht-degree: 4%
+source-wordcount: '758'
+ht-degree: 92%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 4%
 
 ![圖示](assets/OnlineBanner.png)
 
-Adobe Experience Cloud線上支援服務提供有限的電話支援。
+Adobe Experience Cloud 線上支援服務提供有限的電話支援。
 
 <table>
 <thead>
@@ -23,7 +23,7 @@ Adobe Experience Cloud線上支援服務提供有限的電話支援。
     <th>線上支援</th>
     <th>業務支援</th>
     <th>企業支援</th>
-    <th>精英支援</th>
+    <th>Elite 支援</th>
   </tr>
 </thead>
 <tbody>
@@ -31,18 +31,18 @@ Adobe Experience Cloud線上支援服務提供有限的電話支援。
     <td></td>
     <td></td>
     <td></td>
-    <td colspan="3">Adobe支援級別($)</td>
+    <td colspan="3">Adobe 支援等級 ($)</td>
   </tr>
   <tr>
     <td rowspan="3">指派的專家<br></td>
-    <td>帳戶支援領導</td>
+    <td>帳戶支援負責人</td>
     <td></td>
     <td>✔</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>指定支援工程師</td>
+    <td>指定的支援工程師</td>
     <td></td>
     <td></td>
     <td>✔</td>
@@ -64,14 +64,14 @@ Adobe Experience Cloud線上支援服務提供有限的電話支援。
     <td>24x5</td>
   </tr>
   <tr>
-    <td>24x7x365 P1期支援</td>
+    <td>24x7x365 P1 問題支援</td>
     <td>✔</td>
     <td>✔</td>
     <td>✔</td>
     <td>✔</td>
   </tr>
   <tr>
-    <td>指定支援聯繫人（按產品）</td>
+    <td>指定的支援聯絡人 (依據產品)</td>
     <td>4</td>
     <td>6</td>
     <td>10</td>
@@ -85,7 +85,7 @@ Adobe Experience Cloud線上支援服務提供有限的電話支援。
     <td>✔</td>
   </tr>
   <tr>
-    <td>呈報管理</td>
+    <td>向上呈報管理</td>
     <td></td>
     <td>✔</td>
     <td>✔</td>
@@ -99,14 +99,14 @@ Adobe Experience Cloud線上支援服務提供有限的電話支援。
     <td>4</td>
   </tr>
   <tr>
-    <td>每年專家會議</td>
+    <td>每年的專家諮詢</td>
     <td></td>
     <td></td>
     <td>2</td>
     <td>4</td>
   </tr>
   <tr>
-    <td>案例審核</td>
+    <td>案件審查</td>
     <td></td>
     <td></td>
     <td>✔</td>
@@ -120,36 +120,36 @@ Adobe Experience Cloud線上支援服務提供有限的電話支援。
     <td>✔</td>
   </tr>
   <tr>
-    <td>環境審查、維護和監控</td>
+    <td>環境審查、維護與監控</td>
     <td></td>
     <td></td>
     <td></td>
     <td>✔</td>
   </tr>
   <tr>
-    <td>發行、遷移、升級和產品藍圖審查</td>
+    <td>發行、遷移、升級及產品藍圖審查</td>
     <td></td>
     <td></td>
     <td></td>
     <td>✔</td>
   </tr>
   <tr>
-    <td>雲端支援活動 — Experience Manager為雲端</td>
+    <td>雲端支援活動 – 雲端服務型 Experience Manager</td>
     <td></td>
     <td></td>
     <td>✔</td>
     <td>✔</td>
   </tr>
   <tr>
-    <td rowspan="2">外勤事務</td>
-    <td>Launch顧問服務 — 新解決方案首年</td>
+    <td rowspan="2">現場服務</td>
+    <td>上市諮詢服務 – 新解決方案的第一年</td>
     <td></td>
     <td></td>
     <td>✔</td>
     <td>✔</td>
   </tr>
   <tr>
-    <td>外勤事務活動</td>
+    <td>現場服務活動</td>
     <td></td>
     <td></td>
     <td>2</td>
@@ -158,20 +158,20 @@ Adobe Experience Cloud線上支援服務提供有限的電話支援。
 </tbody>
 </table>
 
-## 服務級別目標：初始回應 {#service-level-targets}
+## 服務層級目標：最初回應 {#service-level-targets}
 
-| 優先順序 | 線上支援 | 業務支援 | 企業支援 | 精英支援 |
+| 優先順序 | 線上支援 | 業務支援 | 企業支援 | Elite 支援 |
 |--- |--- |--- |--- |--- |
-| <b>優先順序1</b><br>客戶的生產業務功能已關閉或出現重大資料丟失或服務降級，需要立即注意恢復功能和可用性。 | 24x7/<br>1小時 | 24x7/<br>1小時 | 24x7/<br>30分鐘 | 24x7/<br>15分鐘 |
-| <b>優先順序2</b><br>客戶的業務功能會導致重大服務降級或潛在資料丟失，或主要功能受到影響。 | 營業時間/<br>4小時 | 營業時間/<br>2小時 | 24x5/<br>1小時 | 24x5/<br>30分鐘 |
-| <b>優先順序3 </b><br>客戶的業務功能在服務降級方面有輕微的影響，但存在一個解決方案/解決方案，允許業務功能正常繼續。 | 營業時間/<br>6小時 | 營業時間/<br> 4小時 | 營業時間/<br>2小時 | 24x5/<br>1小時 |
-| <b>優先順序4</b><br>關於目前產品功能或增強功能要求的一般問題。 | 工作天數/<br>3天 | 工作日/<br>1天 | 工作日/<br> 1天 | 工作日/<br> 1天 |
+| <b>優先順序 1</b><br>客戶的生產業務功能已停止或發生重大資料遺失或服務降級狀況，需要立即關注以恢復功能與可用性。 | 24x7/<br>1 小時 | 24x7/<br>1 小時 | 24x7/<br>30 分鐘 | 24x7/<br>15 分鐘 |
+| <b>優先順序 2</b><br>客戶的業務功能發生嚴重的服務降級狀況，或是可能發生資料遺失，或是主要功能受到影響。 | 營業時間/<br>4 小時 | 營業時間/<br>2 小時 | 24x5/<br>1 小時 | 24x5/<br>30 分鐘 |
+| <b>優先順序 3</b><br>客戶的業務功能發生了輕微服務降級狀況，但有解決/變通方法讓業務功能得以繼續正常運作。 | 營業時間/<br>6 小時 | 營業時間/<br>4 小時 | 營業時間/<br>2 小時 | 24x5/<br>1 小時 |
+| <b>優先順序 4</b><br>有關目前產品功能或增強要求的一般性問題。 | 工作日/<br>3 天 | 工作日/<br>1 天 | 工作日/<br>1 天 | 工作日/<br>1 天 |
 
 {style=&quot;table-layout:auto&quot;}
 
 ## 線上支援 {#online-support-1}
 
-Adobe客戶支援提供檔案的線上資源、與其他專家和客戶的最佳實務互動，以及疑難排解提示和秘訣的網路研討會系列（營業時間）。 問題和案例提交也可使用數種管道。
+Adobe 客戶支援提供對線上資源的存取權以取得文件、與其他專家和客戶互動的機會以獲得最佳實務，並提供網路研討會系列 (諮詢時間) 的存取權以獲得疑難排解的秘訣和技巧。 我們也提供幾個管道來讓您提交問題和案件。
 
 <table style="table-layout:fixed">
 <tr>
@@ -180,15 +180,15 @@ Adobe客戶支援提供檔案的線上資源、與其他專家和客戶的最佳
     <div>
     <p>社群論壇</p>
     <p><b>線上論壇</b></p>
-    <p>持續線上訪問不斷增長的技術解決方案、產品文檔、常見問題解答等資料庫。 與Adobe社群的從業人員和其他客戶連絡，分享最佳實務和經驗教訓。</p>
+    <p>可持續在線上存取不斷增加的技術解決方案、產品文件、常見問答等內容的資料庫。 與 Adobe 社群上的從業人員和其他客戶交流，彼此分享學到的最佳實務和經驗教訓。</p>
     </div>
   </td>
   <td>
-    <img alt="營業時間" src="assets/Webinar.png"/>
+    <img alt="諮詢時間" src="assets/Webinar.png"/>
     <div>
-    <p>營業時間</p>
+    <p>諮詢時間</p>
     <p><b>網路研討會</b></p>
-    <p>由Adobe客戶支援團隊領導的營業時間包括旨在通知參與者並幫助參與者解決問題的會議，以及為Adobe解決方案的成功提供技巧和訣竅。</p>
+    <p>「諮詢時間」是由 Adobe 客戶支援團隊主導的一項計劃，其中的研討會的設計目的是為了提供資訊以及協助參與者排除問題，並提供成功使用 Adobe 解決方案的秘訣與技巧。</p>
     </div>
   </td>
 </tr>
@@ -197,16 +197,16 @@ Adobe客戶支援提供檔案的線上資源、與其他專家和客戶的最佳
     <img alt="Experience League" src="assets/JourneysExperienceLeague.png"/>
     <div>
     <p>Experience League</p>
-    <p><b>自我引導歷程</b></p>
-    <p>體驗創造者是用Experience League。 客戶可以利用個性化學習來啟動其客戶體驗管理能力，以發展技能、與全球同行社群互動，並贏得職業發展的認可。</p>
+    <p><b>自我引導式旅程</b></p>
+    <p>Experience League 賦予體驗製作者強大的功能。 客戶可以透過個人化學習來開始培養自己的客戶體驗管理能力，以發展各項技能、與全球的同儕社群互動，並獲得職涯提升的認可。</p>
     </div>
   </td>
   <td>
-    <img alt="自助說明" src="assets/SelfHelpPortal.png"/>
+    <img alt="自助資源" src="assets/SelfHelpPortal.png"/>
     <div>
-    <p>自助門戶</p>
-    <p><b>24/7支援門戶</b></p>
-    <p>隨需訪問線上自助支援門戶，以提交支援請求、審核案例狀態，並瀏覽其他資源，如知識庫、新聞和警報、精選提示等。</p>
+    <p>自助式入口網站</p>
+    <p><b>24/7 支援入口網站</b></p>
+    <p>隨需存取線上自助式支援入口網站，以提交支援請求、檢閱案件狀態，並瀏覽其他資源，像是我們的知識庫、新聞與提醒、特定的提示等。</p>
     </div>
   </td>
 </tr>
@@ -214,10 +214,10 @@ Adobe客戶支援提供檔案的線上資源、與其他專家和客戶的最佳
   <td>
     <img alt="即時聊天支援" src="assets/LiveChat.png"/>
     <div>
-    <p>即時聊天支援*</p>
+    <p>即時聊天支援 *</p>
     <p><b>聊天支援</b></p>
-    <p>開始聊天會議，獲得案例提交的解答和幫助。</p>
-    <p>* <i>並非所有產品都支援即時聊天。</i></p>
+    <p>開始聊天式諮詢，以獲得案件提交的解答與協助。</p>
+    <p>* <i>並非所有產品都有提供即時聊天支援。</i></p>
     </div>
   </td>
   <td>
@@ -225,7 +225,7 @@ Adobe客戶支援提供檔案的線上資源、與其他專家和客戶的最佳
     <div>
     <p>24x7x365 P1</p>
     <p><b>電話支援</b></p>
-    <p>授權的用戶或指定支援聯繫人可以通過所有可用渠道（包括P1電話）提交問題，並代表貴公司與我們的技術支援團隊互動。</p>
+    <p>授權的使用者或指定的支援聯絡人可透過所有可用管道 (包括 P1 適用的電話) 來提交問題，並代表貴公司與我們的技術支援團隊互動。</p>
     </div>
   </td>
 </tr>
@@ -235,36 +235,36 @@ Adobe客戶支援提供檔案的線上資源、與其他專家和客戶的最佳
 
 | 資源 | 說明 |
 |--- |--- |
-| [Experience League](https://experienceleague.adobe.com/) | Experience League是Adobe如何幫助企業實現其Adobe投資所期望的價值。 這是客戶可以學習、連接並沿著個人化的成功道路發展的統一場所，包括自助教學課程、產品檔案、講師指導的培訓、社群和技術支援。 |
-| [培訓](https://training.adobe.com/training/) | Adobe數位學習服務課程可從Experience League存取。 學習課程將按需授課和講師授課相結合。 在此，您可以累積已認可市值的技能，並定位這些技能以推動組織的成功。 |
-| [生產問題和系統停機](https://status.adobe.com/) | Status.adobe.com傳達部署在多租用戶環境中的所有Adobe產品和服務的健康資訊。 客戶可以選擇其訂閱偏好設定，以在Adobe建立、更新或解析產品事件時收到電子郵件通知。 這可能包括不同嚴重級別的計畫維護或服務問題。 |
-| [條款與條件](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html) | 詳細說明支援服務產品的條款和條件。 |
+| [Experience League](https://experienceleague.adobe.com/) | Experience League 是 Adobe 幫助企業經由其所做的 Adobe 投資來實現預期價值的方式。 這是一個統一的位置，客戶可以在這裡學習、交流並沿著個人化的成功路徑而成長，這裡有提供自助式教學課程、產品文件、由講師授課的訓練課程、社群及技術支援。 |
+| [訓練](https://training.adobe.com/training/) | 您可以從 Experience League 存取 Adobe 數位學習服務課程。 學習課程整合了隨選課程及講師授課的課程。 您可以在這裡累積具有公認市場價值的技能，並在組織中發揮這些技能以取得成功。 |
+| [生產問題與系統中斷](https://status.adobe.com/) | Status.adobe.com 會傳達所有在多租用戶環境中部署的 Adobe 產品與服務的健康資訊。 客戶可以選擇其訂閱偏好設定，以便在 Adobe 建立、更新或解決產品事件時收到電子郵件通知。 這可以包括預定的維護或是不同嚴重性等級的服務問題。 |
+| [條款與條件](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html) | 詳述支援服務方案的條款與條件。 |
 
-## 區域業務時數和語文支助
+## Adobe支援的區域範圍、當地工作時間和語言支援
 
-Adobe的當地營業時間與客戶的計費區域一致。<sup>1</sup>
+「Adobe支援」的區域範圍是通過將客戶的帳單地址(通過銷售訂單或其他Adobe支援採購單據)與以下區域之一進行對齊而確定的：
 
 <table>
 <thead>
   <tr>
     <th>美洲</th>
-    <th>歐洲、中東和非洲</th>
-    <th>亞太</th>
-    <th>Japan<sup>1</sup></th>
+    <th>歐洲、中東與非洲</th>
+    <th>亞太地區</th>
+    <th>日本<sup>1</sup></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>早6點 — 下午5:30</td>
-    <td>上午9點 — 下午5點</td>
-    <td>上午9點 — 下午5點</td>
-    <td>上午9點 — 下午5:30</td>
+    <td>上午 6 點 – 下午 5:30</td>
+    <td>上午 9 點 – 下午 5 點</td>
+    <td>上午 9 點 – 下午 5 點</td>
+    <td>上午 9 點 – 下午 5:30</td>
   </tr>
   <tr>
     <td colspan="4">
-      <p><sup>1</sup><i>語言支援僅提供英文和日文版。</i></p>
-      <p><sup>2</sup><i>Adobe商務不包括日文支援。</i></p>
-      <p><i>（日本）P2、P3、P4案例僅限於營業時間。</i></p>
+      <p><sup>1</sup><i>僅提供英文和日文的語言支援。</i></p>
+      <p><i>Adobe Commerce 不包含日文語言支援。</i></p>
+      <p><i>P2、P3、P4案例僅限於日本的營業時間。</i></p>
     </td>
   </tr>
 </tbody>
