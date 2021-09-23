@@ -1,19 +1,19 @@
 ---
-title: 支援服務概述
-description: 本文提供Adobe Experience Cloud的客戶支援選項摘要。 這些選項包括線上、業務、企業和精英。
+title: 支援服務總覽
+description: 本文提供 Adobe Experience Cloud 的客戶支援選項摘要。 這些選項包括線上、業務、企業和 Elite。
 exl-id: ac22d8ac-a214-4ee2-8828-b28a4cccce43
 source-git-commit: 50e19758d2d1bee37e89b3c636d4f052fcdb03a3
 workflow-type: tm+mt
 source-wordcount: '196'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
-# 支援服務概述
+# 支援服務總覽
 
-Adobe Experience Cloud客戶支援組織致力於協助您取得成功。 所有訂閱都包括一個支援級別，可方便地獲得我們高技能的技術資源，以提供技術援助。
+Adobe Experience Cloud 客戶支援組織致力於支援您的成功。 所有訂閱都包含某個支援等級，可讓您輕鬆存取我們的高技能技術資源，以獲得技術方面的協助。
 
-為滿足更全面的需求，我們提供Adobe支援服務，包括訪問指定的支援專業人員、加快服務級別響應目標，以及主動指導和服務審核會議。 無論您的支援需求有多複雜，Adobe都提供所需的技術和操作專業知識，以幫助您從Adobe解決方案中實現最高效能和最佳價值。
+為了滿足更全面的需求，我們提供了 Adobe 支援服務，其中包含聯繫指定的支援專業人員、了解加速的服務層級回應目標，以及主動式指導和服務審查的會議。 無論您的支援需求有多複雜，Adobe 都能提供您所需的技術和營運專業知識，以協助您從 Adobe 解決方案中獲得最佳效能和最大價值。
 
 <table style="table-layout:fixed">
 <tr>
@@ -22,19 +22,19 @@ Adobe Experience Cloud客戶支援組織致力於協助您取得成功。 所有
     <img alt="線上" src="assets/OnlineSupportThumbnail.png"/>
     </a>
     <div>
-    <a href="online.md"><strong>線上支援</strong></a> (查 <a href="assets/OnlineSupportDatasheet.pdf" target="_blank">看PDF</a>)
+    <a href="online.md"><strong>線上支援</strong></a> (檢視 <a href="assets/OnlineSupportDatasheet.pdf" target="_blank">PDF</a>)
     </div>
-    <p>電話支援的訪問受限</p>
+    <p>有限的電話支援</p>
     <br>
   </td>
   <td>
     <a href="business.md">
-      <img alt="企業" src="assets/BusinessSupportThumbnail.png">
+      <img alt="業務" src="assets/BusinessSupportThumbnail.png">
     </a>
     <div>
-    <a href="business.md"><strong>業務支援</strong></a> ( <a href="assets/BusinessSupportDatasheet.pdf" target="_blank">查看PDF</a>)
+    <a href="business.md"><strong>業務支援</strong></a> (檢視 <a href="assets/BusinessSupportDatasheet.pdf" target="_blank">PDF</a>)
     </div>
-    <p>完全存取Adobe的技術支援團隊和帳戶管理的帳戶支援領導</p>
+    <p>聯繫 Adobe 技術支援團隊及帳戶支援負責人的完整功能，以進行帳戶管理</p>
     <br>
   </td>
 </tr>
@@ -44,19 +44,19 @@ Adobe Experience Cloud客戶支援組織致力於協助您取得成功。 所有
     <img alt="企業" src="assets/EnterpriseSupportThumbnail.png"/>
     </a>
     <div>
-    <a href="enterprise.md"><strong>企業支援</strong></a> (檢 <a href="assets/EnterpriseSupportDatasheet.pdf" target="_blank">視PDF</a>)
+    <a href="enterprise.md"><strong>企業支援</strong></a> (檢視 <a href="assets/EnterpriseSupportDatasheet.pdf" target="_blank">PDF</a>)
     </div>
-    <p>增強的支援服務級別目標(SLT)、技術專業知識的好處，以及以具名支援工程師的形式的宣傳者</p>
+    <p>增強型支援服務層級目標 (SLT)、技術專長的好處以及具有指定支援工程師身分的宣傳者</p>
     <br>
   </td>
   <td>
     <a href="elite.md">
-      <img alt="精英" src="assets/EliteSupportThumbnail.png">
+      <img alt="Elite" src="assets/EliteSupportThumbnail.png">
     </a>
     <div>
-    <a href="elite.md"><strong>精英支援</strong></a> (檢 <a href="assets/EliteSupportDatasheet.pdf" target="_blank">視PDF</a>)
+    <a href="elite.md"><strong>Elite 支援</strong></a> (檢視 <a href="assets/EliteSupportDatasheet.pdf" target="_blank">PDF</a>)
     </div>
-    <p>同級最佳服務級別目標(SLT)、主動支援以及與技術客戶經理和指名的支援工程師建立合作夥伴關係</p>
+    <p>同級最佳的服務層級目標 (SLT)、主動式支援，以及與技術客戶經理和指定的支援工程師合作</p>
     <br>
   </td>
 </tr>

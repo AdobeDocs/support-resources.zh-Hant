@@ -54,4 +54,5 @@ ht-degree: 100%
 
 ## 出處
 
-本行為準則改編自[貢獻者公約](https://contributor-covenant.org) 1.4 版，取得的網址為 [https://contributor-covenant.org/version/1/4](https://contributor-covenant.org/version/1/4/)
+此行為準則改編自以下[貢獻者公約](https://contributor-covenant.org)版本 1.4，
+以下網頁有提供該版本：[https://contributor-covenant.org/version/1/4](https://contributor-covenant.org/version/1/4/)
