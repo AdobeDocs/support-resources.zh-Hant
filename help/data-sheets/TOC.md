@@ -4,7 +4,7 @@ user-guide-description: Adobe Experience Cloud 和 Adobe Experience Platform 的
 source-git-commit: a61b2a003aba811899ff7d28da91f0f955384e30
 workflow-type: tm+mt
 source-wordcount: '34'
-ht-degree: 76%
+ht-degree: 91%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 76%
    + [企業](enterprise.md)
    + [Elite](elite.md)
 + [客戶支援指南](support-guide.md)
-+ [條款與條件](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html){target=&quot;_blank&quot;}
++ [條款與條件](https://helpx.adobe.com/tw/support/programs/support-policies-terms-conditions.html){target=&quot;_blank&quot;}
 
 <!--
 
