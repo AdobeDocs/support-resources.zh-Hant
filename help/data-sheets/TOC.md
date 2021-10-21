@@ -2,9 +2,9 @@
 user-guide-title: 支援資源
 user-guide-description: Adobe Experience Cloud 和 Adobe Experience Platform 的支援資源。
 source-git-commit: a61b2a003aba811899ff7d28da91f0f955384e30
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '34'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
