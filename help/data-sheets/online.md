@@ -3,7 +3,7 @@ title: 線上支援
 description: Adobe Experience Cloud 線上支援服務提供有限的電話支援。
 exl-id: ea7eb128-9d7a-486f-9ce2-7d1330749c9a
 source-git-commit: 2e5fce70cdce85bfa694152919b333b0e60c519b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '757'
 ht-degree: 100%
 
