@@ -2,8 +2,8 @@
 title: 企業支援
 description: Adobe Experience Cloud 企業支援服務提供增強型支援服務層級目標 (SLT)、技術專長的好處以及具有指定支援工程師身分的宣傳者。
 exl-id: f3dfbc40-df11-4ad9-9693-568d9e35ec04
-source-git-commit: 07d858c8d34e3e1cb5fdfd56fb6753b5338c0692
-workflow-type: ht
+source-git-commit: 1fd2098e2065def561147cd99dbed18c3d94cde8
+workflow-type: tm+mt
 source-wordcount: '1192'
 ht-degree: 100%
 
@@ -207,7 +207,7 @@ Adobe Experience Cloud 企業支援服務提供增強型支援服務層級目標
 ## 線上支援特色
 
 <!--
-Adobe Customer Support offers access to online resources for documentation, engagement with other experts and customers for best practices, and webinar series (Office Hours) for troubleshooting tips and tricks. Several channels are also available for questions and case submissions.
+Adobe Customer Support offers access to online resources for documentation, engagement with other experts and customers for best practices, and webinar series (Office Hours) for troubleshooting tips and tricks. Several channels are also available for questions and case submissions. 
 -->
 
 <table style="table-layout:fixed">
