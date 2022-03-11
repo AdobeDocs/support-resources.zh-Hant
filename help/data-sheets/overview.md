@@ -1,64 +1,40 @@
 ---
-title: 支援服務總覽
-description: 本文提供 Adobe Experience Cloud 的客戶支援選項摘要。 這些選項包括線上、業務、企業和 Elite。
-exl-id: ac22d8ac-a214-4ee2-8828-b28a4cccce43
-source-git-commit: d466eedb9289b88b187c0adfee36055d937e7ee7
-workflow-type: ht
-source-wordcount: '196'
-ht-degree: 100%
+title: Adobe支援概述
+description: 本文概述了Adobe Experience Cloud、Adobe Document Cloud和Adobe Creative Cloud的客戶支援選項。
+source-git-commit: 4a523e14aba2af3b697eee7a994b51d7bb9ad9f6
+workflow-type: tm+mt
+source-wordcount: '138'
+ht-degree: 17%
 
 ---
 
-# 支援服務總覽
+# Adobe支援概述
 
-Adobe Experience Cloud 客戶支援組織致力於支援您的成功。 所有訂閱都包含某個支援等級，可讓您輕鬆存取我們的高技能技術資源，以獲得技術方面的協助。
+Adobe支援組織致力於您的成功。 所有訂閱都包含某個支援等級，可讓您輕鬆存取我們的高技能技術資源，以獲得技術方面的協助。
 
-為了滿足更全面的需求，我們提供了 Adobe 支援服務，其中包含聯繫指定的支援專業人員、了解加速的服務層級回應目標，以及主動式指導和服務審查的會議。 無論您的支援需求有多複雜，Adobe 都能提供您所需的技術和營運專業知識，以協助您從 Adobe 解決方案中獲得最佳效能和最大價值。
+為了滿足更全面的需求，我們提供Adobe支援服務，包括接觸指定支援專業人員以及進行前瞻性指導和服務審查的會議。 無論您的支援需求多麼複雜，Adobe都提供了所需的技術和操作專業知識，幫助您從Adobe解決方案中實現最高效能和最佳價值。
 
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <a href="online.md">
-    <img alt="線上" src="assets/OnlineSupportThumbnail.png"/>
+    <a href="dx-overview.md">
+    <img alt="DX支援" src="assets/ECthumbnail.png"/>
     </a>
     <div>
-    <a href="online.md"><strong>線上支援</strong></a> (檢視 <a href="assets/OnlineSupportDatasheet.pdf" target="_blank">PDF</a>)
+    <a href="dx-overview.md"><strong>Experience Cloud 支援</strong></a>
     </div>
-    <p>有限的電話支援</p>
+    <p>Experience Cloud和Experience Platform產品支援選項</p>
     <br>
   </td>
   <td>
-    <a href="business.md">
-      <img alt="業務" src="assets/BusinessSupportThumbnail.png">
+    <a href="dme-overview.md">
+      <img alt="業務" src="assets/CCDCThumbnail.png">
     </a>
     <div>
-    <a href="business.md"><strong>業務支援</strong></a> (檢視 <a href="assets/BusinessSupportDatasheet.pdf" target="_blank">PDF</a>)
+    <a href="dme-overview.md"><strong>Creative Cloud企業和文檔支援</strong></a>
     </div>
-    <p>聯繫 Adobe 技術支援團隊及帳戶支援負責人的完整功能，以進行帳戶管理</p>
-    <br>
-  </td>
-</tr>
-<tr>
-  <td>
-    <a href="enterprise.md">
-    <img alt="企業" src="assets/EnterpriseSupportThumbnail.png"/>
-    </a>
-    <div>
-    <a href="enterprise.md"><strong>企業支援</strong></a> (檢視 <a href="assets/EnterpriseSupportDatasheet.pdf" target="_blank">PDF</a>)
-    </div>
-    <p>增強型支援服務層級目標 (SLT)、技術專長的好處以及具有指定支援工程師身分的宣傳者</p>
-    <br>
-  </td>
-  <td>
-    <a href="elite.md">
-      <img alt="Elite" src="assets/EliteSupportThumbnail.png">
-    </a>
-    <div>
-    <a href="elite.md"><strong>Elite 支援</strong></a> (檢視 <a href="assets/EliteSupportDatasheet.pdf" target="_blank">PDF</a>)
-    </div>
-    <p>同級最佳的服務層級目標 (SLT)、主動式支援，以及與技術客戶經理和指定的支援工程師合作</p>
+    <p>Creative Cloud和Document Cloud產品支援選項</p>
     <br>
   </td>
 </tr>
 </table>
-
