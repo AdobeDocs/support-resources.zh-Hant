@@ -1,25 +1,25 @@
 ---
-title: 線上支援
+title: 標準支援
 description: Adobe Experience Cloud 線上支援服務提供有限的電話支援。
-source-git-commit: 60ccbe6d7fd483eaa640647c43f583c9ac5b6920
+source-git-commit: 98f2b1e3bbfa2ad2f1177f5ddd5131ef907407b2
 workflow-type: tm+mt
-source-wordcount: '757'
-ht-degree: 100%
+source-wordcount: '846'
+ht-degree: 86%
 
 ---
 
-# 線上支援
+# 標準支援
 
 ![圖示](assets/OnlineBanner.png)
 
-Adobe Experience Cloud 線上支援服務提供有限的電話支援。
+Adobe提供了全面的技術資源，幫助支援作為Adobe企業訂購一部分的您的業務。 標準支援包括全天候訪問我們的自助支援資源，包括有關HelpX的文章，以及與Adobe社區其他客戶的接觸。 您可以利用我們詳細而深入的技術產品文檔和http://www.adobe.com上發佈的當前發行說明。 我們的標準支援還包括通過聊天或電話讓授權用戶（管理員）全天候訪問我們的技術支援團隊，以及通過我們的支援門戶網站記錄尋求幫助的請求。
 
 <table>
 <thead>
   <tr>
     <th></th>
     <th></th>
-    <th>線上支援</th>
+    <th>標準支援</th>
     <th>業務支援</th>
     <th>企業支援</th>
     <th>Elite 支援</th>
@@ -30,7 +30,7 @@ Adobe Experience Cloud 線上支援服務提供有限的電話支援。
     <td></td>
     <td></td>
     <td></td>
-    <td colspan="3">付費支援 ($)</td>
+    <td colspan="3">付費支援級別($)</td>
   </tr>
   <tr>
     <td rowspan="3">指派的專家<br></td>
@@ -56,7 +56,7 @@ Adobe Experience Cloud 線上支援服務提供有限的電話支援。
   </tr>
   <tr>
     <td rowspan="12">支援服務</td>
-    <td>線上支援</td>
+    <td>標準支援</td>
     <td>營業時間</td>
     <td>營業時間</td>
     <td>24x5</td>
