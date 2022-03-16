@@ -2,7 +2,7 @@
 title: Elite 支援
 description: Adobe Experience Cloud Elite 支援服務提供同級最佳的服務層級目標 (SLT)、主動式支援，以及與技術客戶經理和指定的支援工程師的合作關係。
 source-git-commit: 60ccbe6d7fd483eaa640647c43f583c9ac5b6920
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1362'
 ht-degree: 100%
 
