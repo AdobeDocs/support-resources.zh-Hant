@@ -1,15 +1,15 @@
 ---
-title: Experience Cloud支援服務概述
-description: 本文提供 Adobe Experience Cloud 的客戶支援選項摘要。 這些選項包括線上、業務、企業和 Elite。
+title: Experience Cloud 支援服務總覽
+description: 本文提供 Adobe Experience Cloud 的客戶支援選項摘要。 這些選項包括線上、商務、企業和菁英。
 exl-id: ac22d8ac-a214-4ee2-8828-b28a4cccce43
 source-git-commit: 98e65227b9a988b32bdfb32a8c371f2474ea4ac5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '200'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
-# Experience Cloud支援服務概述
+# Experience Cloud 支援服務總覽
 
 Adobe Experience Cloud 客戶支援組織致力於支援您的成功。 所有訂閱都包含某個支援等級，可讓您輕鬆存取我們的高技能技術資源，以獲得技術方面的協助。
 
@@ -29,10 +29,10 @@ Adobe Experience Cloud 客戶支援組織致力於支援您的成功。 所有�
   </td>
   <td>
     <a href="business.md">
-      <img alt="業務" src="assets/BusinessSupportThumbnail.png">
+      <img alt="商務" src="assets/BusinessSupportThumbnail.png">
     </a>
     <div>
-    <a href="business.md"><strong>業務支援</strong></a> (檢視 <a href="assets/BusinessSupportDatasheet.pdf" target="_blank">PDF</a>)
+    <a href="business.md"><strong>商務支援</strong></a> (檢視 <a href="assets/BusinessSupportDatasheet.pdf" target="_blank">PDF</a>)
     </div>
     <p>聯繫 Adobe 技術支援團隊及帳戶支援負責人的完整功能，以進行帳戶管理</p>
     <br>
@@ -51,10 +51,10 @@ Adobe Experience Cloud 客戶支援組織致力於支援您的成功。 所有�
   </td>
   <td>
     <a href="elite.md">
-      <img alt="Elite" src="assets/EliteSupportThumbnail.png">
+      <img alt="菁英" src="assets/EliteSupportThumbnail.png">
     </a>
     <div>
-    <a href="elite.md"><strong>Elite 支援</strong></a> (檢視 <a href="assets/EliteSupportDatasheet.pdf" target="_blank">PDF</a>)
+    <a href="elite.md"><strong>菁英支援</strong></a> (檢視 <a href="assets/EliteSupportDatasheet.pdf" target="_blank">PDF</a>)
     </div>
     <p>同級最佳的服務層級目標 (SLT)、主動式支援，以及與技術客戶經理和指定的支援工程師合作</p>
     <br>
