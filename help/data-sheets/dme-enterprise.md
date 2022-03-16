@@ -2,7 +2,7 @@
 title: 企業支援
 description: Adobe Experience Cloud 企業支援服務提供增強型支援服務層級目標 (SLT)、技術專長的好處以及具有指定支援工程師身分的宣傳者。
 source-git-commit: 60ccbe6d7fd483eaa640647c43f583c9ac5b6920
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1192'
 ht-degree: 100%
 
