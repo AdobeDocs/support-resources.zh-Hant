@@ -3,7 +3,7 @@ title: Experience Cloud 支援服務總覽
 description: 本文提供 Adobe Experience Cloud 的客戶支援選項摘要。 這些選項包括線上、商務、企業和菁英。
 exl-id: ac22d8ac-a214-4ee2-8828-b28a4cccce43
 source-git-commit: 98e65227b9a988b32bdfb32a8c371f2474ea4ac5
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 100%
 
