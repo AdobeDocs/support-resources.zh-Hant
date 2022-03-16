@@ -1,19 +1,19 @@
 ---
-title: Creative Enterprise和Document Cloud支援服務概述
-description: 本文概述了Adobe Creative Cloud和Document Cloud的客戶支援選項。 這些選項包括標準、業務、企業和精英。
+title: Creative Enterprise 和 Document Cloud 支援服務總覽
+description: 本文提供 Adobe Creative Cloud 和 Document Cloud 的客戶支援選項摘要。這些選項包括標準、商務、企業和菁英。
 exl-id: e3c762b9-d4b3-4248-b1c1-8212a763b4c5
 source-git-commit: 65405c5f3af97af66e9a5c64f946b031b7ac6e75
 workflow-type: tm+mt
 source-wordcount: '277'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
-# Creative Cloud企業和Document Cloud支援服務概述
+# Creative Cloud Enterprise 和 Document Cloud 支援服務總覽
 
-Adobe Creative Cloud和Document Cloud客戶支援組織致力於您的成功。 所有應用程式都包括一個支援級別，可輕鬆訪問我們高技能的技術資源以提供技術援助。
+Adobe Creative Cloud 和 Document Cloud 客戶支援組織致力於支援您的成功。所有應用程式都包含某個支援等級，可讓您輕鬆存取我們的高技能技術資源，以獲得技術方面的協助。
 
-為了滿足更全面的需求，我們提供Adobe支援計畫，包括接觸指定的支援專業人員以及進行前瞻性指導和服務審查的會議。 無論您的支援需求多麼複雜，Adobe都提供了所需的技術和操作專業知識，幫助您從Adobe應用程式中實現最高效能和最佳價值。
+為了滿足更全面的需求，我們提供了 Adobe 支援計劃，其中包含聯繫指定的支援專業人員，以及主動式指導和服務審查的會議。無論您的支援需求有多複雜，Adobe 都能提供您所需的技術和營運專業知識，以協助您從 Adobe 應用程式中獲得最佳效能和最大價值。
 
 <table style="table-layout:fixed">
 <tr>
@@ -24,17 +24,17 @@ Adobe Creative Cloud和Document Cloud客戶支援組織致力於您的成功。 
     <div>
     <a href="assets/DMeStandardSupportDatasheet_2022.pdf"><strong>標準支援</strong></a> 
     </div>
-    <p>授權用戶（管理員）可通過聊天或電話全天候訪問我們的技術支援團隊，並能夠通過我們的支援門戶網站記錄尋求幫助的請求。 </p>
+    <p>授權的使用者 (管理員) 可透過聊天或電話與我們的技術支援團隊互動 (24x7 全年無休)，也可以透過我們的支援入口網站提出協助請求。 </p>
     <br>
   </td>
   <td>
     <a href="assets/DMeBusinessSupportDatasheet_2022.pdf">
-      <img alt="業務" src="assets/BusinessSupportThumbnailCC.png">
+      <img alt="商務" src="assets/BusinessSupportThumbnailCC.png">
     </a>
     <div>
-    <a href="assets/DMeBusinessSupportDatasheet_2022.pdf"><strong>業務支援</strong></a>
+    <a href="assets/DMeBusinessSupportDatasheet_2022.pdf"><strong>商務支援</strong></a>
     </div>
-    <p>優先選擇支援案例，以確保更快地與更高級的支援建立連接，並能夠利用客戶支援負責人接收針對您最關鍵的支援請求的定期通信和更新。</p>
+    <p>支援案例優先路由以確保更快聯繫到更資深的支援人員，此外還能夠利用帳戶支援負責人，收到您最關鍵支援請求的定期溝通和更新。</p>
     <br>
   </td>
 </tr>
@@ -46,17 +46,17 @@ Adobe Creative Cloud和Document Cloud客戶支援組織致力於您的成功。 
     <div>
     <a href="assets/DMeEnterpriseSupportDatasheet_2022.pdf"><strong>企業支援</strong></a>
     </div>
-    <p>Adobe支援團隊中指定的技術聯繫人在您的解決方案方面具有豐富的經驗，他們將與您和您的技術團隊合作，確保及時解決所有支援請求。</p>
+    <p>Adobe 支援團隊中具有解決方案深厚經驗的指定技術聯絡人將與您和您的技術團隊合作，確保及時解決所有支援請求。</p>
     <br>
   </td>
   <td>
     <a href="assets/DMeEliteSupportDatasheet_2022.pdf">
-      <img alt="Elite" src="assets/EliteSupportThumbnailcc.png">
+      <img alt="菁英" src="assets/EliteSupportThumbnailcc.png">
     </a>
     <div>
-    <a href="assets/DMeEliteSupportDatasheet_2022.pdf"><strong>Elite 支援</strong></a>
+    <a href="assets/DMeEliteSupportDatasheet_2022.pdf"><strong>菁英支援</strong></a>
     </div>
-    <p>Adobe支援團隊中的指定技術聯繫人和與您合作的技術客戶經理，他們提供同類最佳的主動支援，以確保您的投資最大化並幫助您避免問題發生。</p>
+    <p>Adobe 支援團隊的指定技術聯絡人和技術客戶經理將與您合作，提供同級最佳的主動支援，確保您發揮投資最大效益，並協助您在問題發生之前避免問題。</p>
     <br>
   </td>
 </tr>
