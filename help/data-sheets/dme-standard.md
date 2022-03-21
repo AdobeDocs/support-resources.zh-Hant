@@ -2,9 +2,9 @@
 title: 標準支援
 description: Adobe Experience Cloud 線上支援服務提供有限的電話支援。
 source-git-commit: 98f2b1e3bbfa2ad2f1177f5ddd5131ef907407b2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '846'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -12,7 +12,7 @@ ht-degree: 86%
 
 ![圖示](assets/OnlineBanner.png)
 
-Adobe提供了全面的技術資源，幫助支援作為Adobe企業訂購一部分的您的業務。 標準支援包括全天候訪問我們的自助支援資源，包括有關HelpX的文章，以及與Adobe社區其他客戶的接觸。 您可以利用我們詳細而深入的技術產品文檔和http://www.adobe.com上發佈的當前發行說明。 我們的標準支援還包括通過聊天或電話讓授權用戶（管理員）全天候訪問我們的技術支援團隊，以及通過我們的支援門戶網站記錄尋求幫助的請求。
+Adobe 提供全方位的技術資源來支援您的業務，這些資源包含在您的 Adobe 企業訂閱中。標準支援包括全天候存取我們的自助支援資源，包括 HelpX 上的文章以及與 Adobe 社群上的其他客戶互動。您可以利用我們詳細而深入的技術產品文件和目前的版本注意事項，這些內容都發佈在 http://www.adobe.com 上。我們的標準支援還包括授權的使用者 (管理員) 可透過聊天或電話與我們的技術支援團隊互動 (24x7 全年無休)，也可以透過我們的支援入口網站提出協助請求。
 
 <table>
 <thead>
@@ -30,7 +30,7 @@ Adobe提供了全面的技術資源，幫助支援作為Adobe企業訂購一部�
     <td></td>
     <td></td>
     <td></td>
-    <td colspan="3">付費支援級別($)</td>
+    <td colspan="3">支付的支援層級 ($)</td>
   </tr>
   <tr>
     <td rowspan="3">指派的專家<br></td>
