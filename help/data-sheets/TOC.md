@@ -1,9 +1,9 @@
 ---
 user-guide-title: 支援資源
 user-guide-description: Adobe Experience Cloud 和 Adobe Experience Platform 的支援資源。
-source-git-commit: 4a523e14aba2af3b697eee7a994b51d7bb9ad9f6
-workflow-type: ht
-source-wordcount: '45'
+source-git-commit: 3c8e4deceb51829b6224048c7618853c3d2b61fc
+workflow-type: tm+mt
+source-wordcount: '54'
 ht-degree: 100%
 
 ---
@@ -19,7 +19,12 @@ ht-degree: 100%
    + [企業](enterprise.md)
    + [菁英](elite.md)
    + [客戶支援指南](support-guide.md)
-+ [Creative Cloud 與 Document Cloud Services](dme-overview.md)
++ Creative Cloud 與 Document Cloud Services {#dme-data-sheets}
+   + [Creative Cloud 與 Document Cloud Services](dme-overview.md)
+   + [標準](dme-standard.md)
+   + [商務](dme-business.md)
+   + [企業](dme-enterprise.md)
+   + [菁英](dme-elite.md)
 + [條款與條件](https://helpx.adobe.com/tw/support/programs/support-policies-terms-conditions.html){target=&quot;_blank&quot;}
 
 <!--
