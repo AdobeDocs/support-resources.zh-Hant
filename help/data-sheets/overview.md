@@ -1,41 +1,204 @@
 ---
-title: Adobe 支援總覽
+title: Adobe支援計畫概述
 description: 本文提供 Adobe Experience Cloud、Adobe Document Cloud 和 Adobe Creative Cloud 的客戶支援選項摘要。
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: 98e65227b9a988b32bdfb32a8c371f2474ea4ac5
+source-git-commit: 9ca2588c66115a7bfb0a7749dac1782dfc767100
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 100%
+source-wordcount: '1990'
+ht-degree: 3%
 
 ---
 
-# Adobe 支援總覽
+# Adobe支援計畫概述
 
-Adobe 支援組織致力於支援您的成功。所有訂閱都包含某個支援等級，可讓您輕鬆存取我們的高技能技術資源，以獲得技術方面的協助。
-
-為了滿足更全面的需求，我們提供了 Adobe 支援服務，其中包含聯繫指定的支援專業人員，以及主動式指導和服務審查的會議。無論您的支援需求有多複雜，Adobe 都能提供您所需的技術和營運專業知識，以協助您從 Adobe 解決方案中獲得最佳效能和最大價值。
+Adobe支援計畫不僅包括被動式問題解決，還能為您提供新類型的個人化體驗，讓您的業務步驟領先於任何問題。 與我們的深層技術專業知識和創新的支援模式合作，將提高您的技術效能，並幫助您實現Adobe解決方案的潛力。
 
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <a href="dx-overview.md">
-    <img alt="DX 支援" src="assets/ECthumbnail.png"/>
-    </a>
-    <div>
-    <a href="dx-overview.md"><strong>Experience Cloud 支援</strong></a>
-    </div>
-    <p>Experience Cloud 和 Experience Platform 產品支援選項</p>
-    <br>
+    <p><strong>專家支援</strong></p>
   </td>
   <td>
-    <a href="dme-overview.md">
-      <img alt="商務" src="assets/CCDCThumbnail.png">
-    </a>
-    <div>
-    <a href="dme-overview.md"><strong>Creative Cloud Enterprise 和文件支援</strong></a>
-    </div>
-    <p>Document Cloud 和 Creative Cloud 產品支援選項</p>
-    <br>
+    <p><strong>終極支援</strong></p>
+  </td>
+</tr>
+<tr>
+  <td>
+    <p>借助專家支援計畫，您可以全天候訪問專家服務，以了解關鍵業務問題的技術故障排除和指導。 或者，您也可以利用我們的自我引導資源、專屬的最佳實務，以及由Adobe專家和同儕組成的線上社群，快速找到解決方案。</p><br>
+    <p><em>隨附於所有Adobe Experience Cloud授權。</em></p>
+  </td>
+  <td>
+    <p>借助最終支援計畫，您將體驗到個性化、主動的專家服務和指導的高接觸支援。 您的Adobe應用程式將會由熟悉您的環境、專注於您的業務目標和解決方案運行狀況的專家團隊進行安全且一致的監控。</p>
   </td>
 </tr>
 </table>
+
+## 支援的目標初始回應時間
+
+| 優先順序 | 定義 | 目標回應時間 — 專家支援 | 目標回應時間 — 最終支援 | 客戶承諾 |
+|---|---|---|---|---|
+| P1 | **關鍵業務影響：** <br>客戶的生產業務功能已停止運行，或出現嚴重的資料丟失或服務降級，恢復功能和可用性需要立即注意。 | 1小時 | 15 分鐘 | 客戶承諾持續全天候與Adobe客戶支援合作，直到緩解。 如果Adobe客戶支援無法從命名支援聯繫人獲取管理支援響應的關鍵資訊，Adobe可能會將P1服務請求降低到較低的優先順序級別。 |
+| P2 | **主要業務影響：** <br>客戶的業務功能會嚴重降低服務或潛在資料丟失，或者主要功能會受到影響。 | 在Adobe正常工作時間內2小時 | 在Adobe的地區工作時間內30分鐘 | Adobe支援將僅在Adobe的工作時間與指定支援聯繫人聯繫。 如果Adobe客戶支援無法從指定支援聯繫人獲取管理支援響應的關鍵資訊，Adobe可能會將P2服務請求降低到較低的優先順序級別。 |
+| P3 | **業務影響最小：** <br>客戶的業務功能的服務降級很小，但存在一個解決方案/解決方案，允許業務功能正常繼續。 | 在Adobe正常工作時間內4小時 | 在Adobe的地區工作時間內1小時 | Adobe客戶支援將僅在Adobe的工作時間與指定支援聯繫人聯繫。 |
+| P4 | **無業務影響：** <br>關於目前產品功能或增強功能要求的一般問題。 | 1個工作日 | 1個工作日 | Adobe客戶支援將僅在Adobe的工作時間與指定支援聯繫人聯繫。 |
+
+{style=&quot;table-layout:auto&quot;}
+
+## 主要功能
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <p><strong>專家支援</strong></p>
+  </td>
+  <td>
+    <p><strong>終極支援</strong></p>
+  </td>
+</tr>
+<tr>
+  <td>
+    <ul>
+      <li><strong>即時線上支援</strong> -(24x7)，通過聊天或網站門戶 </li>
+      <li><strong>電話支援</strong> 24x7支援P1緊急情況，24x7支援P2/P3/P4 </li>
+      <li><strong>引導式學習資源</strong>  — 透過產品檔案、潛在案例解決方案、疑難排解影片和最佳實務，探索我們的知識中心、Experience League，並擴展您的知識。 </li>
+      <li><strong>集合經驗團隊和群方法</strong>  — 全球團隊採用「Pod」結構，來自不同背景的專家聚集在一起，以便對任何特定問題提供最快的解決方案。 </li>
+      <li><strong>不限數量的支援請求</strong>  — 與專家聯繫，了解無限數量的問題，使用主動警報管理中斷，並通過優先執行的案例升級管理更快地解決問題。</li>
+      <li><strong>事件規劃（可選附加元件）</strong>  — 專家對您的環境進行審核和報告，提供指導和支援，以準備重要的高流量事件</li>
+    </ul>
+  </td>
+  <td>
+    <ul>
+      <li><strong>指定的技術客戶經理和支援服務經理</strong>  — 指派的專家負責協調各種解決方案的全方位個性化支援體驗、支援反饋和問題、協調定期服務審查，以及針對關鍵服務中斷提供個性化的洞察。 </li>
+      <li><strong>主動的技術和運營服務 </strong>  — 獲得主動指導，如服務提供規劃、運行狀況檢查、維護和最佳實踐、升級/遷移規劃以及使用案例建議。 </li>
+      <li><strong>Launch建議</strong>  — 透過針對新實作的最佳實務啟動和啟用顧問服務，協助您採用和推出解決方案設計。 </li>
+      <li><strong>發行準備和審核</strong>  — 檢閱新功能，並決定必要的維護和疑難排解活動，以準備最新版本和平台。 </li>
+      <li><strong>知識轉移 </strong>  — 技術客戶經理在解決方案中就特定功能共用指導和最佳做法 </li>
+      <li><strong>通過優先的技術支援，最大限度地延長正常運行時間</strong>  — 以更積極的回應時間獲得快速支援，可處理不限數量的問題、P1和P2問題的根本原因分析，以及個人化的升級管理 </li>
+      <li><strong>藍圖審查</strong>  — 查看Adobe解決方案的未來路線圖，比較您的路線圖並與我們的路線圖保持一致，以減少風險並規劃重大更改。 </li>
+      <li><strong>事件規劃（附加元件）</strong>  — 專家對您的環境進行審核和報告，提供指導和支援，以準備重要的高流量事件</li>
+    </ul>
+  </td>
+</tr>
+</table>
+
+## 支援附加元件
+
+| 事件管理 | 技術帳戶Director（僅限Ultimate） | 進階雲端支援 |
+|---|---|---|
+| **事件規劃**  — 計畫、準備、指南、溝通 <br>**事件執行**  — 配置、實施、測試、審核、審核 <br>**事件監控**  — 即時監測、系統監測、情況室 | **監督** 參與與執行，以確保最高層級的效能。 <br>**管理執行關係** 通過報告、審查和未來規劃討論。 <br>**領導技術環境** 審核、風險降低和預測性洞察，以提高技術商數。 <br>**協調並支援** 與技術團隊一起加速任務執行和問題解決。 <br>**擁有活動和支援計畫** 確保順暢傳送並發揮最大價值。 <br>**交流和教練** 關於價值驅動因素和參與戰略的內部和外部利益攸關方 | 為Adobe Experience Manager as a Cloud Service客戶提供頂級服務與價值保證。  <br>透過主動最佳化、強制執行的最佳實務，以及確保提供優越的上線體驗，協助導覽複雜的雲端技術案例，加速您的雲端轉換速度 <br> **實作：** 移轉準備、每月和上線前簽入呼叫 <br>**參與：** 啟動、入門、測試最佳實務 <br>**上線：** 事件支援，域監視，生產切換 <br>**運行和操作：** 主動式最佳化外聯和解決方案見解/報告 <br> |
+| **事件管理範例案例：** <ul><li>黑色星期五+網路星期一 </li><li>重大體育活動（即超級碗、奧運會、國際足聯世界杯） </li><li>特別購物活動或主要年度促銷活動 </li></ul> | **如果下列一種或多種情況成立，技術帳戶Director便可帶來巨大價值。** <ul><li>您擁有多個Adobe Experience Cloud應用程式。 </li><li>您需要跨多個地區、品牌或業務單位提供支援。 </li><li>您擁有具有Adobe技術的複雜使用案例，並需要策略性領導。</li></ul> | **何時需要進階雲端支援？** <ul><li>如果你擁有Adobe Experience Manager as a Cloud Service。 </li><li>如果您正在進行移轉至Experience Manageras a Cloud Service。 </li><li>如果您面臨嚴格的期限或複雜的使用案例，且Experience Manageras a Cloud Service。 </li></ul> |
+
+## Adobe 數位學習服務
+
+***通過學習訂閱增強最終支援***
+
+**建立Adobe熟練的勞動力** 為個人和團隊提供個人化的學習歷程
+
+**實現最大的效能和投資** 通過快速的技能開發和持續的產品和解決方案知識
+
+**通過端到端學習策略實現業務目標** 使您能夠推動從採用到優化的數字成熟度
+
+## 支援服務 — 地區、小時和語言
+
+<table style="table-layout:auto">
+<tr>
+  <td>
+    <p><strong>即時電話和線上技術支援</strong></p>
+  </td>
+  <td>
+    <ul><li>優先事件1:全天候電話或線上支援案例</li><li>優先事件2-4:通過聊天或線上支援案例，在地區工作時間內提供支援。</li></ul>
+  </td>
+</tr>
+<tr>
+  <td>
+    <p><strong>地區營業時間</strong></p>
+  </td>
+  <td>
+    <ul><li>適用的地區工作時間取決於銷售訂單或採購單據中的計費地址。</li><li>如果指定的指定支援聯繫人以外的人聯繫了Adobe以尋求支援，則Adobe可請求指定的支援聯繫人重新提交支援案例。</li></ul>
+  </td>
+</tr>
+<tr>
+  <td>
+    <p><strong>語言</strong></p>
+  </td>
+  <td>
+    <ul><li>日語支援在日語地區工作時間提供，不包括節假日或Adobe假日。 日文不支援Adobe Commerce。</li><li>除了上述例外，所有支援將僅提供英文版。</li></ul>
+  </td>
+</tr>
+<tr>
+  <td>
+    <p><strong>支援存取</strong></p>
+  </td>
+  <td>
+    <ul><li>客戶將通過由Adobe控制的遠程支援工具授予Adobe支援對適用的客戶系統的訪問權，以便進行故障排除和支援服務。</li></ul>
+  </td>
+</tr>
+</table>
+
+## 支援的地區營業時間
+
+| 美洲 | 歐洲、中東與非洲 | 亞太地區 | 日本 |
+|---|---|---|---|
+| 上午 6 點 – 下午 5:30 | 上午 9 點 – 下午 5 點 | 上午 9 點 – 下午 5 點 | 上午 9 點 – 下午 5 點 |
+
+## 適用於Managed Services上的Adobe Commerce的其他條款(原稱Magento CommercePro:Managed Services
+
+Adobe Commerce標準支援：2021年9月20日或之後，客戶授權或續約的Managed Services產品將受下表中指定的目標回應時間所限制，其將取代上表所示的目標支援回應時間。 除下表中所指定外，Adobe Commerce的所有其他支援條款：Managed Services保持不變。 為求清晰，以下的目標回應時間僅適用於與Adobe Commerce相關的服務要求：Managed Services，而不是任何其他AEC產品。
+
+| 優先順序 | 定義 | 目標初始回應時間 | 客戶承諾 |
+|---|---|---|---|
+| P1 | **關鍵業務影響：** <br>客戶的生產業務功能已停止運行，或出現嚴重的資料丟失或服務降級，恢復功能和可用性需要立即注意。 | 30 分鐘 | 客戶承諾持續全天候與Adobe客戶支援合作，直到緩解。 如果Adobe客戶支援無法從命名支援聯繫人獲取管理支援響應的關鍵資訊，Adobe可能會將P1服務請求降低到較低的優先順序級別。 |
+| P2 | **主要業務影響：** <br>客戶的業務功能會嚴重降低服務或潛在資料丟失，或者主要功能會受到影響。 | 在Adobe正常工作時間內1小時 | Adobe支援將僅在Adobe的工作時間與指定支援聯繫人聯繫。 如果Adobe客戶支援無法從指定支援聯繫人獲取管理支援響應的關鍵資訊，Adobe可能會將P2服務請求降低到較低的優先順序級別。 |
+| P3 | **業務影響最小：** <br>客戶的業務功能的服務降級很小，但存在一個解決方案/解決方案，允許業務功能正常繼續。 | 在Adobe正常工作時間內2小時 | Adobe客戶支援將僅在Adobe的工作時間與指定支援聯繫人聯繫。 |
+| P4 | **無業務影響：** <br>關於目前產品功能或增強功能要求的一般問題。 | 1個工作日 | Adobe客戶支援將僅在Adobe的工作時間與指定支援聯繫人聯繫。 |
+
+{style=&quot;table-layout:auto&quot;}
+
+## 啟動咨詢服務 — 分階段主動活動
+
+<table>
+<tbody>
+  <tr>
+    <td>啟動 </td>
+    <td>項目啟動、按目標和時間表協調、項目協作計畫、確定資源、利益相關方和建立項目順序 </td>
+    <td>包括項目協作計畫的啟動組合 </td>
+  </tr>
+  <tr>
+    <td>定義 </td>
+    <td>業務需求、KPI、使用案例 — 特定解決方案或多解決方案（如果適用）、客戶整備策略、評估和建議。 為新實施的成功奠定堅實的基礎  </td>
+    <td>評估與Recommendations檔案 </td>
+  </tr>
+  <tr>
+    <td>設計 </td>
+    <td>最佳做法咨詢、解決方案設計的技術規範和體系結構審核，以及多解決方案審核（如果需要）。 驗證實作會以最佳方式運作 </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>入門 </td>
+    <td>最佳實務建議、驗證解決方案實作、功能及整合以「適合使用」，以及啟動整備狀態的準確性。 視解決方案而定，可能包括效能/負載測試 </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>發佈後 </td>
+    <td>培訓、成熟度使用案例的建議、參與摘要和向支援和/或外地服務移交 </td>
+    <td>參與摘要 </td>
+  </tr>
+</tbody>
+</table>
+
+## 外勤事務活動：功能表
+
+| 活動類型 | 解決方案 | 說明 |
+|---|---|---|
+| 健康評估 | Analytics,Audience Manager，目標，促銷活動，Experience Manager，商務，Marketo Engage | 對特定應用程式的實施健康狀況的重點評估 |
+| 功能實作與整合支援 | Analytics,Audience Manager，目標，促銷活動，Experience Manager | 對單一簡單解決方案實施或整合的設定和設定提供基線支援 |
+| 解決方案疑難排解（自訂） | Analytics,Audience Manager，目標，促銷活動，Experience Manager，商務 | 針對自訂程式碼或非標準設定進行技術疑難排解和問題解決，其中確認問題不是核心產品錯誤或設定問題 |
+| AEMas a Cloud Service採用建議 | Experience Manager | 與升級/遷移可行性、體系結構和現代化相關的指導和建議 |
+| 基本使用案例開發與支援 | Analytics,Audience Manager，目標，促銷活動，Experience Manager，商務，Marketo Engage | 針對特定小型/基本促銷活動、測試、個人化或其他解決方案活動，開發單一使用案例並提供有限的執行支援 |
+| 解決方案報告與分析 | Analytics,Audience Manager, Target | 評估新的報告和分析機會，並提供一個或多個報告和/或儀表板的基本設定或配置 |
+| 成熟度藍圖 | Analytics,Audience Manager，目標，促銷活動，Experience Manager，商務，Marketo Engage | 為持續成熟和增長開發使用案例路線圖 |
+| 案頭輔導 | Analytics,Audience Manager，目標，促銷活動，Experience Manager，商務 | 啟用一或多個解決方案的特定功能或最佳實務 |
+
+>[!NOTE]
+>
+>「現場服務」不是要取代「Adobe咨詢」參與。 現場服務支援客戶LAS後實施，並補充任何更大的咨詢項目。
