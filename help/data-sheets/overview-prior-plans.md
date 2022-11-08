@@ -1,18 +1,18 @@
 ---
-title: 先前Adobe支援計畫概覽
+title: 先前 Adobe 支援計劃總覽
 description: 本文提供 Adobe Experience Cloud、Adobe Document Cloud 和 Adobe Creative Cloud 的客戶支援選項摘要。
 source-git-commit: fb54ebe58a8311686378b1c0be7ab717d8f5db64
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '163'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
-# 先前Adobe支援計畫概覽
+# 先前 Adobe 支援計劃總覽
 
 >[!NOTE]
 >
->此計畫指的是2022年6月16日之前的Adobe支援計畫。 如需目前的支援計畫，請參閱 [Adobe支援服務概述](overview.md).
+>此計劃是指 2022 年 6 月 16 日之前的 Adobe 支援計劃。如需目前支援計劃，請參閱 [Adobe 支援產品概述](overview.md)。
 
 Adobe 支援組織致力於支援您的成功。所有訂閱都包含某個支援等級，可讓您輕鬆存取我們的高技能技術資源，以獲得技術方面的協助。
 
