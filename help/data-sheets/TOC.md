@@ -2,18 +2,18 @@
 user-guide-title: 支援資源
 user-guide-description: Adobe Experience Cloud 和 Adobe Experience Platform 的支援資源。
 source-git-commit: fb54ebe58a8311686378b1c0be7ab717d8f5db64
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '67'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
 
 # 支援資源 {#data-sheets}
 
-+ [Adobe支援計畫概述](overview.md)
-+ 2022年6月16日之前的Adobe支援計畫{#prior-plans}
-   + [先前Adobe支援計畫概覽](overview-prior-plans.md)
++ [Adobe 支援計劃總覽](overview.md)
++ 2022 年 6 月 16 日之前的 Adobe 支援計劃{#prior-plans}
+   + [先前 Adobe 支援計劃總覽](overview-prior-plans.md)
    + Experience Cloud Services {#data-sheets}
       + [Adobe 支援總覽](dx-overview.md)
       + [線上](online.md)
