@@ -1,7 +1,7 @@
 ---
-source-git-commit: 23611374158ef3785d6040ead2e42f36131fd8c0
+source-git-commit: 13e17b77946de3270c46bd7c40160c8400c330d2
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '294'
 ht-degree: 100%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 ## 貢獻者指南文件
 
-請參閱 [貢獻者指南](https://docs.adobe.com/content/help/zh-Hant/contributor/contributor-guide/introduction.html)。
+請參閱 [貢獻者指南](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=zh-Hant)。
 
 ## 有任何疑問嗎?
 
@@ -46,7 +46,8 @@ submitting a pull request!
 更進一步，以提交者身分在專案中擁有完整撰寫權限和發言權，您必須
 受邀加入專案。 現有的提交者會採取內部提名
 程序，在內部取得簡單共識 (沒人反對即為贊同) 後，
-才發出邀請。 若您自認符合資格且希望能進一步參與，請隨時與現有的提交者聯絡洽談。
+才發出邀請。 若您自認符合資格且希望能進一步參與，
+請隨時與現有的提交者聯絡洽談。
 
 ## 安全性問題
 
