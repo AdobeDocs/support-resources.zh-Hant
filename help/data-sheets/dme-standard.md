@@ -1,9 +1,10 @@
 ---
 title: Adobe Creative Cloud 和 Adobe Document Cloud 的標準支援
 description: Adobe 提供全方位的技術資源來支援您的業務，這些資源包含在您的 Adobe 企業訂閱中。標準支援包括全天候存取我們的自助支援資源，包括 HelpX 上的文章以及與 Adobe 社群上的其他客戶互動。
-source-git-commit: 39439be547c3359739857f540e38203d938d72cb
-workflow-type: ht
-source-wordcount: '732'
+exl-id: 2ce6a990-1dbc-4f08-a29b-357e3e03a6d6
+source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
+workflow-type: tm+mt
+source-wordcount: '729'
 ht-degree: 100%
 
 ---
@@ -270,7 +271,7 @@ Adobe 客戶支援提供對文件資源的存取權，以及與其他專家和�
 | [生產問題與系統中斷](https://status.adobe.com/) | Status.adobe.com 會傳達所有在多租用戶環境中部署的 Adobe 產品與服務的健康資訊。 客戶可以選擇其訂閱偏好設定，以便在 Adobe 建立、更新或解決產品事件時收到電子郵件通知。 這可以包括預定的維護或是不同嚴重性等級的服務問題。 |
 | [條款與條件](https://helpx.adobe.com/tw/support/programs/support-policies-terms-conditions.html) | 詳述支援服務方案的條款與條件。 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## 地區營業時間和語言支援
 

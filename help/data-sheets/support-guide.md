@@ -1,8 +1,9 @@
 ---
 title: Experience Cloud 客戶支援指南
 description: 本客戶支援指南將幫助您熟悉我們的 Experience Cloud 支援產品、計劃、服務和流程，並告訴您如何從全球各地與我們聯絡。
-source-git-commit: 13eb1e7c2025ed83cde17c3d02a80cd50b824118
-workflow-type: ht
+exl-id: 8128a504-708f-44d8-94be-a63fb6bb473f
+source-git-commit: c0836675d4f8f16a26740c41d266320fa44c2393
+workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 100%
 

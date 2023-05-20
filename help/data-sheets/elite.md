@@ -3,8 +3,8 @@ title: Elite 支援
 description: Adobe Experience Cloud Elite 支援服務提供同級最佳的服務層級目標 (SLT)、主動式支援，以及與技術客戶經理和指定的支援工程師的合作關係。
 exl-id: 46a0f6bb-dccb-4554-a811-de1384db2747
 source-git-commit: eab88ea8d66a5ae104369655137c389822671e0f
-workflow-type: ht
-source-wordcount: '1362'
+workflow-type: tm+mt
+source-wordcount: '1359'
 ht-degree: 100%
 
 ---
@@ -33,7 +33,7 @@ Adobe Experience Cloud Elite 支援服務提供同級最佳的服務層級目標
   </tr>
   <tr>
     <td rowspan="3">指派的專家<br></td>
-    <td>帳戶支援負責人</td>
+    <td>帳戶支援專員</td>
     <td></td>
     <td></td>
   </tr>
@@ -131,7 +131,7 @@ Adobe Experience Cloud Elite 支援服務提供同級最佳的服務層級目標
 | <b>優先順序 3</b><br>客戶的業務功能發生了輕微服務降級狀況 (或沒有降級)，但有解決/變通方法讓業務功能得以繼續正常運作。 | 營業時間/<br>6 小時 | 24x5/<br>1 小時 |
 | <b>優先順序 4</b><br>有關目前產品功能或增強要求的一般性問題。 | 工作日/<br>3 天 | 工作日/<br>1 天 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Elite 支援特色
 

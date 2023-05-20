@@ -3,8 +3,8 @@ title: 線上支援
 description: Adobe Experience Cloud 線上支援服務提供有限的電話支援。
 exl-id: ea7eb128-9d7a-486f-9ce2-7d1330749c9a
 source-git-commit: 2e5fce70cdce85bfa694152919b333b0e60c519b
-workflow-type: ht
-source-wordcount: '757'
+workflow-type: tm+mt
+source-wordcount: '754'
 ht-degree: 100%
 
 ---
@@ -35,7 +35,7 @@ Adobe Experience Cloud 線上支援服務提供有限的電話支援。
   </tr>
   <tr>
     <td rowspan="3">指派的專家<br></td>
-    <td>帳戶支援負責人</td>
+    <td>帳戶支援專員</td>
     <td></td>
     <td>✔</td>
     <td></td>
@@ -167,7 +167,7 @@ Adobe Experience Cloud 線上支援服務提供有限的電話支援。
 | <b>優先順序 3</b><br>客戶的業務功能發生了輕微服務降級狀況，但有解決/變通方法讓業務功能得以繼續正常運作。 | 營業時間/<br>6 小時 | 營業時間/<br>4 小時 | 營業時間/<br>2 小時 | 24x5/<br>1 小時 |
 | <b>優先順序 4</b><br>有關目前產品功能或增強要求的一般性問題。 | 工作日/<br>3 天 | 工作日/<br>1 天 | 工作日/<br>1 天 | 工作日/<br>1 天 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## 線上支援 {#online-support-1}
 

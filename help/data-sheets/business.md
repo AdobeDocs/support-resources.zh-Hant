@@ -3,8 +3,8 @@ title: 業務支援
 description: Adobe Experience Cloud 業務支援服務提供聯繫 Adobe 技術支援團隊及帳戶支援負責人的完整功能，以進行帳戶管理。
 exl-id: 2f31e22f-8523-4322-875b-69f0f44a513a
 source-git-commit: 2e5fce70cdce85bfa694152919b333b0e60c519b
-workflow-type: ht
-source-wordcount: '872'
+workflow-type: tm+mt
+source-wordcount: '869'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,7 @@ Adobe Experience Cloud 業務支援服務提供聯繫 Adobe 技術支援團隊�
     <th></th>
     <th></th>
     <th>線上支援</th>
-    <th>業務支援</th>
+    <th>商務支援</th>
   </tr>
 </thead>
 <tbody>
@@ -33,7 +33,7 @@ Adobe Experience Cloud 業務支援服務提供聯繫 Adobe 技術支援團隊�
   </tr>
   <tr>
     <td rowspan="3">指派的專家<br></td>
-    <td>帳戶支援負責人</td>
+    <td>帳戶支援專員</td>
     <td></td>
     <td>✔</td>
   </tr>
@@ -131,14 +131,14 @@ Adobe Experience Cloud 業務支援服務提供聯繫 Adobe 技術支援團隊�
 | <b>優先順序 3</b><br>客戶的業務功能發生了輕微服務降級狀況，但有解決/變通方法讓業務功能得以繼續運作。 | 營業時間/<br>6 小時 | 營業時間/<br>4 小時 |
 | <b>優先順序 4</b><br>有關目前產品功能或增強要求的一般性問題。 | 工作日/<br>3 天 | 工作日/<br>1 天 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
-## 業務支援特色
+## 商業支援特色
 
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <img alt="帳戶支援負責人" src="assets/Accountsupportlead.png"/>
+    <img alt="帳戶支援專員" src="assets/Accountsupportlead.png"/>
     <div>
     <p><b>帳戶支援負責人</b></p>
     <p>指定的帳戶支援負責人，負責主動監控案件、推動跨團隊的共同作業、提供上線網路研討會、執行服務報告、提供非技術性支援協助，並充當 Adobe 支援團隊內的向上呈報點與內部宣傳者。</p>

@@ -3,8 +3,8 @@ title: 企業支援
 description: Adobe Experience Cloud 企業支援服務提供增強型支援服務層級目標 (SLT)、技術專長的好處以及具有指定支援工程師身分的宣傳者。
 exl-id: f3dfbc40-df11-4ad9-9693-568d9e35ec04
 source-git-commit: 1fd2098e2065def561147cd99dbed18c3d94cde8
-workflow-type: ht
-source-wordcount: '1192'
+workflow-type: tm+mt
+source-wordcount: '1189'
 ht-degree: 100%
 
 ---
@@ -33,7 +33,7 @@ Adobe Experience Cloud 企業支援服務提供增強型支援服務層級目標
   </tr>
   <tr>
     <td rowspan="3">指派的專家<br></td>
-    <td>帳戶支援負責人</td>
+    <td>帳戶支援專員</td>
     <td></td>
     <td></td>
   </tr>
@@ -131,7 +131,7 @@ Adobe Experience Cloud 企業支援服務提供增強型支援服務層級目標
 | <b>優先順序 3</b><br>客戶的業務功能發生了輕微服務降級狀況，但有解決/變通方法讓業務功能得以繼續正常運作。 | 營業時間/<br>6 小時 | 營業時間/<br>2 小時 |
 | <b>優先順序 4</b><br>有關目前產品功能或增強要求的一般性問題。 | 工作日/<br>3 天 | 工作日/<br>1 天 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## 企業支援特色
 

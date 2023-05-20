@@ -3,8 +3,8 @@ title: Adobe 支援計劃總覽
 description: 本文提供 Adobe Experience Cloud、Adobe Document Cloud 和 Adobe Creative Cloud 的客戶支援選項摘要。
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
 source-git-commit: 9ca2588c66115a7bfb0a7749dac1782dfc767100
-workflow-type: ht
-source-wordcount: '1990'
+workflow-type: tm+mt
+source-wordcount: '1984'
 ht-degree: 100%
 
 ---
@@ -42,7 +42,7 @@ Adobe 支援計劃超越了被動式問題解決方案，為您帶來全新的�
 | P3 | **最低業務影響：**<br>客戶的業務功能發生了輕微服務降級狀況，但有解決/變通方法讓業務功能得以繼續正常運作。 | Adobe 正常營業時間內的 4 小時 | Adobe 地區營業時間內的 1 小時 | Adobe 客戶支援將僅在 Adobe 營業時間內聯絡指定的支援聯絡人。 |
 | P4 | **無業務影響：**<br>有關目前產品功能或增強要求的一般性問題。 | 1 個營業日 | 1 個營業日 | Adobe 客戶支援將僅在 Adobe 營業時間內聯絡指定的支援聯絡人。 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## 主要功能
 
@@ -152,7 +152,7 @@ Adobe Commerce 的標準支援：授權期限的開始日期在 2021 年 9 月 2
 | P3 | **最低業務影響：**<br>客戶的業務功能發生了輕微服務降級狀況，但有解決/變通方法讓業務功能得以繼續正常運作。 | Adobe 正常營業時間內的 2 小時 | Adobe 客戶支援將僅在 Adobe 營業時間內聯絡指定的支援聯絡人。 |
 | P4 | **無業務影響：**<br>有關目前產品功能或增強要求的一般性問題。 | 1 個營業日 | Adobe 客戶支援將僅在 Adobe 營業時間內聯絡指定的支援聯絡人。 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## 啟動諮詢服務 – 分階段主動活動
 
