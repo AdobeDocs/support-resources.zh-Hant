@@ -3,9 +3,9 @@ title: Adobe 支援計劃總覽
 description: 本文提供 Adobe Experience Cloud、Adobe Document Cloud 和 Adobe Creative Cloud 的客戶支援選項摘要。
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
 source-git-commit: bf812bac574f3ffef78ec87724b510d495d8d34b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1729'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
@@ -13,27 +13,27 @@ ht-degree: 75%
 
 Adobe 支援計劃超越了被動式問題解決方案，為您帶來全新的個人化體驗，讓您的業務步驟領先於任何問題。使用我們深厚的技術專業和創新的支援模式將提高您的技術性能並幫助您實現 Adobe 解決方案的潛力。
 
-## Expert與Ultimate支援計畫的比較
+## Expert 和 Ultimate 支援計劃的比較
 
-|  | 專家支援計畫 | Ultimate Support計畫 |
+|  | Expert 支援計劃 | Ultimate 支援計劃 |
 |--- |--- |--- |
-| 兩種參與層級 — **Expert與Ultimate** — 確保每位客戶都能獲得所需等級的支援、專業知識和指引。 | 有了專家支援計畫，您可以存取 **全年無休的專家服務** 以取得關鍵業務問題的技術疑難排解和指引。 或者，您可以利用我們的自助資源、獨家最佳作法以及 Adobe 專家和同行的線上社群，找到快速解決方案。*包含在所有 Adobe Experience Cloud 授權中。* | 透過Ultimate Support計畫，您將體驗 **高接觸支援，提供個人化、主動的專家服務和指導**. 您的Adobe應用程式將由專家團隊進行安全一致的監控，這些專家熟悉您的環境，並專注於您的業務目標和解決方案健康狀況。 |
-| **支援管道** | 線上、聊天、電話、Experience League、論壇、自助影片 | 個人化的線上/聊天、優先處理的電話、Experience League、個人化的Ultimate論壇 |
-| **支援團隊** | 彙集專家團隊 | 指定的技術客戶經理、支援服務經理和彙集的技術專家團隊 |
-| **技術支援** | <ul><li>標準中斷管理 </li><li>P1 24x7問題支援</li><li>P2/P3/P4營業時間支援</li><li>集區升級管理</li></ul> | <ul><li>優先處理中斷管理</li><li>P1 24x7問題支援</li><li>P2/P3 24x5問題支援</li><li>P4營業時間支援</li><li>指定的專家向上呈報管理</li></ul> |
-| **主動的技術與營運支援** | ![未包含圖示](assets/Cross_red_circle.svg){width="20"} 未包含 | <ul><li>藍圖審查、服務交付計畫 </li><li>維護與監控</li><li> 升級和移轉評論</li><li>發行準備與審查 </li><li>知識轉移、解決方案疑難排解 </li><li> 活動策劃（有限，請參閱活動管理附加元件）</li><li> 上市諮詢</li></ul> |
+| 兩種互動層級—**Expert 和 Ultimate**—確保每位客戶都能獲得所需的適當層級的支援、專業知識和指引。 | 有了 Expert 支援計劃，您就可以獲得&#x200B;**全年無休的專家服務**，在發生重要業務問題時獲得技術疑難排解和指引。或者，您可以利用我們的自助資源、獨家最佳做法以及 Adobe 專家和同行的線上社群，找到快速解決方案。*隨附在所有 Adobe Experience Cloud 授權中。* | 透過 Ultimate 支援計劃，您會體驗到&#x200B;**高接觸支援，獲得個人化、主動的專家服務和指引**。您的 Adobe 應用程式將由專家團隊進行安全且持續的監控，這些專家非常熟悉您的環境，並聚焦於您的業務目標和解決方案執行狀況。 |
+| **支援管道** | 線上、聊天、電話、Experience League、論壇和自助影片 | 個人化線上/聊天、有優先權的電話、Experience League、個人化 Ultimate 論壇 |
+| **支援團隊** | 匯集的專家團隊 | 指定的技術客戶經理、支援服務經理和匯集的技術專家團隊 |
+| **技術支援** | <ul><li>標準中斷管理 </li><li>P1 全年無休的問題支援</li><li>P2/P3/P4 營業時間支援</li><li>匯集的向上呈報管理</li></ul> | <ul><li>有優先權的中斷管理</li><li>P1 全年無休的問題支援</li><li>P2/P3 24x5 問題支援</li><li>P4 營業時間支援</li><li>指定專家向上呈報管理</li></ul> |
+| **主動式技術 + 營運支援** | ![不包含圖示](assets/Cross_red_circle.svg){width="20"} 不包含 | <ul><li>藍圖審查、服務交付規劃 </li><li>維護和監控</li><li> 升級和移轉審查</li><li>發行準備與審查 </li><li>知識轉移、解決方案疑難排解 </li><li> 事件規劃 (有限制，請參閱事件管理附加元件)</li><li> 上市諮詢服務</li></ul> |
 
 {style="table-layout:fixed"}
 
 ## 支援附加元件
 
-| 附加元件 | 專家支援計畫 | Ultimate Support計畫 |
+| 附加元件 | Expert 支援計劃 | Ultimate 支援計劃 |
 |--- |--- |--- |
-| **事件管理附加元件**<br>&#x200B;提供管理關鍵事件整個生命週期所需的端對端領導和支援 | ![可用圖示](assets/Plus_blue.svg){width="20"} 可用 | ![可用圖示](assets/Plus_blue.svg){width="20"} 可用 |
-| **技術帳戶Director附加元件**<br>&#x200B;您領導的技術資源，負責領導力監督、擁有執行參與並確保治理，以實現業務成果的最大化 | ![未包含圖示](assets/Cross_red_circle.svg){width="20"} 未包含 | ![可用圖示](assets/Plus_blue.svg){width="20"} 可用 |
-| **進階雲端支援附加元件**<br>&#x200B;為Adobe Experience Manager as a Cloud Service客戶提供頂級服務和價值保證 | ![可用圖示](assets/Plus_blue.svg){width="20"} 可用 | ![可用圖示](assets/Plus_blue.svg){width="20"} 可用 |
-| **Mentor Sessions附加元件**<br>&#x200B;以即時訓練方法提供技能型學習 | ![可用圖示](assets/Plus_blue.svg){width="20"} 可用 | ![可用圖示](assets/green_checkmark.svg){width="20"} 已包含 |
-| **Developer Boost附加元件**<br>&#x200B;提供現場工程專家的存取權，以協助進行中斷修復工作 | ![可用圖示](assets/Plus_blue.svg){width="20"} 可用 | ![包含圖示](assets/green_checkmark.svg){width="20"} 已包含 |
+| **事件管理附加元件**<br>&#x200B;提供管理關鍵事件的整個生命週期所需的端對端領導力和支援 | ![可用圖示](assets/Plus_blue.svg){width="20"} 可用 | ![可用圖示](assets/Plus_blue.svg){width="20"} 可用 |
+| **技術客戶總監附加元件**<br>&#x200B;您的首席技術資源，負責提供領導階層監督、擁有高階主管參與能力，並確保治理，讓您獲取最大的業務成果 | ![不包含圖示](assets/Cross_red_circle.svg){width="20"} 不包含 | ![可用圖示](assets/Plus_blue.svg){width="20"} 可用 |
+| **進階雲端支援附加元件**<br>&#x200B;對 Adobe Experience Manager as a Cloud Service 客戶的頂級服務和價值保證 | ![可用圖示](assets/Plus_blue.svg){width="20"} 可用 | ![可用圖示](assets/Plus_blue.svg){width="20"} 可用 |
+| **導師輔導附加元件**<br>&#x200B;以即時訓練方法提供基於技能的學習 | ![可用圖示](assets/Plus_blue.svg){width="20"} 可用 | ![可用圖示](assets/green_checkmark.svg){width="20"} 已包含 |
+| **開發人員強化附加元件**<br>&#x200B;可聯絡現場工程專家來協助進行故障修復工作 | ![可用圖示](assets/Plus_blue.svg){width="20"} 可用 | ![已包含圖示](assets/green_checkmark.svg){width="20"} 已包含 |
 
 {style="table-layout:fixed"}
 
@@ -46,11 +46,11 @@ Adobe 支援計劃超越了被動式問題解決方案，為您帶來全新的�
 | P3 | **最低業務影響：**<br>客戶的業務功能發生了輕微服務降級狀況，但有解決/變通方法讓業務功能得以繼續正常運作。 | Adobe 正常營業時間內的 4 小時 | Adobe 地區營業時間內的 1 小時 | Adobe 客戶支援將僅在 Adobe 營業時間內聯絡指定的支援聯絡人。 |
 | P4 | **無業務影響：**<br>有關目前產品功能或增強要求的一般性問題。 | 1 個營業日 | 1 個營業日 | Adobe 客戶支援將僅在 Adobe 營業時間內聯絡指定的支援聯絡人。 |
 
-## Ultimate Support：指定的支援聯絡人
+## Ultimate 支援：指定的支援聯絡人
 
-在Ultimate Support下，客戶有權獲得擴充容量，每個AEC產品最多可有15個指定的支援聯絡人(從所有AEC產品的四(4)個增加到專家支援)。
+在 Ultimate 支援之下，客戶有權獲得每個 AEC 產品最多十五 (15) 個指定支援聯絡人的擴充能力 (所有 AEC 產品的 Expert 支援總數從四 (4) 開始增加)。
 
-指定的支援聯絡人可以透過所有可用管道提交問題，並視需要代表客戶與Adobe的技術支援團隊互動。 一(1)位指定的支援聯絡人也可以指定為客戶的帳戶管理員，允許透過Adobe提供的支援入口網站對指定的支援聯絡人清單進行自助更新，以及進行有限的許可權設定。
+指定支援聯絡人可透過所有可用管道來提交問題，並視需要代表客戶與 Adobe 技術支援團隊互動。也可以將一 (1) 個此類指定支援聯絡人指定為客戶的帳戶管理員，允許透過 Adobe 提供的支援入口網站以自助方式更新指定支援聯絡人清單及有限的權限設定。
 
 ## Adobe 數位學習服務
 
@@ -105,7 +105,7 @@ Adobe 支援計劃超越了被動式問題解決方案，為您帶來全新的�
 |---|---|---|---|
 | 上午 6 點 – 下午 5:30 | 上午 9 點 – 下午 5 點 | 上午 9 點 – 下午 5 點 | 上午 9 點 – 下午 5 點 |
 
-## 適用於 Adobe Commerce：Managed Services (先前稱為 Magento Commerce Pro：Managed Services) 的附加條款)
+## 適用於 Adobe Commerce：Managed Services (先前稱為 Magento Commerce Pro：Managed Services) 的附加條款
 
 Adobe Commerce 的標準支援：授權期限的開始日期在 2021 年 9 月 20 日當天或之後的客戶，其授權或續約的 Managed Services 產品，必須遵守下表規定的目標回應時間，此將取代上表中的支援服務目標回應時間。除下表中指定的情況外，Adobe Commerce：Managed Services 的所有其他剩餘支援條款維持不變。為清楚起見，以下目標回應時間僅適用於與 Adobe Commerce：Managed Services 相關的服務請求，不適用於任何其他 AEC 產品。
 
