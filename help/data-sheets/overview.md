@@ -2,10 +2,10 @@
 title: Adobe 支援計劃總覽
 description: 本文提供 Adobe Experience Cloud、Adobe Document Cloud 和 Adobe Creative Cloud 的客戶支援選項摘要。
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: bf812bac574f3ffef78ec87724b510d495d8d34b
-workflow-type: ht
-source-wordcount: '1729'
-ht-degree: 100%
+source-git-commit: fa2fa132b7285eff3368b173897a2dee02133d42
+workflow-type: tm+mt
+source-wordcount: '1748'
+ht-degree: 97%
 
 ---
 
@@ -48,7 +48,9 @@ Adobe 支援計劃超越了被動式問題解決方案，為您帶來全新的�
 
 ## Ultimate 支援：指定的支援聯絡人
 
-在 Ultimate 支援之下，客戶有權獲得每個 AEC 產品最多十五 (15) 個指定支援聯絡人的擴充能力 (所有 AEC 產品的 Expert 支援總數從四 (4) 開始增加)。
+再次抱歉。 現在，我認為我們需要在https://experienceleague.adobe.com/docs/support-resources/data-sheets/overview.html?lang=en中更正以下說明：
+
+在Ultimate Support下，客戶有權獲得擴充容量，每個AEC產品最多可有15個指定的支援聯絡人(從每個AEC產品四(4)個專家支援增加)。
 
 指定支援聯絡人可透過所有可用管道來提交問題，並視需要代表客戶與 Adobe 技術支援團隊互動。也可以將一 (1) 個此類指定支援聯絡人指定為客戶的帳戶管理員，允許透過 Adobe 提供的支援入口網站以自助方式更新指定支援聯絡人清單及有限的權限設定。
 
