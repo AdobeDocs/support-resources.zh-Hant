@@ -4,7 +4,7 @@ user-guide-description: Adobe Experience Cloud 和 Adobe Experience Platform 的
 feature-set: Experience Cloud
 feature: Support
 source-git-commit: 78e678f996135c5e7567f006883b559f586c01e1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '65'
 ht-degree: 100%
 
