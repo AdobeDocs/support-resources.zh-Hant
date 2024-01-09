@@ -1,19 +1,19 @@
 ---
-user-guide-title: 成功計畫資源
-user-guide-description: Adobe Experience Cloud和Adobe Experience Platform的成功計畫和支援資源。
+user-guide-title: 成功計劃資源
+user-guide-description: Adobe Experience Cloud 和 Adobe Experience Platform 的成功計劃和支援資源。
 feature-set: Experience Cloud
 feature: Success Plans
 source-git-commit: 2fb925f91f8de98444cb1f3e7301e31a970721bf
 workflow-type: tm+mt
 source-wordcount: '69'
-ht-degree: 55%
+ht-degree: 95%
 
 ---
 
 
-# 成功計畫資源 {#data-sheets}
+# 成功計劃資源 {#data-sheets}
 
-+ [Adobe成功計畫總覽](overview.md)
++ [Adobe 成功計劃總覽](overview.md)
 + 2022 年 6 月 16 日之前的 Adobe 支援計劃{#prior-plans}
    + [先前 Adobe 支援計劃總覽](overview-prior-plans.md)
    + Experience Cloud Services {#data-sheets}
@@ -23,7 +23,7 @@ ht-degree: 55%
       + [企業](enterprise.md)
       + [菁英](elite.md)
       + [客戶支援指南](support-guide.md)
-   + Creative Cloud與Document Cloud服務 {#dme-data-sheets}
+   + Creative Cloud 與 Document Cloud Services {#dme-data-sheets}
       + [Creative Cloud 與 Document Cloud Services](dme-overview.md)
       + [標準](dme-standard.md)
       + [商務](dme-business.md)
