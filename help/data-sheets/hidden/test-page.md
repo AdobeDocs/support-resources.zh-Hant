@@ -3,7 +3,7 @@ title: 測試頁面（隱藏）
 description: 用於內部測試的測試頁面
 hide: true
 hidefromtoc: true
-source-git-commit: 83eb9c3b531134e221b183ef20837ee82276b9b5
+source-git-commit: 26b2032221c1e17ed0a71e556d6acc3f8914dd22
 workflow-type: tm+mt
 source-wordcount: '1015'
 ht-degree: 11%
@@ -254,6 +254,7 @@ ht-degree: 11%
     <a href="/help/data-sheets/business.md">
       <img alt="發行資訊" src="assets/package.png" width="40" height="40"/>
     </a>
+    <p></p>
     <a href="/help/data-sheets/business.md"><strong>發行資訊</strong></a>
     <p>檢閱Adobe Commerce修補程式和服務的所有發行資訊。</p>
   </td>
@@ -261,6 +262,7 @@ ht-degree: 11%
     <a href="/help/data-sheets/business.md">
       <img alt="安裝" src="assets/package.png" width="40" height="40"/>
     </a>
+    <p></p>
     <a href="/help/data-sheets/business.md"><strong>安裝</strong></a>
     <p>瞭解如何安裝Adobe Commerce以進行內部部署。</p>
   </td>
@@ -268,6 +270,7 @@ ht-degree: 11%
     <a href="/help/data-sheets/business.md">
       <img alt="設定" src="assets/package.png" width="40" height="40"/>
     </a>
+    <p></p>
     <a href="/help/data-sheets/business.md"><strong>設定</strong></a>
     <p>為您的Adobe Commerce應用程式設定功能與服務。</p>
   </td>
@@ -275,6 +278,7 @@ ht-degree: 11%
     <a href="/help/data-sheets/business.md">
       <img alt="資料移轉" src="assets/package.png" width="40" height="40"/>
     </a>
+    <p></p>
     <a href="/help/data-sheets/business.md"><strong>資料移轉</strong></a>
     <p>瞭解Magento1和Magento2之間的資料移轉程式。</p>
   </td>
@@ -284,6 +288,7 @@ ht-degree: 11%
     <a href="/help/data-sheets/business.md">
       <img alt="Upgrade" src="assets/package.png" width="40" height="40"/>
     </a>
+    <p></p>
     <a href="/help/data-sheets/business.md"><strong>升級</strong></a>
     <p>瞭解如何升級您的Adobe Commerce專案，讓您的店面安全有效地運作。</p>
   </td>
@@ -291,6 +296,7 @@ ht-degree: 11%
     <a href="/help/data-sheets/business.md">
        <img alt="命令列工具參考" src="assets/package.png" width="40" height="40"/>
     </a>
+    <p></p>
     <a href="/help/data-sheets/business.md"><strong>命令列工具參考</strong></a>
     <p>瞭解Adobe Commerce命令列工具的命令、引數和選項。</p>
   </td>
@@ -298,6 +304,7 @@ ht-degree: 11%
     <a href="/help/data-sheets/business.md">
        <img alt="效能" src="assets/package.png" width="40" height="40"/>
     </a>
+    <p></p>
     <a href="/help/data-sheets/business.md"><strong>效能最佳實務</strong></a>
     <p>使用這些建議來最佳化Adobe Commerce部署的效能。</p>
   </td>
@@ -305,6 +312,7 @@ ht-degree: 11%
     <a href="/help/data-sheets/business.md">
        <img alt="工具" src="assets/package.png" width="40" height="40"/>
     </a>
+    <p></p>
     <a href="/help/data-sheets/business.md"><strong>工具</strong></a>
     <p>瞭解您可以搭配Adobe Commerce使用的工具。</p>
   </td>
@@ -314,6 +322,7 @@ ht-degree: 11%
     <a href="/help/data-sheets/business.md">
       <img alt="實作" src="assets/package.png" width="40" height="40"/>
     </a>
+    <p></p>
     <a href="/help/data-sheets/business.md"><strong>實施行動手冊</strong></a>
     <p>了解規劃及實施成功 Adobe Commerce 網站的策略。</p>
   </td>
@@ -321,6 +330,7 @@ ht-degree: 11%
     <a href="/help/data-sheets/business.md">
        <img alt="運作" src="assets/package.png" width="40" height="40"/>
     </a>
+    <p></p>
     <a href="/help/data-sheets/business.md"><strong>營運行動手冊</strong></a>
     <p>了解如何讓企業在營運上做好準備，以便經營成功的電子商務網站。</p>
   </td>
@@ -328,6 +338,7 @@ ht-degree: 11%
     <a href="/help/data-sheets/business.md">
        <img alt="企業" src="assets/package.png" width="40" height="40"/>
     </a>
+    <p></p>
     <a href="/help/data-sheets/business.md"><strong>大規模商務</strong></a>
     <p>了解如何透過 Adobe Experience Manager 使用 Adobe Commerce 大規模提供體驗。</p>
   </td>
@@ -335,6 +346,7 @@ ht-degree: 11%
     <a href="/help/data-sheets/business.md">
        <img alt="企業" src="assets/package.png" width="40" height="40"/>
     </a>
+    <p></p>
     <a href="/help/data-sheets/business.md"><strong>安全性與合規性</strong></a>
     <p>瞭解Adobe Commerce商家如何負責維護安全的環境。</p>
   </td>
