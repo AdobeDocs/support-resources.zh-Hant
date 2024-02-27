@@ -3,10 +3,10 @@ user-guide-title: 成功計劃資源
 user-guide-description: Adobe Experience Cloud 和 Adobe Experience Platform 的成功計劃和支援資源。
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: 708c3e3db885e2dce7d1d258189eb50a9ec4293c
+source-git-commit: 0612850ae6eba4e72f23840f60a8868b5cdb1558
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 88%
+source-wordcount: '85'
+ht-degree: 84%
 
 ---
 
@@ -31,6 +31,7 @@ ht-degree: 88%
       + [菁英](dme-elite.md)
 + [條款與條件](https://helpx.adobe.com/tw/support/programs/support-policies-terms-conditions.html){target="_blank"}
 + [隱藏測試檔案](hidden-test.md)
++ [隱藏EDS測試圖磚](hidden/test-page.md)
 + [隱藏語法指南](hidden/syntax-style-guide.md)
 + [隱藏的表格分隔符號](hidden/table-breaks.md)
 + [隱藏影像測試](hidden/tables.md)
