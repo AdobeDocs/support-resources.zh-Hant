@@ -6,9 +6,9 @@ hidefromtoc: true
 badgePremium: label="Premium" type="Positive" url="https://www.premium-product.com" tooltip="下載 Premium"
 badgeExam: label="測驗 ADO-E903" type="neutral"
 source-git-commit: 0e4881c62b518866bd39d5c3f8eef0dc6063441b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '830'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -128,10 +128,10 @@ badgeExam: label="Exam ADO-E903" type="neutral"
 | 類型 | 徽章 |
 |---|---|
 | 資訊性 (預設) | [!BADGE Beta]{type=Informative url="https://www.example.com"} |
-| 正面 | [!BADGE 新功能]{type=Positive url="https://www.example.com" tooltip="前往example.com"} |
-| 負面 | [!BADGE 已終止]{type=negative tooltip="此功能現已終止"} |
-| 中立 | [!BADGE 可能]{type=Neutral tooltip="騎手從馬背上掉了下來……"} |
-| 警告 | [!BADGE 注意]{type=Caution tooltip="Yellow status"} |
+| 正面 | [!BADGE 新功能]{type=Positive url=&quot;https://www.example.com&quot; tooltip=&quot;前往 example.com&quot;} |
+| 負面 | [!BADGE 已終止]{type=negative tooltip=&quot;This feature is now end of life&quot;} |
+| 中立 | [!BADGE 也許]{type=Neutral tooltip=&quot;A rider fell off the horse...&quot;} |
+| 警告 | [!BADGE 注意]{type=Caution tooltip=&quot;Yellow status&quot;} |
 
 語法範例
 
