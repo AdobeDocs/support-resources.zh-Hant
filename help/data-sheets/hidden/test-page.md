@@ -3,9 +3,9 @@ title: 測試頁面 (隱藏)
 description: 目的在進行內部測試的測試頁面
 hide: true
 hidefromtoc: true
-source-git-commit: 60c81e7956a92e9a9c8e651c2c3c48a5baf0e4f3
+source-git-commit: 1441a6586f61917b286e74ac76427084859c418b
 workflow-type: tm+mt
-source-wordcount: '1044'
+source-wordcount: '1026'
 ht-degree: 73%
 
 ---
@@ -17,14 +17,6 @@ ht-degree: 73%
 ## 歡迎使用AEM EDS！
 
 發佈測試
-
-**表情符號**
-
-這看起來像是已被忽略。
-
-太搞笑了！ :joy:
-
-:smiley:
 
 ## 按鈕
 
@@ -41,12 +33,6 @@ _[次要按鈕](https://www.adobe.com/)_
 ### 附暫留文字的影像
 
 ![替代文字 - package.png](assets/package.png "暫留文字 - 這是 package.png")
-
-### 文字置中
-
-<p align="center">以我為中心</p>
-
-<center>以我為中心</center>
 
 ### 可縮放影像
 
@@ -131,7 +117,7 @@ _[次要按鈕](https://www.adobe.com/)_
 
 圖示為靠右對齊，潛水影像為置中 200 像素，翻轉影像為靠右 50%。
 
-| <center>靠左 | 靠中間 | 靠右</center> |
+| 靠左 | 靠中間 | 靠右 |
 |---|---|---|
 | ![替代文本](assets/package.png "對齊=靠右"){align=right} | ![替代文本](assets/maui-dive.jpg "對齊=置中寬度=200"){align="center" width="200"} | ![替代文字](assets/maui-flip.jpg "對齊=靠右寬度=50%"){align="right" width="50%"} |
 
