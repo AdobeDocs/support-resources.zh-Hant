@@ -3,9 +3,9 @@ title: 錯誤修正（隱藏）
 description: 目的在進行內部測試的測試頁面
 hide: true
 hidefromtoc: true
-source-git-commit: cf5843a15cc036e6d87f969830b81118258da090
+source-git-commit: 3c5839d71d68232c631fb9ff5bebfa5ea864d250
 workflow-type: tm+mt
-source-wordcount: '1346'
+source-wordcount: '1358'
 ht-degree: 4%
 
 ---
@@ -13,6 +13,8 @@ ht-degree: 4%
 # 錯誤修正
 
 ## 內嵌徽章無法運作
+
+這些徽章應與專案符號專案位於同一行。
 
 * [[!DNL Mixpanel]](note-test.md) [!BADGE 附註]{type=Informative}
 * [[!DNL Pendo]](tables.md) [!BADGE 表格]{type=Positive}
@@ -24,7 +26,7 @@ ht-degree: 4%
 
 ### V1.16版本
 
-_2023年2月13日_
+_2023 年 2 月 13 日_
 
 [!BADGE 支援]{type=Informative tooltip="支援"}
 
