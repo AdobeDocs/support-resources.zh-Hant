@@ -5,16 +5,46 @@ hide: true
 hidefromtoc: true
 badgePremium: label="Premium" type="Positive" url="https://www.premium-product.com" tooltip="下載 Premium"
 badgeExam: label="測驗 ADO-E903" type="neutral"
-source-git-commit: 0e4881c62b518866bd39d5c3f8eef0dc6063441b
-workflow-type: ht
-source-wordcount: '830'
-ht-degree: 100%
+source-git-commit: e2ff0701c82f3e34f81b0653af2ce564c5c62f3a
+workflow-type: tm+mt
+source-wordcount: '1276'
+ht-degree: 99%
 
 ---
 
 # 隱藏測試頁面
 
 啟用?下午 3:10 左右重新檢查提交。 下午 3:30 會上線嗎?
+
+## 有影像的問題表格
+
+
+## Expert 和 Ultimate 成功計劃的比較
+
+|  | Expert 成功計劃 | Ultimate 成功計劃 |
+|--- |--- |--- |
+|  | 借助 Expert 成功計劃，您可以獲得&#x200B;**24X7 全年無休的專家服務**，在發生重要業務問題時進行技術疑難排解和指導。或者，您可以利用我們的自助資源、獨家最佳作法以及 Adobe 專家和同行的線上社群，找到快速解決方案。 <p> *隨附在所有 Adobe Experience Cloud 授權中。* | 藉助 Ultimate 成功計劃，您將體驗到&#x200B;**策略指導和主動的技術健康狀況，以提供高效能的數位體驗**。您的 Adobe 環境將由一組專家團隊提供支援，這些專家熟悉您的業務並專注於執行符合您業務影響目標和優先順序的藍圖。 |
+| **成功團隊** | 匯集的支援工程師團隊 | 包括： <ul><li> 指定的技術客戶經理 </li><li> 指定的客戶成功經理 </li><li> 指定的支援服務經理</li><li> 匯集的技術工程師和策略專家團隊提供成功加速器 </li><li> 匯集的支援工程師團隊 </li></ul> |
+| **主動式技術 + 營運支援** | ![不包含圖示](assets/Cross_red_circle.svg){width="20"} 不包含 | 包括： <ul><li>升級和移轉審查、發行準備 </li><li>產品藍圖審查</li><li> 一致的技術和策略藍圖</li><li>重要事件準備與規劃</li><li>規劃相關且及時的啟用</li><li>技術最佳實務和產業指南</li><li>支持/與產品團隊保持一致</li><li>實現重要業務目標的統一計劃 - 共同行動計劃 (MAP)</li></ul> |
+| **技術支援** | 包括： <ul><li>**P1**：24x7 問題支援</li><li>**P2、P3、P4**：營業時間支援</li><li>標準中斷管理</li><li>匯集的向上呈報管理</li></ul> | 包括： <ul><li>**P1**：24x7 問題支援</li><li>**P2/P3**：24x5 問題支援</li><li>**P4**：營業時間支援</li><li>有優先權的中斷管理</li><li>指定專家向上呈報管理</li></ul> |
+| **成功加速器** | ![不包含圖示](assets/Cross_red_circle.svg){width="20"} 不包含 | TAM 和 CSM 定期排程的成功加速器<p>*(有關更多資訊，請參閱成功加速器目錄)* |
+| **支援管道** | 線上、電話、Experience League、論壇 | 個人化線上入口網站、有優先權的電話、Experience League、論壇 |
+
+{style="table-layout:fixed"}
+
+## 支援附加元件
+
+| 附加元件 | Expert 成功計劃 | Ultimate 成功計劃 |
+|--- |--- |--- |
+| **事件管理附加元件**<br>&#x200B;提供管理關鍵事件的整個生命週期所需的端對端領導力和支援 | ![可用圖示](assets/Plus_blue.svg){width="20"} 可用 | ![可用圖示](assets/Plus_blue.svg){width="20"} 可用 |
+| **技術客戶總監附加元件**<br>&#x200B;您的首席技術資源，負責提供領導階層監督、擁有高階主管參與能力，並確保治理，讓您獲取最大的業務成果 | ![不適用圖示](assets/Cross_red_circle.svg){width="20"} 不適用 | ![可用圖示](assets/Plus_blue.svg){width="20"} 可用 |
+| **進階雲端支援附加元件**<br>&#x200B;對 Adobe Experience Manager as a Cloud Service 客戶的頂級服務和價值保證 | ![可用圖示](assets/Plus_blue.svg){width="20"} 可用 | ![可用圖示](assets/Plus_blue.svg){width="20"} 可用 |
+| **導師輔導附加元件**<br>&#x200B;以即時訓練方法提供基於技能的學習 | ![可用圖示](assets/Plus_blue.svg){width="20"} 可用 | ![可用圖示](assets/green_checkmark.svg){width="20"} 已包含 |
+| **開發人員強化附加元件**<br>&#x200B;可聯絡現場工程專家來協助進行故障修復工作 | ![可用圖示](assets/Plus_blue.svg){width="20"} 可用 | ![已包含圖示](assets/green_checkmark.svg){width="20"} 已包含 |
+| **優先級佇列套件組合附加元件**<br>&#x200B;免排隊優先處理您的票證，並獲得導師輔導和開發人員強化的額外存取權限 | ![可用圖示](assets/Plus_blue.svg){width="20"} 可用 | ![已包含圖示](assets/green_checkmark.svg){width="20"} 已包含 |
+
+{style="table-layout:fixed"}
+
 
 ## 按鈕
 
@@ -128,10 +158,10 @@ badgeExam: label="Exam ADO-E903" type="neutral"
 | 類型 | 徽章 |
 |---|---|
 | 資訊性 (預設) | [!BADGE Beta]{type=Informative url="https://www.example.com"} |
-| 正面 | [!BADGE 新功能]{type=Positive url="https://www.example.com" tooltip="前往 example.com"} |
-| 負面 | [!BADGE 已終止]{type=negative tooltip="This feature is now end of life"} |
-| 中立 | [!BADGE 也許]{type=Neutral tooltip="A rider fell off the horse..."} |
-| 警告 | [!BADGE 注意]{type=Caution tooltip="Yellow status"} |
+| 正面 | [!BADGE 新功能]{type=Positive url=&quot;https://www.example.com&quot; tooltip=&quot;前往 example.com&quot;} |
+| 負面 | [!BADGE 已終止]{type=negative tooltip=&quot;This feature is now end of life&quot;} |
+| 中立 | [!BADGE 也許]{type=Neutral tooltip=&quot;A rider fell off the horse...&quot;} |
+| 警告 | [!BADGE 注意]{type=Caution tooltip=&quot;Yellow status&quot;} |
 
 語法範例
 

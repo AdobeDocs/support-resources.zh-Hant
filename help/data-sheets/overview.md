@@ -2,10 +2,10 @@
 title: Adobe 成功計劃總覽
 description: 本文提供 Adobe Experience Cloud、Adobe Document Cloud 和 Adobe Creative Cloud 的客戶支援選項摘要。
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: b7e3a7fc0ead1ad40d72c1d5d8e9d7851384b2e0
-workflow-type: ht
-source-wordcount: '1830'
-ht-degree: 100%
+source-git-commit: 68f0ede27cb2c3b8ce45fdc524101f59b68d01fc
+workflow-type: tm+mt
+source-wordcount: '1801'
+ht-degree: 99%
 
 ---
 
@@ -19,23 +19,39 @@ Adobe 成功計劃超越了被動式問題解決方案，為您帶來全新的�
 |--- |--- |--- |
 |  | 借助 Expert 成功計劃，您可以獲得&#x200B;**24X7 全年無休的專家服務**，在發生重要業務問題時進行技術疑難排解和指導。或者，您可以利用我們的自助資源、獨家最佳作法以及 Adobe 專家和同行的線上社群，找到快速解決方案。 <p> *隨附在所有 Adobe Experience Cloud 授權中。* | 藉助 Ultimate 成功計劃，您將體驗到&#x200B;**策略指導和主動的技術健康狀況，以提供高效能的數位體驗**。您的 Adobe 環境將由一組專家團隊提供支援，這些專家熟悉您的業務並專注於執行符合您業務影響目標和優先順序的藍圖。 |
 | **成功團隊** | 匯集的支援工程師團隊 | 包括： <ul><li> 指定的技術客戶經理 </li><li> 指定的客戶成功經理 </li><li> 指定的支援服務經理</li><li> 匯集的技術工程師和策略專家團隊提供成功加速器 </li><li> 匯集的支援工程師團隊 </li></ul> |
-| **主動式技術 + 營運支援** | ![不包含圖示](assets/Cross_red_circle.svg){width="20"} 不包含 | 包括： <ul><li>升級和移轉審查、發行準備 </li><li>產品藍圖審查</li><li> 一致的技術和策略藍圖</li><li>重要事件準備與規劃</li><li>規劃相關且及時的啟用</li><li>技術最佳實務和產業指南</li><li>支持/與產品團隊保持一致</li><li>實現重要業務目標的統一計劃 - 共同行動計劃 (MAP)</li></ul> |
+| **主動式技術 + 營運支援** | 未包含 | 包括： <ul><li>升級和移轉審查、發行準備 </li><li>產品藍圖審查</li><li> 一致的技術和策略藍圖</li><li>重要事件準備與規劃</li><li>規劃相關且及時的啟用</li><li>技術最佳實務和產業指南</li><li>支持/與產品團隊保持一致</li><li>實現重要業務目標的統一計劃 - 共同行動計劃 (MAP)</li></ul> |
 | **技術支援** | 包括： <ul><li>**P1**：24x7 問題支援</li><li>**P2、P3、P4**：營業時間支援</li><li>標準中斷管理</li><li>匯集的向上呈報管理</li></ul> | 包括： <ul><li>**P1**：24x7 問題支援</li><li>**P2/P3**：24x5 問題支援</li><li>**P4**：營業時間支援</li><li>有優先權的中斷管理</li><li>指定專家向上呈報管理</li></ul> |
-| **成功加速器** | ![不包含圖示](assets/Cross_red_circle.svg){width="20"} 不包含 | TAM 和 CSM 定期排程的成功加速器<p>*(有關更多資訊，請參閱成功加速器目錄)* |
+| **成功加速器** | 未包含 | TAM 和 CSM 定期排程的成功加速器<p>*(有關更多資訊，請參閱成功加速器目錄)* |
 | **支援管道** | 線上、電話、Experience League、論壇 | 個人化線上入口網站、有優先權的電話、Experience League、論壇 |
 
 {style="table-layout:fixed"}
+
+<!--
+![not included icon](assets/Cross_red_circle.svg){width="20"}
+![not included icon](assets/Cross_red_circle.svg){width="20"}
+![available icon](assets/Plus_blue.svg){width="20"}
+![available icon](assets/Plus_blue.svg){width="20"} 
+![available icon](assets/Plus_blue.svg){width="20"}
+![included icon](assets/green_checkmark.svg){width="20"}
+![available icon](assets/Plus_blue.svg){width="20"}
+![available icon](assets/green_checkmark.svg){width="20"} 
+![available icon](assets/Plus_blue.svg){width="20"}
+![included icon](assets/green_checkmark.svg){width="20"}
+![not available icon](assets/Cross_red_circle.svg){width="20"}
+![available icon](assets/Plus_blue.svg){width="20"}
+![available icon](assets/Plus_blue.svg){width="20"}
+-->
 
 ## 支援附加元件
 
 | 附加元件 | Expert 成功計劃 | Ultimate 成功計劃 |
 |--- |--- |--- |
-| **事件管理附加元件**<br>&#x200B;提供管理關鍵事件的整個生命週期所需的端對端領導力和支援 | ![可用圖示](assets/Plus_blue.svg){width="20"} 可用 | ![可用圖示](assets/Plus_blue.svg){width="20"} 可用 |
-| **技術客戶總監附加元件**<br>&#x200B;您的首席技術資源，負責提供領導階層監督、擁有高階主管參與能力，並確保治理，讓您獲取最大的業務成果 | ![不適用圖示](assets/Cross_red_circle.svg){width="20"} 不適用 | ![可用圖示](assets/Plus_blue.svg){width="20"} 可用 |
-| **進階雲端支援附加元件**<br>&#x200B;對 Adobe Experience Manager as a Cloud Service 客戶的頂級服務和價值保證 | ![可用圖示](assets/Plus_blue.svg){width="20"} 可用 | ![可用圖示](assets/Plus_blue.svg){width="20"} 可用 |
-| **導師輔導附加元件**<br>&#x200B;以即時訓練方法提供基於技能的學習 | ![可用圖示](assets/Plus_blue.svg){width="20"} 可用 | ![可用圖示](assets/green_checkmark.svg){width="20"} 已包含 |
-| **開發人員強化附加元件**<br>&#x200B;可聯絡現場工程專家來協助進行故障修復工作 | ![可用圖示](assets/Plus_blue.svg){width="20"} 可用 | ![已包含圖示](assets/green_checkmark.svg){width="20"} 已包含 |
-| **優先級佇列套件組合附加元件**<br>&#x200B;免排隊優先處理您的票證，並獲得導師輔導和開發人員強化的額外存取權限 | ![可用圖示](assets/Plus_blue.svg){width="20"} 可用 | ![已包含圖示](assets/green_checkmark.svg){width="20"} 已包含 |
+| **事件管理附加元件**<br>&#x200B;提供管理關鍵事件的整個生命週期所需的端對端領導力和支援 | ![可用圖示](assets/Plus_blue.svg){width="20"} 可用 | 可用 |
+| **技術客戶總監附加元件**<br>&#x200B;您的首席技術資源，負責提供領導階層監督、擁有高階主管參與能力，並確保治理，讓您獲取最大的業務成果 | 未提供 | 可用 |
+| **進階雲端支援附加元件**<br>&#x200B;對 Adobe Experience Manager as a Cloud Service 客戶的頂級服務和價值保證 | 可用 | 可用 |
+| **導師輔導附加元件**<br>&#x200B;以即時訓練方法提供基於技能的學習 | 可用 | 已包含 |
+| **開發人員強化附加元件**<br>&#x200B;可聯絡現場工程專家來協助進行故障修復工作 | 可用 | 已包含 |
+| **優先級佇列套件組合附加元件**<br>&#x200B;免排隊優先處理您的票證，並獲得導師輔導和開發人員強化的額外存取權限 | 可用 | 已包含 |
 
 {style="table-layout:fixed"}
 
