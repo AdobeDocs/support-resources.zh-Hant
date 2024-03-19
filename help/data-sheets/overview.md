@@ -2,9 +2,9 @@
 title: Adobe 成功計劃總覽
 description: 本文提供 Adobe Experience Cloud、Adobe Document Cloud 和 Adobe Creative Cloud 的客戶支援選項摘要。
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: 68f0ede27cb2c3b8ce45fdc524101f59b68d01fc
+source-git-commit: b99d72ff9fc1628021c3b7ada056136000326f4d
 workflow-type: tm+mt
-source-wordcount: '1801'
+source-wordcount: '1799'
 ht-degree: 99%
 
 ---
@@ -33,6 +33,7 @@ Adobe 成功計劃超越了被動式問題解決方案，為您帶來全新的�
 ![available icon](assets/Plus_blue.svg){width="20"} 
 ![available icon](assets/Plus_blue.svg){width="20"}
 ![included icon](assets/green_checkmark.svg){width="20"}
+![available icon](assets/Plus_blue.svg){width="20"} 
 ![available icon](assets/Plus_blue.svg){width="20"}
 ![available icon](assets/green_checkmark.svg){width="20"} 
 ![available icon](assets/Plus_blue.svg){width="20"}
@@ -46,7 +47,7 @@ Adobe 成功計劃超越了被動式問題解決方案，為您帶來全新的�
 
 | 附加元件 | Expert 成功計劃 | Ultimate 成功計劃 |
 |--- |--- |--- |
-| **事件管理附加元件**<br>&#x200B;提供管理關鍵事件的整個生命週期所需的端對端領導力和支援 | ![可用圖示](assets/Plus_blue.svg){width="20"} 可用 | 可用 |
+| **事件管理附加元件**<br>&#x200B;提供管理關鍵事件的整個生命週期所需的端對端領導力和支援 | 可用 | 可用 |
 | **技術客戶總監附加元件**<br>&#x200B;您的首席技術資源，負責提供領導階層監督、擁有高階主管參與能力，並確保治理，讓您獲取最大的業務成果 | 未提供 | 可用 |
 | **進階雲端支援附加元件**<br>&#x200B;對 Adobe Experience Manager as a Cloud Service 客戶的頂級服務和價值保證 | 可用 | 可用 |
 | **導師輔導附加元件**<br>&#x200B;以即時訓練方法提供基於技能的學習 | 可用 | 已包含 |
