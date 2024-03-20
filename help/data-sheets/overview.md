@@ -2,9 +2,9 @@
 title: Adobe 成功計劃總覽
 description: 本文提供 Adobe Experience Cloud、Adobe Document Cloud 和 Adobe Creative Cloud 的客戶支援選項摘要。
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: e1290f63ff691ff2c5bce15df442a225e9554b74
+source-git-commit: bebe3f87895e30910279dd8a55e300d4d7ce4fd0
 workflow-type: tm+mt
-source-wordcount: '1799'
+source-wordcount: '1801'
 ht-degree: 99%
 
 ---
@@ -13,8 +13,7 @@ ht-degree: 99%
 
 Adobe 成功計劃超越了被動式問題解決方案，為您帶來全新的個人化體驗，讓您的業務步驟領先於任何問題。您的 Adobe 團隊採用深厚的技術專業知識、多樣化的能力和先進的方法，為您提供所需的適當水準的支援、專業知識以及技術和策略指導。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427500/?learn=on)
-
+>[!VIDEO](https://video.tv.adobe.com/v/3427500/?learn=on){transcript=true}
 
 ## Expert 和 Ultimate 成功計劃的比較
 
