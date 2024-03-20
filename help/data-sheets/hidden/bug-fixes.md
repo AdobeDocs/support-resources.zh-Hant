@@ -3,9 +3,9 @@ title: 錯誤修正（隱藏）
 description: 目的在進行內部測試的測試頁面
 hide: true
 hidefromtoc: true
-source-git-commit: 57c0a39d3b2dcb50259ee285b1a61f8ad4db12ea
+source-git-commit: c31246781e212041bf0555cd2db71c4d0c555410
 workflow-type: tm+mt
-source-wordcount: '1817'
+source-wordcount: '1827'
 ht-degree: 27%
 
 ---
@@ -176,6 +176,14 @@ _2022 年 8 月 9 日_
 * 使用B2B客戶特定定價的產品型別。
 
 +++
+
+## [!BADGE 已棄用]{type=negative}
+
+請參閱上方的標題。 還有下一個。
+
+### [!BADGE Beta]{type=Informative}
+
+鮑伯
 
 ## UGP-10565 — 文字醒目提示
 
