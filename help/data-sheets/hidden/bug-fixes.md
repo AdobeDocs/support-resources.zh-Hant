@@ -3,9 +3,9 @@ title: 錯誤修正（隱藏）
 description: 目的在進行內部測試的測試頁面
 hide: true
 hidefromtoc: true
-source-git-commit: c31246781e212041bf0555cd2db71c4d0c555410
+source-git-commit: d6b478e07ca1c0525cda103f3b65bec459911508
 workflow-type: tm+mt
-source-wordcount: '1827'
+source-wordcount: '1841'
 ht-degree: 27%
 
 ---
@@ -180,6 +180,10 @@ _2022 年 8 月 9 日_
 ## [!BADGE 已棄用]{type=negative}
 
 請參閱上方的標題。 還有下一個。
+
+## 測試以自動啟用
+
+我已在星期五下午新增此專案，但未按一下「立即發佈」。
 
 ### [!BADGE Beta]{type=Informative}
 
