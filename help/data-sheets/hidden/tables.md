@@ -3,7 +3,8 @@ title: 表格
 description: 使用Markdown表格和HTML表格。
 hide: true
 hidefromtoc: true
-source-git-commit: 3779d588f21da83928bf0c71357afa90fd5f7179
+exl-id: 5ce746fc-6835-4bee-85c5-5ad5176baca0
+source-git-commit: 6893d1e41c3899c3ab6a9b02b305161eb3f7e049
 workflow-type: tm+mt
 source-wordcount: '1421'
 ht-degree: 3%
@@ -239,11 +240,11 @@ EDS
 <table style="table-layout:auto">
 <tr>
   <td>
-    <a href="table-breaks.md">
+    <a href="note-test.md">
     <img alt="銷售機會" src="assets/leads-home.png"/>
     </a>
     <div>
-    <a href="table-breaks.md"><strong>Adobe潛在客戶的工作流程</strong></a>
+    <a href="note-test.md"><strong>Adobe潛在客戶的工作流程</strong></a>
     </div>
     <em>主承銷商的主要編輯工作流程。</em>
     <br>
@@ -276,11 +277,11 @@ EDS
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <a href="table-breaks.md">
+    <a href="note-test.md">
     <img alt="銷售機會" src="assets/leads-home.png"/>
     </a>
     <div>
-    <a href="table-breaks.md"><strong>Adobe潛在客戶的工作流程</strong></a>
+    <a href="note-test.md"><strong>Adobe潛在客戶的工作流程</strong></a>
     </div>
     <em>主承銷商的主要編輯工作流程。</em>
     <br>
