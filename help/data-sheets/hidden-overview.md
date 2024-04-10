@@ -4,10 +4,10 @@ description: 此頁面已從搜尋和目錄中隱藏
 hide: true
 hidefromtoc: true
 exl-id: 822b2044-195c-4721-9b81-345d88f8aa2d
-source-git-commit: 3f608c18ab513a6b149a49b59de3c827dce0587f
+source-git-commit: 73c5614e3eea119358550892a3d6cc9a9c2f9b02
 workflow-type: tm+mt
-source-wordcount: '36'
-ht-degree: 50%
+source-wordcount: '53'
+ht-degree: 33%
 
 ---
 
@@ -21,3 +21,8 @@ ht-degree: 50%
 + [測試檔案1](hidden/note-test.md)
 + [測試檔案2](hidden-test.md)
 + [重新導向測試](hidden/test-redirection.md)
++ [自動啟用測試](hidden/autoactivate.md)
+
+## 新增章節
+
+我沒有按一下「立即發佈」，因此如果您看到這個選項，自動啟用就會運作。
