@@ -4,9 +4,9 @@ description: 目的在進行內部測試的測試頁面
 hide: true
 hidefromtoc: true
 exl-id: e6270f95-3550-4e35-ad4c-760584bb9b5d
-source-git-commit: 45d7df912c336c9275545612e625869c005eb448
+source-git-commit: 0cefcf5bb4a021593a6bbe44eed0ad83e8bd259f
 workflow-type: tm+mt
-source-wordcount: '1849'
+source-wordcount: '1926'
 ht-degree: 27%
 
 ---
@@ -16,6 +16,31 @@ ht-degree: 27%
 ## 自動啟用測試
 
 這些錯誤應該全部修正。
+
+## UGP-10866在陰影方塊中不以粗體顯示的連結
+
+>[!BEGINSHADEBOX]
+
+**目錄**
+
+* [開始使用 AI 助理](note-test.md)
+* **[使用AI助理產生電子郵件](syntax-style-guide.md)**
+* [使用 AI 助理產生簡訊](test-page.md)
+* [使用AI助理產生推播](tables.md)
+* [使用AI助理進行內容實驗](test-redirection.md)
+
+>[!ENDSHADEBOX]
+
+無陰影方塊
+
+**目錄**
+
+* [開始使用 AI 助理](note-test.md)
+* **[使用AI助理產生電子郵件](syntax-style-guide.md)**
+* [使用 AI 助理產生簡訊](test-page.md)
+* [使用AI助理產生推播](tables.md)
+* [使用AI助理進行內容實驗](test-redirection.md)
+
 
 ## UGP-10584內嵌徽章無法運作
 
