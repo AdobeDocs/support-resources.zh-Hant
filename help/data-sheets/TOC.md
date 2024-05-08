@@ -3,10 +3,10 @@ user-guide-title: 成功計劃資源
 user-guide-description: Adobe Experience Cloud 和 Adobe Experience Platform 的成功計劃和支援資源。
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: 56883da531bf00a4d36c667bc7b153a9a047a770
+source-git-commit: 38c7f7403d5eac2cd1bbbccb8cf8d275b66133b5
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 97%
+source-wordcount: '122'
+ht-degree: 95%
 
 ---
 
@@ -19,6 +19,7 @@ ht-degree: 97%
      [第 2 集 - Karrie Benjamin](episode2.md)
      [第 3 集 - George Kotsinis](episode3.md)
      [Ep.4 - Jessica Ouellette](episode4.md)
+     [Ep.5 - Corey Blackburn](episode5.md)
 + 2022 年 6 月 16 日之前的 Adobe 支援計劃{#prior-plans}
    + [先前 Adobe 支援計劃總覽](overview-prior-plans.md)
    + Experience Cloud Services {#data-sheets}
