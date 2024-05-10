@@ -6,7 +6,7 @@ feature: Success Plans
 source-git-commit: 38c7f7403d5eac2cd1bbbccb8cf8d275b66133b5
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 95%
+ht-degree: 97%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 95%
    + [第 1 集 - Billy Georgaros](episode1.md)
      [第 2 集 - Karrie Benjamin](episode2.md)
      [第 3 集 - George Kotsinis](episode3.md)
-     [Ep.4 - Jessica Ouellette](episode4.md)
+     [第 4 集 - Jessica Ouellette](episode4.md)
      [Ep.5 - Corey Blackburn](episode5.md)
 + 2022 年 6 月 16 日之前的 Adobe 支援計劃{#prior-plans}
    + [先前 Adobe 支援計劃總覽](overview-prior-plans.md)
