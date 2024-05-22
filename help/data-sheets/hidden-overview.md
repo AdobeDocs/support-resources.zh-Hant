@@ -4,10 +4,10 @@ description: 此頁面已從搜尋和目錄中隱藏
 hide: true
 hidefromtoc: true
 exl-id: 822b2044-195c-4721-9b81-345d88f8aa2d
-source-git-commit: d5ddfcf52ee5259f6a2e6da155611cc8fe794d26
+source-git-commit: 43bc074148c66e460d999a73914be560921a8233
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 35%
+source-wordcount: '63'
+ht-degree: 39%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 35%
 
 + [錯誤修正](hidden/bug-fixes.md)
 + [隱藏的新測試](hidden-new-test.md)
-+ [隱藏新測試2](hidden-new-test-2.md)
++ [隱藏的新測試 2](hidden-new-test-2.md)
 + [隱藏語法指南](hidden/syntax-style-guide.md)
 + [影像測試圖磚](hidden/test-page.md)
 + [表格測試](hidden/tables.md)
@@ -28,3 +28,5 @@ ht-degree: 35%
 ## 新增章節
 
 我沒有按一下「立即發佈」，因此如果您看到這個選項，自動啟用就會運作。
+
+太平洋時間2024年5月22日下午2:14
