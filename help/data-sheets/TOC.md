@@ -6,7 +6,7 @@ feature: Success Plans
 source-git-commit: ff8a6583b2607f431e65b60dcb1ecf89511c583d
 workflow-type: tm+mt
 source-wordcount: '131'
-ht-degree: 93%
+ht-degree: 97%
 
 ---
 
@@ -20,8 +20,8 @@ ht-degree: 93%
      [第 3 集 - George Kotsinis](episode3.md)
      [第 4 集 - Jessica Ouellette](episode4.md)
      [Ep.5 - Corey Blackburn](episode5.md)
-     [Ep.6 - Kelly Oja](episode6.md)
-     [Ep.7 - Chris Diaz](episode7.md)
+     [第 6 集 - Kelly Oja](episode6.md)
+     [第 7 集 - Chris Diaz](episode7.md)
      [Ep.8 — 李浩信](episode8.md)
 + 2022 年 6 月 16 日之前的 Adobe 支援計劃{#prior-plans}
    + [先前 Adobe 支援計劃總覽](overview-prior-plans.md)
