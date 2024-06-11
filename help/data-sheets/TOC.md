@@ -3,10 +3,10 @@ user-guide-title: 成功計劃資源
 user-guide-description: Adobe Experience Cloud 和 Adobe Experience Platform 的成功計劃和支援資源。
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: ff8a6583b2607f431e65b60dcb1ecf89511c583d
-workflow-type: ht
-source-wordcount: '131'
-ht-degree: 100%
+source-git-commit: 2f49530bbd32e5637050dcdfde613245fdf0e757
+workflow-type: tm+mt
+source-wordcount: '134'
+ht-degree: 97%
 
 ---
 
@@ -23,6 +23,7 @@ ht-degree: 100%
      [第 6 集 - Kelly Oja](episode6.md)
      [第 7 集 - Chris Diaz](episode7.md)
      [第 8 集 - Vincent Lee](episode8.md)
+     [Ep.9 — 任懷曼](episode9.md)
 + 2022 年 6 月 16 日之前的 Adobe 支援計劃{#prior-plans}
    + [先前 Adobe 支援計劃總覽](overview-prior-plans.md)
    + Experience Cloud Services {#data-sheets}
