@@ -4,7 +4,8 @@ description: Markdown樣式的基本介紹
 mini-toc-levels: 1
 hide: true
 hidefromtoc: true
-source-git-commit: 77a5127250ffbc9d490579188e8469d4c3dac4c3
+exl-id: 9f15436b-156a-4c07-bfaf-8557cd948197
+source-git-commit: 972704990172c966a27744b49b9f7af5626e9f3e
 workflow-type: tm+mt
 source-wordcount: '4238'
 ht-degree: 13%
@@ -25,7 +26,7 @@ EDS
 
 >[!TIP]
 >
->觀看此內容 [AdobeDocs Markdown影片](https://video.tv.adobe.com/v/26165).
+>觀看此[AdobeDocs Markdown影片](https://video.tv.adobe.com/v/26165)。
 
 在大部分情況下，我們遵循標準的Git-Flavored Markdown (GFM)語法來格式化文字。 不過，部分語法（例如水平線）不受支援，而且我們已透過多種方式擴充Markdown，以符合檔案需求。
 
@@ -33,7 +34,7 @@ EDS
 
 使用Markdown時，段落不需要特殊語法。 在每個段落之間新增空白行。
 
-若要將文字的格式設為 **粗體**，請以兩個星號括住檔案：
+若要將文字的格式設為&#x200B;**粗體**，請以兩個星號括住文字：
 
 ```
 This text is **bold**.
@@ -45,13 +46,13 @@ This text is **bold**.
 This text is *italic*.
 ```
 
-若要將文字的格式設定為兩者 ***粗體和斜體***，請以三個星號括住檔案：
+若要將文字的格式同時設為&#x200B;***粗體與斜體***，請以三個星號括住文字：
 
 ```
 This is text is both ***bold and italic***.
 ```
 
-若要忽略Markdown格式字元，請使用 `\` 在字元之前：
+若要略過Markdown格式字元，請在該字元前使用`\`：
 
 `This is not \*italicized\* type.`
 
@@ -117,7 +118,7 @@ There are two ways to create badges:
 
 ## 區塊引號
 
-我們的編寫系統使用區塊引號語法(`>` （在行的開頭使用），以識別自訂Markdown擴充功能，以取得秘訣、附註和影片。 您可以新增「 」以建立實際的區塊引號 `>` 段落前的字元。
+我們的編寫系統使用區塊引號語法（行首為`>`）來識別提示、附註和影片的自訂Markdown擴充功能。 您可以在段落前面加入`>`字元，以建立實際的區塊引號。
 
 >這是區塊引號。
 
@@ -127,11 +128,11 @@ There are two ways to create badges:
 
 ## 程式碼區塊（內嵌）{#code-block}
 
-**使用時機**
+**何時使用**
 
 用於呈現一個內嵌在句子中的程式碼。 適合用來呼叫不需要完整包圍型程式碼區塊的Cookie名稱、檔案名稱、值或命令。
 
-程式碼區塊中的內容呈現原樣且未本地化。 (此規則的唯一例外是 `!UICONTROL` 和 `!DNL` 語法，在封裝以供發佈期間被淘汰。)
+程式碼區塊中的內容呈現原樣且未本地化。 （此規則的唯一例外是`!UICONTROL`和`!DNL`語法，這些語法在封裝以供發佈期間被移除。）
 
 也請將程式碼區塊用於不應驗證的範例URL： `https://www.example.com`
 
@@ -149,13 +150,13 @@ This is `inline code` within a paragraph of text.
 
 >[!TIP]
 >
->您也可以使用三個反引號(&amp;grave；&amp;grave；&amp;grave；)繞排文字，以建立內嵌程式碼區塊。 當您需要參考內嵌程式碼區塊中的反引號字元時，此功能特別實用。 範例：
+>您也可以使用三個反引號(&amp;amp；grave；&amp;amp；grave；&amp;amp；grave；)繞排文字，以建立內嵌程式碼區塊。 當您需要參考內嵌程式碼區塊中的反引號字元時，此功能特別實用。 範例：
 >
-&amp;grave；&amp;grave；&amp;grave；`Use a back tick (`&amp;grave；`) for formatting`&amp;grave；&amp;grave；&amp;grave；
+&amp;amp；grave；&amp;amp；grave；&amp;amp；grave；`Use a back tick (`&amp;amp；grave；`) for formatting`&amp;amp；grave；&amp;amp；grave；&amp;amp；grave；
 
 ## 程式碼區塊（包圍型）
 
-**使用時機**
+**何時使用**
 
 使用程式碼區塊來顯示程式碼語法。 包圍型程式碼區塊會使用三個反引號來包圍您要反白顯示的程式碼元素。 在包圍型程式碼區塊的上方和下方新增空白行。
 
@@ -163,13 +164,13 @@ This is `inline code` within a paragraph of text.
 
 >[!TIP]
 >
-在建立包圍型程式碼區塊時指定語言。 指定語言時，會醒目提示該語言的特定語法，並顯示 **複製** 按鈕來顯示使用者。 如果您指定語言，也可以顯示行號。
+在建立包圍型程式碼區塊時指定語言。 指定語言時，會允許該語言特定的語法反白顯示，並顯示使用者的&#x200B;**Copy**&#x200B;按鈕。 如果您指定語言，也可以顯示行號。
 
 **語法**
 
-在程式碼行前後使用三個反引號( &amp;grave；&amp;grave；&amp;grave； )。 請確定開啟和關閉的倒勾號縮排相同的空格數。 為達到最佳呈現方式，請指定程式碼語言。
+在程式碼行前後使用三個反引號(&amp;amp；grave；&amp;amp；grave；&amp;amp； )。 請確定開啟和關閉的倒勾號縮排相同的空格數。 為達到最佳呈現方式，請指定程式碼語言。
 
-&amp;grave；&amp;grave；&amp;grave；`javascript`
+&amp;amp；grave；&amp;amp；grave；&amp;amp；grave；`javascript`
 
 **範例**
 
@@ -247,11 +248,11 @@ Experience League 支援程式碼區塊的語法醒目提示。 確保在一組�
 
 ### 程式碼區塊中的變數格式
 
-變數語法，例如 `<i>italic</i>` 不支援在程式碼區塊中使用。 若要指示可變文字，一個選項是使用角括弧 `< >`.
+程式碼區塊中不支援變數語法，例如`<i>italic</i>`。 若要指示變數文字，一個選項是使用角括弧`< >`。
 
 ## 可摺疊區段
 
-您可以建立可摺疊的區段(有時稱為 **摺疊面板**)預設為隱藏。 使用者可以按一下標題以展開或收合區段。
+您可以建立預設為隱藏的可摺疊區段（有時稱為&#x200B;**摺疊式功能表**）。 使用者可以按一下標題以展開或收合區段。
 
 可摺疊文字可用來簡化複雜內容，例如簡化常見問題集頁面，或使用巢狀清單去除複雜程式的雜亂。 例如，您可以將子步驟收合到「檢視詳細資訊」區段中，而不顯示一組子步驟。
 
@@ -270,7 +271,8 @@ This is text inside a collapsible section.
 
 **範例**
 
-+++檢視詳細資訊這是可摺疊區段內的文字。
++++檢視詳細資料
+這是可摺疊區段內的文字。
 
 * 專案符號1
 * 專案符號二
@@ -280,12 +282,12 @@ This is text inside a collapsible section.
 
 **附註**
 
-* 請勿在可摺疊區段中巢狀內嵌可摺疊區段。 巢狀可摺疊區段無法正確呈現。 但是，它們不會導致驗證失敗，因此使用者會看到 `+++` 巢狀區段的語法。
+* 請勿在可摺疊區段中巢狀內嵌可摺疊區段。 巢狀可摺疊區段無法正確呈現。 但是，它們不會導致驗證失敗，因此使用者會看到巢狀區段的`+++`語法。
 * 請確保在可摺疊區段內新增專案符號清單和程式碼區塊等專案上方和下方的空白行，否則會出現驗證錯誤。
 * 您可以在可摺疊的區段中新增標題，但不建議這麼做。
-* [摺疊式功能表並不一定適用於桌上型電腦上的複雜內容](https://www.nngroup.com/articles/accordions-complex-content/)
-* 可摺疊區段的一個歷史缺點是 **在頁面中尋找** (Ctrl/Cmd+F)忽略收合的文字。 雖然在Safari中仍為真，但在Chrome中不再為真；在頁面中尋找會偵測Chrome中摺疊的文字。
-* 範例 [維護更新](https://experienceleague.adobe.com/docs/workfront-known-issues/releases/current-updates.html?lang=en) 使用可摺疊區段的頁面。
+* [摺疊式功能表不一定是桌上型電腦上複雜內容的答案](https://www.nngroup.com/articles/accordions-complex-content/)
+* 可摺疊區段的一個歷史缺點是&#x200B;**在頁面**&#x200B;中尋找(Ctrl/Cmd+F)會忽略摺疊文字。 雖然這在Safari中仍為真，但在Chrome中不再為真；在頁面中尋找會偵測Chrome中的摺疊文字。
+* 使用可摺疊區段的[維護更新](https://experienceleague.adobe.com/docs/workfront-known-issues/releases/current-updates.html?lang=en)頁面的範例。
 
 ## 註解與註解
 
@@ -306,7 +308,7 @@ DO NOT USE the following:
 You can't see me (unless you're editing in Git).
 -->
 
-**提醒：** 公開說明文章中不會出現註解（備註）。 不過，若是使用者可以查看與編輯的公開 Markdown 檔案，就會顯示註解。
+**提醒：**&#x200B;公開說明文章中未出現註解（備註）。 不過，若是使用者可以查看與編輯的公開 Markdown 檔案，就會顯示註解。
 
 >[!IMPORTANT]
 >
@@ -336,7 +338,7 @@ You can't see me (unless you're editing in Git).
 
 轉譯：
 
-**青蛙**  — 兩棲綠色生物。 喜歡蒼蠅。
+**青蛙** — 兩棲綠色生物。 喜歡蒼蠅。
 
 <!--
 A definition list is a Markdown extension that supports the Definition List component in AEM. A definition list consists of a term and its definition.
@@ -368,11 +370,11 @@ Cat
 
 上傳.zip或其他可下載的檔案至assets目錄，然後連結至該目錄。 如果是.zip檔案，按一下連結即可下載檔案。 如果檔案型別(例如PDF或PNG)可以在瀏覽器中開啟，則按一下連結會開啟一個新索引標籤。 對於這類檔案，請考慮壓縮檔案，或提供以滑鼠右鍵按一下連結並下載的指示。
 
-`Download` 分段(&amp;L)；`download-test.zip`&amp;rbrack；`(assets/download-test.zip)`
+`Download` &amp;amp；lbrack；`download-test.zip`&amp;amp；rbrack；`(assets/download-test.zip)`
 
 轉譯：
 
-下載 [download-test.zip](assets/download-test.zip)
+下載[download-test.zip](assets/download-test.zip)
 
 >[!NOTE]
 >
@@ -380,7 +382,7 @@ Cat
 
 ## 標題 {#headings}
 
-在Markdown中，您會使用井字型大小(`#`)以識別標題層級。 第一級(`#`)是文章標題，也會在中繼資料標題中指定 — 請維持不變。 第二層(`##`)代表將包含在mini-TOC中的頁面主要標題。 如果您習慣於AEM (chl-author)寫作，第2層標題(`##`)對應到AEM中的「標題1」元件。
+在Markdown中，您可以使用井字型大小(`#`)來識別標題層級。 第一個層級(`#`)是文章標題，中繼資料標題中也指定了文章標題 — 請保持這些相同。 第二層級(`##`)代表頁面上將包含在迷你目錄中的主要標題。 如果您習慣於AEM (chl-author)的撰寫方式，第2層標題(`##`)會對應至AEM中的「標題1」元件。
 
 標題的字元數上限：69個字元（英文） / 120個字元(LOC)。
 
@@ -394,16 +396,16 @@ Cat
 
 **標題最佳實務**
 
-* 確定第1層標題(`#`)在每篇文章的中繼資料後面跟著空白行。
-* 請勿略過層級，例如從層級2跳過(`##`)至層級4 (`####`)。
-* 包含空白行 *早於* 和 *晚於* 每個標題。
-* 如果標題包含數字，請指定不以數字開頭的明確標題ID，例如 `## Release notes for 2016 {#release-notes-2016}`.
+* 請確定每篇文章的中繼資料後面有層級1標題(`#`)緊跟在空白行後面。
+* 請勿略過層級，例如從層級2 (`##`)跳至層級4 (`####`)。
+* 每個標題在&#x200B;*之前*&#x200B;和&#x200B;*之後*&#x200B;加入空白行。
+* 如果標題包含數字，請指定不以數字開頭的明確標題識別碼，例如`## Release notes for 2016 {#release-notes-2016}`。
 * 我們建議僅使用3個標題層級。 層級4及更高層級目前未正確呈現。
-* 標題會顯示在右側導覽中，方便使用者按一下以跳至區段。 依預設，右側導覽中顯示兩個層級的標題。 如果您想要變更層級數目，請使用 `mini-toc-levels` 中繼資料，例如 `mini-toc-levels: 3`.
+* 標題會顯示在右側導覽中，方便使用者按一下以跳至區段。 依預設，右側導覽中顯示兩個層級的標題。 若要變更層級數目，請使用`mini-toc-levels`中繼資料，例如`mini-toc-levels: 3`。
 
 **標題ID**
 
-標題ID (又稱為 *錨點ID*)來建立文章內各節的自訂深層連結。 若要指定標題ID，請使用此格式：
+標題ID （也稱為&#x200B;*錨點ID*）可用來建立文章內章節的自訂深層連結。 若要指定標題ID，請使用此格式：
 
 ```
 ## Creating processing rules {#processing-rules}
@@ -411,7 +413,7 @@ Cat
 
 標題ID應小寫並加上連字。
 
-如果您未指定標題的標題ID，預設標題ID會是「縮寫」（小寫加連字）標題。 例如， `## Creating widgets and Such` 標題將具有 `#creating-widgets-and-such` 錨點。
+如果您未指定標題的標題ID，預設標題ID會是「縮寫」（小寫加連字）標題。 例如，`## Creating widgets and Such`標題將有`#creating-widgets-and-such`錨點。
 
 ## HTML語法 {#html}
 
@@ -458,13 +460,13 @@ Bob: Check above no space char. (ignore the space; I can't add a codeblock insid
 
 ## 影像 {#images}
 
-使用 `![]()` 影像的語法。 括弧 `[ ]` 包括替代文字和括弧 `( )` 包含影像位置和選用的暫留文字（工具提示）。 驚歎號可區分影像與連結。
+使用影像的`![]()`語法。 括弧`[ ]`包含替代文字，括弧`( )`包含影像位置和選用的暫留文字（工具提示）。 驚歎號可區分影像與連結。
 
 ```
 ![alt text](assets/logo.png "Hover text")
 ```
 
-![替代文字](assets/logo.png "游標停留文字")
+![替代文字](assets/logo.png "暫留文字")
 
 針對共用影像，您可以將影像放在根資產資料夾中，然後使用可從存放庫內任何檔案運作的根連結：
 
@@ -474,7 +476,7 @@ Bob: Check above no space char. (ignore the space; I can't add a codeblock insid
 
 ### 調整影像大小和對齊
 
-**影像屬性（使用靠右對齊的影像）** ![替代文字](assets/premium.png "Premium暫留文字"){align="right"}
+**影像屬性（含右對齊的影像）** ![替代文字](assets/premium.png "進階暫留文字"){align="right"}
 
 使用如下列的語法，變更預設影像寬度或在頁面檢視或表格儲存格內將影像置中或靠右對齊。
 
@@ -484,12 +486,12 @@ Bob: Check above no space char. (ignore the space; I can't add a codeblock insid
 
 轉譯：
 
-![潛水影像替代文字](assets/maui-dive.jpg "游標停留文字 — Maui俯檢視寬度為300畫素且置中"){width="300" align="center"}
+![Dive影像替代文字](assets/maui-dive.jpg "暫留文字 — Maui俯檢視寬為300畫素且置中"){width="300" align="center"}
 
 * 如果是大型影像，建議您建立足夠大的影像，以縮小並符合頁面寬度（至少640畫素寬）。 建議的寬度為1500畫素。 不需要建立大於2500畫素或500 KB的影像。 影像的最大檔案大小為100 MB。
-* 對於小型影像，請使用所需的寬度（以畫素為單位）建立影像，或使用寬度引數，例如 `{width="250"}` （畫素）或 `{width="50%"}` （檢視區域的百分比，而非原始影像大小）。 影像會依比例縮放。 請注意，影像可以放大或縮小，因此請注意畫素化。
+* 對於小型影像，請使用所需的寬度（畫素）建立影像，或使用寬度引數，例如`{width="250"}` （畫素）或`{width="50%"}` （檢視區域的百分比，而非原始影像大小）。 影像會依比例縮放。 請注意，影像可以放大或縮小，因此請注意畫素化。
 * 在某些情況下，來自相同介面的影像在頁面上看起來會不成比例，因為較寬的影像（例如工具列）會縮減，而較窄的影像（例如面板）則不會縮減。 在這種情況下，請考慮縮小較寬的影像，以改善視覺一致性。
-* 您可以在檢視區域中變更影像的對齊方式。 使用 `{align="center"}` 或 `{align="right"}`. 此 `valign` 引數不受支援。
+* 您可以在檢視區域中變更影像的對齊方式。 使用`{align="center"}`或`{align="right"}`。 不支援`valign`引數。
 
 >[!NOTE]
 >
@@ -540,7 +542,7 @@ Use the `zoomable` parameter to allow users to click an image to view an enlarge
 
 [Adobe](https://www.adobe.com/tw/)
 
-如果您將URL直接新增至文字，URL不會自動轉換為連結。 如果您希望URL顯示為連結，請新增 `< >` 語法。 範例：
+如果您將URL直接新增至文字，URL不會自動轉換為連結。 若您希望URL顯示為連結，請新增`< >`語法。 範例：
 
 ```
 https://www.adobe.com
@@ -564,7 +566,7 @@ https://www.adobe.com/tw/
 See [Overview example article](collaborative-doc-instructions/overview.md)
 ```
 
-路徑名稱必須同時說明來源檔案和目標檔案的位置。 您可以使用所有相對連結運算元，例如 `./` （目前目錄）， `../` （上一層目錄），以及 `../../` （前兩個目錄）。
+路徑名稱必須同時說明來源檔案和目標檔案的位置。 您可以使用所有相對連結運算元，例如`./` （目前目錄）、`../` （上一個目錄）和`../../` （上一個目錄）。
 
 **選項2：根相對連結**
 
@@ -590,7 +592,7 @@ See [Overview example article](collaborative-doc-instructions/overview.md)
 
 **在新標籤中開啟**
 
-如果您希望連結開啟新標籤（例如跳至其他參考線），請使用 `{target="_blank"}` 屬性。
+如果您想要連結開啟新標籤，例如跳至其他節目表時，請使用連結中的`{target="_blank"}`屬性。
 
 範例：
 
@@ -619,7 +621,7 @@ description: This is the article description used for search optimization. Use c
 
 **語法**
 
-![其他類似語法](assets/morelikethis.png)
+![其他類似此語法的專案](assets/morelikethis.png)
 
 **範例**
 
@@ -734,9 +736,9 @@ description: This is the article description used for search optimization. Use c
 
 ## 編號清單與專案符號清單 {#lists}
 
-若要建立編號清單，請在文字行的開頭使用 `1.` 或 `1)`，但請挑選一種方法，並在文章中一致使用。 您不必指定編號， GitHub 會自動完成編號工作。
+若要建立編號清單，請在文字行的開頭使用`1.`或`1)`，但請挑選一種方法，並在文章中一致使用。 您不必指定編號， GitHub 會自動完成編號工作。
 
-使用數字 `1` 編號清單中的每個步驟。
+編號清單中的每個步驟都使用編號`1`。
 
 在清單前後新增空白行。
 
@@ -766,9 +768,9 @@ description: This is the article description used for search optimization. Use c
 
 1. This is yet another step, the third.
 
-若要建立專案符號清單，請在文字行的開頭使用 `*` 或 `-` 或 `+`，但請挑選一種方法，並在文章中一致使用。 (若您混合使用下列格式： `*` 和 `+`，則在簽入檔案時，將會出現Markdown驗證錯誤。)
+若要建立專案符號清單，請在文字行的開頭使用`*`、`-`或`+`，但請挑選一種方法，並在文章中一致使用。 （如果您混合使用格式，例如`*`和`+`，則在簽入檔案時，將會出現Markdown驗證錯誤。）
 
-**最佳實務：** 使用 `*` 用於專案符號。 Visual Studio Code會套用星號當作專案符號，因此使用星號來自動建立未排序清單會比較容易。 (您可能已注意到TOC.md檔案使用加號 `+` 以取得清單。 這是移轉的遺留問題。 任何有效的專案符號字元只要在文章中一致即可。)
+**最佳實務：**&#x200B;使用`*`作為專案符號。 Visual Studio Code會套用星號當作專案符號，因此使用星號來自動建立未排序清單會比較容易。 (您可能已注意到TOC.md檔案在清單中使用加號`+`。 這是移轉的遺留問題。 任何有效的專案符號字元只要在文章中一致即可。)
 
 **語法**
 
@@ -838,13 +840,13 @@ description: This is the article description used for search optimization. Use c
 
 「陰影」方塊可用來從頁面其餘部分設定內容的區段。 例如，Workfront團隊想要新增包含文字、影像和程式碼範例的「範例」方塊來達成特定目的。 對於「自行」或「使用案例」區段，或是擴充的附註或秘訣，陰影方塊可能也很實用。
 
-若要建立著色方塊，請新增 `>[!BEGINSHADEBOX]` 在和區段開頭處 `>[!ENDSHADEBOX]` 在結尾處。 這些開始和結束標籤之間的所有內容都將具有灰色背景。 新增標籤至 `BEGINSHADEBOX` (例如 `>[!BEGINSHADEBOX "Use Case]` 是建立粗體陰影方塊標題的選用方式。 您也可以在下一行新增粗體文字或標題。
+若要建立陰影方塊，請在區段開頭新增`>[!BEGINSHADEBOX]`，並在結尾新增`>[!ENDSHADEBOX]`。 這些開始和結束標籤之間的所有內容都將具有灰色背景。 新增標籤至`BEGINSHADEBOX` (例如`>[!BEGINSHADEBOX "Use Case]`是建立粗體陰影方塊標題的選用方式。 您也可以在下一行新增粗體文字或標題。
 
 範例：
 
 >[!BEGINSHADEBOX]
 
-**移除HTML表格中的框線**
+**正在移除HTML資料表中的框線**
 
 在某些情況下，您可以使用HTML表格來建立平衡的設計，但您不希望內容看起來像表格。 若要關閉單列HTML表格的框線，請使用下列語法：
 
@@ -857,9 +859,9 @@ description: This is the article description used for search optimization. Use c
 >
 請勿過度使用。 對於一般表格，我們希望在不同內容之間保持一致設計。
 
-![表格提示](assets/table-no-border.png)
+![資料表提示](assets/table-no-border.png)
 
-在三欄表格中，您也可以新增 `<td align="center">` 和 `<td align="right">` 將儲存格內容平均分佈於檢視區域。 如果不是的話，我早就告訴過你了。
+在三欄表格中，您也可以新增`<td align="center">`和`<td align="right">`，將儲存格內容平均分配到檢視區域。 如果不是的話，我早就告訴過你了。
 
 這是著色方塊的最後一行。
 
@@ -867,7 +869,7 @@ description: This is the article description used for search optimization. Use c
 
 ## 代碼片段及
 
-若要在存放庫中的文章之間共用文字，請建立 `_includes` 中的資料夾 `help` 資料夾。 這個 `_includes` 資料夾中可以有.md檔案，這些檔案可以從存放庫中的其他檔案參照（包含）。 此外， `snippets.md` 此存放庫中的檔案可包含可從存放庫中的任何檔案參照的Head2錨點。
+若要在存放庫中的文章之間共用文字，您可以在`help`資料夾中建立`_includes`資料夾。 此`_includes`資料夾可以有.md檔案，這些檔案可以從存放庫中的其他檔案參照（包含）。 此外，此存放庫中的`snippets.md`檔案可以包含可從存放庫中的任何檔案參照的Head2錨點。
 
 snippets.md檔案中的H2參考： `{{id-name}}`
 
@@ -879,11 +881,11 @@ snippets.md檔案中的H2參考： `{{id-name}}`
 
 >[!TIP]
 >
-觀看 [Markdown表格影片](https://video.tv.adobe.com/v/26220)
+觀看[Markdown表格影片](https://video.tv.adobe.com/v/26220)
 
 原生表格在Markdown中通常看起來更好。 欄會根據其內容調整大小。 HTML表格會以等寬欄呈現。
 
-依預設，Markdown的儲存格不支援多行或清單。 不過，我們已擴充Markdown表格，允許在儲存格中有多行(使用 `<p>` 或 `<br>`)或基本清單(使用 `<ul><li>` 等等)。
+依預設，Markdown的儲存格不支援多行或清單。 不過，我們已擴充Markdown表格，可允許儲存格中有多行（使用`<p>`或`<br>`）或基本清單（使用`<ul><li>`等）。
 
 >[!IMPORTANT]
 >
@@ -893,7 +895,7 @@ snippets.md檔案中的H2參考： `{{id-name}}`
 
 原生Markdown表格中不允許：巢狀或複雜清單。
 
-另請參閱 [表格](tables.md)
+檢視[資料表](tables.md)
 
 **語法**
 
@@ -913,7 +915,7 @@ snippets.md檔案中的H2參考： `{{id-name}}`
 
 Markdown 要呈現簡單的表格沒有問題。 不過，若表格的儲存格內包含多個段落或清單，就會難以呈現。 如果是這類內容，建議您使用其他格式，例如改為標題與文字。
 
-**含有分段符號和清單的Markdown表格**
+**含有段落分隔符號和清單的Markdown表格**
 
 ```
 | Header | Another header | Yet another header |
@@ -926,7 +928,7 @@ Markdown 要呈現簡單的表格沒有問題。 不過，若表格的儲存格�
 
 | Header | Another header | Yet another header |
 |------------|----------|----------------|
-| row 1 | 儲存格中的第一段<p>儲存格(`<p>`)<br>分行符號(`br`) | row 1 column 3 |
+| row 1 | 儲存格中的第一段<p>儲存格(`<p>`)<br>分行符號(`br`)中的第二個段落 | row 1 column 3 |
 | row 2 | 專案符號清單<ul><li>專案1</li><li>專案2</li><li>專案3</li></ul> | row 2 column 3 |
 
 **含有分行符號和假清單的Markdown表格**
@@ -942,10 +944,10 @@ Markdown 要呈現簡單的表格沒有問題。 不過，若表格的儲存格�
 
 **範例**
 
-| 色彩 | 要做的事 |
+| 顏色 | 要做的事 |
 |--- |--- |
-| 紅色 | *讀取 <br> *寫入 <br> *學習 |
-| 藍色 | *游泳 <br> *執行 <br> *提升度 <br> **注意**：請記得訓練智慧型。 |
+| 紅色 | *讀取<br> *寫入<br> *研究 |
+| 藍色 | *游泳<br> *執行<br> *提升<br> **附註**：請記得訓練智慧型。 |
 .32
 
 
@@ -953,7 +955,7 @@ Markdown 要呈現簡單的表格沒有問題。 不過，若表格的儲存格�
 
 標籤是位於區段頂端的可點按區域，可顯示不同的內容。 當按一下標籤時，會顯示標籤的內容，而其他標籤的內容則會隱藏。
 
-若要建立索引標籤集，請新增 `>[!BEGINTABS]` 標籤集開頭和 `>[!ENDTABS]` 最後一個標籤之後。 新增 `>[!TAB <tab title>]` 標籤區段的標籤，並新增其下方每個標籤的內容。
+若要建立索引標籤組，請在索引標籤組的開頭新增`>[!BEGINTABS]`，並在最後一個索引標籤後新增`>[!ENDTABS]`。 為每個標籤區段新增`>[!TAB <tab title>]`個標籤，並在其下方新增每個標籤的內容。
 
 **Tab語法**
 
@@ -999,7 +1001,7 @@ This content appears in the Linux tab.
 
 此內容會顯示在Windows標籤中。
 
->[!TAB macOS]
+>[!TAB MacOS]
 
 此內容會顯示在MacOS標籤中。
 
@@ -1013,7 +1015,7 @@ This content appears in the Linux tab.
 
 * 使用者無法使用頁面內搜尋(Ctrl+F/Cmd+F)來找出未顯示索引標籤中的內容。
 * 如果標籤標題超過使用者瀏覽器中的頁面檢視寬度，則會出現水準卷軸。
-* 您無法格式化索引標籤標題。 您新增的任何語法都會當作標題的一部分傳遞。 例如， `>[!TAB **iOS**]` 將顯示為 `**iOS**`.
+* 您無法格式化索引標籤標題。 您新增的任何語法都會當作標題的一部分傳遞。 例如，`>[!TAB **iOS**]`將顯示為`**iOS**`。
 * 您可以在頁面上建立多個標籤組，但不能在另一個標籤組中巢狀內嵌標籤組。
 * 陰影背景會套用至標籤集，讓使用者可以看到標籤內容與其他內容之間的差異。
 
@@ -1031,7 +1033,7 @@ This entire paragraph should NOT be highlighted. <span class="preview"> This wor
 
 整個段落不應醒目提示。<span class="preview"> 該單字在醒目提示的句子中為&#x200B;**粗體**。</span> 而這只是最後一句。
 
-作為一般規則，請使用 `<span class="preview">` 反白標示段落中的段落或文字，並使用 `<div class="preview">` 用於多個段落和元件。
+一般來說，請使用`<span class="preview">`反白標示段落中的段落或文字，並為多個段落和元件使用`<div class="preview">`。
 
 >[!NOTE]
 >
@@ -1041,7 +1043,7 @@ VSC預覽尚未支援反白顯示。
 
 ## 影片
 
-原本不會在Markdown中轉譯影片。 若要內嵌顯示視訊，請使用元件指示器 `[!VIDEO]` 和url。
+原本不會在Markdown中轉譯影片。 若要顯示內嵌視訊，請使用元件指示器`[!VIDEO]`，然後使用URL。
 
 **語法**
 
@@ -1076,15 +1078,15 @@ VSC預覽尚未支援反白顯示。
 * 文字醒目提示
 * 頁面索引標籤
 
-使用Markdown區塊引號( `>` )在每一行的開頭將段落型元件（例如註記）連結在一起。 若要改善預覽，請在區段開頭後立即新增只有區塊引號符號的一行(`>`)。 若要結束截面，請新增空白行。
+在每行的開頭使用Markdown區塊引號( `>`)，繫結段落元件（例如備註）。 若要改善預覽，請在區段開頭後立即新增只有區塊引號符號(`>`)的一行。 若要結束截面，請新增空白行。
 
-如果您需要在元件內使用子元件，請新增額外層級的區塊引號(`>  >`)則該子元件區段的URL為。 例如，DONOTLOCALIZE區段內的NOTE應該以開頭 `>  >`.
+如果您需要在元件內使用子元件，請為該子元件區段新增額外層級的區塊引號(`>  >`)。 例如，DONOTLOCALIZE區段中的NOTE應該以`>  >`開頭。
 
-某些情況下，我們需要支援Markdown元素（例如標題）的特定設定。 如果您需要變更預設設定，請將引數新增至大括弧 `{# }` 在元件之後。
+某些情況下，我們需要支援Markdown元素（例如標題）的特定設定。 如果您需要變更預設設定，請在元件之後新增引數，並置於大括弧`{# }`中。
 
 ### 空白行
 
-您可以用空白行將一些呼吸空間加入文字的牆壁中。 使用 `<br>&nbsp;` 作為新增空白行的因應措施。
+您可以用空白行將一些呼吸空間加入文字的牆壁中。 使用`<br>&nbsp;`作為因應措施，以新增空白行。
 
 範例：這是可能非常長的文字的第一句。 讓我在此段落與下一個段落之間插入一個空白行。
 
@@ -1094,15 +1096,15 @@ VSC預覽尚未支援反白顯示。
 
 ### 要「逸出」的字元 {#characters-to-escape}
 
-幾個字元(`# { } [ ] < > * + - . !`)在Markdown或HTML中有特殊的意義，可建立標題、影像、清單和其他元件。 當您使用這些字元時，轉譯引擎會認為您正在新增程式碼。 但是，在某些情況下，您要在文字中顯示這些字元。 若要這麼做，您必須「逸出」字元。 最簡單的逸出方法是在字元前面加上反斜線(`\`)。 例如，如果您想要以 `#` 字元，這樣就不會將它解譯為標題，您可以輸入 `\#`：
+數個字元(`# { } [ ] < > * + - . !`)在Markdown或HTML中有特殊的意義，可用來建立標題、影像、清單和其他元件。 當您使用這些字元時，轉譯引擎會認為您正在新增程式碼。 但是，在某些情況下，您要在文字中顯示這些字元。 若要這麼做，您必須「逸出」字元。 最簡單的逸出方法是在字元前面加上反斜線(`\`)。 例如，如果您想要以`#`字元作為行首，以免解譯為標題，您可以輸入`\#`：
 
 `\# This is not a heading`
 
-**已呈現：**
+**已轉譯：**
 
 \#這不是標題
 
-反斜線僅適用於下列字元： `# { } [ ] * + - . !`. 如果您需要逸出字元，例如角括弧(例如 `<yourname>`)，您可以用反引號將文字括起來以套用內嵌程式碼區塊，或使用HTML實體程式碼而非字元。 常見HTML程式碼範例：
+反斜線只適用於下列字元： `# { } [ ] * + - . !`。 如果您需要逸出角括弧（例如`<yourname>`）等字元，您可以用反引號將文字括住以套用內嵌程式碼區塊，或使用HTML實體程式碼而非字元。 常見HTML程式碼範例：
 
 * `&lt;` (&lt;)
 * `&gt;` (>)
@@ -1111,21 +1113,21 @@ VSC預覽尚未支援反白顯示。
 * `&mdash;` (—)
 * `&ndash;` (-)
 
-HTML實體的完整清單可在 [自由格式程式網站](https://www.freeformatter.com/html-entities.html). 這可讓您查詢所有特殊字元。
+[Freeformatter網站](https://www.freeformatter.com/html-entities.html)提供HTML實體的完整清單。 這可讓您查詢所有特殊字元。
 
 >[!NOTE]
 >
-針對如「選擇檔案>另存新檔」的鏈結步驟，您不需要逸出 `>` 字元，因為它不在其他字元旁邊。 針對變數，例如 `<filename>` 您會想要使用任一程式碼區塊來逸出角括弧 `backticks` 或字元代碼(`&lt;filename&gt;`)。
+對於鏈結步驟，例如「選擇檔案>另存新檔」，您不需要逸出`>`字元，因為它不在其他字元旁邊。 對於變數（例如`<filename>`），您會想要使用程式碼區塊`backticks`或字元程式碼(`&lt;filename&gt;`)來逸出角括弧。
 
-如果您在程式碼區塊中使用HTML實體，則實體文字不會轉換為特殊字元。 例如， `&gt;` 在程式碼區塊中顯示為「 `&gt;` 」而非「 > 」。
+如果您在程式碼區塊中使用HTML實體，則實體文字不會轉換為特殊字元。 例如，`&gt;`在程式碼區塊中顯示為&quot; `&gt;`&quot;而非&quot; > &quot;。
 
-若要逸出反引號( &amp;grave； )，請使用 `&grave;` 或者，在包住內嵌程式碼區塊的三個反引號內插入反引號。
+若要逸出反引號( &amp;amp；grave； )，請使用`&grave;`，或在包住內嵌程式碼區塊的三個反引號內插入反引號。
 
 ### 不支援的專案
 
 有幾個Git口味的Markdown專案我們不打算支援。 您使用的預覽工具可能會啟用其中的部分功能，但並非仰賴此功能。
 
-**任務清單**
+**工作清單**
 
 不支援
 
@@ -1152,9 +1154,9 @@ HTML實體的完整清單可在 [自由格式程式網站](https://www.freeforma
 ***
 ```
 
-**區塊引號**
+**封鎖引號**
 
-我們使用區塊引號(`>` （在一行的開頭處）以表示擴充的Markdown語法，例如附註和影片，如下所述。 但您也可以使用 `>` 建立區塊引號區段的語法。
+我們使用區塊引號（`>`在一行的開頭）來表示延伸Markdown語法，例如附註和影片，如下所述。 但您也可以使用`>`語法來建立區塊引號區段。
 
 >[!NOTE]
 >

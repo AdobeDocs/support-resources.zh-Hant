@@ -3,7 +3,8 @@ description: 自動啟用
 title: 自動啟用
 hide: true
 hidefromtoc: true
-source-git-commit: 73c5614e3eea119358550892a3d6cc9a9c2f9b02
+exl-id: b2e7dc0c-3c0a-4e20-b761-6f334eff223c
+source-git-commit: e3d8dd4453af6f3c16b6b9ca9b4e1657fe97b7ee
 workflow-type: tm+mt
 source-wordcount: '12'
 ht-degree: 0%

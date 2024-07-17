@@ -3,7 +3,7 @@ title: 業務支援
 description: Adobe Experience Cloud 業務支援服務提供聯繫 Adobe 技術支援團隊及帳戶支援負責人的完整功能，以進行帳戶管理。
 exl-id: 2f31e22f-8523-4322-875b-69f0f44a513a
 source-git-commit: d9c68a402ce091063abf016bc4fd7e2eb9ca9644
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '882'
 ht-degree: 100%
 

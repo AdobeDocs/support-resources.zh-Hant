@@ -24,10 +24,10 @@ ht-degree: 27%
 **目錄**
 
 * [開始使用 AI 助理](note-test.md)
-* **[使用AI助理產生電子郵件](syntax-style-guide.md)**
+* 使用AI助理產生&#x200B;**[電子郵件](syntax-style-guide.md)**
 * [使用 AI 助理產生簡訊](test-page.md)
-* [使用AI助理產生推播](tables.md)
-* [使用AI助理進行內容實驗](test-redirection.md)
+* [使用 AI 助理推播產生](tables.md)
+* [使用 AI 助理進行內容實驗](test-redirection.md)
 
 >[!ENDSHADEBOX]
 
@@ -36,18 +36,18 @@ ht-degree: 27%
 **目錄**
 
 * [開始使用 AI 助理](note-test.md)
-* **[使用AI助理產生電子郵件](syntax-style-guide.md)**
+* 使用AI助理產生&#x200B;**[電子郵件](syntax-style-guide.md)**
 * [使用 AI 助理產生簡訊](test-page.md)
-* [使用AI助理產生推播](tables.md)
-* [使用AI助理進行內容實驗](test-redirection.md)
+* [使用 AI 助理推播產生](tables.md)
+* [使用 AI 助理進行內容實驗](test-redirection.md)
 
 
 ## UGP-10584內嵌徽章無法運作
 
 這些徽章應與專案符號專案位於同一行。
 
-* [[!DNL Mixpanel]](note-test.md) [!BADGE 附註]{type=Informative}
-* [[!DNL Pendo]](tables.md) [!BADGE 表格]{type=Positive}
+* [[!DNL Mixpanel]](note-test.md) [!BADGE 備註]{type=Informative}
+* [[!DNL Pendo]](tables.md) [!BADGE 資料表]{type=Positive}
 * [[!DNL RainFocus]](syntax-style-guide.md) [!BADGE 語法樣式指南]{type=Positive}
 
 ## UGP-10560 — 可摺疊區段中的徽章
@@ -60,9 +60,9 @@ _2023 年 2 月 13 日_
 
 [!BADGE 支援]{type=Informative tooltip="支援"}
 
-![新增](assets/package.png) 目錄服務API現在支援產品影片。
-![修正](assets/package.png) 現在支援固定價格的套件組合產品。
-![修正](assets/package.png) 無庫存選項現在顯示在PDP Widget中。
+目錄服務API現在支援![新](assets/package.png)產品影片。
+現在支援固定價格的![Fix](assets/package.png)套件組合產品。
+![Fix](assets/package.png)無存貨的選項現在顯示在PDP Widget中。
 
 #### 已知限制
 
@@ -83,9 +83,9 @@ _2023年10月12日_
 
 [!BADGE 支援]{type=Informative tooltip="支援"}
 
-![新增](assets/package.png) 目錄服務支援 `inStock` 產品變體的標幟。
-![新增](assets/package.png) `urlKey` 和 `externalId` 已新增至GraphQL結構描述。
-![新增](assets/package.png) 現已支援可下載的產品和禮品卡。
+![新](assets/package.png)目錄服務支援產品變體的`inStock`旗標。
+![新](assets/package.png) `urlKey`和`externalId`已新增至GraphQL結構描述。
+現在支援![新](assets/package.png)可下載的產品和禮品卡。
 
 ### V1.12版本
 
@@ -93,8 +93,8 @@ _2023年9月19日_
 
 [!BADGE 支援]{type=Informative tooltip="支援"}
 
-![新增](https://www.adobe.com/tw/).
-![修正](assets/package.png) 此版本包含服務端的錯誤修正和改善。
+![新](https://www.adobe.com/tw/)。
+![修正](assets/package.png)此版本包含服務端的錯誤修正和改善。
 
 ### V1.11版本
 
@@ -102,7 +102,7 @@ _2023年7月18日_
 
 [!BADGE 支援]{type=Informative tooltip="支援"}
 
-![新增](assets/package.png) 目錄服務現在支援 [`recommendations`](https://developer.adobe.com/commerce/services/graphql/recommendations/recommendations/) 產品Recommendations的GraphQL查詢。
+![新](assets/package.png)目錄服務現在支援產品Recommendations的[`recommendations`](https://developer.adobe.com/commerce/services/graphql/recommendations/recommendations/) GraphQL查詢。
 
 ### V1.10版本
 
@@ -110,7 +110,7 @@ _2023年6月27日_
 
 [!BADGE 支援]{type=Informative tooltip="支援"}
 
-![新增](assets/package.png) 目錄服務API現在支援「相關產品」。
+![新](assets/package.png)目錄服務API現在支援「相關產品」。
 
 ### V1.7版本
 
@@ -118,8 +118,8 @@ _2023年4月12日_
 
 [!BADGE 支援]{type=Informative tooltip="支援"}
 
-![新增](assets/package.png) 目錄服務現在會清理已刪除的產品變體。
-![修正](assets/package.png) 基礎建設擴充能力與效能提升。
+![新](assets/package.png)目錄服務現在會清除已刪除的產品變體。
+![修正](assets/package.png)基礎架構擴充性與效能的改善。
 
 ### V1.6版本
 
@@ -127,8 +127,8 @@ _2023年3月28日_
 
 [!BADGE 支援]{type=Informative tooltip="支援"}
 
-![新增](assets/package.png) 將色票新增至 [`products`](https://developer.adobe.com/commerce/services/graphql/catalog-service/products/) 查詢。
-![新增](https://www.adobe.com/tw/).
+![新](assets/package.png)已新增色票至[`products`](https://developer.adobe.com/commerce/services/graphql/catalog-service/products/)查詢。
+![新](https://www.adobe.com/tw/)。
 
 ### V1.5版本
 
@@ -136,17 +136,17 @@ _2023年3月6日_
 
 [!BADGE 支援]{type=Informative tooltip="支援"}
 
-![新增](assets/package.png) 已新增 [`categories`](https://developer.adobe.com/commerce/services/graphql/schema/catalog-service/categories/) GraphQL功能。
-![修正](assets/package.png) 改善效能和API擴充性。
+![新](assets/package.png)已新增[`categories`](https://developer.adobe.com/commerce/services/graphql/schema/catalog-service/categories/) GraphQL功能。
+![修正](assets/package.png)已改善效能和API擴充性。
 
 ### V1.4版本
 
-_2023年2月7_
+_2023年2月7日_
 
 [!BADGE 支援]{type=Informative tooltip="支援"}
 
-![新增](assets/package.png) 已發佈目錄服務中繼資料以簡化安裝步驟。
-![修正](assets/package.png) API擴充性和效能的改善。
+![新增](assets/package.png)已發佈的目錄服務中繼資料以簡化安裝步驟。
+![修正](assets/package.png) API擴充性和效能改善。
 
 ### V1.3版本
 
@@ -154,10 +154,10 @@ _2023年1月17日_
 
 [!BADGE 支援]{type=Informative tooltip="支援"}
 
-![新增](assets/package.png) 簡化並改善入門體驗。
-![新增](assets/package.png) 新的客戶沙箱端點可用於生產前測試。
-![新增](assets/package.png) 新增對虛擬產品的支援。
-![修正](assets/package.png) API擴充性和效能的改善。
+![新](assets/package.png)簡化並改善入門體驗。
+![新的](assets/package.png)新客戶沙箱端點可用於生產前測試。
+已新增虛擬產品的![新](assets/package.png)支援。
+![修正](assets/package.png) API擴充性和效能改善。
 
 ### V1.1版本
 
@@ -165,8 +165,8 @@ _2022年11月18日_
 
 [!BADGE 支援]{type=Informative tooltip="支援"}
 
-![新增](assets/package.png) 目錄服務現在支援Adobe的 [API網格](https://developer.adobe.com/graphql-mesh-gateway/).
-![修正](assets/package.png) 改善API擴充性和整體效能。
+![新](assets/package.png)目錄服務現在支援Adobe的[API網格](https://developer.adobe.com/graphql-mesh-gateway/)。
+![修正](assets/package.png)已改善API擴充性和整體效能。
 
 ### V1.0版本
 
@@ -174,9 +174,9 @@ _2022年10月4日_
 
 [!BADGE 支援]{type=Informative tooltip="支援"}
 
-![新增](assets/package.png) 現在支援套件和分組的產品。
-![新增](assets/package.png) 新增B2B可見性覆寫。 產品現在可供搜尋，並可新增至特定客戶群組的購物車。
-![修正](assets/package.png) 服務現在更穩定，效能也有所改善。
+![新](assets/package.png)現在支援套件和分組的產品。
+![新](assets/package.png)已新增B2B可見性覆寫。 產品現在可供搜尋，並可新增至特定客戶群組的購物車。
+![Fix](assets/package.png)服務現在更穩定且效能更佳。
 
 ### 0.3版 — Beta+
 
@@ -184,18 +184,18 @@ _2022年9月12日_
 
 [!BADGE 支援]{type=Informative tooltip="支援"}
 
-![新增](assets/package.png) 變體支援的影像：根據選取的選項傳回產品影像
-![新增](assets/package.png) 價格支援的角色：僅允許特定客戶群組的成員檢視產品價格
-![修正](assets/package.png) 改善服務的穩定性與效能
-![新增](assets/package.png) 從目錄中刪除產品時，會收到更新
+![新](assets/package.png)支援變體的影像：根據選取的選項傳回產品影像
+![新的](assets/package.png)價格支援角色：僅允許特定客戶群組的成員檢視產品價格
+![修正](assets/package.png)已改善服務的穩定性和效能
+從目錄中刪除產品時收到![新的](assets/package.png)更新
 
-### 測試版本
+### Beta版本
 
-_2022 年 8 月 9 日_
+_2022年8月9日_
 
 [!BADGE 支援]{type=Informative tooltip="支援"}
 
-![新增](assets/package.png) 此 `products` 和 `refineProduct` 查詢會傳回以下資料：
+![新](assets/package.png) `products`和`refineProduct`查詢傳回下列資料：
 
 * 預先定義的（系統）產品屬性。
 * 動態產品屬性，並依角色（產品顯示頁面/產品清單頁面）篩選。
@@ -213,7 +213,7 @@ _2022 年 8 月 9 日_
 
 ## 測試以自動啟用
 
-我已在星期五下午新增此專案，但未按一下「立即發佈」。
+我已在星期五下午新增此專案，但未按一下「立即Publish」。
 
 ### [!BADGE Beta]{type=Informative}
 
@@ -221,7 +221,7 @@ _2022 年 8 月 9 日_
 
 ## UGP-10565 — 文字醒目提示
 
-在此之前的文字 `<div class="preview">`
+`<div class="preview">`之前的文字
 
 <div class="preview">
 
@@ -229,7 +229,7 @@ _2022 年 8 月 9 日_
 
 您可以將Workfront原生欄位新增至自訂表單。 當自訂表單附加到物件時，會從物件資料填入欄位。 例如，附加到專案的自訂表單上的說明欄位將提取專案說明。 （如果沒有可用資料，欄位可能會顯示「N/A」。）
 
-1. 在畫面左側，尋找 **原生欄位** 並將其拖曳至畫布上的區段。
+1. 在熒幕左側，尋找&#x200B;**原生欄位**&#x200B;並將其拖曳至畫布上的區段。
 1. 在畫面右側，設定自訂欄位的選項：
 
    <table style="table-layout:auto"> 
@@ -264,7 +264,7 @@ _2022 年 8 月 9 日_
     </tbody> 
    </table>
 
-1. 若要儲存變更，請按一下 **套用** 並移至另一個區段，以繼續建立您的表單。
+1. 若要儲存您的變更，請按一下[套用] ****，然後移至其他區段以繼續建立您的表單。
 
    或
 
@@ -287,10 +287,10 @@ _2022 年 8 月 9 日_
 </tr>
 <tr> 
     <td role="rowheader">標籤</td> 
-    <td> <p>（必要）輸入描述性標籤，以在自訂欄位上方顯示。 您可以隨時變更標籤。 如需詳細資訊，請參閱 <a href="https://www.adobe.com/tw/" class="MCXref xref">新增自訂欄位至自訂表單</a> 本文章內容。</p> <p><b>重要</b>：請避免在此標籤中使用特殊字元。 它們在報表中無法正確顯示。</p> </td> 
+    <td> <p>（必要）輸入描述性標籤，以在自訂欄位上方顯示。 您可以隨時變更標籤。 如需詳細資訊，請參閱本文中的<a href="https://www.adobe.com/tw/" class="MCXref xref">新增自訂欄位至自訂表單</a>。</p> <p><b>重要</b>：請避免在此標籤中使用特殊字元。 它們在報表中無法正確顯示。</p> </td> 
     <td>
     <ul>
-    <li>選項按鈕。 如需詳細資訊，請參閱 <a href="https://www.adobe.com/tw/">新增自訂欄位至自訂表單</a> 本文章內容。 （無類別）</li>
+    <li>選項按鈕。 如需詳細資訊，請參閱本文中的<a href="https://www.adobe.com/tw/">新增自訂欄位至自訂表單</a>。 （無類別）</li>
     <li>核取方塊群組</li>
     <li>下拉式清單</li>
     </ul></td>
@@ -302,36 +302,36 @@ _2022 年 8 月 9 日_
 
 「span」標籤在NOTE （和清單）中無法正常運作
 
-如需有關新註解體驗中哪些功能可用以及哪些物件的資訊，請參閱 [新的評論體驗](note-test.md).
+如需有關新註解體驗中哪些功能可用以及哪些物件的資訊，請參閱[新註解體驗](note-test.md)。
 
 1. 移至您要新增回覆的物件。
-1. 按一下 **更新**，然後按一下 **註解** 定位物件，並尋找您要回覆的註解或回覆
+1. 按一下&#x200B;**更新**，然後按一下物件的&#x200B;**註解**&#x200B;標籤，並尋找您要回覆的註解或回覆
 
    或
 
-   <span class="preview">按一下 **全部** 標籤，然後按一下 **在評論中回覆** 以在「註解」標籤中開啟註解並回覆。 您無法在「全部」索引標籤中回覆。</span>
+   <span class="preview">按一下&#x200B;**全部**&#x200B;標籤，然後按一下&#x200B;**在註解中回覆**，開啟註解標籤中的註解並回覆。 您無法在[全部]索引標籤中回覆。</span>
 
-1. （可選）若要在回覆中包含先前更新的文字，請按一下 **更多** 選單，然後按一下 **引用回覆**. 先前更新的文字會出現在輸入區域中，以垂直灰色線標示。
-1. 按一下 **回覆**.
+1. （選擇性）若要將先前更新中的文字包含在回覆中，請按一下您要回覆之評論右上角的&#x200B;**更多**&#x200B;功能表，然後按一下&#x200B;**引號回覆**。 先前更新的文字會出現在輸入區域中，以垂直灰色線標示。
+1. 按一下&#x200B;**回覆**。
 
    ![](assets/package.png)
 
-   您可以在頁面底部看到目前參與交談的使用者 **新增回覆……** 方塊中，您可以新增更多或移除不再相關的專案。 這些使用者以及訂閱物件的任何使用者會在物件進行更新或回覆時收到通知。 您也可以標籤更多使用者，讓他們加入您的回覆中。  若要標籤更多使用者，請參閱 [標籤其他人的更新](note-test.md).
+   您可以在&#x200B;**新增回覆……**&#x200B;方塊底部看到目前參與交談的使用者，您可以新增更多或移除不再相關的使用者。 這些使用者以及訂閱物件的任何使用者會在物件進行更新或回覆時收到通知。 您也可以標籤更多使用者，讓他們加入您的回覆中。  若要標籤更多使用者，請參閱[標籤其他人的更新](note-test.md)。
 
    >[!TIP]
    >
-   >   若要新增其他回覆至現有的回覆，您可以開始輸入 **新增回覆……** 方塊，或按一下 **回覆** 在原始註解上。 您的回覆會新增至對話串的結尾。
+   >   若要新增其他回復到現有的回覆，您可以開始在&#x200B;**新增回覆……**&#x200B;方塊中輸入，或按一下原始評論上的&#x200B;**回覆**。 您的回覆會新增至對話串的結尾。
 
-1. 開始輸入您的回覆，並使用RTF工具列的任何其他選項。 如需有關使用RTF或其他更新功能的資訊，請參閱 [更新工作](note-test.md).
+1. 開始輸入您的回覆，並使用RTF工具列的任何其他選項。 如需使用RTF或其他更新功能的相關資訊，請參閱[更新工作](note-test.md)。
 
-1. 按一下 **提交** 以儲存回覆。
+1. 按一下&#x200B;**提交**&#x200B;以儲存回覆。
 
-1. （可選）按一下 **更多** 選單（位於您要回覆的評論右上角），以取得管理回覆的更多選項。 如需詳細資訊，請參閱 [更新工作](note-test.md).
+1. （選擇性）按一下您要回覆的評論右上角的&#x200B;**更多**&#x200B;功能表，取得管理回覆的更多選項。 如需詳細資訊，請參閱[更新工作](note-test.md)。
 
 
 ## UGP-10614 — 有影像的問題表格
 
-我認為 `{width="20"}` 引數造成表格中出現問題。
+我認為`{width="20"}`引數造成資料表發生問題。
 
 ## Expert 和 Ultimate 成功計劃的比較
 

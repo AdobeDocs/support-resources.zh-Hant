@@ -1,7 +1,8 @@
 ---
 title: Adode Crux Podcast
 description: CRUX Podcast系列中的第7集
-source-git-commit: 830de28adb358ae69ae4bb51dd41c507433bd5c0
+exl-id: 1240e927-4db0-4053-be36-747471998c67
+source-git-commit: 4c1a12cc8114f14e09856d5552e1afdde6f85465
 workflow-type: tm+mt
 source-wordcount: '15'
 ht-degree: 0%

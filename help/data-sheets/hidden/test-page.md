@@ -3,7 +3,8 @@ title: 測試頁面 (隱藏)
 description: 目的在進行內部測試的測試頁面
 hide: true
 hidefromtoc: true
-source-git-commit: 1441a6586f61917b286e74ac76427084859c418b
+exl-id: 40a9a186-54c4-409e-8afb-35e8e3c8503f
+source-git-commit: 972704990172c966a27744b49b9f7af5626e9f3e
 workflow-type: tm+mt
 source-wordcount: '1026'
 ht-degree: 73%
@@ -16,17 +17,17 @@ ht-degree: 73%
 
 ## 歡迎使用AEM EDS！
 
-發佈測試
+Publish測試
 
 ## 按鈕
 
-[按鈕預設](https://www.adobe.com/)
+[按鈕預設](https://www.adobe.com/tw)
 
-**[主要按鈕](https://www.adobe.com/)**
+**[主要按鈕](https://www.adobe.com/tw)**
 
-_[次要按鈕](https://www.adobe.com/)_
+_[次要按鈕](https://www.adobe.com/tw)_
 
-**_[第三按鈕](https://www.adobe.com/)_**
+**_[第三按鈕](https://www.adobe.com/tw)_**
 
 ## 影像 (EXLM-412)
 
@@ -197,7 +198,7 @@ _[次要按鈕](https://www.adobe.com/)_
   </td>
   <td valign="top">
     <a href="/help/data-sheets/business.md">
-       <img alt="效能" src="assets/package.png" width="40" height="40"/>
+       <img alt="績效" src="assets/package.png" width="40" height="40"/>
     </a>
     <div>
       <a href="/help/data-sheets/business.md"><strong>效能最佳實務</strong></a>
@@ -220,7 +221,7 @@ _[次要按鈕](https://www.adobe.com/)_
       <img alt="實作" src="assets/package.png" width="40" height="40"/>
     </a>
     <div>
-      <a href="/help/data-sheets/business.md"><strong>實施行動手冊</strong></a>
+      <a href="/help/data-sheets/business.md"><strong>實作行動手冊</strong></a>
       <p>了解規劃及實施成功 Adobe Commerce 網站的策略。</p>
     </div>
   </td>
@@ -238,7 +239,7 @@ _[次要按鈕](https://www.adobe.com/)_
        <img alt="企業" src="assets/package.png" width="40" height="40"/>
     </a>
     <div>
-      <a href="/help/data-sheets/business.md"><strong>大規模商務</strong></a>
+      <a href="/help/data-sheets/business.md"><strong>規模的Commerce</strong></a>
       <p>了解如何透過 Adobe Experience Manager 使用 Adobe Commerce 大規模提供體驗。</p>
     </div>
   </td>
@@ -279,7 +280,7 @@ _[次要按鈕](https://www.adobe.com/)_
       <img alt="設定" src="assets/package.png" width="40" height="40"/>
     </a>
     <br>
-    <a href="/help/data-sheets/business.md"><strong>設定</strong></a>
+    <a href="/help/data-sheets/business.md"><strong>組態</strong></a>
     <p>為您的Adobe Commerce應用程式設定功能與服務。</p>
   </td>
   <td valign="top">
@@ -310,7 +311,7 @@ _[次要按鈕](https://www.adobe.com/)_
   </td>
   <td valign="top">
     <a href="/help/data-sheets/business.md">
-       <img alt="效能" src="assets/package.png" width="40" height="40"/>
+       <img alt="績效" src="assets/package.png" width="40" height="40"/>
     </a>
     <br>
     <a href="/help/data-sheets/business.md"><strong>效能最佳實務</strong></a>
@@ -331,7 +332,7 @@ _[次要按鈕](https://www.adobe.com/)_
       <img alt="實作" src="assets/package.png" width="40" height="40"/>
     </a>
     <br>
-    <a href="/help/data-sheets/business.md"><strong>實施行動手冊</strong></a>
+    <a href="/help/data-sheets/business.md"><strong>實作行動手冊</strong></a>
     <p>了解規劃及實施成功 Adobe Commerce 網站的策略。</p>
   </td>
   <td valign="top">
@@ -347,7 +348,7 @@ _[次要按鈕](https://www.adobe.com/)_
        <img alt="企業" src="assets/package.png" width="40" height="40"/>
     </a>
     <br>
-    <a href="/help/data-sheets/business.md"><strong>大規模商務</strong></a>
+    <a href="/help/data-sheets/business.md"><strong>按比例縮放的Commerce</strong></a>
     <p>了解如何透過 Adobe Experience Manager 使用 Adobe Commerce 大規模提供體驗。</p>
   </td>
   <td valign="top">
