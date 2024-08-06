@@ -2,10 +2,10 @@
 title: Adobe 成功計劃總覽
 description: 本文提供 Adobe Experience Cloud、Adobe Document Cloud 和 Adobe Creative Cloud 的客戶支援選項摘要。
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: 2823ae203ecf04f69135b2af9af817ef19a55ee3
+source-git-commit: ce457445cf12559cccbf80b06d390d01c40281d7
 workflow-type: tm+mt
-source-wordcount: '2201'
-ht-degree: 100%
+source-wordcount: '2199'
+ht-degree: 99%
 
 ---
 
@@ -36,7 +36,7 @@ Adobe 成功計劃超越了被動式問題解決方案，為您帶來全新的�
 | **進階雲端支援附加元件**<br>&#x200B;對 Adobe Experience Manager as a Cloud Service 客戶的頂級服務和價值保證 | ![可用圖示](assets/Plus_blue.svg){width="20"} 可用 | ![可用圖示](assets/Plus_blue.svg){width="20"} 可用 |
 | **導師輔導附加元件**<br>&#x200B;以即時訓練方法提供基於技能的學習 | ![可用圖示](assets/Plus_blue.svg){width="20"} 可用 | ![可用圖示](assets/green_checkmark.svg){width="20"} 已包含 |
 | **開發人員強化附加元件**<br>&#x200B;可聯絡現場工程專家來協助進行故障修復工作 | ![可用圖示](assets/Plus_blue.svg){width="20"} 可用 | ![已包含圖示](assets/green_checkmark.svg){width="20"} 已包含 |
-| **優先級佇列套件組合附加元件**<br>&#x200B;免排隊優先處理您的票證，並獲得導師輔導和開發人員強化的額外存取權限 | ![可用圖示](assets/Plus_blue.svg){width="20"} 可用 | ![已包含圖示](assets/green_checkmark.svg){width="20"} 已包含 |
+| **優先佇列套件附加元件**<br>&#x200B;提供更快的回應時間、支援活動的單一連絡視窗，以及成功加速程式的存取權。 | ![可用圖示](assets/Plus_blue.svg){width="20"} 可用 | ![已包含圖示](assets/green_checkmark.svg){width="20"} 已包含 |
 
 {style="table-layout:fixed"}
 
@@ -177,7 +177,7 @@ Adobe Commerce 的標準支援：授權期限的開始日期在 2021 年 9 月 2
   </tr>
   <tr>
     <td>入門 </td>
-    <td>最佳作法諮詢，驗證解決方案實施、功能和整合是否「適合使用」，以及啟動準備狀態的準確性。可能包括性能/負載測試，視解決方案而定 </td>
+    <td>最佳作法諮詢，驗證解決方案實施、功能和整合是否「適合使用」，以及啟動準備狀態的準確性。可能包括效能/負載測試，視解決方案而定 </td>
     <td></td>
   </tr>
   <tr>
