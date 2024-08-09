@@ -3,9 +3,9 @@ title: Adobe 成功計劃總覽
 description: 本文提供 Adobe Experience Cloud、Adobe Document Cloud 和 Adobe Creative Cloud 的客戶支援選項摘要。
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
 source-git-commit: ce457445cf12559cccbf80b06d390d01c40281d7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2199'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -36,7 +36,7 @@ Adobe 成功計劃超越了被動式問題解決方案，為您帶來全新的�
 | **進階雲端支援附加元件**<br>&#x200B;對 Adobe Experience Manager as a Cloud Service 客戶的頂級服務和價值保證 | ![可用圖示](assets/Plus_blue.svg){width="20"} 可用 | ![可用圖示](assets/Plus_blue.svg){width="20"} 可用 |
 | **導師輔導附加元件**<br>&#x200B;以即時訓練方法提供基於技能的學習 | ![可用圖示](assets/Plus_blue.svg){width="20"} 可用 | ![可用圖示](assets/green_checkmark.svg){width="20"} 已包含 |
 | **開發人員強化附加元件**<br>&#x200B;可聯絡現場工程專家來協助進行故障修復工作 | ![可用圖示](assets/Plus_blue.svg){width="20"} 可用 | ![已包含圖示](assets/green_checkmark.svg){width="20"} 已包含 |
-| **優先佇列套件附加元件**<br>&#x200B;提供更快的回應時間、支援活動的單一連絡視窗，以及成功加速程式的存取權。 | ![可用圖示](assets/Plus_blue.svg){width="20"} 可用 | ![已包含圖示](assets/green_checkmark.svg){width="20"} 已包含 |
+| **優先等級佇列套裝附加元件**<br>&#x200B;提供更快的回應時間、支援活動的單點聯絡，以及對成功加速器的存取。 | ![可用圖示](assets/Plus_blue.svg){width="20"} 可用 | ![已包含圖示](assets/green_checkmark.svg){width="20"} 已包含 |
 
 {style="table-layout:fixed"}
 
