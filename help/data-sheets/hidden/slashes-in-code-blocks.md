@@ -3,10 +3,10 @@ title: 程式碼區塊中的斜線UGP-11189
 description: 程式碼區塊中的斜線UGP-11189測試
 hide: true
 hidefromtoc: true
-source-git-commit: 2255dad674f1b4d456ffb50ebec9313bc4b3d7f5
+source-git-commit: 4fc9b739d18941d276b88f8799163523c8bd5f85
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 0%
+source-wordcount: '45'
+ht-degree: 4%
 
 ---
 
@@ -18,17 +18,12 @@ ht-degree: 0%
    vendor/bin/magento-patches -n status |grep "27015\|Status"
    ```
 
-1. 執行命令（逸出）：
-
-   ```bash
-   vendor/bin/magento-patches -n status |grep "27015&bsol;|Status"
-   ```
+1. 下一步
 
 不在程式碼區塊中
 
 廠商/bin/magento-patches -n狀態 |grep &quot;27015\|Status&quot;
 
-逸出：
+逸出的反斜線：
 
 廠商/bin/magento-patches -n狀態 |grep &quot;27015&amp;amp；bsol；|Status&quot;
-
