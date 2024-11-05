@@ -4,10 +4,10 @@ description: 此頁面已從搜尋和目錄中隱藏
 hide: true
 hidefromtoc: true
 exl-id: 822b2044-195c-4721-9b81-345d88f8aa2d
-source-git-commit: b9f43e9070d4b70ec039af68a6819c18224a430e
+source-git-commit: 6315dae3fe82b4db81fbb8d964e4e72f7e395465
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 40%
+source-wordcount: '58'
+ht-degree: 43%
 
 ---
 
@@ -25,8 +25,6 @@ ht-degree: 40%
 + [重新導向測試](hidden/test-redirection.md)
 + [自動啟用測試](hidden/autoactivate.md)
 
-## 新增章節
+## 新區段Akamai
 
-我目前沒有按一下Publish，因此如果您看到這個選項，自動啟用就會運作。
-
-2024年8月7日
+測試以檢視變更是否隨AEM Live上線。
