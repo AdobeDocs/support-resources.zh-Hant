@@ -5,10 +5,10 @@ product: experience cloud
 type: Documentation
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/support-resources.zh-Hant
-index: true
-source-git-commit: a61b2a003aba811899ff7d28da91f0f955384e30
+hide: true
+source-git-commit: 7e4ac30891832abca354e4f42530cc22aa808998
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '53'
 ht-degree: 100%
 
 ---
