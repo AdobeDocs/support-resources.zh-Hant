@@ -6,7 +6,7 @@ feature: Success Plans
 source-git-commit: af88f8e75bcc3a5402c8b81ea2cf2a219e06e6fe
 workflow-type: tm+mt
 source-wordcount: '143'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -53,8 +53,8 @@ ht-degree: 98%
 + [隱藏表格測試](hidden/tables.md)
 + [隱藏表格分區符號](hidden/table-breaks.md)
 + [隱藏註釋測試](hidden/note-test.md)
-+ 測試區段{#test-section}
-   + [隱藏新功能僅自動啟動](hidden/autoactivate.md)
++ 測試區段 {#test-section}
+   + [僅限隱藏的新自動啟動](hidden/autoactivate.md)
 
 <!--
 + [Hidden table breaks](hidden/table-breaks.md)
