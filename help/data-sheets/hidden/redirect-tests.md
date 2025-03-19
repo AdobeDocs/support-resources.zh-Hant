@@ -3,10 +3,11 @@ description: 一棧外部重新導向
 title: 重新導向測試
 hide: true
 hidefromtoc: true
-source-git-commit: 28328922d7213abc4bb115b85686d74e10fcaefe
+exl-id: 5a6af4ed-120d-44b5-ba91-f55fdbacfd8f
+source-git-commit: 0b336ae2ef1d02a6283b48752c5b12ebd5e09ca2
 workflow-type: tm+mt
-source-wordcount: '27'
-ht-degree: 0%
+source-wordcount: '81'
+ht-degree: 1%
 
 ---
 
@@ -42,6 +43,18 @@ ht-degree: 0%
 
 <https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/content-accelerator>
 
+<https://docs.adobe.com/docs/en/spec/jcr/2.0/10_Writing.html#10.10.3>
+
+AEM 6.5指南中的不正確連結（連結URL包括多餘的間距）：
+
+如需詳細資訊，請參閱[指派Mixin節點型別]&#x200B;(https://docs.adobe.com/docs/en/spec/jcr/2.0/10_Writing.html#10.10.3指派Mixin節點型別)和[新增節點及設定屬性]&#x200B;(https://docs.adobe.com/docs/en/spec/jcr/2.0/10_Writing.html#10.4新增節點及設定屬性)
+
+請參閱[編輯360/VR視訊](https://helpx.adobe.com/premiere-pro/how-to/edit-360-vr-video.html)。
+
+檢視[AEM案頭應用程式](https://helpx.adobe.com/experience-manager/desktop-app/aem-desktop-app.html)
+
+* [[!DNL Adobe Stock] 常見問題集](https://helpx.adobe.com/stock/faq.html)
+
 ## 重新導向已中斷
 
 重新導向404s
@@ -49,6 +62,8 @@ ht-degree: 0%
 <https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-management/nonsense>
 
 ## 在評論和程式碼區塊內重新導向
+
+使用下列連結加上註解：
 
 <!--
 <https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/content-accelerator>
