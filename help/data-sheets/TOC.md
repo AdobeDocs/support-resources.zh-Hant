@@ -6,7 +6,7 @@ feature: Success Plans
 source-git-commit: a03302829e6f88ba15e94a37a45fd33ce0cd0b6a
 workflow-type: tm+mt
 source-wordcount: '148'
-ht-degree: 96%
+ht-degree: 97%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 96%
      [第 2 集 - Karrie Benjamin](episode2.md)
      [第 3 集 - George Kotsinis](episode3.md)
      [第 4 集 - Jessica Ouellette](episode4.md)
-     [Ep.5 - Corey Blackburn](episode5.md)
+     [第 5 集 - Corey Blackburn](episode5.md)
      [第 6 集 - Kelly Oja](episode6.md)
      [第 7 集 - Chris Diaz](episode7.md)
      [第 8 集 - Vincent Lee](episode8.md)
@@ -54,7 +54,7 @@ ht-degree: 96%
 + [隱藏表格測試](hidden/tables.md)
 + [隱藏表格分區符號](hidden/table-breaks.md)
 + [隱藏註釋測試](hidden/note-test.md)
-+ [隱藏的重新導向](hidden/redirect-tests.md)
++ [隱藏重新導向](hidden/redirect-tests.md)
 + 測試區段 {#test-section}
    + [僅限隱藏的新自動啟動](hidden/autoactivate.md)
 
