@@ -4,9 +4,9 @@ user-guide-description: Adobe Experience Cloud 和 Adobe Experience Platform 的
 feature-set: Experience Cloud
 feature: Success Plans
 source-git-commit: a03302829e6f88ba15e94a37a45fd33ce0cd0b6a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '148'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -42,7 +42,7 @@ ht-degree: 97%
 + [條款與條件](https://helpx.adobe.com/tw/support/programs/support-policies-terms-conditions.html){target="_blank"}
 + [隱藏概觀](hidden-overview.md)
 + [隱藏的疑難排解](hidden-trouble.md)
-+ [隱藏湖邊測試](hidden-lakshay-test.md)
++ [隱藏 Lakshay 測試](hidden-lakshay-test.md)
 + [隱藏程式碼區塊中的斜線](hidden/slashes-in-code-blocks.md)
 + [隱藏的新測試](hidden-new-test.md)
 + [隱藏的新測試 2](hidden-new-test-2.md)
