@@ -6,16 +6,16 @@ hidefromtoc: true
 badgePremium: label="Premium" type="Positive" url="https://www.premium-product.com" tooltip="下載 Premium"
 badgeExam: label="測驗 ADO-E903" type="neutral"
 exl-id: 45f70aca-5885-4da0-90d7-50fbf44de9dc
-source-git-commit: cc4ccfeda4a83694d34723b1b9d8844fc14b79a0
+source-git-commit: 571a428c6b4caeb651264bb5895ca5dd21d8663d
 workflow-type: tm+mt
-source-wordcount: '1276'
-ht-degree: 100%
+source-wordcount: '1272'
+ht-degree: 99%
 
 ---
 
 # 隱藏測試頁面
 
-啟用?下午 3:10 左右重新檢查提交。 下午 3:30 會上線嗎?
+預覽？ 應該透過Jenkins而來。 3月31日
 
 ## 問題表 (內含影像)
 
@@ -158,10 +158,10 @@ badgeExam: label="Exam ADO-E903" type="neutral"
 | 類型 | 徽章 |
 |---|---|
 | 資訊性 (預設) | [!BADGE Beta]{type=Informative url="https://www.example.com"} |
-| 正面 | [!BADGE 新功能]{type=Positive url="https://www.example.com" tooltip="前往 example.com"} |
-| 負面 | [!BADGE 已終止]{type=negative tooltip="This feature is now end of life"} |
-| 中立 | [!BADGE 也許]{type=Neutral tooltip="A rider fell off the horse..."} |
-| 警告 | [!BADGE 注意]{type=Caution tooltip="Yellow status"} |
+| 正面 | [!BADGE 新功能]{type=Positive url=&quot;https://www.example.com&quot; tooltip=&quot;前往 example.com&quot;} |
+| 負面 | [!BADGE 已終止]{type=negative tooltip=&quot;This feature is now end of life&quot;} |
+| 中立 | [!BADGE 也許]{type=Neutral tooltip=&quot;A rider fell off the horse...&quot;} |
+| 警告 | [!BADGE 注意]{type=Caution tooltip=&quot;Yellow status&quot;} |
 
 語法範例
 
