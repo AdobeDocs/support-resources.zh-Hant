@@ -6,16 +6,18 @@ hidefromtoc: true
 badgePremium: label="Premium" type="Positive" url="https://www.premium-product.com" tooltip="下載 Premium"
 badgeExam: label="測驗 ADO-E903" type="neutral"
 exl-id: 45f70aca-5885-4da0-90d7-50fbf44de9dc
-source-git-commit: 571a428c6b4caeb651264bb5895ca5dd21d8663d
+source-git-commit: 44f293b1bf767eb485332d7766fc87ce00146da9
 workflow-type: tm+mt
-source-wordcount: '1272'
+source-wordcount: '1274'
 ht-degree: 99%
 
 ---
 
 # 隱藏測試頁面
 
-預覽？ 應該透過Jenkins而來。 3月31日
+預覽重試？ 應該透過Jenkins而來。 3月31日
+
+上午11:46
 
 ## 問題表 (內含影像)
 
