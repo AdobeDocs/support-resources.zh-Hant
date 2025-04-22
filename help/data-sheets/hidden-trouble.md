@@ -5,10 +5,10 @@ type: Troubleshooting
 hide: true
 hidefromtoc: true
 exl-id: dfb54d2d-e4f4-420f-8e91-f1aba704cb31
-source-git-commit: 67de7cd70c1f75d65e6d88c05a66058f6c6ead7e
+source-git-commit: a9acc52cf5469ffeb9711ac6f4b52d54bb99086f
 workflow-type: tm+mt
-source-wordcount: '36'
-ht-degree: 11%
+source-wordcount: '58'
+ht-degree: 6%
 
 ---
 
@@ -18,7 +18,23 @@ ht-degree: 11%
 
 ## 程式碼表格
 
-直接代碼
+**在資料表**&#x200B;之外
+
+```json
+PrimaryIdentities [
+  {"id": "ccid-2", "namespace": "CCID"},
+  {"id": "ecid-1", "namespace": "ECID"},
+  {"id": "ecid-2", "namespace": "ECID"}
+  ]
+NonPrimaryIdentities [
+  {"id": "ccid-1", "namespace": "CCID"},
+  {"id": "ecid-3", "namespace": "ECID"}
+  ]
+  "id": "ccid-1",
+    "namespace": "CCID"
+```
+
+在資料表&#x200B;**中**&#x200B;直接代碼
 
 <table>
     <tr>
@@ -31,8 +47,7 @@ ht-degree: 11%
     </tr>
   </table>
 
-使用pre lang code
-
+**在資料表**&#x200B;中使用pre lang程式碼
 
 <table>
     <tr>
@@ -45,3 +60,10 @@ ht-degree: 11%
     </tr>
   </table>
 
+## 含有新標籤的深層連結
+
+按一下這裡： [在新索引標籤中開啟文章的相對連結](hidden/bug-fixes.md#test-for-autoactivate){target=_blank}
+
+```
+Click here: [Relative link to article open in new tab](hidden/bug-fixes.md#test-for-autoactivate){target=_blank}
+```
