@@ -18,49 +18,49 @@ ht-degree: 7%
 
 ：：：：：landing-cards-container
 ：：：
-![替代文字](https://experienceleague.adobe.com/en/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
+![替代文字](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
 
 標題1
 
 這是卡片說明。
 這是卡片內文內容。
-[進一步瞭解](https://experienceleague.adobe.com/)
+[進一步瞭解](https://experienceleague.adobe.com/zh-hant)
 ：：：
 ：：：
-![替代文字](https://experienceleague.adobe.com/en/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
+![替代文字](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
 
 標題1
 
 這是卡片說明。
 這是卡片內文內容。
-[進一步瞭解](https://experienceleague.adobe.com/)
+[進一步瞭解](https://experienceleague.adobe.com/zh-hant)
 ：：：
 ：：：
-![替代文字](https://experienceleague.adobe.com/en/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
+![替代文字](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
 
 標題1
 
 這是卡片說明。
 這是卡片內文內容。
-[進一步瞭解](https://experienceleague.adobe.com/)
+[進一步瞭解](https://experienceleague.adobe.com/zh-hant)
 ：：：
 ：：：
-![替代文字](https://experienceleague.adobe.com/en/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
+![替代文字](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
 
 標題1
 
 這是卡片說明。
 這是卡片內文內容。
-[進一步瞭解](https://experienceleague.adobe.com/)
+[進一步瞭解](https://experienceleague.adobe.com/zh-hant)
 ：：：
 ：：：
-![替代文字](https://experienceleague.adobe.com/en/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
+![替代文字](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
 
 標題1
 
 這是卡片說明。
 這是卡片內文內容。
-[進一步瞭解](https://experienceleague.adobe.com/)
+[進一步瞭解](https://experienceleague.adobe.com/zh-hant)
 ：：：
 ：：：：
 
@@ -73,7 +73,7 @@ ht-degree: 7%
 
 這是卡片說明。
 這是卡片內文內容。
-[進一步瞭解](https://experienceleague.adobe.com/)
+[進一步瞭解](https://experienceleague.adobe.com/zh-hant)
 ：：：
 ：：：
 
@@ -81,7 +81,7 @@ ht-degree: 7%
 
 這是卡片說明。
 這是卡片內文內容。
-[進一步瞭解](https://experienceleague.adobe.com/)
+[進一步瞭解](https://experienceleague.adobe.com/zh-hant)
 ：：：
 ：：：
 
@@ -89,7 +89,7 @@ ht-degree: 7%
 
 這是卡片說明。
 這是卡片內文內容。
-[進一步瞭解](https://experienceleague.adobe.com/)
+[進一步瞭解](https://experienceleague.adobe.com/zh-hant)
 ：：：
 ：：：
 
@@ -97,7 +97,7 @@ ht-degree: 7%
 
 這是卡片說明。
 這是卡片內文內容。
-[進一步瞭解](https://experienceleague.adobe.com/)
+[進一步瞭解](https://experienceleague.adobe.com/zh-hant)
 ：：：
 ：：：
 
@@ -105,6 +105,6 @@ ht-degree: 7%
 
 這是卡片說明。
 這是卡片內文內容。
-[進一步瞭解](https://experienceleague.adobe.com/)
+[進一步瞭解](https://experienceleague.adobe.com/zh-hant)
 ：：：
 ：：：：

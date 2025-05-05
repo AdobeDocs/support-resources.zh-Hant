@@ -287,7 +287,7 @@ This is text inside a collapsible section.
 * 您可以在可摺疊的區段中新增標題，但不建議這麼做。
 * [摺疊式功能表不一定是桌上型電腦上複雜內容的答案](https://www.nngroup.com/articles/accordions-complex-content/)
 * 可摺疊區段的一個歷史缺點是&#x200B;**在頁面**&#x200B;中尋找(Ctrl/Cmd+F)會忽略摺疊文字。 雖然這在Safari中仍為真，但在Chrome中不再為真；在頁面中尋找會偵測Chrome中的摺疊文字。
-* 使用可摺疊區段的[維護更新](https://experienceleague.adobe.com/docs/workfront-known-issues/releases/current-updates.html?lang=en)頁面的範例。
+* 使用可摺疊區段的[維護更新](https://experienceleague.adobe.com/docs/workfront-known-issues/releases/current-updates.html?lang=zh-Hant)頁面的範例。
 
 ## 註解與註解
 
