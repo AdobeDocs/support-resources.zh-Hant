@@ -50,7 +50,7 @@ ht-degree: 0%
 
    ![](assets/adobe-logo-old.png)
 
-1. 在左側功能表的[安全性]下，按一下[Data Warehouse] ****。
+1. 在左側功能表的[安全性]下，按一下[Data Warehouse] **&#x200B;**。
 
    ![](assets/adobe-logo-old.png)
 

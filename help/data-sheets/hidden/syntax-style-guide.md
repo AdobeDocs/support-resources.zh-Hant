@@ -132,7 +132,7 @@ There are two ways to create badges:
 
 用於呈現一個內嵌在句子中的程式碼。 適合用來呼叫不需要完整包圍型程式碼區塊的Cookie名稱、檔案名稱、值或命令。
 
-程式碼區塊中的內容呈現原樣且未本地化。 （此規則的唯一例外是`!UICONTROL`和`!DNL`語法，這些語法在封裝以供發佈期間被移除。）
+程式碼區塊中的內容呈現原樣且未本地化。 （此規則的唯一例外是``和``語法，這些語法在封裝以供發佈期間被移除。）
 
 也請將程式碼區塊用於不應驗證的範例URL： `https://www.example.com`
 
@@ -152,7 +152,7 @@ This is `inline code` within a paragraph of text.
 >
 >您也可以使用三個反引號(&amp;amp；grave；&amp;amp；grave；&amp;amp；grave；)繞排文字，以建立內嵌程式碼區塊。 當您需要參考內嵌程式碼區塊中的反引號字元時，此功能特別實用。 範例：
 >
-&amp;amp；grave；&amp;amp；grave；&amp;amp；grave；`Use a back tick (`&amp;amp；grave；`) for formatting`&amp;amp；grave；&amp;amp；grave；&amp;amp；grave；
+>&amp;amp；grave；&amp;amp；grave；&amp;amp；grave；`Use a back tick (`&amp;amp；grave；`) for formatting`&amp;amp；grave；&amp;amp；grave；&amp;amp；grave；
 
 ## 程式碼區塊（包圍型）
 
@@ -164,7 +164,7 @@ This is `inline code` within a paragraph of text.
 
 >[!TIP]
 >
-在建立包圍型程式碼區塊時指定語言。 指定語言時，會允許該語言特定的語法反白顯示，並顯示使用者的&#x200B;**Copy**&#x200B;按鈕。 如果您指定語言，也可以顯示行號。
+>在建立包圍型程式碼區塊時指定語言。 指定語言時，會允許該語言特定的語法反白顯示，並顯示使用者的&#x200B;**Copy**&#x200B;按鈕。 如果您指定語言，也可以顯示行號。
 
 **語法**
 
@@ -282,7 +282,7 @@ This is text inside a collapsible section.
 
 **附註**
 
-* 請勿在可摺疊區段中巢狀內嵌可摺疊區段。 巢狀可摺疊區段無法正確呈現。 但是，它們不會導致驗證失敗，因此使用者會看到巢狀區段的`+++`語法。
++++* 請勿在可摺疊區段中巢狀內嵌可摺疊區段。 巢狀可摺疊區段無法正確呈現。 但是，它們不會導致驗證失敗，因此使用者會看到巢狀區段的``語法。
 * 請確保在可摺疊區段內新增專案符號清單和程式碼區塊等專案上方和下方的空白行，否則會出現驗證錯誤。
 * 您可以在可摺疊的區段中新增標題，但不建議這麼做。
 * [摺疊式功能表不一定是桌上型電腦上複雜內容的答案](https://www.nngroup.com/articles/accordions-complex-content/)
@@ -312,9 +312,9 @@ You can't see me (unless you're editing in Git).
 
 >[!IMPORTANT]
 >
-避免在區塊元件（例如專案符號清單）中新增註解，尤其是巢狀專案符號清單。 註解可變更專案符號清單的呈現方式。
+>避免在區塊元件（例如專案符號清單）中新增註解，尤其是巢狀專案符號清單。 註解可變更專案符號清單的呈現方式。
 >
-在TOC.md檔案中，請勿註釋掉TOC清單中間的行。 這可能會破壞目錄清單，並導致驗證錯誤。 請改為將目錄中的註解移至檔案結尾。
+>在TOC.md檔案中，請勿註釋掉TOC清單中間的行。 這可能會破壞目錄清單，並導致驗證錯誤。 請改為將目錄中的註解移至檔案結尾。
 
 ## CONTEXTUALHELP
 
@@ -378,7 +378,7 @@ Cat
 
 >[!NOTE]
 >
-下載檔案和影像的最大檔案大小為100 MB。 這是github.com的上限。 git.corp.adobe.com限制較高(250 MB)，但我們需要能夠將檔案複製到github.com映象。
+>下載檔案和影像的最大檔案大小為100 MB。 這是github.com的上限。 git.corp.adobe.com限制較高(250 MB)，但我們需要能夠將檔案複製到github.com映象。
 
 ## 標題 {#headings}
 
@@ -497,7 +497,7 @@ Bob — 寬度=下方300畫素
 
 >[!NOTE]
 >
-影像的最大檔案大小為100 MB。 這是github.com的上限。 git.corp.adobe.com限制較高(250 MB)，但我們需要能夠將檔案複製到github.com映象。
+>影像的最大檔案大小為100 MB。 這是github.com的上限。 git.corp.adobe.com限制較高(250 MB)，但我們需要能夠將檔案複製到github.com映象。
 
 ### 影像連結
 
@@ -626,8 +626,8 @@ description: This is the article description used for search optimization. Use c
 
 >[!MORELIKETHIS]
 >
-* [Article 1](https://helpx.adobe.com/tw/support/analytics.html)
-* [Article 2](https://helpx.adobe.com/tw/support/audience-manager.html)
+>* [Article 1](https://helpx.adobe.com/tw/support/analytics.html)
+>* [Article 2](https://helpx.adobe.com/tw/support/audience-manager.html)
 
 ## 附註/警告
 
@@ -645,7 +645,7 @@ description: This is the article description used for search optimization. Use c
 
 >[!NOTE]
 >
-這是一個標準的備註區塊。
+>這是一個標準的備註區塊。
 
 **語法**
 
@@ -659,7 +659,7 @@ description: This is the article description used for search optimization. Use c
 
 >[!TIP]
 >
-這是一個標準技巧。
+>這是一個標準技巧。
 
 **語法**
 
@@ -673,7 +673,7 @@ description: This is the article description used for search optimization. Use c
 
 >[!WARNING]
 >
-這是標準的警告區塊。
+>這是標準的警告區塊。
 
 **語法**
 
@@ -687,7 +687,7 @@ description: This is the article description used for search optimization. Use c
 
 >[!IMPORTANT]
 >
-這是標準的重要區塊。
+>這是標準的重要區塊。
 
 **語法**
 
@@ -703,35 +703,35 @@ description: This is the article description used for search optimization. Use c
 
 >[!NOTE]
 >
-這是一個標準的備註區塊。
+>這是一個標準的備註區塊。
 >
-其中包含多個段落。
+>其中包含多個段落。
 
 新支援的附註型別：
 
 >[!ADMIN]
 >
-這是管理員注意事項。 僅 EXL。
+>這是管理員注意事項。 僅 EXL。
 
 >[!AVAILABILITY]
 >
-這是可用性備註。 僅 EXL。
+>這是可用性備註。 僅 EXL。
 
 >[!PREREQUISITES]
 >
-這是先決條件備註。 僅 EXL。
+>這是先決條件備註。 僅 EXL。
 
 >[!INFO]
 >
-這是一則資訊備註。 僅 EXL。
+>這是一則資訊備註。 僅 EXL。
 
 >[!ERROR]
 >
-這是一個錯誤備註。 僅 EXL。
+>這是一個錯誤備註。 僅 EXL。
 
 >[!SUCCESS]
 >
-這是一個成功備註。 僅 EXL。
+>這是一個成功備註。 僅 EXL。
 
 ## 編號清單與專案符號清單 {#lists}
 
@@ -827,7 +827,7 @@ description: This is the article description used for search optimization. Use c
 
    >[!NOTE]
    >
-   This is note text.
+   >This is note text.
 
 1. Do another step.
 
@@ -856,7 +856,7 @@ description: This is the article description used for search optimization. Use c
 
 >[!NOTE]
 >
-請勿過度使用。 對於一般表格，我們希望在不同內容之間保持一致設計。
+>請勿過度使用。 對於一般表格，我們希望在不同內容之間保持一致設計。
 
 ![資料表提示](assets/table-no-border.png)
 
@@ -880,7 +880,7 @@ snippets.md檔案中的H2參考： `{{id-name}}`
 
 >[!TIP]
 >
-觀看[Markdown表格影片](https://video.tv.adobe.com/v/26220)
+>觀看[Markdown表格影片](https://video.tv.adobe.com/v/26220)
 
 原生表格在Markdown中通常看起來更好。 欄會根據其內容調整大小。 HTML表格會以等寬欄呈現。
 
@@ -888,7 +888,7 @@ snippets.md檔案中的H2參考： `{{id-name}}`
 
 >[!IMPORTANT]
 >
-將這些HTML程式碼新增至Markdown表格時，請務必小心。 如果您的語法不正確，則會出現無法準確描述問題的令人困惑的驗證錯誤。 請檢查您的HTML語法，確認其格式正確。
+>將這些HTML程式碼新增至Markdown表格時，請務必小心。 如果您的語法不正確，則會出現無法準確描述問題的令人困惑的驗證錯誤。 請檢查您的HTML語法，確認其格式正確。
 
 任何表格均不允許： iframe、儲存格範圍、內嵌表格。
 
@@ -1035,9 +1035,9 @@ This entire paragraph should NOT be highlighted. <span class="preview"> This wor
 
 >[!NOTE]
 >
-我們仍在努力改善某些頁面元素（例如附註和表格）的醒目顯示效果。 如果您看到不適當的呈現，請隨時記錄JIRA錯誤。 進行中。
+>我們仍在努力改善某些頁面元素（例如附註和表格）的醒目顯示效果。 如果您看到不適當的呈現，請隨時記錄JIRA錯誤。 進行中。
 >
-VSC預覽尚未支援反白顯示。
+>VSC預覽尚未支援反白顯示。
 
 ## 影片
 
@@ -1115,7 +1115,7 @@ VSC預覽尚未支援反白顯示。
 
 >[!NOTE]
 >
-對於鏈結步驟，例如「選擇檔案>另存新檔」，您不需要逸出`>`字元，因為它不在其他字元旁邊。 對於變數（例如`<filename>`），您會想要使用程式碼區塊`backticks`或字元程式碼(`&lt;filename&gt;`)來逸出角括弧。
+>對於鏈結步驟，例如「選擇檔案>另存新檔」，您不需要逸出`>`字元，因為它不在其他字元旁邊。 對於變數（例如`<filename>`），您會想要使用程式碼區塊`backticks`或字元程式碼(`&lt;filename&gt;`)來逸出角括弧。
 
 如果您在程式碼區塊中使用HTML實體，則實體文字不會轉換為特殊字元。 例如，`&gt;`在程式碼區塊中顯示為&quot; `&gt;`&quot;而非&quot; > &quot;。
 
@@ -1158,4 +1158,4 @@ VSC預覽尚未支援反白顯示。
 
 >[!NOTE]
 >
-如果您過度縮排，例如六個空格而不是三個空格，內容會呈現為區塊引號。 請使用適當的縮排量，以避免內容錯誤地呈現為區塊引號。
+>如果您過度縮排，例如六個空格而不是三個空格，內容會呈現為區塊引號。 請使用適當的縮排量，以避免內容錯誤地呈現為區塊引號。
