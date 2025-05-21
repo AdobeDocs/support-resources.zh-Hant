@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ：：：：：landing-cards-container
 ：：：
-![圖示](https://cdn.experienceleague.adobe.com/icons/book.svg)
+![圖示](https://cdn.experienceleague.adobe.com/icons/book.svg?lang=zh-Hant)
 
 歷程活動簡介
 
@@ -28,7 +28,7 @@ ht-degree: 0%
 ：：：
 
 ：：：
-![圖示](https://cdn.experienceleague.adobe.com/icons/circle-play.svg)
+![圖示](https://cdn.experienceleague.adobe.com/icons/circle-play.svg?lang=zh-Hant)
 
 使用一般事件
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 ：：：
 
 ：：：
-![圖示](https://cdn.experienceleague.adobe.com/icons/list-check.svg)
+![圖示](https://cdn.experienceleague.adobe.com/icons/list-check.svg?lang=zh-Hant)
 
 反應事件
 
@@ -48,7 +48,7 @@ ht-degree: 0%
 ：：：
 
 ：：：
-![圖示](https://cdn.experienceleague.adobe.com/icons/bullseye.svg)
+![圖示](https://cdn.experienceleague.adobe.com/icons/bullseye.svg?lang=zh-Hant)
 
 對象資格事件
 
@@ -58,7 +58,7 @@ ht-degree: 0%
 ：：：
 
 ：：：
-![圖示](https://cdn.experienceleague.adobe.com/icons/code-branch.svg)
+![圖示](https://cdn.experienceleague.adobe.com/icons/code-branch.svg?lang=zh-Hant)
 
 條件活動
 
@@ -68,7 +68,7 @@ ht-degree: 0%
 ：：：
 
 ：：：
-![圖示](https://cdn.experienceleague.adobe.com/icons/clock.svg)
+![圖示](https://cdn.experienceleague.adobe.com/icons/clock.svg?lang=zh-Hant)
 
 等待活動
 
@@ -83,7 +83,7 @@ ht-degree: 0%
 
 ：：：：：landing-cards-container
 ：：：
-![圖示](https://cdn.experienceleague.adobe.com/icons/puzzle-piece.svg)
+![圖示](https://cdn.experienceleague.adobe.com/icons/puzzle-piece.svg?lang=zh-Hant)
 
 使用電子郵件Designer內容元件
 
@@ -93,7 +93,7 @@ ht-degree: 0%
 ：：：
 
 ：：：
-![圖示](https://cdn.experienceleague.adobe.com/icons/puzzle-piece.svg)
+![圖示](https://cdn.experienceleague.adobe.com/icons/puzzle-piece.svg?lang=zh-Hant)
 
 將視覺化片段用於電子郵件設計
 
@@ -103,7 +103,7 @@ ht-degree: 0%
 ：：：
 
 ：：：
-![圖示](https://cdn.experienceleague.adobe.com/icons/link.svg)
+![圖示](https://cdn.experienceleague.adobe.com/icons/link.svg?lang=zh-Hant)
 
 新增連結及追蹤訊息
 
@@ -113,7 +113,7 @@ ht-degree: 0%
 ：：：
 
 ：：：
-![圖示](https://cdn.experienceleague.adobe.com/icons/bullseye.svg)
+![圖示](https://cdn.experienceleague.adobe.com/icons/bullseye.svg?lang=zh-Hant)
 
 新增個人化優惠至電子郵件
 
@@ -123,7 +123,7 @@ ht-degree: 0%
 ：：：
 
 ：：：
-![圖示](https://cdn.experienceleague.adobe.com/icons/file-lines.svg)
+![圖示](https://cdn.experienceleague.adobe.com/icons/file-lines.svg?lang=zh-Hant)
 
 建立及自訂電子郵件的文字版本
 
@@ -133,7 +133,7 @@ ht-degree: 0%
 ：：：
 
 ：：：
-![圖示](https://cdn.experienceleague.adobe.com/icons/gear.svg)
+![圖示](https://cdn.experienceleague.adobe.com/icons/gear.svg?lang=zh-Hant)
 
 新增中繼資料至您的電子郵件內容
 
@@ -148,7 +148,7 @@ ht-degree: 0%
 
 ：：：：：landing-cards-container
 ：：：
-![圖示](https://cdn.experienceleague.adobe.com/icons/circle-play.svg)
+![圖示](https://cdn.experienceleague.adobe.com/icons/circle-play.svg?lang=zh-Hant)
 
 開始使用核准
 
@@ -158,7 +158,7 @@ ht-degree: 0%
 ：：：
 
 ：：：
-![圖示](https://cdn.experienceleague.adobe.com/icons/gear.svg)
+![圖示](https://cdn.experienceleague.adobe.com/icons/gear.svg?lang=zh-Hant)
 
 建立及管理核准政策
 
@@ -168,7 +168,7 @@ ht-degree: 0%
 ：：：
 
 ：：：
-![圖示](https://cdn.experienceleague.adobe.com/icons/list-check.svg)
+![圖示](https://cdn.experienceleague.adobe.com/icons/list-check.svg?lang=zh-Hant)
 
 要求核准歷程與行銷活動
 
@@ -178,7 +178,7 @@ ht-degree: 0%
 ：：：
 
 ：：：
-![圖示](https://cdn.experienceleague.adobe.com/icons/shield-halved.svg)
+![圖示](https://cdn.experienceleague.adobe.com/icons/shield-halved.svg?lang=zh-Hant)
 
 檢閱及核准請求
 
@@ -193,7 +193,7 @@ ht-degree: 0%
 
 ：：：：：landing-cards-container
 ：：：
-![圖示](https://cdn.experienceleague.adobe.com/icons/circle-play.svg)
+![圖示](https://cdn.experienceleague.adobe.com/icons/circle-play.svg?lang=zh-Hant)
 
 開始使用增強型報告
 
@@ -203,7 +203,7 @@ ht-degree: 0%
 ：：：
 
 ：：：
-![圖示](https://cdn.experienceleague.adobe.com/icons/list-check.svg)
+![圖示](https://cdn.experienceleague.adobe.com/icons/list-check.svg?lang=zh-Hant)
 
 完整的量度清單
 
@@ -213,7 +213,7 @@ ht-degree: 0%
 ：：：
 
 ：：：
-![圖示](https://cdn.experienceleague.adobe.com/icons/gear.svg)
+![圖示](https://cdn.experienceleague.adobe.com/icons/gear.svg?lang=zh-Hant)
 
 管理您的報表
 
@@ -223,7 +223,7 @@ ht-degree: 0%
 ：：：
 
 ：：：
-![圖示](https://cdn.experienceleague.adobe.com/icons/chart-line.svg)
+![圖示](https://cdn.experienceleague.adobe.com/icons/chart-line.svg?lang=zh-Hant)
 
 行銷活動報表概觀
 
@@ -233,7 +233,7 @@ ht-degree: 0%
 ：：：
 
 ：：：
-![圖示](https://cdn.experienceleague.adobe.com/icons/chart-line.svg)
+![圖示](https://cdn.experienceleague.adobe.com/icons/chart-line.svg?lang=zh-Hant)
 
 歷程報表概觀
 
@@ -243,7 +243,7 @@ ht-degree: 0%
 ：：：
 
 ：：：
-![圖示](https://cdn.experienceleague.adobe.com/icons/chart-line.svg)
+![圖示](https://cdn.experienceleague.adobe.com/icons/chart-line.svg?lang=zh-Hant)
 
 行銷活動和歷程的概觀報表
 
@@ -258,7 +258,7 @@ ht-degree: 0%
 
 ：：：：：landing-cards-container
 ：：：
-![圖示](https://cdn.experienceleague.adobe.com/icons/list-check.svg)
+![圖示](https://cdn.experienceleague.adobe.com/icons/list-check.svg?lang=zh-Hant)
 
 如何建立和管理決定
 
@@ -268,7 +268,7 @@ ht-degree: 0%
 ：：：
 
 ：：：
-![圖示](https://cdn.experienceleague.adobe.com/icons/gear.svg)
+![圖示](https://cdn.experienceleague.adobe.com/icons/gear.svg?lang=zh-Hant)
 
 如何設定優惠方案選擇
 
@@ -278,7 +278,7 @@ ht-degree: 0%
 ：：：
 
 ：：：
-![圖示](https://cdn.experienceleague.adobe.com/icons/code-branch.svg)
+![圖示](https://cdn.experienceleague.adobe.com/icons/code-branch.svg?lang=zh-Hant)
 
 模擬優惠決定
 
