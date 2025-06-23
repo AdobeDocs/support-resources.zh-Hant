@@ -1,19 +1,19 @@
 ---
-user-guide-title: 成功計劃資源
-user-guide-description: Adobe Experience Cloud 和 Adobe Experience Platform 的成功計劃和支援資源。
+user-guide-title: Success Plan 資源
+user-guide-description: Adobe Experience Cloud 和 Adobe Experience Platform 的 Success Plan 和支援資源。
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: a03302829e6f88ba15e94a37a45fd33ce0cd0b6a
-workflow-type: ht
-source-wordcount: '148'
-ht-degree: 100%
+source-git-commit: f9095f0a6215d5c7654a356056deb905cdb633fb
+workflow-type: tm+mt
+source-wordcount: '145'
+ht-degree: 92%
 
 ---
 
 
-# 成功計劃資源 {#data-sheets}
+# Success Plan 資源 {#data-sheets}
 
-+ [Adobe 成功計劃總覽](overview.md)
++ [Adobe Success Plan 概觀](overview.md)
 + The Crux Podcast{#crux-podcast}
    + [第 1 集 - Billy Georgaros](episode1.md)
      [第 2 集 - Karrie Benjamin](episode2.md)
@@ -24,10 +24,10 @@ ht-degree: 100%
      [第 7 集 - Chris Diaz](episode7.md)
      [第 8 集 - Vincent Lee](episode8.md)
      [第 9 集 - Ren Wightman](episode9.md)
-+ 2022 年 6 月 16 日之前的 Adobe 支援計劃{#prior-plans}
-   + [先前 Adobe 支援計劃總覽](overview-prior-plans.md)
++ 2022年6月16日之前的Adobe支援計畫{#prior-plans}
+   + [先前 Adobe 支援計劃概觀](overview-prior-plans.md)
    + Experience Cloud Services {#data-sheets}
-      + [Adobe 支援總覽](dx-overview.md)
+      + [Adobe 支援概觀](dx-overview.md)
       + [線上](online.md)
       + [商務](business.md)
       + [企業](enterprise.md)
@@ -42,7 +42,6 @@ ht-degree: 100%
 + [條款與條件](https://helpx.adobe.com/tw/support/programs/support-policies-terms-conditions.html){target="_blank"}
 + [隱藏概觀](hidden-overview.md)
 + [隱藏的疑難排解](hidden-trouble.md)
-+ [隱藏 Lakshay 測試](hidden-lakshay-test.md)
 + [隱藏程式碼區塊中的斜線](hidden/slashes-in-code-blocks.md)
 + [隱藏的新測試](hidden-new-test.md)
 + [隱藏的新測試 2](hidden-new-test-2.md)
@@ -59,6 +58,8 @@ ht-degree: 100%
    + [僅限隱藏的新自動啟動](hidden/autoactivate.md)
 
 <!--
++ [Hidden Lakshay test](hidden-lakshay-test.md)
+
 + [Hidden table breaks](hidden/table-breaks.md)
 
 
