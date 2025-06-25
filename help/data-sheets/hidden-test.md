@@ -6,26 +6,24 @@ hidefromtoc: true
 badgePremium: label="Premium" type="Positive" url="https://www.premium-product.com" tooltip="下載 Premium"
 badgeExam: label="測驗 ADO-E903" type="neutral"
 exl-id: 45f70aca-5885-4da0-90d7-50fbf44de9dc
-source-git-commit: fea913bab4f42341a7714a4a1ddbdb7cadb924bc
+source-git-commit: 9f7f12030fb9be9beca5ad145f80ff4ac46821ca
 workflow-type: tm+mt
-source-wordcount: '1274'
-ht-degree: 99%
+source-wordcount: '1258'
+ht-degree: 97%
 
 ---
 
 # 隱藏測試頁面
 
-預覽重試？ 應該透過Jenkins而來。 3月31日
-
-下午3:02
+發佈測試。 2025年6月25日上午10:20
 
 ## 問題表 (內含影像)
 
-## Expert 和 Ultimate 成功計劃的比較
+## 比較 Expert Success Plan 和 Ultimate Success Plan
 
-|  | Expert 成功計劃 | Ultimate 成功計劃 |
+|  | Expert Success Plan | Ultimate Success Plan |
 |--- |--- |--- |
-|  | 借助 Expert 成功計劃，您可以獲得&#x200B;**24X7 全年無休的專家服務**，在發生重要業務問題時進行技術疑難排解和指導。或者，您可以利用我們的自助資源、獨家最佳作法以及 Adobe 專家和同行的線上社群，找到快速解決方案。 <p> *隨附在所有 Adobe Experience Cloud 授權中。* | 藉助 Ultimate 成功計劃，您將體驗到&#x200B;**策略指導和主動的技術健康狀況，以提供高效能的數位體驗**。您的 Adobe 環境將由一組專家團隊提供支援，這些專家熟悉您的業務並專注於執行符合您業務影響目標和優先順序的藍圖。 |
+|  | 借助 Expert Success Plan，您可以獲得&#x200B;**24X7 全年無休的專家服務**，在發生重要業務問題時進行技術疑難排解和指導。或者，您可以利用我們的自助資源、獨家最佳作法以及 Adobe 專家和同行的線上社群，找到快速解決方案。 <p> *隨附在所有 Adobe Experience Cloud 授權中。* | 藉助 Ultimate Success Plan，您將體驗到&#x200B;**策略指導和主動的技術健康狀況，以提供高效能的數位體驗**。您的 Adobe 環境將由一組專家團隊提供支援，這些專家熟悉您的業務並專注於執行符合您業務影響目標和優先順序的藍圖。 |
 | **成功團隊** | 匯集的支援工程師團隊 | 包括： <ul><li> 指定的技術客戶經理 </li><li> 指定的客戶成功經理 </li><li> 指定的支援服務經理</li><li> 匯集的技術工程師和策略專家團隊提供成功加速器 </li><li> 匯集的支援工程師團隊 </li></ul> |
 | **主動式技術 + 營運支援** | ![不包含圖示](assets/Cross_red_circle.svg){width="20"} 不包含 | 包括： <ul><li>升級和移轉審查、發行準備 </li><li>產品藍圖審查</li><li> 一致的技術和策略藍圖</li><li>重要事件準備與規劃</li><li>規劃相關且及時的啟用</li><li>技術最佳實務和產業指南</li><li>支持/與產品團隊保持一致</li><li>實現重要業務目標的統一計劃 - 共同行動計劃 (MAP)</li></ul> |
 | **技術支援** | 包括： <ul><li>**P1**：24x7 問題支援</li><li>**P2、P3、P4**：營業時間支援</li><li>標準中斷管理</li><li>匯集的向上呈報管理</li></ul> | 包括： <ul><li>**P1**：24x7 問題支援</li><li>**P2/P3**：24x5 問題支援</li><li>**P4**：營業時間支援</li><li>有優先權的中斷管理</li><li>指定專家向上呈報管理</li></ul> |
@@ -36,7 +34,7 @@ ht-degree: 99%
 
 ## 支援附加元件
 
-| 附加元件 | Expert 成功計劃 | Ultimate 成功計劃 |
+| 附加元件 | Expert Success Plan | Ultimate Success Plan |
 |--- |--- |--- |
 | **事件管理附加元件**<br>&#x200B;提供管理關鍵事件的整個生命週期所需的端對端領導力和支援 | ![可用圖示](assets/Plus_blue.svg){width="20"} 可用 | ![可用圖示](assets/Plus_blue.svg){width="20"} 可用 |
 | **技術客戶總監附加元件**<br>&#x200B;您的首席技術資源，負責提供領導階層監督、擁有高階主管參與能力，並確保治理，讓您獲取最大的業務成果 | ![不適用圖示](assets/Cross_red_circle.svg){width="20"} 不適用 | ![可用圖示](assets/Plus_blue.svg){width="20"} 可用 |
@@ -62,7 +60,7 @@ _[次要按鈕](https://www.adobe.com/tw)_
 
 以下段落無法在 VSC 預覽中正確顯示。 我不知道為什麼。
 
-如果您的密碼是由 [!DNL Adobe] 管理，您可以[變更 Adobe 帳戶中的密碼](https://helpx.adobe.com/tw/manage-account/using/change-or-reset-password.html){target="_blank"}。
+如果您的密碼是由[!DNL Adobe]管理，您可以[在您的Adobe帳戶中變更密碼](https://helpx.adobe.com/tw/manage-account/using/change-or-reset-password.html){target="_blank"}。
 
 ## 備註類型
 
@@ -123,7 +121,7 @@ _[次要按鈕](https://www.adobe.com/tw)_
 
 [!BADGE 徽章範例]
 
-有兩種類型 of 徽章，各自有不同的語法：
+有兩種型別的徽章，每一種都有不同的語法：
 
 * **中繼資料** - 在頁面頂部附近顯示徽章
 * **內嵌** - 顯示語法所在的徽章
@@ -161,9 +159,9 @@ badgeExam: label="Exam ADO-E903" type="neutral"
 |---|---|
 | 資訊性 (預設) | [!BADGE Beta]{type=Informative url="https://www.example.com"} |
 | 正面 | [!BADGE 新功能]{type=Positive url="https://www.example.com" tooltip="前往 example.com"} |
-| 負面 | [!BADGE 已終止]{type=negative tooltip="This feature is now end of life"} |
-| 中立 | [!BADGE 也許]{type=Neutral tooltip="A rider fell off the horse..."} |
-| 警告 | [!BADGE 注意]{type=Caution tooltip="Yellow status"} |
+| 負面 | [!BADGE 停用]{type=negative tooltip="此功能現已結束生命週期"} |
+| 中立 | [!BADGE 看情形]{type=Neutral tooltip="一名騎手從馬背上摔下來…"} |
+| 警告 | [!BADGE 注意]{type=Caution tooltip="黃色狀態"} |
 
 語法範例
 
