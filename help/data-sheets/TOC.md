@@ -4,9 +4,9 @@ user-guide-description: Adobe Experience Cloud 和 Adobe Experience Platform 的
 feature-set: Experience Cloud
 feature: Success Plans
 source-git-commit: f9095f0a6215d5c7654a356056deb905cdb633fb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '145'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -14,9 +14,8 @@ ht-degree: 92%
 # Success Plan 資源 {#data-sheets}
 
 + [Adobe Success Plan 概觀](overview.md)
-+ The Crux Podcast{#crux-podcast}
++ Crux 網路廣播{#crux-podcast}
    + [第 1 集 - Billy Georgaros](episode1.md)
-
      [第 2 集 - Karrie Benjamin](episode2.md)
      [第 3 集 - George Kotsinis](episode3.md)
      [第 4 集 - Jessica Ouellette](episode4.md)
@@ -25,8 +24,8 @@ ht-degree: 92%
      [第 7 集 - Chris Diaz](episode7.md)
      [第 8 集 - Vincent Lee](episode8.md)
      [第 9 集 - Ren Wightman](episode9.md)
-+ 2022年6月16日之前的Adobe支援計畫{#prior-plans}
-   + [先前 Adobe 支援計劃概觀](overview-prior-plans.md)
++ 2022 年 6 月 16 日之前的 Adobe 支援計劃{#prior-plans}
+   + [先前的 Adobe 支援計劃概觀](overview-prior-plans.md)
    + Experience Cloud Services {#data-sheets}
       + [Adobe 支援概觀](dx-overview.md)
       + [線上](online.md)
