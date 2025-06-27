@@ -1,19 +1,21 @@
 ---
-description: 連線到WidgetData Warehouse — 產品檔案
-title: 正在連線到WidgetData Warehouse
+description: 連線到Widget Data Warehouse — 產品檔案
+title: 連線到Widget Data Warehouse
 hide: true
 hidefromtoc: true
 exl-id: d6a7cff5-08f9-4c93-8765-46e692feaa0d
-source-git-commit: 972704990172c966a27744b49b9f7af5626e9f3e
+source-git-commit: 4145889fe291e80fa8d295368ead3e0075917e86
 workflow-type: tm+mt
-source-wordcount: '911'
+source-wordcount: '913'
 ht-degree: 0%
 
 ---
 
-# 正在連線到WidgetData Warehouse {#connecting-to-the-widget-data-warehouse}
+# 連線到Widget Data Warehouse {#connecting-to-the-widget-data-warehouse}
 
 ## 新測試
+
+27 年 6 月
 
 <ol><li>使用'{{name}}'變數。</li></ol>
 
@@ -50,7 +52,7 @@ ht-degree: 0%
 
    ![](assets/adobe-logo-old.png)
 
-1. 在左側功能表的[安全性]下，按一下[Data Warehouse] **&#x200B;**。
+1. 在左側功能表的[安全性]下方，按一下&#x200B;**Data Warehouse**。
 
    ![](assets/adobe-logo-old.png)
 
@@ -60,7 +62,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >這是唯讀帳戶，可供您的組織使用，而不只是個別使用者。 貴組織內有權存取Marketo Measure的任何使用者都可以使用此帳戶來登入WidgetData Warehouse讀卡機帳戶。
+   >這是唯讀帳戶，可供您的組織使用，而不只是個別使用者。 貴組織內可存取Marketo Measure的任何使用者都可以使用此帳戶來登入Widget Data Warehouse讀者帳戶。
 
 1. 按一下Widget URL中提供的連結，這會將您帶往Widget登入頁面，您將在其中輸入使用者名稱和密碼。 _如果您沒有密碼，請參閱下列步驟重設密碼_。
 
@@ -98,17 +100,17 @@ Marketo Measure無權存取您的Widget登入密碼。  如果您需要重設密
 * **URI** （永遠必要）
    * 這是Widget帳戶的網域名稱。  它包含在Widget登入連結的一部分中。
 * **使用者名稱** （永遠必要）
-   * 使用者名稱會列在Marketo Measure的Data Warehouse資訊頁面上。
+   * 使用者名稱會列於Marketo Measure的Data Warehouse資訊頁面上。
 * **密碼** （永遠必要）
    * 這是您第一次登入Widget帳戶時所設定的密碼。  若要重設密碼，請參閱上述步驟。
 * **資料庫名稱** （非永遠必要）
-   * 資料庫是將資料儲存在Widget中。 而是儲存資源。 資料庫名稱會列在Marketo Measure的Data Warehouse資訊頁上。
+   * 資料庫是將資料儲存在Widget中。 而是儲存資源。 資料庫名稱列於Marketo Measure的Data Warehouse資訊頁上。
 * **倉儲名稱** （非永遠必要）
-   * Warehouse就是在Widget中執行查詢的地方。 它是運算資源。  倉儲名稱會列於Marketo Measure的Data Warehouse資訊頁面上。
+   * Warehouse就是在Widget中執行查詢的地方。 它是運算資源。  倉儲名稱會列於Marketo Measure的Data Warehouse資訊頁上。
 
   ![](assets/adobe-logo-old.png)
 
-## WidgetData Warehouse直接共用 {#widget-data-warehouse-direct-share}
+## Widget Data Warehouse直接共用 {#widget-data-warehouse-direct-share}
 
 **需求**
 
