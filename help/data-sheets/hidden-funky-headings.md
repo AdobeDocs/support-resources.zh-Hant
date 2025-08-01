@@ -10,7 +10,7 @@ hide: true
 hidefromtoc: true
 role: Developer
 exl-id: d024b7e9-1e8e-4aa3-bbb8-7bc92d143a1f
-source-git-commit: 3f2ed618aa8e5d738315a0ff114551c183761a7d
+source-git-commit: 3128bd389ee7998736993f7b17c9ac53d146e929
 workflow-type: tm+mt
 source-wordcount: '2458'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Granite、CQ和Sling標籤程式庫可讓您存取特定函式，以便在範本
 
 這是上方的粗體標題。
 
-2025年7月30日
+2025年7月31日
 
 ## *斜體標題*
 
