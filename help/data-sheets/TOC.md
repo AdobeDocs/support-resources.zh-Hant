@@ -16,7 +16,6 @@ ht-degree: 98%
 + [Adobe Success Plan 概觀](overview.md)
 + Crux 網路廣播{#crux-podcast}
    + [第 1 集 - Billy Georgaros](episode1.md)
-
      [第 2 集 - Karrie Benjamin](episode2.md)
      [第 3 集 - George Kotsinis](episode3.md)
      [第 4 集 - Jessica Ouellette](episode4.md)
