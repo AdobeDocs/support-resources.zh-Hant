@@ -4,10 +4,10 @@ description: 此頁面已從搜尋和目錄中隱藏
 hide: true
 hidefromtoc: true
 exl-id: 822b2044-195c-4721-9b81-345d88f8aa2d
-source-git-commit: 1aa822339d54cb585fe9d9024862d38043a6048d
+source-git-commit: 37213356a84428d3104f772c21c22daa8b42ecfd
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 32%
+source-wordcount: '70'
+ht-degree: 31%
 
 ---
 
@@ -24,6 +24,10 @@ ht-degree: 32%
 + [測試檔案2](hidden-test.md)
 + [重新導向測試](hidden/test-redirection.md)
 + [自動啟用測試](hidden/autoactivate.md)
+
+## 投影片測試
+
+>[!FRAGMENT](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
 
 ## 新區段1月30日
 
