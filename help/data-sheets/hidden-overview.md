@@ -4,10 +4,10 @@ description: 此頁面已從搜尋和目錄中隱藏
 hide: true
 hidefromtoc: true
 exl-id: 822b2044-195c-4721-9b81-345d88f8aa2d
-source-git-commit: 37213356a84428d3104f772c21c22daa8b42ecfd
+source-git-commit: 613d796f8184ae31903b5ed71b3d397f5158177e
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 31%
+source-wordcount: '77'
+ht-degree: 28%
 
 ---
 
@@ -27,7 +27,31 @@ ht-degree: 31%
 
 ## 投影片測試
 
->[ !FRAGMENT](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
+語法一：
+
+```
+>[!FRAGMENT](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
+```
+
+已呈現：
+
+>[!FRAGMENT](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
+
+
+語法二：
+
+```
+>[!FRAGMENT]
+>
+>(https://experienceleague-stage.adobe.com/en/slides/analyze-project)
+```
+
+已呈現：
+
+>[!FRAGMENT]
+>
+>(https://experienceleague-stage.adobe.com/en/slides/analyze-project)
+
 
 ## 新區段1月30日
 
