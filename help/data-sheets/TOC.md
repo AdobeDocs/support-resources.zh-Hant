@@ -3,9 +3,9 @@ user-guide-title: Success Plan 資源
 user-guide-description: Adobe Experience Cloud 和 Adobe Experience Platform 的 Success Plan 和支援資源。
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: f2d8eb9125df5f542c1ed075348586965f4adaad
-workflow-type: ht
-source-wordcount: '151'
+source-git-commit: 67c030d28d7715cbf51910b61a6ba3d3aee29c7d
+workflow-type: tm+mt
+source-wordcount: '96'
 ht-degree: 100%
 
 ---
@@ -40,24 +40,6 @@ ht-degree: 100%
       + [企業](dme-enterprise.md)
       + [菁英](dme-elite.md)
 + [條款與條件](https://helpx.adobe.com/tw/support/programs/support-policies-terms-conditions.html){target="_blank"}
-+ [隱藏概觀](hidden-overview.md)
-+ [隱藏的收合](hidden-collapse.md)
-+ [隱藏的疑難排解](hidden-trouble.md)
-+ [新潮的標題 UGP-13342](hidden-funky-headings.md)
-+ [隱藏程式碼區塊中的斜線](hidden/slashes-in-code-blocks.md)
-+ [隱藏的新測試](hidden-new-test.md)
-+ [隱藏的新測試 2](hidden-new-test-2.md)
-+ [隱藏測試檔案](hidden-test.md)
-+ [隱藏錯誤修正](hidden/bug-fixes.md)
-+ [隱藏 EDS 測試檔案](hidden/test-page.md)
-+ [隱藏重新導向測試](hidden/test-redirection.md)
-+ [隱藏語法指南](hidden/syntax-style-guide.md)
-+ [隱藏表格測試](hidden/tables.md)
-+ [隱藏表格分區符號](hidden/table-breaks.md)
-+ [隱藏註釋測試](hidden/note-test.md)
-+ [隱藏重新導向](hidden/redirect-tests.md)
-+ 測試區段 {#test-section}
-   + [僅限隱藏的新自動啟動](hidden/autoactivate.md)
 
 <!--
 + [Hidden Lakshay test](hidden-lakshay-test.md)
