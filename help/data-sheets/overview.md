@@ -2,10 +2,10 @@
 title: Adobe Success Plan 概觀
 description: 本文提供 Adobe Experience Cloud、Adobe Document Cloud 和 Adobe Creative Cloud 的客戶支援選項摘要。
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: 9532b81aed538e93dce9cf894a2b56bb22d109ef
-workflow-type: ht
-source-wordcount: '2203'
-ht-degree: 100%
+source-git-commit: 598a5e58107314e3315090304b258573fdd5d729
+workflow-type: tm+mt
+source-wordcount: '2221'
+ht-degree: 97%
 
 ---
 
@@ -106,7 +106,7 @@ Adobe Success Plan 超越了被動解決問題的模式，為您帶來全新個�
 
 | 美洲 | 歐洲、中東與非洲 | 亞太地區 | 日本 |
 |---|---|---|---|
-| 上午 6 點 – 下午 5:30 | 上午 9 點 – 下午 5 點 | 上午 9 點 – 下午 5 點 | 上午 9 點 – 下午 5 點 |
+| 上午6點 — 下午5:30 | 上午 9 點 – 下午 5 點 | 上午 9 點 – 下午 5 點 | 上午 9 點 – 下午 5 點 |
 
 ## 支援案例生命週期 - 即將推出
 
@@ -131,7 +131,7 @@ Adobe Success Plan 超越了被動解決問題的模式，為您帶來全新個�
 * 在狀態設定為「等待回應」後的第一天、第三天和第五天，將傳送跟進通知給要求更多資訊的客戶。
 * 如果狀態設定為「等待回應」後 6 天客戶都沒有回應，則案例將設定為關閉，並傳送關閉通知。
 
-客戶可以在 14 天內重新開啟已關閉的案例以繼續溝通。超過 14 天後可以打開新的支援案例，以繼續進行與先前關閉案例相關的溝通。
+客戶可以在14天內在Experience League上重新開啟已關閉的案例，以繼續溝通。 14天後，將可開啟新的支援案例，以繼續與先前關閉案例相關的溝通。 請注意，回覆有關已關閉票證的電子郵件將不會重新開啟該票證。
 
 **工程師提供解決方案**
 
