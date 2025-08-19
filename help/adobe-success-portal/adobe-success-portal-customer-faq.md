@@ -12,6 +12,7 @@ ht-degree: 0%
 # [!DNL Adobe Success]入口網站：客戶常見問題集
 
  
+
 ## [!DNL Adobe Success]入口網站的範圍為何？
 
 [!DNL Adobe Success]入口網站是Adobe新的集中式客戶導向平台，專門整合各種支援、成功和參與度的售後體驗。 Alpha發行版本著重於提供內聚式體驗，整合先前跨多個平台(例如支援入口網站、手動Ultimate Success成品)的工具和工作流程。 我們的目標是簡化客戶在其整個生命週期（從上線到續約）中與Adobe互動的方式，同時提高透明度、自助服務和價值實現。
