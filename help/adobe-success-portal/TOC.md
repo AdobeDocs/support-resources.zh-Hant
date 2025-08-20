@@ -6,9 +6,9 @@ feature: Adobe Success Portal
 type: Documentation
 hide: true
 role: User, Admin
-source-git-commit: 9fe24daa92a39136debed35f4a2ade64ed56f11d
+source-git-commit: d3dc26237d66f2e8daa63675d3ca9fdcfe23885b
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '69'
 ht-degree: 1%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 1%
 # Adobe成功入口網站 {#adobe-success-portal}
 
 - [ [!DNL Adobe Success] 入口網站簡介](/help/adobe-success-portal/adobe-success-portal-introduction.md)
+- [存取 [!DNL Adobe Success] 入口網站](/help/adobe-success-portal/access-to-the-adobe-success-portal.md)
 - [客戶常見問題集](/help/adobe-success-portal/adobe-success-portal-customer-faq.md)
 - 商業角色 {#business-persona}
    - [商業角色的關鍵功能](/help/adobe-success-portal/business-persona/key-functionalities-for-business-persona.md)
@@ -28,4 +29,6 @@ ht-degree: 1%
    - [技術角色的關鍵功能](/help/adobe-success-portal/technical-persona/key-functionalities-for-technical-persona.md)
    - 支援與深入分析 {#support-and-insights}
       - [支援和見解概述](/help/adobe-success-portal/technical-persona/support-and-insights/support-and-insights-overview.md)
+      - [在 [!DNL Adobe Success] 入口網站中建立和管理案例](/help/adobe-success-portal/technical-persona/support-and-insights/create-and-manage-cases-in-the-adobe-success-portal.md)
+      - [管理 [!DNL Adobe Success] 入口網站中的發現](/help/adobe-success-portal/technical-persona/support-and-insights/manage-findings-adobe-success-portal.md)
 - [字彙](/help/adobe-success-portal/glossary.md)
