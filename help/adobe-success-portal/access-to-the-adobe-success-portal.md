@@ -1,10 +1,11 @@
 ---
 title: 存取 [!DNL Adobe Success] 入口網站
 description: 瞭解如何在 [!DNL Adobe Success] 入口網站中管理案例。
-source-git-commit: fd8552d22f38e354e6620bbbdf135fb770cca3e2
+exl-id: 791b6cce-e7c9-42fe-a50c-4ef16fafdd10
+source-git-commit: 400b90e09f76f3ad299f3d56f0d42668ea4e13ea
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 0%
+source-wordcount: '141'
+ht-degree: 1%
 
 ---
 
@@ -14,9 +15,9 @@ ht-degree: 0%
 
 您將會從&#x200B;**[!UICONTROL 成功]**&#x200B;入口網站團隊收到確認您存取權的通知。 此訊息將包含登入詳細資料。
 
-1. 請前往https://experience.adobe.com/。
+1. 移至[https://experience.adobe.com/](https://experience.adobe.com/)。
 1. 使用您的Adobe ID登入。
-1. 選取[!DNL Adobe Success]入口網站(Alpha)圖示。
+1. 選取&#x200B;**[!UICONTROL 成功入口網站(Alpha)]**&#x200B;圖示。
 
    ![alpha-success-portal-alpha](assets/alpha-success-portal-alpha.png)
 
@@ -44,5 +45,3 @@ ht-degree: 0%
 >意見回饋工具並非專屬的支援管道。 不適用於緊急的登入問題。
 
 ![adobe-success-portal-home](assets/adobe-success-portal-home.png)
-
-
