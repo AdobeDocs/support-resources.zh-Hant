@@ -2,9 +2,9 @@
 title: '[!DNL Adobe Success]入口網站：客戶常見問題'
 description: 此常見問題集文章回答有關 [!DNL Adobe Success] 入口網站的常見問題。
 exl-id: fff82b90-4077-4669-8cd5-5105cd0c7307
-source-git-commit: b1bc0a7a210ead0639cb87193c93d23b38f1f08a
+source-git-commit: 8f0527bbd009aeb4b3e524f18576180722f23993
 workflow-type: tm+mt
-source-wordcount: '593'
+source-wordcount: '594'
 ht-degree: 0%
 
 ---
@@ -12,7 +12,6 @@ ht-degree: 0%
 # [!DNL Adobe Success]入口網站：客戶常見問題集
 
  
-
 ## [!DNL Adobe Success]入口網站的範圍為何？
 
 [!DNL Adobe Success]入口網站是Adobe新的集中式客戶導向平台，專門整合各種支援、成功和參與度的售後體驗。 Alpha發行版本著重於提供內聚式體驗，整合先前跨多個平台(例如支援入口網站、手動Ultimate Success成品)的工具和工作流程。 我們的目標是簡化客戶在其整個生命週期（從上線到續約）中與Adobe互動的方式，同時提高透明度、自助服務和價值實現。
@@ -35,7 +34,7 @@ Alpha範圍包括為Ultimate客戶量身打造的組織功能集，其中包含�
 
 ## 如何存取入口網站？
 
-[!DNL Adobe Success]入口網站在Adobe Experience Cloud上代管。 必須存取Experience Cloud才能存取在IMS組織層級設定的[!DNL Adobe Success]入口網站。 請參閱[本指南](/help/adobe-success-portal/access-to-the-adobe-success-portal.md)以瞭解如何存取入口網站的步驟。
+[!DNL Adobe Success]入口網站在Adobe Experience Cloud上代管。 必須存取Experience Cloud才能存取在IMS組織層級設定的[!DNL Adobe Success]入口網站。 請參閱[存取 [!DNL Adobe Success] 入口網站](/help/adobe-success-portal/access-to-the-adobe-success-portal.md)，瞭解如何存取入口網站的步驟。
 
 Alpha的入口網站存取權僅限於已確定參與Alpha計畫的預先定義使用者清單。 若要進一步瞭解您組織中的哪些人擁有存取權，以及請求為其他使用者提供存取權，請使用[Alpha Teams頻道](https://teams.microsoft.com/l/channel/19:h-GcuAZs9uF05rervqTdx2U27ohYINuRUIfbMte9B-U1@thread.tacv2/General?groupId=02b87789-3475-47e4-94c1-0981f63ae89f&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)聯絡產品團隊。
 
