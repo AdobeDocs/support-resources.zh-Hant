@@ -1,13 +1,13 @@
 ---
 title: '[!UICONTROL 行動計畫]'
 description: /[!UICONTROL 行動計畫/]提供如何執行KBO的結構化檢視。 其中包括Adobe團隊已規劃、完成或正積極努力協助您達成目標的相關加速器和活動。
-source-git-commit: e46c0e328728f8a44e36dac6c08a2c6fa855b1c0
+exl-id: 818b149c-91ee-43b6-a235-576f2810db1b
+source-git-commit: 4af12a2808ec6c20b84fdbbd0608e9603cc2647b
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---
-
 
 # [!UICONTROL 行動計畫]
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 此頁面會整理成兩個主要標籤：
 
-## &#x200B;1. [!UICONTROL 重要業務目標]
+## [!UICONTROL 重要業務目標]
 
 此索引標籤會顯示您的所有KBO及其對應的加速器與活動。
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 ![action-plan-kbo-tab-about-activity](/help/adobe-success-portal/assets/action-plan-kbo-tab-about-activity.png)
 
-## &#x200B;2. [!UICONTROL 活動]
+## [!UICONTROL 活動]
 
 此索引標籤會顯示未與任何KBO繫結的活動清單。 每個活動包括：
 
