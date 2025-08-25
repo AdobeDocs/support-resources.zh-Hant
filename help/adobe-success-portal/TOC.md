@@ -5,8 +5,9 @@ feature-set: Experience Cloud
 feature: Adobe Success Portal
 type: Documentation
 hide: true
+index: false
 role: User, Admin
-source-git-commit: fa00ad5094a6a85415c1f2033680eaedf05f5b07
+source-git-commit: 53a3354794afaf700613a073025129d641744fab
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 40%
