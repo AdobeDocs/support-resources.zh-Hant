@@ -1,17 +1,17 @@
 ---
 title: 業務人物誌的重要功能
-description: /[!DNL Adobe Success/]入口網站的業務角色功能可跨關鍵業務目標進行價值測量、追蹤進度並以易於存取的檢視提供深入分析。
+description: /[!DNL Adobe Success/] 入口網站為業務人物誌提供的各項功能，可以針對多項關鍵業務目標進行價值衡量、追蹤進度，以及透過容易存取的視圖提供洞察。
 exl-id: 374c3809-a982-464e-b417-1b0ae4191628
 source-git-commit: b1bc0a7a210ead0639cb87193c93d23b38f1f08a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '131'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 
 # 業務人物誌的重要功能
 
-[!DNL Adobe Success]入口網站的業務角色功能可跨[[!UICONTROL 關鍵業務目標]](/help/adobe-success-portal/business-persona/key-business-objectives.md) (KBO)進行價值測量，以易於存取的檢視追蹤進度並提供深入分析。
+[!DNL Adobe Success] 入口網站為業務人物誌提供的各項功能，可以針對多項 [[!UICONTROL 關鍵業務目標]](/help/adobe-success-portal/business-persona/key-business-objectives.md) (KBO) 進行價值衡量、追蹤進度，以及透過容易存取的視圖提供洞察。
 
 ![adobe-success-portal-for-business-persona-overview](/help/adobe-success-portal/assets/overview-and-business-persona-overview.png)
 
