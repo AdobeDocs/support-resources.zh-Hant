@@ -1,16 +1,16 @@
 ---
 user-guide-title: Adobe Success 入口網站
-user-guide-description: 探索與Adobe成功入口網站相關的各種資源，以取得詳細資訊。
+user-guide-description: 探索 Adobe Success 入口網站相關的各種資源，以了解更多詳細資訊。
 feature-set: Experience Cloud
 feature: Adobe Success Portal
 type: Documentation
 hide: true
 index: false
 role: User, Admin
-source-git-commit: 53a3354794afaf700613a073025129d641744fab
+source-git-commit: 058a02175c050cf5a1e351f95fbbc85962f7bb96
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 82%
+source-wordcount: '72'
+ht-degree: 100%
 
 ---
 
@@ -33,3 +33,5 @@ ht-degree: 82%
       - [在  [!DNL Adobe Success]  入口網站建立和管理案例](/help/adobe-success-portal/technical-persona/support-and-insights/create-and-manage-cases-in-the-adobe-success-portal.md)
       - [在  [!DNL Adobe Success] 入口網站中管理結果](/help/adobe-success-portal/technical-persona/support-and-insights/manage-findings-adobe-success-portal.md)
 - [字彙表](/help/adobe-success-portal/glossary.md)
+- [發行說明](/help/adobe-success-portal/release-notes.md)
+
