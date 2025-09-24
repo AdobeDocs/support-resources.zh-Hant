@@ -2,10 +2,10 @@
 title: 在 [!DNL Adobe Success] 入口網站中管理結果
 description: 本指南會說明如何存取、解釋和處理 [!DNL Adobe Success] 入口網站中的結果，協助您主動管理產品效能、安全性以及功能風險。
 exl-id: c787ce29-993c-498c-9e39-8a04c2eeedda
-source-git-commit: b05c238726c88ae0c51f40f077192dc136c0ae59
-workflow-type: ht
-source-wordcount: '765'
-ht-degree: 100%
+source-git-commit: f23f0debcd6a0e2962524de321d436b854001495
+workflow-type: tm+mt
+source-wordcount: '864'
+ht-degree: 87%
 
 ---
 
@@ -39,23 +39,23 @@ Adobe 團隊會定期研究最常見的支援問題和趨勢。他們會根據�
 1. 瀏覽至&#x200B;**[!UICONTROL 支援與洞察]**。
 1. 選取相關產品卡。選取「**[!UICONTROL 結果]**」索引標籤。
 
-   ![asp-support-inisghts-findings](../../assets/asp-support-inisghts-findings.png)
+   ![Adobe Success Portal醒目提示AEM as Cloud Service下的發現 — 具有3個列出專案的Assets ](../../assets/asp-support-inisghts-findings.png "在Cloud Service中檢視AEM Assets的發現")
 
 
 1. 您會看到選取產品的所有結果清單。
 
-   ![adobe-success-portal-findings](../../assets/adobe-success-portal-findings.png)
+   ![Adobe成功入口網站顯示AEM Cloud Service的「發現」標籤 — Assets中列出快取問題](../../assets/adobe-success-portal-findings.png "在Cloud Service中檢視AEM Assets的快取相關發現")
 
 1. 從此處，您可以：
 
-   ![adobe-success-portal-download](../../assets/adobe-success-portal-download.png)
+   ![Adobe Success Portal介面醒目提示AEM Sites下的搜尋列、下載按鈕和嚴重風險結果](../../assets/adobe-success-portal-download.png "在Cloud Service中搜尋、下載或檢視AEM Sites結果")
 
    * 搜尋專屬項目。
    * 選取「**[!UICONTROL 下載結果]**」來匯出結果清單。若要匯出一個結果的報告，請選取「**[!UICONTROL 結果名稱]**」欄下相關結果旁的核取方塊。如果您未選取結果，則 PDF 預設包含所有結果的清單。
    * 選取「**[!UICONTROL 結果名稱]**」下的結果，即可查看該結果的詳細資料，包括建議的解決方案。「結果」詳細資料頁面會顯示選取的結果，包含其他內容和建議。若要檢視此報告，請選取此下載箭頭。
 
 
-     ![findings-details](../../assets/findings-details.png)
+     在Adobe成功入口網站中匯出結果詳細資料的![下載按鈕](../../assets/findings-details.png "下載此結果的報告")
 
 
 ## 動作結果
@@ -72,7 +72,7 @@ Adobe 團隊會定期研究最常見的支援問題和趨勢。他們會根據�
 1. 選取「**[!UICONTROL 結果名稱]**」下的項目。在「結果」詳細資料頁面上，您可以：
    * 選取「**[!UICONTROL 驗證]**」以檢查問題是否仍然存在 (「**[!UICONTROL 驗證]**」按鈕旨在確認此問題已解決)：
 
-   ![adobe-success-portal-validate](../../assets/adobe-success-portal-validate.png)
+   「發現」面板中的![驗證按鈕，用於確認Adobe Success Portal中的問題解決方案](../../assets/adobe-success-portal-validate.png "驗證按鈕")
 
 
    * 如果此問題仍然存在，則會顯示下列訊息：*[!UICONTROL 驗證完成，仍偵測到結果]*。使用「結果詳細資料」頁面上的資訊和建議，以進行調查和解決。

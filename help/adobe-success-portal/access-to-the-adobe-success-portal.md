@@ -2,10 +2,10 @@
 title: 存取  [!DNL Adobe Success] 入口網站
 description: 了解如何在  [!DNL Adobe Success]  入口網站管理案例。
 exl-id: 791b6cce-e7c9-42fe-a50c-4ef16fafdd10
-source-git-commit: 400b90e09f76f3ad299f3d56f0d42668ea4e13ea
-workflow-type: ht
-source-wordcount: '141'
-ht-degree: 100%
+source-git-commit: cc2a327307321a77623e1a4a82f9227ef5a3949c
+workflow-type: tm+mt
+source-wordcount: '170'
+ht-degree: 81%
 
 ---
 
@@ -19,13 +19,13 @@ ht-degree: 100%
 1. 使用您的 Adobe ID 登入。
 1. 選取「**[!UICONTROL 成功入口網站 (Alpha 版)]**」圖示。
 
-   ![alpha-success-portal-alpha](assets/alpha-success-portal-alpha.png)
+   成功入口網站(Alpha)的![圖示和標籤](assets/alpha-success-portal-alpha.png "存取成功入口網站(Alpha)")
 
 
 
 1. 登入後，您會看到五個索引標籤：
 
-   ![adobe-success-portal-tabs](assets/adobe-success-portal-tabs.png)
+   ![Adobe Success Portal介面的側欄](assets/adobe-success-portal-tabs.png "側欄標籤")
 
 
    * 首頁
@@ -44,4 +44,4 @@ ht-degree: 100%
 >
 >意見工具不是專門的支援管道。此工具不適合用於緊急的登入問題。
 
-![adobe-success-portal-home](assets/adobe-success-portal-home.png)
+入口網站上的![Alpha Feedback按鈕以提交意見](assets/adobe-success-portal-home.png "Alpha Feedback按鈕")

@@ -2,10 +2,10 @@
 title: 在 [!DNL Adobe Success] 入口網站建立和管理案例
 description: 了解如何在 [!DNL Adobe Success] 入口網站管理案例。
 exl-id: 0b4eb2bc-ee11-4136-a744-457f9e204143
-source-git-commit: b05c238726c88ae0c51f40f077192dc136c0ae59
-workflow-type: ht
-source-wordcount: '281'
-ht-degree: 100%
+source-git-commit: 0a8d1af656473e05f82f7c309291c0b63bf6b71c
+workflow-type: tm+mt
+source-wordcount: '441'
+ht-degree: 61%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 1. 選取&#x200B;**[!UICONTROL 未結案例]**。
 
 
-   ![adobe-success-portal-home-page-open-case](../../assets/adobe-success-portal-home-page-open-case.png)
+   在Adobe成功入口網站的「建立新案例」區段中的![開啟案例按鈕](../../assets/adobe-success-portal-home-page-open-case.png "開啟案例按鈕")
 
 
 
@@ -35,7 +35,7 @@ ht-degree: 100%
 
 
 
-   ![adobe-success-portal-submit-case](../../assets/adobe-success-portal-submit-case.png)
+   在Adobe成功入口網站的支援票證表單底部![提交案例按鈕](../../assets/adobe-success-portal-submit-case.png "提交您的支援請求")
 
 
 
@@ -47,7 +47,7 @@ ht-degree: 100%
 
 
 
-   ![adobe-success-portal-support-insights-open-case](../../assets/adobe-success-portal-support-insights-open-case.png)
+   在Adobe成功入口網站的「建立新案例」區段中的![開啟案例按鈕](../../assets/adobe-success-portal-support-insights-open-case.png "開啟案例按鈕")
 
 
 
@@ -64,7 +64,7 @@ ht-degree: 100%
 
 
 
-   ![adobe-success-portal-view-cases](../../assets/adobe-success-portal-view-cases.png)
+   在Adobe成功入口網站的「建立新案例」區段中![檢視案例按鈕](../../assets/adobe-success-portal-view-cases.png "檢視您現有的支援案例")
 
 
 
@@ -76,7 +76,7 @@ ht-degree: 100%
 
 
 
-   ![adobe-success-portal-open-case-closed-case](../../assets/adobe-success-portal-open-case-closed-case.png)
+   在AEM Cloud Service的支援與深入分析區段中![開啟和關閉案例指標 — Assets](../../assets/adobe-success-portal-open-case-closed-case.png "檢視開啟和關閉支援案例的摘要")
 
 
 
@@ -84,7 +84,7 @@ ht-degree: 100%
 
 
 
-   ![adobe-success-portal-case-number](../../assets/adobe-success-portal-case-number.png)
+   ![Adobe成功入口網站支援案例的案例編號連結](../../assets/adobe-success-portal-case-number.png "按一下以檢視案例詳細資料")
 
 
 
@@ -96,7 +96,7 @@ ht-degree: 100%
 1. 選取「**[!UICONTROL 檢視案例]**」。
 
 
-   ![adobe-success-portal-view-cases](../../assets/adobe-success-portal-view-cases.png)
+   在Adobe成功入口網站的「建立新案例」區段中![檢視案例按鈕](../../assets/adobe-success-portal-view-cases.png "檢視您現有的支援案例")
 
 
 1. 選取要檢視的產品卡，然後選擇「**[!UICONTROL 未結案例]**」或者「**[!UICONTROL 已關閉案例]**」。
@@ -105,8 +105,8 @@ ht-degree: 100%
    >
    >您也可以選取「**[!UICONTROL 支援與洞察]**」索引標籤，以快速存取包含&#x200B;**[!UICONTROL 未結案例]**&#x200B;或者&#x200B;**[!UICONTROL 已關閉案例]**&#x200B;連結的產品卡。
 
-   ![adobe-success-portal-open-case-closed-case](../../assets/adobe-success-portal-open-case-closed-case.png)
+   在AEM Cloud Service的支援與深入分析區段中![開啟和關閉案例指標 — Assets](../../assets/adobe-success-portal-open-case-closed-case.png "檢視開啟和關閉支援案例的摘要")
 
 1. 在 [產品] 上：支援案例頁面，選取要下載的案例旁的核取方塊，並選取「**[!UICONTROL 下載案例]**」。
 
-   ![adobe-success-portal-download-cases](../../assets/adobe-success-portal-download-cases.png)
+   Adobe成功入口網站案例管理區段中的![下載案例按鈕](../../assets/adobe-success-portal-download-cases.png "下載支援案例資料")
