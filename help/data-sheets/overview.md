@@ -2,7 +2,7 @@
 title: Adobe Success Plan 概觀
 description: 本文提供 Adobe Experience Cloud、Adobe Document Cloud 和 Adobe Creative Cloud 的客戶支援選項摘要。
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: eab06cfc16fd8adb5ff6ea918f0e351ffc1719cd
+source-git-commit: 3d7d582ed5725ba9cb3c599910110d441114b066
 workflow-type: tm+mt
 source-wordcount: '1833'
 ht-degree: 100%
@@ -12,7 +12,6 @@ ht-degree: 100%
 # Adobe Success Plan 概觀
 
 Adobe Success Plan 超越了被動解決問題的模式，為您帶來全新個人化體驗，讓業務時刻準備面對任何問題。您的 Adobe 團隊採用深厚的技術專業知識、多樣化的能力和先進的方法，為您提供所需的適當水準的支援、專業知識以及技術和策略指導。
-
 
 ## 比較 Expert Success Plan 和 Ultimate Success Plan
 
@@ -169,4 +168,3 @@ Adobe Commerce 的標準支援：授權期限的開始日期在 2021 年 9 月 2
 >[!NOTE]
 >
 >現場服務並不表示取代 Adobe 諮詢服務。現場服務支援客戶 LAS 後實施並補充任何更大型的諮詢服務。
-
