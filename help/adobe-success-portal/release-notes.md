@@ -3,10 +3,10 @@ title: Adobe Success 入口網站發行說明
 description: ' [!DNL Adobe Success portal] 的最新版本資訊。'
 feature: Release Notes
 exl-id: be268e05-8298-4f21-8f2f-f66c52d76fe3
-source-git-commit: 4a7f2142170b79b8024881144fa77ea4940c382c
+source-git-commit: 2894190b3171228e9c14a7cdef5bb2d92b97a6ec
 workflow-type: tm+mt
-source-wordcount: '514'
-ht-degree: 36%
+source-wordcount: '595'
+ht-degree: 32%
 
 ---
 
@@ -18,9 +18,21 @@ ht-degree: 36%
 ![修正](../adobe-success-portal/assets/fix.svg) - 修正和改良
 ![錯誤](../adobe-success-portal/assets/bug.svg) - 已知問題
 
+## 4.0
+
+_2025 年 11 月 11 日_
+
+![修正](../adobe-success-portal/assets/fix.svg)已最佳化案例詳細資料頁面中的交談順序，以自動捲動至最新的訊息。
+
+![修正](../adobe-success-portal/assets/fix.svg)已更新案例詳細資料，因此使用&#x200B;**Ctrl+Click** / **Command+Click**&#x200B;在新索引標籤中開啟時，[上一步]按鈕會正確停用，以避免導覽錯誤。
+
+![錯誤](../adobe-success-portal/assets/bug.svg)修正&#x200B;**[!UICONTROL 支援與深入分析]**&#x200B;中&#x200B;**[!UICONTROL Adobe狀態]**&#x200B;警示顯示錯誤狀態、地區或時區詳細資料的問題。
+
+![錯誤](../adobe-success-portal/assets/bug.svg)已解決連結至&#x200B;**[!UICONTROL 策略合作夥伴]**&#x200B;的&#x200B;**[!UICONTROL 加速器]**&#x200B;和&#x200B;**[!UICONTROL 活動]**&#x200B;的顯示問題。
+
 ## 3.0
 
-_2025年10月9日_
+_2025 年 10 月 09 日_
 
 ![新](../adobe-success-portal/assets/new.svg)已將行事曆檢視新增至&#x200B;**[!UICONTROL 行動計畫]**&#x200B;模組，以視覺化連結至&#x200B;**[!UICONTROL 關鍵業務目標]** (KBO)的&#x200B;**[!UICONTROL 加速器]**&#x200B;和&#x200B;**[!UICONTROL 活動]**&#x200B;的時間表。
 * 從「行動計畫KBO」頁面或&#x200B;**[!UICONTROL KBO]**/**[!UICONTROL 加速器]**/**[!UICONTROL 活動]**&#x200B;詳細資訊頁面存取行事曆（僅當連結至KBO時）。
