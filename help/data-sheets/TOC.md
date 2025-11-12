@@ -3,10 +3,10 @@ user-guide-title: Success Plan 資源
 user-guide-description: Adobe Experience Cloud 和 Adobe Experience Platform 的 Success Plan 和支援資源。
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: 67c030d28d7715cbf51910b61a6ba3d3aee29c7d
+source-git-commit: de2e82b0e5d2324c01eca5abdce6e87dcb347680
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 100%
+source-wordcount: '103'
+ht-degree: 93%
 
 ---
 
@@ -14,6 +14,7 @@ ht-degree: 100%
 # Success Plan 資源 {#data-sheets}
 
 + [Adobe Success Plan 概觀](overview.md)
++ [Adobe DX解決方案統一假日整備指南](unified-holiday-readiness.md)
 + Crux 網路廣播{#crux-podcast}
    + [第 1 集 - Billy Georgaros](episode1.md)
      [第 2 集 - Karrie Benjamin](episode2.md)
