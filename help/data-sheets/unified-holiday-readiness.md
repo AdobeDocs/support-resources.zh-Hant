@@ -119,7 +119,7 @@ Adobe強調強大的安全性和治理實務，尤其是在高流量季節中，
    * 傳送時間
    * 優惠型別
    * 頻道組合
-請參閱[AJO Experimentation Accelerator最佳實務](https://experienceleague.adobe.com/en/docs/experimentation-accelerator/using/get-started/experiment-accelerator-best-practices)。
+請參閱[AJO Experimentation Accelerator最佳實務](https://experienceleague.adobe.com/zh-hant/docs/experimentation-accelerator/using/get-started/experiment-accelerator-best-practices)。
 * 進行端對端歷程驗證：
    * 事件觸發程式
    * 分段專案
