@@ -2,24 +2,24 @@
 keywords: FAQ；常見問題
 title: Adobe商業平台與Admin Console常見問題集
 description: Adobe Workfront常見問題集
-source-git-commit: 21f2b42e3131fe0339e5de15824f48166409c7c1
+source-git-commit: dc05d9746bff375f5c29a164fbfdf4adb8d219d5
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '485'
 ht-degree: 11%
 
 ---
 
-# Adobe商業平台與Admin Console常見問題集
+# [!DNL Adobe Business Platform]與Admin Console常見問題集
 
 +++**什麼是Adobe Identity和Admin Console？**
 
-Adobe商業平台為管理員和功能領導提供最先進的控制主控台，以管理其自訂的Workfront軟體版本。
+[!DNL Adobe Business Platform]可讓管理員和功能領導使用最先進的控制主控台，管理其自訂的Workfront軟體版本。
 
 +++
 
 +++**客戶為何需要移至Adobe Identity和Admin Console (AAC)？**
 
-客戶移至Adobe Business Platform，即可體驗更安全、更直覺的管理主控台。
+客戶將移至[!DNL Adobe Business Platform]，體驗更安全、更直覺的管理主控台。
 
 +++
 
@@ -57,7 +57,7 @@ Adobe Workfront支援團隊會透過即時協助和指導來移動客戶，以�
 
 +++**AAC有哪些可用的訓練資源？**
 
-&lt;https://helpx.adobe.com/tw/enterprise/using/admin-console.html >
+&lt;https://helpx.adobe.com/enterprise/using/admin-console.html >
 
 +++
 
@@ -81,7 +81,7 @@ Adobe Workfront支援團隊會透過即時協助和指導來移動客戶，以�
 
 +++**這會影響我在Adobe產品之外已整合至Workfront解決方案的其他技術嗎？**
 
-使用Fusion應用程式連線到其他服務的客戶，只有在Fusion應用程式準備好進行此變更時，才會移動。
+使用[!DNL Fusion]應用程式連線到其他服務的客戶，只有在[!DNL Fusion]應用程式準備進行此變更時，才會移動。
 
 +++
 
