@@ -1,7 +1,8 @@
 ---
 title: 管理角色
 description: 使用Adobe Admin Console，組織可以定義靈活的管理階層，以更精細地管理Adobe產品的存取及使用。
-source-git-commit: 13e89a152d9387a8b23544e6b6c6e3cad5856666
+solution: Admin Console
+source-git-commit: a96f8be10d63d4f1f40738d533147c22de9b5482
 workflow-type: tm+mt
 source-wordcount: '1642'
 ht-degree: 0%
@@ -26,7 +27,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->管理階層不適用於Teams客戶。 Teams客戶有單一&#x200B;**系統管理員**&#x200B;角色。 合約擁有者（_先前稱為&#x200B;**主要管理員**&#x200B;_）是系統管理員，可存取合約詳細資料和計費記錄。 如果您是目前的合約擁有者，您可以將現有的系統管理員（_&#x200B;先前稱為&#x200B;**次要管理員**&#x200B;_）指派為合約擁有者。
+>管理階層不適用於Teams客戶。 Teams客戶有單一&#x200B;**系統管理員**&#x200B;角色。 合約擁有者（_先前稱為&#x200B;**主要管理員**_）是系統管理員，可存取合約詳細資料和計費記錄。 如果您是目前的合約擁有者，您可以將現有的系統管理員（_&#x200B;先前稱為&#x200B;**次要管理員**_）指派為合約擁有者。
 
 ![管理影像](assets/storage_admin.png)
 
@@ -52,7 +53,7 @@ _管理員角色階層_
 
 若要新增或邀請管理員：
 
-1. 在&#x200B;**[[!UICONTROL Adobe Admin Console]](https://adminconsole.adobe.com/)**&#x200B;中，選擇&#x200B;**[!UICONTROL 使用者]** > **[!UICONTROL 系統管理員]**。
+1. 在&#x200B;**[!UICONTROL Adobe Admin Console](https://adminconsole.adobe.com/)**&#x200B;中，選擇&#x200B;**[!UICONTROL 使用者]** > **[!UICONTROL 系統管理員]**。
 
    或者，前往相關的產品、產品設定檔或使用者群組，然後導覽至&#x200B;**[!UICONTROL 管理員]**&#x200B;標籤。
 
@@ -74,7 +75,7 @@ _管理員角色階層_
 
    ![新增管理員](assets/add-admin.png)
 
-1. 檢閱指派給使用者的管理員角色，然後按一下[儲存]。**&#x200B;**
+1. 檢閱指派給使用者的管理員角色，然後按一下[儲存]。****
 
 使用者會收到來自`message@adobe.com`有關新系統管理許可權的電子郵件邀請。
 
@@ -156,7 +157,7 @@ _管理員角色階層_
 
 套用至： Adobe會與企業客戶合作。
 
-若要撤銷管理員許可權，請選取使用者，然後按一下[移除管理員]。**&#x200B;**
+若要撤銷管理員許可權，請選取使用者，然後按一下[移除管理員]。****
 
 ![移除管理員影像](assets/remove-admin.png)
 
