@@ -1,6 +1,6 @@
 ---
 title: 如何請求雲端基礎結構上的臨時Adobe Commerce升級
-description: 如果您的組織正在規劃您預期會有高流量的線上活動，或您突然發現您的網站正在進行高流量活動，您可以提出[支援票證](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket)以請求雲端基礎結構存放區中Adobe Commerce的臨時額外雲端容量。
+description: 如果您的組織正在規劃您預期會有高流量的線上活動，或您突然發現您的網站正在進行高流量活動，您可以提出[支援票證](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=zh-Hant#submit-ticket)以請求雲端基礎結構存放區中Adobe Commerce的臨時額外雲端容量。
 solution: Commerce
 source-git-commit: 070f069a083ff310da44ccca4cc4b0081eb106f2
 workflow-type: tm+mt
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # 如何請求雲端基礎結構上的臨時Adobe Commerce升級
 
-如果您的組織正在計畫發生您預期的高流量線上活動，或您突然發現您的網站正在發生高流量活動，您可以提出[支援票證](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket)，為雲端基礎結構存放區上的Adobe Commerce請求暫時的額外雲端容量。
+如果您的組織正在計畫發生您預期的高流量線上活動，或您突然發現您的網站正在發生高流量活動，您可以提出[支援票證](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=zh-Hant#submit-ticket)，為雲端基礎結構存放區上的Adobe Commerce請求暫時的額外雲端容量。
 
 >[!NOTE]
 >
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 請依照此連結深入瞭解New Relic [套用智慧的異常偵測](https://docs.newrelic.com/docs/alerts-applied-intelligence/applied-intelligence/anomaly-detection/anomaly-detection-applied-intelligence/)。
 
-如果您收到建議高流量事件的警示通知，您可能需要考慮[提交支援票證](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket)以要求額外的容量。 請遵循下列步驟。
+如果您收到建議高流量事件的警示通知，您可能需要考慮[提交支援票證](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=zh-Hant#submit-ticket)以要求額外的容量。 請遵循下列步驟。
 
 ## 如何監控網站效能
 
@@ -50,7 +50,7 @@ Adobe為雲端基礎結構上的Adobe Commerce提供一組New Relic警報政策�
 
 ## 請求臨時擴充的步驟
 
-若要要求暫時性的額外雲端容量，請在Adobe Commerce支援中心提交[支援票證](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket)，並提供下列資訊：
+若要要求暫時性的額外雲端容量，請在Adobe Commerce支援中心提交[支援票證](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=zh-Hant#submit-ticket)，並提供下列資訊：
 
 >[!NOTE]
 >
@@ -100,7 +100,7 @@ Adobe為雲端基礎結構上的Adobe Commerce提供一組New Relic警報政策�
 
 >[!NOTE]
 >
->排定擴充功能後，自動化系統會調整雲端例項的大小。 程式完成時，您可能無法收到任何票證通知。 您可以使用Adobe Commerce觀察工具，檢視您的AWS或Azure執行個體型別，以[驗證變更](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/check-vcpu-using-observation-for-adobe-commerce)。
+>排定擴充功能後，自動化系統會調整雲端例項的大小。 程式完成時，您可能無法收到任何票證通知。 您可以使用Adobe Commerce觀察工具，檢視您的AWS或Azure執行個體型別，以[驗證變更](https://experienceleague.adobe.com/zh-hant/docs/commerce-knowledge-base/kb/how-to/check-vcpu-using-observation-for-adobe-commerce)。
 
 ## 檢視您的升級記錄
 
