@@ -6,10 +6,10 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 36451c1cc9894de0fcea7890ce3ff1d6b2bf2a0d
+source-git-commit: 068b2404d78bffdf5973c5b553acae6134bae6d0
 workflow-type: tm+mt
-source-wordcount: '56'
-ht-degree: 8%
+source-wordcount: '63'
+ht-degree: 7%
 
 ---
 
@@ -25,4 +25,5 @@ ht-degree: 8%
    - [如何請求雲端基礎結構上的臨時Adobe Commerce升級](adobe-commerce-support/how-to-request-temporary-adobe-commerce-on-cloud-infrastructure-upsize.md)
    - [Adobe Commerce P1通知熱線](adobe-commerce-support/adobe-commerce-p1-notification-hotline.md)
    - [Adobe支援客戶資料存取和隱私權](adobe-commerce-support/adobe-support-customer-data-access-and-privacy.md)
+   - [Adobe Commerce支援票證生命週期原則更新](adobe-commerce-support/magento-support-ticket-lifecycle-policy-update.md)
 
