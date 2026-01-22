@@ -1,18 +1,18 @@
 ---
-title: 新的EXL案例表單發行說明
+title: 新的Experience League案例表單發行說明
 description: EXL案例表單的最新發行資訊。
 feature: Release Notes
-source-git-commit: 421ef19ed939cd757e3182c8fa5bbda13fd7561e
+source-git-commit: 7bca9c4ae25c77092de6957193ceecd146d19a1a
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '274'
 ht-degree: 6%
 
 ---
 
 
-# 新的EXL案例表單發行說明
+# 新的Experience League案例表單發行說明
 
-新的案例建立體驗引進了全新的表單，旨在簡化問題的解決，並包括：
+全新的案件建立體驗引入了全新表單，旨在簡化問題解決流程，內容包括：
 
 ![新增](../adobe-support-tools-guide/assets/new.svg) - 新功能
 ![修正](../adobe-support-tools-guide/assets/fix.svg) - 修正和改良
@@ -29,11 +29,11 @@ ht-degree: 6%
 - [!UICONTROL 系統資訊]
 - [!UICONTROL 影響]
 - [!UICONTROL 連絡資訊]
-- [!UICONTROL 檢閱和提交]
+- [!UICONTROL 審核並提交]
 
-![新](../adobe-support-tools-guide/assets/new.svg)已新增&#x200B;**要重新產生[!UICONTROL 欄位的新]步驟**，以擷取可操作的詳細資料並加速疑難排解。
+![新增](../adobe-support-tools-guide/assets/new.svg)**[!UICONTROL 重現]現場**&#x200B;的步驟，以捕捉可操作細節並加速故障排除。
 
-![新](../adobe-support-tools-guide/assets/new.svg)已新增授權產品的&#x200B;**其他[!UICONTROL 環境內容]欄位**，以擷取重要詳細資料：
+![新增](../adobe-support-tools-guide/assets/new.svg)**額外[!UICONTROL 環境上下文]欄位**，用於授權產品以捕捉關鍵細節：
 
 - **Marketo**
    - Munchkin ID
@@ -43,9 +43,9 @@ ht-degree: 6%
 - **Adobe Analytics**
    - RSID
    - 網站URL （標籤屬性名稱） / HAR或Assurance記錄/ cURL /偵錯記錄
-   - Workspace短連結
-- **Adobe Journey Optimizer (AJO)**
-   - 歷程ID或歷程URL
+   - Workspace 短連結
+- **Adobe 旅程優化器（AJO）**
+   - 旅程識別碼或旅程網址
    - 範例設定檔
 - **Real-Time Customer Data Platform (RTCDP)**
    - 受影響的元件ID （目的地ID、設定檔ID、對象ID、資料集ID或資料流ID）
@@ -55,12 +55,12 @@ ht-degree: 6%
    - 標籤屬性名稱
 
 
-![New](../adobe-support-tools-guide/assets/new.svg)已新增&#x200B;**AI導向的[!UICONTROL Recommendations面板]**，以便在不中斷案例建立流程的情況下顯示實用指引。
+![新增](../adobe-support-tools-guide/assets/new.svg) **新增 AI 驅動 [!UICONTROL 的建議面板]** ，能在不中斷案件建立流程的情況下顯示有用的指引。
 
-![新](../adobe-support-tools-guide/assets/new.svg)已新增[!UICONTROL 檢閱摘要]步驟，以提供所有輸入資訊的整合檢視，並允許使用者：
+![新增](../adobe-support-tools-guide/assets/new.svg)[!UICONTROL 檢視摘要]步驟，提供所有輸入資訊的整合檢視，並允許用戶：
 
-- 在一個位置檢閱案例詳細資訊
-- 導覽回先前的步驟以進行編輯
+- 一處查看案件細節
+- 回到之前的步驟進行編輯
 - 返回摘要而不會失去進度
 
 ![修正](../adobe-support-tools-guide/assets/fix.svg)已將案例描述欄位重新命名為&#x200B;*[!UICONTROL 「請描述問題」]*&#x200B;以提高清晰度。
