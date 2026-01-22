@@ -57,7 +57,7 @@ ht-degree: 6%
 
 ![新增](../adobe-support-tools-guide/assets/new.svg) **新增 AI 驅動 [!UICONTROL 的建議面板]** ，能在不中斷案件建立流程的情況下顯示有用的指引。
 
-![新增](../adobe-support-tools-guide/assets/new.svg)[!UICONTROL 檢視摘要]步驟，提供所有輸入資訊的整合檢視，並允許用戶：
+![新增](../adobe-support-tools-guide/assets/new.svg) [!UICONTROL 檢視摘要]步驟，提供所有輸入資訊的整合檢視，並允許用戶：
 
 - 一處查看案件細節
 - 回到之前的步驟進行編輯
