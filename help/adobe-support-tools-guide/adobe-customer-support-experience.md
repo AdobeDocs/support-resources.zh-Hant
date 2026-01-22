@@ -56,7 +56,7 @@ ht-degree: 0%
 
    ![編輯管理許可權Marketo](assets/edit-admin-rights-advanced.png)
 
-1. 選取之後，按一下[儲存]。****
+1. 選取之後，按一下[儲存]。**&#x200B;**
 
 使用者會收到來自`message@adobe.com`有關新系統管理許可權的電子郵件邀請。
 
@@ -103,7 +103,7 @@ Experience League是自助服務支援入口網站，專為提供個人化協助
 
 請依照下列步驟建立支援票證：
 
-1. 按一下產品名稱以選取受影響的產品，然後按一下[下一步]****。
+1. 按一下產品名稱以選取受影響的產品，然後按一下[下一步]&#x200B;**&#x200B;**。
 
    ![Experience League選取產品](./assets/select-product.png)
 
