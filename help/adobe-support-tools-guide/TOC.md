@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 068b2404d78bffdf5973c5b553acae6134bae6d0
+source-git-commit: c0ddf681f46a7646cbdebf1a43b6a0b50b6a7229
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '71'
 ht-degree: 7%
 
 ---
@@ -19,6 +19,7 @@ ht-degree: 7%
 - [Experience League支援入口網站](adobe-customer-support-experience.md)
 - [支援電話號碼更新](phone-numbers.md)
 - [管理員角色](admin-roles.md)
+- [全新Experience League案例提交表單發行說明](release-notes.md)
 - Adobe Workfront支援 {#workfront}
    - [常見問題集](faq.md)
 - Adobe Commerce支援 {#adobe-commerce-support}
