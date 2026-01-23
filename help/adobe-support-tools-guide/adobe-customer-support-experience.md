@@ -56,7 +56,7 @@ ht-degree: 0%
 
    ![編輯管理許可權Marketo](assets/edit-admin-rights-advanced.png)
 
-1. 選取之後，按一下[儲存]。****
+1. 選取之後，按一下[儲存]。**&#x200B;**
 
 使用者會收到來自`message@adobe.com`有關新系統管理許可權的電子郵件邀請。
 
@@ -76,7 +76,7 @@ ht-degree: 0%
 
 提交支援案例的程式現在直接與Experience League支援平台整合。 這是自助式入口網站，最近經過重新設計，提供更個人化且易於使用的權利客戶。
 
-1. 若要使用[Experience League](https://experienceleague.adobe.com/home#support)建立票證，請選取頂端導覽列中的&#x200B;**[!UICONTROL 支援]**索引標籤。
+1. 若要使用[Experience League](https://experienceleague.adobe.com/home#support)建立票證，請選取頂端導覽列中的&#x200B;**[!UICONTROL 支援]**&#x200B;索引標籤。
    ![Experience League支援標籤](./assets/experience-league-support-tab.png)
 1. 從支援首頁，您可以輕鬆導覽至未解決的支援案例、記錄新案例、檢視熱門支援文章或存取其他學習來源。
    ![Experience League支援資源](./assets/experience-league-support-resources.png)
