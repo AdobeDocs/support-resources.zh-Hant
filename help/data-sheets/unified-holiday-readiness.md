@@ -136,7 +136,7 @@ Adobe強調強大的安全性和治理實務，尤其是在高流量季節中，
 * 使用全通路協調。 請參閱部落格[Essential全通路客戶歷程，以取得參與度和成長率](https://business.adobe.com/blog/essential-customer-journeys-for-omnichannel-engagement)文章，其中顯示AJO的假日季節範例。
 * 視需要排定即時觸發器的優先順序。 例如：購物車放棄、瀏覽放棄和股票提醒，因為節日購物者比較被動反應。
 * 利用細分和個人化：鎖定高意圖區段、根據過去的購買行為和偏好設定量身打造選件。
-* 最少的訊息疲勞：強制上限與無訊息工作時間，以避免過度索取。 請參閱AJO中的[每日頻率上限提升客戶體驗](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/elevate-customer-experience-with-daily-frequency-capping-in-ajo/ba-p/761510)部落格。
+* 最少的訊息疲勞：強制上限與無訊息工作時間，以避免過度索取。 請參閱AJO中的[每日頻率上限提升客戶體驗](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/elevate-customer-experience-with-daily-frequency-capping-in-ajo/ba-p/761510?profile.language=zh-Hant)部落格。
 * 時機很重要：計畫會在假期中更早傳送（指定壓縮季節），並將頻道與時區和本機對象行為調整一致。
 * 提供動態/限時優惠方案以建立急迫性，但可跨通道協調，以避免重複和衝突。
 * 使用隱藏邏輯：隱藏剛購買的受眾，或套用購買後歷程以避免備援傳訊。
