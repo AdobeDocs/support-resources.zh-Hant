@@ -45,7 +45,7 @@ ht-degree: 0%
 
    ![編輯管理許可權Marketo](assets/edit-admin-rights-advanced.png)
 
-1. 選取之後，按一下[儲存]。****
+1. 選取之後，按一下[儲存]。**&#x200B;**
 
 使用者會收到來自`message@adobe.com`有關新系統管理許可權的電子郵件邀請。
 
