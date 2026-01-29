@@ -1,14 +1,14 @@
 ---
-title: Adobe Commerce支援票證**[!UICONTROL 問題原因]**說明
+title: Adobe Commerce支援票證[!UICONTROL 問題原因]說明
 description: 本文列出支援票證**[!UICONTROL 問題原因]**欄位選項，並提供每個選項的詳細說明。
-source-git-commit: 58cec1efe3f4b5d2277507469cf17b51ccffb98d
+source-git-commit: 6050a615b0247930baad060e1c9cd7c46547bfdb
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 1%
 
 ---
 
-# Adobe Commerce支援票證&#x200B;**[!UICONTROL 問題原因]**&#x200B;說明
+# Adobe Commerce支援票證[!UICONTROL 問題原因]說明
 
 本文列出支援票證&#x200B;**[!UICONTROL 問題原因]**&#x200B;欄位選項，並提供每個選項的詳細說明。
 
@@ -55,4 +55,4 @@ ht-degree: 1%
 
 ## 相關閱讀
 
-* 在Adobe Commerce的Experience League支援使用指南中[提交支援案例](https://experienceleague.adobe.com/zh-hant/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)。
+* 在Adobe Commerce的Experience League支援使用指南中[提交支援案例](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)。
