@@ -1,24 +1,24 @@
 ---
 title: Adobe客戶支援權益設定
-description: Adobe客戶如何設定支援權益以啟用案例提交。
+description: Adobe客戶如何在Admin Console中設定和管理支援權益，讓使用者可以存取支援資源、提交問題及管理案例活動。
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-source-git-commit: 009be3353a4bd690a7cf395e7e95540808058b39
+source-git-commit: 7f7a394874014fb5333ed9fb39f84b7137562726
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '373'
 ht-degree: 0%
 
 ---
 
 
-# Adobe客戶支援權益
+# Adobe客戶支援權益設定
 
 若要設定組織的支援權益，請先透過Admin Console新增或邀請使用者。
 
 ## 將支援權利角色新增至組織
 
-支援管理員角色是非管理角色，可存取支援相關資訊。 支援管理員可以檢視、建立和管理問題報告。
+**[!UICONTROL 支援系統管理員]**&#x200B;角色為非系統管理角色，可存取支援相關資訊。 **[!UICONTROL 支援管理員]**&#x200B;可以檢視、建立和管理問題報告。
 
 若要新增或邀請管理員：
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 1. 按一下&#x200B;**[!UICONTROL 下一步]**。 管理員角色清單隨即顯示。
 
-若要將支援管理員角色指派給使用者（讓使用者能夠聯絡支援人員）：
+若要將&#x200B;**[!UICONTROL 支援管理員]**&#x200B;角色指派給使用者（讓使用者能夠連絡支援人員）：
 
 1. 選取&#x200B;**[!UICONTROL 支援管理員]**&#x200B;選項。
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    ![編輯管理許可權Marketo](assets/edit-admin-rights-advanced.png)
 
-1. 選取之後，按一下[儲存]。**&#x200B;**
+1. 選取之後，按一下[儲存]。****
 
 使用者會收到來自`message@adobe.com`有關新系統管理許可權的電子郵件邀請。
 
@@ -55,4 +55,4 @@ ht-degree: 0%
 
 ![管理員許可權確認](assets/admin-rights-confirmation.png)
 
-如需詳細資訊，請參閱管理角色檔案中的[編輯企業管理員角色](admin-roles.md#add-enterprise-role)指示。 請注意，只有您組織的系統管理員可以指派此角色。 如需管理階層的詳細資訊，請瀏覽[管理角色](admin-roles.md)檔案。
+如需詳細資訊，請參閱管理角色檔案中的[編輯企業管理員角色](admin-roles.md#edit-enterprise-admin-role)指示。 請注意，只有您組織的系統管理員可以指派此角色。 如需管理階層的詳細資訊，請瀏覽[管理角色](admin-roles.md)檔案。
