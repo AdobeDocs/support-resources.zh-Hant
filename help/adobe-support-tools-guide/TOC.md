@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 70f2eb86f4c19c9e1b0b20f35a763d67d6bb8dab
+source-git-commit: b7138e6466c90b6ada3137cfc2b85f236fa8d19c
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '115'
 ht-degree: 4%
 
 ---
@@ -32,3 +32,4 @@ ht-degree: 4%
    - [Adobe Commerce軟體終止支援常見問題集](adobe-commerce-support/adobe-commerce-eos-policy-faq.md)
    - [Adobe Commerce支援票證問題原因說明](adobe-commerce-support/adobe-commerce-support-ticket-contact-reason-descriptions.md)
    - [Adobe Commerce支援工具總覽](adobe-commerce-support/support-tools-overview.md)
+   - [雲端基礎結構沙箱要求的合作夥伴Adobe Commerce](adobe-commerce-support/partner-magento-commerce-cloud-sandbox-requests.md)
