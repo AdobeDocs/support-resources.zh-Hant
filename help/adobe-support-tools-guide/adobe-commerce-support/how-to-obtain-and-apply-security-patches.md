@@ -60,4 +60,4 @@ Adobe Commerce內部部署和雲端基礎結構 — 所有支援的版本
 ## 相關閱讀
 
 * 請參閱[雲端基礎結構上的Commerce Cloud指南](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/release-notes/cloud-tools-suite)中的&#x200B;*Adobe Commerce Tools Suite*&#x200B;發行說明。
-* 請參閱[雲端基礎結構指南上的Adobe Commerce ](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/upgrade/commerce-version)中的&#x200B;*升級Adobe Commerce版本*。
+* 請參閱[雲端基礎結構指南上的Adobe Commerce &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/upgrade/commerce-version)中的&#x200B;*升級Adobe Commerce版本*。
