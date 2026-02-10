@@ -6,10 +6,10 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: cb9d0c550c1b4cf3ce333ea6a826e6f42cdd1146
+source-git-commit: 2469a09135b81ccfbf0bbda8fd46f552dc5d82fc
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 4%
+source-wordcount: '131'
+ht-degree: 3%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 4%
 - Adobe Workfront支援 {#workfront}
    - [常見問題集](faq.md)
 - Adobe Commerce支援 {#adobe-commerce-support}
+   - [如何取得及套用安全性修補程式](adobe-commerce-support/how-to-obtain-and-apply-security-patches.md)
    - [如何請求雲端基礎結構上的臨時Adobe Commerce升級](adobe-commerce-support/how-to-request-temporary-adobe-commerce-on-cloud-infrastructure-upsize.md)
    - [Adobe Commerce P1通知熱線](adobe-commerce-support/adobe-commerce-p1-notification-hotline.md)
    - [Adobe支援客戶資料存取和隱私權](adobe-commerce-support/adobe-support-customer-data-access-and-privacy.md)
