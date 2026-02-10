@@ -29,7 +29,7 @@ Adobe Commerce內部部署和雲端基礎結構 — 所有支援的版本
 
 ### 案例I：
 
-* 如果[發行說明](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/release-notes/cloud-tools-suite)中提及隔離的修補程式檔案/Hotfix，請從[https://account.magento.com](https://account.magento.com/downloads/view/)的下載區段下載檔案。 共用存取許可權的使用者必須先獲得帳戶擁有者/授權持有者的下載許可權。
+* 如果[發行說明](https://experienceleague.adobe.com/zh-hant/docs/commerce-on-cloud/user-guide/release-notes/cloud-tools-suite)中提及隔離的修補程式檔案/Hotfix，請從[https://account.magento.com](https://account.magento.com/downloads/view/)的下載區段下載檔案。 共用存取許可權的使用者必須先獲得帳戶擁有者/授權持有者的下載許可權。
 
 **警告：**
 
@@ -49,15 +49,15 @@ Adobe Commerce內部部署和雲端基礎結構 — 所有支援的版本
 
 * **雲端：**
 
-1. 在適用於Commerce的雲端修補程式底下，某些[!UICONTROL 安全性修補程式]可能包含在最新版的Cloud Tools Suite (ECE Tools)中/發行 — 請檢視[發行說明](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/release-notes/cloud-tools-suite)，如果發行版本中提到安全性修正，請將套件升級至該版本。
+1. 在適用於Commerce的雲端修補程式底下，某些[!UICONTROL 安全性修補程式]可能包含在最新版的Cloud Tools Suite (ECE Tools)中/發行 — 請檢視[發行說明](https://experienceleague.adobe.com/zh-hant/docs/commerce-cloud-service/user-guide/release-notes/cloud-tools-suite)，如果發行版本中提到安全性修正，請將套件升級至該版本。
 1. 如果發行說明未提及安全性修正，請繼續閱讀。
 
 * **雲端基礎結構或內部部署：**
 
-* 如果無法使用隔離的修補程式檔案/Hotfix，[請將雲端基礎結構上的Adobe Commerce版本](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/upgrade/commerce-version) 2.4.X升級至最新的修補程式版本2.4.X-pY。
-* 如果無法使用隔離的修補程式檔案/Hotfix，[請將Adobe Commerce Version On-Premise](https://experienceleague.adobe.com/en/docs/commerce-operations/upgrade-guide/implementation/perform-upgrade) 2.4.X升級至最新的修補程式版本2.4.X-pY。
+* 如果無法使用隔離的修補程式檔案/Hotfix，[請將雲端基礎結構上的Adobe Commerce版本](https://experienceleague.adobe.com/zh-hant/docs/commerce-cloud-service/user-guide/develop/upgrade/commerce-version) 2.4.X升級至最新的修補程式版本2.4.X-pY。
+* 如果無法使用隔離的修補程式檔案/Hotfix，[請將Adobe Commerce Version On-Premise](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/upgrade-guide/implementation/perform-upgrade) 2.4.X升級至最新的修補程式版本2.4.X-pY。
 
 ## 相關閱讀
 
-* 請參閱[雲端基礎結構上的Commerce Cloud指南](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/release-notes/cloud-tools-suite)中的&#x200B;*Adobe Commerce Tools Suite*&#x200B;發行說明。
-* 請參閱[雲端基礎結構指南上的Adobe Commerce &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/upgrade/commerce-version)中的&#x200B;*升級Adobe Commerce版本*。
+* 請參閱[雲端基礎結構上的Commerce Cloud指南](https://experienceleague.adobe.com/zh-hant/docs/commerce-cloud-service/user-guide/release-notes/cloud-tools-suite)中的&#x200B;*Adobe Commerce Tools Suite*&#x200B;發行說明。
+* 請參閱[雲端基礎結構指南上的Adobe Commerce &#x200B;](https://experienceleague.adobe.com/zh-hant/docs/commerce-cloud-service/user-guide/develop/upgrade/commerce-version)中的&#x200B;*升級Adobe Commerce版本*。
