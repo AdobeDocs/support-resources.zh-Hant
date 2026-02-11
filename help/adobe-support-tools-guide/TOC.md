@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 2469a09135b81ccfbf0bbda8fd46f552dc5d82fc
+source-git-commit: 6fa07d9adae493bcb4bb12c5e48f5447f198d735
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '139'
 ht-degree: 3%
 
 ---
@@ -33,5 +33,6 @@ ht-degree: 3%
    - [Adobe Commerce軟體終止支援常見問題集](adobe-commerce-support/adobe-commerce-eos-policy-faq.md)
    - [Adobe Commerce支援票證問題原因說明](adobe-commerce-support/adobe-commerce-support-ticket-contact-reason-descriptions.md)
    - [Adobe Commerce支援工具總覽](adobe-commerce-support/support-tools-overview.md)
+   - [適用於Adobe Commerce的Experience League支援使用指南](adobe-commerce-support/adobe-commerce-help-center-user-guide.md)
    - [如何在支援通知中加入團隊成員](/help/adobe-support-tools-guide/adobe-commerce-support/how-to-include-a-team-member-in-support-notifications.md)
    - [雲端基礎結構沙箱要求的合作夥伴Adobe Commerce](adobe-commerce-support/partner-magento-commerce-cloud-sandbox-requests.md)
