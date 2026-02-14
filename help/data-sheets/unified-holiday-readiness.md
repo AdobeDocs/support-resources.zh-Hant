@@ -133,7 +133,7 @@ Adobe強調強大的安全性和治理實務，尤其是在高流量季節中，
 
 ### 最佳做法
 
-* 使用全通路協調。 請參閱部落格[Essential全通路客戶歷程，以取得參與度和成長率](https://business.adobe.com/blog/essential-customer-journeys-for-omnichannel-engagement)文章，其中顯示AJO的假日季節範例。
+* 使用全通路協調。 請參閱部落格[Essential全通路客戶歷程，以取得參與度和成長率](https://business.adobe.com/tw/blog/essential-customer-journeys-for-omnichannel-engagement)文章，其中顯示AJO的假日季節範例。
 * 視需要排定即時觸發器的優先順序。 例如：購物車放棄、瀏覽放棄和股票提醒，因為節日購物者比較被動反應。
 * 利用細分和個人化：鎖定高意圖區段、根據過去的購買行為和偏好設定量身打造選件。
 * 最少的訊息疲勞：強制上限與無訊息工作時間，以避免過度索取。 請參閱AJO中的[每日頻率上限提升客戶體驗](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/elevate-customer-experience-with-daily-frequency-capping-in-ajo/ba-p/761510?profile.language=zh-Hant)部落格。
@@ -212,7 +212,7 @@ Customer Journey Analytics使用5 P來達成假日/旺季整備。
 
 ### 最佳做法
 
-* 遵循Adobe的指南[如何針對高流量準備您的基礎結構 — 旺季效能的5 Ps](https://business.adobe.com/blog/how-to/the-5-ps-of-peak-season-performance-a-guide-to-preparing-your-infrastructure-for-high-traffic)。
+* 遵循Adobe的指南[如何針對高流量準備您的基礎結構 — 旺季效能的5 Ps](https://business.adobe.com/tw/blog/how-to/the-5-ps-of-peak-season-performance-a-guide-to-preparing-your-infrastructure-for-high-traffic)。
 * 檢視[Commerce假期整備的技術秘訣](https://experienceleague.adobe.com/zh-hant/docs/commerce-knowledge-base/kb/how-to/tech-tips-for-commerce-holiday-readiness)，瞭解如何在假期中讓您的基礎建設準備好應付高流量、防止停機時間，以及最佳化效能的相關秘訣。
 
 +++
