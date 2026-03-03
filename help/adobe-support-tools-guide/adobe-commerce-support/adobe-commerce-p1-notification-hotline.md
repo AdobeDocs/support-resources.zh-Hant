@@ -2,7 +2,8 @@
 title: Adobe Commerce P1通知熱線
 description: 本文提供Adobe Commerce的P1通知熱線號碼，可在尋求報告P1事件時使用，並說明應提供的資訊。
 solution: Commerce
-source-git-commit: f08fbf3920b6b80f2755598920c2a7ed82835510
+exl-id: 0c7088b2-6149-4307-b513-cebeeaa8f6ea
+source-git-commit: a8d43c1d190d6c7bb3e7653e304b4152fe7039ca
 workflow-type: tm+mt
 source-wordcount: '536'
 ht-degree: 0%
@@ -20,7 +21,7 @@ ht-degree: 0%
 ## P1通知熱線電話原則
 
 * P1通知熱線可用於報告P1層級的問題（請參閱上一節中的P1事件定義）。
-* 在呼叫Adobe Commerce P1通知熱線前，請先提交支援票證[。](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=zh-Hant#submit-ticket)
+* 在呼叫Adobe Commerce P1通知熱線前，請先提交支援票證[。](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket)
 * 調查、疑難排解和通訊將僅在支援票證內進行。
 * 在呼叫之前，直接將您可能擁有的所有其他問題相關資訊新增到票證。
 * 打電話時，請確定有票證號碼。
@@ -47,4 +48,4 @@ ht-degree: 0%
    * 馬來西亞（付費電話）： (+60) 1800 220 120 (第一個功能表，按3顯示Adobe Commerce P1熱線)
    * 印度：(+91) 0008 004 402 107 (第一次選單時，請按3輸入Adobe Commerce P1熱線)
    * 香港：(+852) 30 713 107 (第一個功能表按3 Adobe Commerce P1熱線電話)
-   * 日本：(+81) 120 071 300 (第一個功能表時，Adobe Commerce P1熱線按3)
+   * 日本：(+81) 0120 410 404 (第一個功能表按下Adobe Commerce P1熱線電話3)
