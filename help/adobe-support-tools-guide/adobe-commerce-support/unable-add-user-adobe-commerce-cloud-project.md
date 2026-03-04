@@ -5,9 +5,10 @@ feature: Cloud, Paas
 solution: Commerce
 feature-set: Commerce
 role: Developer
-source-git-commit: dfb3e7ea8638755cdff16b0765125403f429ef2e
+exl-id: 2dc52d5e-0930-48c4-986e-ce3f9f6f8221
+source-git-commit: 755c6dc9cff041b9ca9183fbecde21f90fbaee1a
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '287'
 ht-degree: 1%
 
 ---
@@ -31,14 +32,14 @@ ht-degree: 1%
 ## 解決方案
 
 1. 要求使用者在[https://accounts.magento.cloud](https://accounts.magento.cloud)登入。 使用者必須使用相同的電子郵件地址向Adobe註冊。
-   > **注意**\
-   > 在[https://account.adobe.com](https://account.adobe.com)建立或擁有帳戶，並不自動錶示使用者在[https://accounts.magento.cloud](https://accounts.magento.cloud)擁有帳戶。 使用者必須先建立[其Commerce帳戶](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/start/commerce-account/commerce-account-create?lang=en#create-a-commerce-account)。
+   >[!NOTE]
+   >在[https://account.adobe.com](https://account.adobe.com)建立或擁有帳戶，並不自動錶示使用者在[https://accounts.magento.cloud](https://accounts.magento.cloud)擁有帳戶。 使用者必須先建立[其Commerce帳戶](https://experienceleague.adobe.com/en/docs/commerce-admin/start/commerce-account/commerce-account-create?lang=en#create-a-commerce-account)。
 
-1. 如果使用者已有Adobe帳戶但無法登入，請要求他們提交[支援要求](https://experienceleague.adobe.com/home?lang=zh-Hant#support)，並將[!UICONTROL 問題原因]設定為&#x200B;*使用者管理*。
+1. 如果使用者已有Adobe帳戶但無法登入，請要求他們提交[支援要求](https://experienceleague.adobe.com/home#support)，並將[!UICONTROL 問題原因]設定為&#x200B;*使用者管理*。
 
-1. 使用者成功登入[https://accounts.magento.cloud](https://accounts.magento.cloud)後，您可以將使用者新增至專案。 如需詳細步驟，請參閱Commerce on Cloud Infrastructure指南中的[新增使用者及管理存取權](https://experienceleague.adobe.com/zh-hant/docs/commerce-cloud-service/user-guide/project/user-access#add-users-and-manage-access)。
+1. 使用者成功登入[https://accounts.magento.cloud](https://accounts.magento.cloud)後，您可以將使用者新增至專案。 如需詳細步驟，請參閱Commerce on Cloud Infrastructure指南中的[新增使用者及管理存取權](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/project/user-access#add-users-and-manage-access)。
 
 ## 相關閱讀：
 
-* 在雲端基礎結構的Commerce指南中[管理使用者存取](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/user-access.html?lang=zh-Hant)。
-* [無法登入Adobe Commerce支援或雲端帳戶](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/unable-to-log-in-to-support-or-cloud-project.html?lang=zh-Hant)
+* 在雲端基礎結構的Commerce指南中[管理使用者存取](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/user-access.html)。
+* [無法登入Adobe Commerce支援或雲端帳戶](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/unable-to-log-in-to-support-or-cloud-project.html)
