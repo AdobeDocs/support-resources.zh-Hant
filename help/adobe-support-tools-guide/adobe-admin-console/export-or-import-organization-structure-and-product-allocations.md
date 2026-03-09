@@ -43,7 +43,7 @@ ht-degree: 3%
 
 4. 選取&#x200B;**[!UICONTROL 匯出]**。 匯出檔案可能需要幾分鐘的時間才能產生。 完成之後，若要下載報表，請導覽至&#x200B;**[!UICONTROL Global Admin Console]** > **[!UICONTROL 深入分析]** > **[!UICONTROL 匯出報表]**。
 
-> [!NOTE]
+&#x200B;> [!NOTE]
 >
 > JSON檔案會匯出為zip格式。 您可以使用zip公用程式或作業系統的zip功能來開啟它們。
 
