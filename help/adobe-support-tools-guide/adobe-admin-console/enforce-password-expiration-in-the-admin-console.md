@@ -30,4 +30,4 @@ ht-degree: 2%
 
 1. 檢閱&#x200B;**[!UICONTROL 驗證層級]**，並為您的使用者選取最適合的驗證層級： **[!UICONTROL 使用者最簡單的驗證層級]**、**[!UICONTROL 更安全]**、**[!UICONTROL 最安全]**。
 
-請造訪[驗證設定Helpx](https://helpx.adobe.com/enterprise/using/authentication-settings.html)，以進一步瞭解可用的驗證和安全性原則。
+請造訪[驗證設定Helpx](https://helpx.adobe.com/tw/enterprise/using/authentication-settings.html)，以進一步瞭解可用的驗證和安全性原則。
