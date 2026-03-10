@@ -13,7 +13,7 @@ ht-degree: 0%
 
 本文提供支援的Adobe Commerce版本的MySQL終止支援(EOS)和資料庫相容性的重要資訊。
 Adobe強烈建議商戶檢閱此公告，並採取行動維護平台穩定性及符合支援要求。
-進一步瞭解[MariaDB升級必要條件](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/maintenance/mariadb-upgrade)和[系統需求](https://experienceleague.adobe.com/en/docs/commerce-operations/installation-guide/system-requirements)。
+進一步瞭解[MariaDB升級必要條件](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/implementation-playbook/best-practices/maintenance/mariadb-upgrade)和[系統需求](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/installation-guide/system-requirements)。
 
 ## MySQL 8.0終止支援(EOS)
 
