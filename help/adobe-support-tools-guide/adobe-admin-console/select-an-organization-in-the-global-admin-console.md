@@ -18,7 +18,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->存取[Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html#request-access)後，您可以先選取組織來檢視及管理組織的名稱、使用者群組、產品設定檔、管理員和組織原則。 若要登入Global Admin Console，[請按一下這裡](https://global-admin-console.adobe.com/)。
+>存取[Global Admin Console](https://helpx.adobe.com/tw/enterprise/global-admin-console/adopt-global-administration.html#request-access)後，您可以先選取組織來檢視及管理組織的名稱、使用者群組、產品設定檔、管理員和組織原則。 若要登入Global Admin Console，[請按一下這裡](https://global-admin-console.adobe.com/)。
 
 Global Admin Console是組織的中心，管理Adobe資源。 全域管理員可以：
 
@@ -79,6 +79,6 @@ Global Admin Console是組織的中心，管理Adobe資源。 全域管理員可
 
 - 組織路徑名稱是唯一的，但簡易名稱在其同層級中是唯一的。 組織階層中的其他位置可能有相同簡單名稱的組織。
 
-- 您只能使用Global Admin Console檢視連結至所選組織的網域清單。 如果您是所選組織的系統管理員，請選取&#x200B;**[!UICONTROL 在Admin Console中開啟]**&#x200B;以[管理網域](https://helpx.adobe.com/enterprise/using/manage-domains-directories.html)。 若要瞭解[網域]索引標籤中顯示的資訊，請參閱[匯出和匯入結構描述](https://helpx.adobe.com/enterprise/global-admin-console/export-and-import-data.html#export-and-import-schemas)。
+- 您只能使用Global Admin Console檢視連結至所選組織的網域清單。 如果您是所選組織的系統管理員，請選取&#x200B;**[!UICONTROL 在Admin Console中開啟]**&#x200B;以[管理網域](https://helpx.adobe.com/tw/enterprise/using/manage-domains-directories.html)。 若要瞭解[網域]索引標籤中顯示的資訊，請參閱[匯出和匯入結構描述](https://helpx.adobe.com/tw/enterprise/global-admin-console/export-and-import-data.html#export-and-import-schemas)。
 
 - IE 11不支援全域管理存取。 使用其他瀏覽器或更新版本的IE瀏覽器。
