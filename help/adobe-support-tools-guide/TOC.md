@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 03a86570886161bab60a4197bd430b7046690a5e
+source-git-commit: 3c530c7a076fff4bd7fee26d068cc3602a1e2015
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '200'
 ht-degree: 2%
 
 ---
@@ -24,6 +24,8 @@ ht-degree: 2%
 - [管理員角色](admin-roles.md)
 - Adobe Admin Console {#adobe-admin-console}
    - [導覽Adobe Admin Console](adobe-admin-console/navigating-the-adobe-admin-console.md)
+   - [為多個組織和產品建立授權指派報告](adobe-admin-console/create-license-assignment-reports-for-multiple-organizations.md)
+   - [在Global Admin Console中選取組織](adobe-admin-console/select-an-organization-in-the-global-admin-console.md)
    - [管理管理員](adobe-admin-console/manage-administrators.md)
    - [匯出或匯入組織結構和產品配置](adobe-admin-console/export-or-import-organization-structure-and-product-allocations.md)
    - [在Admin Console中強制密碼過期](adobe-admin-console/enforce-password-expiration-in-the-admin-console.md)
