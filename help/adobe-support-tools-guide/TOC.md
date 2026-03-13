@@ -6,13 +6,12 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 3c530c7a076fff4bd7fee26d068cc3602a1e2015
+source-git-commit: 40e68cd0bf2212050ebf56b0dad01e9ad78fff5e
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '203'
 ht-degree: 2%
 
 ---
-
 
 # Adobe支援與工具指南 {#adobe-support-tools-guide}
 
@@ -24,6 +23,7 @@ ht-degree: 2%
 - [管理員角色](admin-roles.md)
 - Adobe Admin Console {#adobe-admin-console}
    - [導覽Adobe Admin Console](adobe-admin-console/navigating-the-adobe-admin-console.md)
+   - [管理組織階層](adobe-admin-console/set-up-organizations.md)
    - [為多個組織和產品建立授權指派報告](adobe-admin-console/create-license-assignment-reports-for-multiple-organizations.md)
    - [在Global Admin Console中選取組織](adobe-admin-console/select-an-organization-in-the-global-admin-console.md)
    - [管理管理員](adobe-admin-console/manage-administrators.md)
