@@ -37,7 +37,7 @@ ht-degree: 0%
 - 共用原則、密碼原則及安全性連絡人（由&#x200B;**在建立子組織時繼承資產共用設定** [原則](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html)）所控制。
 
 1. 登入[Global Admin Console](https://global-admin-console.adobe.com/)。 在&#x200B;**[!UICONTROL 組織]**&#x200B;標籤中，選取您要新增子組織的組織。
-2. 選取&#x200B;**[!UICONTROL 新增+]**圖示。
+2. 選取&#x200B;**[!UICONTROL 新增+]**&#x200B;圖示。
    ![新增組織](/help/adobe-support-tools-guide/assets/add-an-organization-1.png)
 3. 指定組織的&#x200B;**名稱**&#x200B;和&#x200B;**國家**。\
    組織的簡單名稱必須介於4到100個字元之間；路徑名的最大長度為255個字元。
@@ -61,7 +61,7 @@ ht-degree: 0%
 >刪除組織會影響用戶。 確保刪除組織時不會丟失任何訪問權限或資訊。
 
 1. 登錄到[[!DNL Global Admin Console]](https://global-admin-console.adobe.com/)。 轉到&#x200B;**[!UICONTROL 組織]**&#x200B;頁籤並選擇要刪除的組織。
-1. 選取&#x200B;**[!UICONTROL 刪除]**圖示。
+1. 選取&#x200B;**[!UICONTROL 刪除]**&#x200B;圖示。
    ![刪除組織](/help/adobe-support-tools-guide/assets/delete-organization.png)
 1. 在&#x200B;**[!UICONTROL 刪除組織]**&#x200B;對話方塊中，選取&#x200B;**[!UICONTROL 確定]**。
 1. 在您編輯完組織後，選取&#x200B;**[!UICONTROL 檢閱擱置中的變更]**。 檢閱後，選取&#x200B;**[!UICONTROL 提交變更]**&#x200B;以[執行](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)它們。
@@ -73,20 +73,20 @@ ht-degree: 0%
 身為[全域系統管理員](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html)，您可以編輯任何父或子組織的名稱，以協助使用者在登入[[!DNL Creative Cloud]]產品和服務時識別正確的設定檔。
 
 1. 登入[Global Admin Console](https://global-admin-console.adobe.com/)。 在&#x200B;**[!UICONTROL 組織]**&#x200B;標籤中，選取您要重新命名的組織。
-1. 選取&#x200B;**[!UICONTROL 編輯]**圖示。
+1. 選取&#x200B;**[!UICONTROL 編輯]**&#x200B;圖示。
    ![更名組織](/help/adobe-support-tools-guide/assets/rename-organization.png)
 1. 更新您的組織名稱並選擇&#x200B;**[!UICONTROL 保存]**。
 
 >[!TIP]
 >
 >使用最多255個字元的清晰、可識別的組織名稱來幫助用戶選擇正確的配置檔案。 避免使用特殊字元，並考慮包括區域、部門或權利。 此外，避免在您的組織層次結構中出現不常見的縮寫詞和模糊或類似的名稱。
-使用最多255個字元的清晰、可識別的組織名稱來幫助用戶選擇正確的配置檔案。 避免使用特殊字元，並考慮包括區域、部門或權利。 此外，避免在您的組織層次結構中出現不常見的縮寫詞和模糊或類似的名稱。
+>使用最多255個字元的清晰、可識別的組織名稱來幫助用戶選擇正確的配置檔案。 避免使用特殊字元，並考慮包括區域、部門或權利。 此外，避免在您的組織層次結構中出現不常見的縮寫詞和模糊或類似的名稱。
 
 更改記錄在審核日誌中，所有用戶都通過電子郵件獲得通知，並且24小時內無法再次更新名稱。 [瞭解如何查看和下載審核日誌](https://helpx.adobe.com/enterprise/global-admin-console/insights.html)。
 
 ## 更改組織的父級
 
-作為[!DNL Global Administrator](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html)，您可以使用&#x200B;**[!UICONTROL 更改層次結構]**&#x200B;按鈕重新為組織層次結構中的組織父級。
+作為[[!DNL Global Administrator]](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html)，您可以使用&#x200B;**[!UICONTROL 更改層次結構]**&#x200B;按鈕重新為組織層次結構中的組織父級。
 
 更改組織的父級具有以下影響：
 
@@ -119,7 +119,7 @@ ht-degree: 0%
 >[!WARNING]
 >
 > 您只能將子組織新增至以相同儲存模型為基礎的根組織。 因此，根據使用者儲存模型的子組織只能新增至根據使用者儲存模型的根組織。 而且，基於企業儲存模型的子組織只能根據企業儲存模型添加到根組織中。
-您只能將子組織添加到基於相同儲存模型的根組織。 因此，基於用戶儲存模型的子組織只能根據用戶儲存模型添加到根組織中。 而且，基於企業儲存模型的子組織只能根據企業儲存模型添加到根組織中。
+>您只能將子組織添加到基於相同儲存模型的根組織。 因此，基於用戶儲存模型的子組織只能根據用戶儲存模型添加到根組織中。 而且，基於企業儲存模型的子組織只能根據企業儲存模型添加到根組織中。
 
 **[!UICONTROL 組織映射器]**&#x200B;頁籤顯示以下內容：
 
