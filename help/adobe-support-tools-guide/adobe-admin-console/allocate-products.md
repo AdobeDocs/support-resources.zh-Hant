@@ -50,7 +50,7 @@ Global Admin Console中的&#x200B;**[!UICONTROL 產品配置]**&#x200B;索引標
 1. 從下拉式清單中選取產品，以檢視如何將其配置給不同的組織。\
    如果組織目前沒有產品，則會顯示&#x200B;**[!UICONTROL 新增+]**&#x200B;圖示。
 
-   >[!Note]
+   >[ !Note]
    >
    >如果下階組織已有採購合約，則上階組織至該下階組織的產品配置可能會受到限制。 [了解更多](https://helpx.adobe.com/enterprise/global-admin-console/allocate-products.html#limited-product-allocation)。
 
@@ -100,7 +100,7 @@ Global Admin Console可讓您在整個組織階層中配置與分配Acrobat Sign
 
 ![產品配置](/help/adobe-support-tools-guide/assets/product-allocation.png)
 
->[!I重要]
+>[ !I重要]
 >
 >當屬於階層一部分的ETLA合約停用後，產品就會從&#x200B;**[!UICONTROL 總覽]**&#x200B;和&#x200B;**[!UICONTROL 產品配置]**&#x200B;頁面中移除。
 
