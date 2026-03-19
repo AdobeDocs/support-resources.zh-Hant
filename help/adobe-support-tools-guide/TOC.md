@@ -6,7 +6,7 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: d3defe461b4223f6e45826b07c7835a7c24fb565
+source-git-commit: c706a5d2479a8ea81c906277eae68316c1a5c754
 workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 2%

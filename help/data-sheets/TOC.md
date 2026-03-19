@@ -4,7 +4,7 @@ user-guide-description: Adobe Experience Cloud 和 Adobe Experience Platform 的
 feature-set: Experience Cloud
 feature: Success Plans
 index: true
-source-git-commit: 90d0514190675cea284496c976f2d8cedf0d73d4
+source-git-commit: c706a5d2479a8ea81c906277eae68316c1a5c754
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 93%

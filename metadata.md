@@ -6,7 +6,7 @@ type: Documentation
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/support-resources.zh-Hant
 index: true
-source-git-commit: 019723a81bb9895b3c4ee05557a0024d1b472af1
+source-git-commit: c706a5d2479a8ea81c906277eae68316c1a5c754
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 100%
