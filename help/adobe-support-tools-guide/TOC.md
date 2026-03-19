@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: c706a5d2479a8ea81c906277eae68316c1a5c754
+source-git-commit: 3d0f29ff680a75588333a9ea9f88c2fe9bd35640
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '245'
 ht-degree: 2%
 
 ---
@@ -40,6 +40,7 @@ ht-degree: 2%
    - [如何取得及套用安全性修補程式](adobe-commerce-support/how-to-obtain-and-apply-security-patches.md)
    - [如何請求雲端基礎結構上的臨時Adobe Commerce升級](adobe-commerce-support/how-to-request-temporary-adobe-commerce-on-cloud-infrastructure-upsize.md)
    - [Adobe Commerce P1通知熱線](adobe-commerce-support/adobe-commerce-p1-notification-hotline.md)
+   - [Adobe Commerce Intelligence Essentials：更新付款方式或取消訂閱](adobe-commerce-support/adobe-commerce-intelligence-essentials-update-payment-cancel-subscription.md)
    - [Adobe支援客戶資料存取和隱私權](adobe-commerce-support/adobe-support-customer-data-access-and-privacy.md)
    - [Adobe Commerce支援票證生命週期原則更新](adobe-commerce-support/magento-support-ticket-lifecycle-policy-update.md)
    - [在Cloud Pro基礎結構上監控Adobe Commerce情況說明書](adobe-commerce-support/monitoring-whitepaper.md)
