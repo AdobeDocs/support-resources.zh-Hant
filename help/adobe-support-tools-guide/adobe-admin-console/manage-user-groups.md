@@ -16,7 +16,7 @@ ht-degree: 0%
 
 在Global Admin Console中建立、管理和共用使用者群組，透過將具有相同許可權的使用者分組、節省時間並確保一致性，來簡化使用者管理。
 
-在[Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html)中，選取組織並導覽至&#x200B;**[!UICONTROL 使用者群組]**。 使用單一使用者管理來源在多個組織間共用群組，以同步使用者和群組。
+在[Global Admin Console](https://helpx.adobe.com/tw/enterprise/global-admin-console/adopt-global-administration.html)中，選取組織並導覽至&#x200B;**[!UICONTROL 使用者群組]**。 使用單一使用者管理來源在多個組織間共用群組，以同步使用者和群組。
 
 [登入Global Admin Console](https://global-admin-console.adobe.com)
 
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ## 建立使用者群組
 
-您可以[大量個別建立使用者群組](https://helpx.adobe.com/tw/enterprise/using/user-groups.html)，或[直接從已建立的Azure AD](https://helpx.adobe.com/enterprise/using/add-azure-sync.html)同步處理至Adobe Admin Console中的同盟目錄。 在Global Admin Console中，您可以使用指派的相關產品設定檔來定義使用者群組，使用者群組管理員稍後可以使用Admin Console新增使用者。
+您可以[大量個別建立使用者群組](https://helpx.adobe.com/tw/enterprise/using/user-groups.html)，或[直接從已建立的Azure AD](https://helpx.adobe.com/tw/enterprise/using/add-azure-sync.html)同步處理至Adobe Admin Console中的同盟目錄。 在Global Admin Console中，您可以使用指派的相關產品設定檔來定義使用者群組，使用者群組管理員稍後可以使用Admin Console新增使用者。
 
 1. 登入[Global Admin Console](https://global-admin-console.adobe.com/)，選取要編輯的組織，然後導覽至&#x200B;**[!UICONTROL 使用者群組]**&#x200B;索引標籤。
 
@@ -36,14 +36,14 @@ ht-degree: 0%
 
 3. 在出現的&#x200B;**[!UICONTROL 新增使用者群組]**&#x200B;對話方塊中輸入下列內容：
    - **[!UICONTROL 名稱]**：指定使用者群組的名稱。
-   - **[!UICONTROL 產品設定檔]**：如果您想要授與使用者群組中目前或未來成員的產品存取權，請按一下下拉式箭頭，從清單中選取產品設定檔，或輸入產品設定檔名稱，然後從顯示的下拉式清單中選取。 若要新增尚未建立的產品設定檔，您必須先使用[產品設定檔](https://helpx.adobe.com/enterprise/using/global-admin-edit-organizations.html#profiles)索引標籤執行此操作。
+   - **[!UICONTROL 產品設定檔]**：如果您想要授與使用者群組中目前或未來成員的產品存取權，請按一下下拉式箭頭，從清單中選取產品設定檔，或輸入產品設定檔名稱，然後從顯示的下拉式清單中選取。 若要新增尚未建立的產品設定檔，您必須先使用[產品設定檔](https://helpx.adobe.com/tw/enterprise/using/global-admin-edit-organizations.html#profiles)索引標籤執行此操作。
    - **[!UICONTROL 管理員]**：按一下下拉箭頭，從清單中選取管理員，或輸入管理員的電子郵件地址，然後從顯示的下拉式清單中選取管理員。 如果您要新增尚未建立的管理員，必須先使用[管理員](#share-user-groups)索引標籤建立該管理員。
 
    您指定的產品設定檔會指派給使用者群組，而您指定的管理員會成為該群組的使用者群組管理員。 使用者群組管理員可使用相關組織的Adobe Admin Console來管理群組。
 
 4. 選取「**[!UICONTROL 儲存]**」。
 
-5. 選取&#x200B;**[!UICONTROL 檢閱擱置的變更]**&#x200B;以檢閱更新。 然後，選取&#x200B;**[!UICONTROL 提交變更]**&#x200B;以[執行](https://helpx.adobe.com/enterprise/global-admin-console/set-up-organizations.html#execute-jobs)它們。
+5. 選取&#x200B;**[!UICONTROL 檢閱擱置的變更]**&#x200B;以檢閱更新。 然後，選取&#x200B;**[!UICONTROL 提交變更]**&#x200B;以[執行](https://helpx.adobe.com/tw/enterprise/global-admin-console/set-up-organizations.html#execute-jobs)它們。
 
    >[!NOTE]
    >
@@ -84,9 +84,9 @@ ht-degree: 0%
    - **[!UICONTROL 僅新增]**：將新使用者新增至現有的使用者群組，合併使用者群組，而不移除任何使用者。
    - **[!UICONTROL 映象群組]**：新增或移除使用者，調整目標組織的群組以符合共用群組。
 
-8. 選取&#x200B;**[!UICONTROL 檢閱擱置的變更]**&#x200B;以檢閱更新。 然後，選取&#x200B;**[!UICONTROL 提交變更]**&#x200B;以[執行](https://helpx.adobe.com/enterprise/global-admin-console/set-up-organizations.html#execute-jobs)它們。
+8. 選取&#x200B;**[!UICONTROL 檢閱擱置的變更]**&#x200B;以檢閱更新。 然後，選取&#x200B;**[!UICONTROL 提交變更]**&#x200B;以[執行](https://helpx.adobe.com/tw/enterprise/global-admin-console/set-up-organizations.html#execute-jobs)它們。
 
-   記錄群組預測事件以供您參考。 瞭解[檢視和下載稽核記錄](https://helpx.adobe.com/enterprise/global-admin-console/insights.html)。
+   記錄群組預測事件以供您參考。 瞭解[檢視和下載稽核記錄](https://helpx.adobe.com/tw/enterprise/global-admin-console/insights.html)。
 
 
 當您共用使用者群組時，該群組及其使用者會新增至目標組織。 但是，*來源使用者群組控制*&#x200B;共用的使用者群組及其使用者。 管理員和產品設定檔指派在組織之間&#x200B;*未*&#x200B;同步。
@@ -111,7 +111,7 @@ ht-degree: 0%
 
 6. 選取&#x200B;**[!UICONTROL 撤銷存取權]**。
 
-7. 選取&#x200B;**[!UICONTROL 檢閱擱置的變更]**&#x200B;以檢閱更新。 然後，選取&#x200B;**[!UICONTROL 提交變更]**&#x200B;以[執行](https://helpx.adobe.com/enterprise/global-admin-console/set-up-organizations.html#execute-jobs)它們。
+7. 選取&#x200B;**[!UICONTROL 檢閱擱置的變更]**&#x200B;以檢閱更新。 然後，選取&#x200B;**[!UICONTROL 提交變更]**&#x200B;以[執行](https://helpx.adobe.com/tw/enterprise/global-admin-console/set-up-organizations.html#execute-jobs)它們。
 
 
 
@@ -133,9 +133,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >在&#x200B;**[!UICONTROL 編輯使用者群組]**&#x200B;精靈中，您只能將管理員角色指派給已在此組織中指派了管理員角色的使用者。 瞭解如何[新增管理員](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators)。
+   >在&#x200B;**[!UICONTROL 編輯使用者群組]**&#x200B;精靈中，您只能將管理員角色指派給已在此組織中指派了管理員角色的使用者。 瞭解如何[新增管理員](https://experienceleague.adobe.com/zh-hant/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators)。
 
-4. 選取&#x200B;**[!UICONTROL 檢閱擱置的變更]**&#x200B;以檢閱更新。 然後，選取&#x200B;**[!UICONTROL 提交變更]**&#x200B;以[執行](https://helpx.adobe.com/enterprise/using/global-admin-set-up-organizations.html#execute-jobs)它們。
+4. 選取&#x200B;**[!UICONTROL 檢閱擱置的變更]**&#x200B;以檢閱更新。 然後，選取&#x200B;**[!UICONTROL 提交變更]**&#x200B;以[執行](https://helpx.adobe.com/tw/enterprise/using/global-admin-set-up-organizations.html#execute-jobs)它們。
 
    >[!NOTE]
    >
@@ -159,4 +159,4 @@ ht-degree: 0%
    >
    >刪除使用者群組可能會影響您的使用者。 確保刪除使用者群組時，沒有存取權或資訊會遺失。
 
-4. 在您編輯組織後，請選取&#x200B;**[!UICONTROL 檢閱擱置的變更]**&#x200B;以檢閱這些變更。 然後，選取&#x200B;**[!UICONTROL 提交變更]**&#x200B;以[執行](https://helpx.adobe.com/enterprise/using/global-admin-set-up-organizations.html#execute-jobs)它們。
+4. 在您編輯組織後，請選取&#x200B;**[!UICONTROL 檢閱擱置的變更]**&#x200B;以檢閱這些變更。 然後，選取&#x200B;**[!UICONTROL 提交變更]**&#x200B;以[執行](https://helpx.adobe.com/tw/enterprise/using/global-admin-set-up-organizations.html#execute-jobs)它們。
