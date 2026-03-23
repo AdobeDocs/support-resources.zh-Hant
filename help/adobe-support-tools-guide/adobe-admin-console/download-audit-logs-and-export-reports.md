@@ -29,7 +29,7 @@ ht-degree: 3%
 
 >[!NOTE]
 >
-> 作為[Adobe Admin Console](https://adminconsole.adobe.com)組織中的系統管理員，您可以使用[稽核記錄](https://helpx.adobe.com/enterprise/using/audit-logs.html)來檢閱使用者指派和使用者事件。 稽核記錄中也會包含所選組織的子組織中系統管理員所執行的動作。 深入瞭解系統管理員如何[追蹤在Admin Console中所做的變更](https://helpx.adobe.com/enterprise/using/audit-logs.html)。
+> 作為[Adobe Admin Console](https://adminconsole.adobe.com)組織中的系統管理員，您可以使用[稽核記錄](https://helpx.adobe.com/tw/enterprise/using/audit-logs.html)來檢閱使用者指派和使用者事件。 稽核記錄中也會包含所選組織的子組織中系統管理員所執行的動作。 深入瞭解系統管理員如何[追蹤在Admin Console中所做的變更](https://helpx.adobe.com/tw/enterprise/using/audit-logs.html)。
 
 若要檢視或下載組織的稽核記錄：
 
@@ -106,7 +106,7 @@ ht-degree: 3%
 
 1. 登入[Global Admin Console](https://global-admin-console.adobe.com/insights)並導覽至&#x200B;**[!UICONTROL Insights]** > **[!UICONTROL 匯出報表]**。
 
-   系統會顯示過去90天內產生的報表。 90天完成後，您可以再次產生報表。 瞭解如何產生[組織結構](https://helpx.adobe.com/enterprise/global-admin-console/export-and-import-data.html#export-and-import-organization-structure)的報告。
+   系統會顯示過去90天內產生的報表。 90天完成後，您可以再次產生報表。 瞭解如何產生[組織結構](https://helpx.adobe.com/tw/enterprise/global-admin-console/export-and-import-data.html#export-and-import-organization-structure)的報告。
 
 
    | 欄位 | 說明 |
