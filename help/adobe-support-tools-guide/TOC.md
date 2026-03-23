@@ -6,10 +6,10 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 3d0f29ff680a75588333a9ea9f88c2fe9bd35640
+source-git-commit: 0bbba5e7afa83bb40b57e3d4d648d0713100ab6f
 workflow-type: tm+mt
-source-wordcount: '245'
-ht-degree: 2%
+source-wordcount: '254'
+ht-degree: 1%
 
 ---
 
@@ -51,3 +51,4 @@ ht-degree: 2%
    - [如何在支援通知中加入團隊成員](/help/adobe-support-tools-guide/adobe-commerce-support/how-to-include-a-team-member-in-support-notifications.md)
    - [雲端基礎結構沙箱要求的合作夥伴Adobe Commerce](adobe-commerce-support/partner-magento-commerce-cloud-sandbox-requests.md)
    - [無法將使用者新增至Adobe Commerce雲端專案](adobe-commerce-support/unable-add-user-adobe-commerce-cloud-project.md)
+   - [如何套用Adobe提供的撰寫器修補程式](adobe-commerce-support/how-to-apply-a-composer-patch-provided-by-magento.md)
