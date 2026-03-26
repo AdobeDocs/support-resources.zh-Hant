@@ -5,7 +5,7 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 3220086a-4603-465f-a3e3-194193ca10ba
-source-git-commit: 91d79132e11b322fd0ebd77df918be07060595fa
+source-git-commit: d29553542d3e6ea7e12fbf4c1bd1e5f6600d42b0
 workflow-type: tm+mt
 source-wordcount: '4425'
 ht-degree: 3%
@@ -18,11 +18,11 @@ ht-degree: 3%
 
 瞭解全域管理員如何透過Global Admin Console中的匯出和匯入功能簡化組織和產品管理。
 
-存取&#x200B;**[!UICONTROL Global Admin Console]**&#x200B;中的[組織](https://helpx.adobe.com/tw/enterprise/global-admin-console/adopt-global-administration.html)索引標籤，以匯出或匯入組織結構。 前往配置資料的&#x200B;**[!UICONTROL 產品配置]**&#x200B;標籤。 使用&#x200B;**[!UICONTROL 更多選項]** **⋮**&#x200B;圖示來選取匯出或匯入。 [登入Global Admin Console](https://global-admin-console.adobe.com)。
+存取&#x200B;**[!UICONTROL Global Admin Console]**&#x200B;中的[組織](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html)索引標籤，以匯出或匯入組織結構。 前往配置資料的&#x200B;**[!UICONTROL 產品配置]**&#x200B;標籤。 使用&#x200B;**[!UICONTROL 更多選項]** **⋮**&#x200B;圖示來選取匯出或匯入。 [登入Global Admin Console](https://global-admin-console.adobe.com)。
 
 ## 匯出組織結構
 
-作為[全域系統管理員](https://helpx.adobe.com/tw/enterprise/global-admin-console/manage-administrators.html)，您可以匯出組織階層。 您可以下載整個組織階層或其子集的JSON、CSV或XLSX表示法。 然後，您可以使用此資料進行分析或修改。
+作為[全域系統管理員](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html)，您可以匯出組織階層。 您可以下載整個組織階層或其子集的JSON、CSV或XLSX表示法。 然後，您可以使用此資料進行分析或修改。
 
 所選的匯出格式會影響匯出資料的結構：
 
@@ -51,7 +51,7 @@ ht-degree: 3%
 
 ## 匯入組織結構
 
-作為[全域系統管理員](https://helpx.adobe.com/tw/enterprise/global-admin-console/manage-administrators.html)，您可以匯入可能修改過的資料。 上傳後，新資料會與目前資料進行比較，所有變更都會套用至組織階層。 所有匯入作業都會在組織階層的更新復本上執行。 如果您有任何暫止的變更，匯入變更將會新增到階層中暫止變更的頂端。
+作為[全域系統管理員](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html)，您可以匯入可能修改過的資料。 上傳後，新資料會與目前資料進行比較，所有變更都會套用至組織階層。 所有匯入作業都會在組織階層的更新復本上執行。 如果您有任何暫止的變更，匯入變更將會新增到階層中暫止變更的頂端。
 
 ### 匯入步驟
 
@@ -59,7 +59,7 @@ ht-degree: 3%
 2. 選取&#x200B;**[!UICONTROL 其他選項]** **⋮**&#x200B;圖示並選取&#x200B;**[!UICONTROL 匯入]**。 根據匯入檔案的大小和複雜性，處理作業可能需要幾秒鐘到幾分鐘的時間。
 3. 選取&#x200B;**[!UICONTROL 選取檔案]**，然後選擇要上傳的JSON、CSV或XLSX檔案。 對於CSV，一次只能匯入一個組織詳細資料，並且不支援匯入產品。 匯入的變更看起來就像您已手動編輯資料。
 4. 選取&#x200B;**[!UICONTROL 關閉]**。
-5. 選取&#x200B;**[!UICONTROL 檢閱擱置中的變更]**。 然後，選取&#x200B;**[!UICONTROL 提交變更]**&#x200B;以[執行](https://helpx.adobe.com/tw/enterprise/global-admin-console/execute-jobs.html)它們。 在執行變更之前，擱置動作的顯示方式，與在Global Admin Console中手動編輯時相同。
+5. 選取&#x200B;**[!UICONTROL 檢閱擱置中的變更]**。 然後，選取&#x200B;**[!UICONTROL 提交變更]**&#x200B;以[執行](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)它們。 在執行變更之前，擱置動作的顯示方式，與在Global Admin Console中手動編輯時相同。
 
 ## 匯出和匯入結構描述
 
@@ -367,7 +367,7 @@ ht-degree: 3%
 <tr>
     <td>資源</td>
     <td> 與此產品設定檔相關聯的資源陣列。
-此資源欄位僅適用於JSON格式。 對於CSV和XLSX格式，資源由以下附加欄位表示：resourceName、resourceId、resourceDescription、icon、selected、quota、resourceType。 如需這些欄位的詳細資訊，請參閱標題為*產品和資源*的區段。
+此資源欄位僅適用於JSON格式。 對於CSV和XLSX格式，資源由以下附加欄位表示：resourceName、resourceId、resourceDescription、icon、selected、quota、resourceType。 如需這些欄位的詳細資訊，請參閱標題為產品和資源的區段。
 如果產品設定檔有多個資源，則會有多個資料列，每個資源各一個。 其他欄位會有每個資源的相同值。 </td>
     <td></td>
   </tr>
@@ -629,7 +629,7 @@ ht-degree: 3%
 
 ## 匯入和匯出產品配置資料
 
-作為[全域管理員](https://helpx.adobe.com/tw/enterprise/global-admin-console/manage-administrators.html)，您可以將產品配置資料匯出為JSON或CSV檔案。 然後，您可以操作此資料並將其上傳回以匯入變更。 上傳可能修改的資料後，新資料會與目前資料進行比較，所有變更都會套用至產品配置資料。 然後，您可以檢閱並提交待處理的變更，以使變更生效。
+作為[全域管理員](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html)，您可以將產品配置資料匯出為JSON或CSV檔案。 然後，您可以操作此資料並將其上傳回以匯入變更。 上傳可能修改的資料後，新資料會與目前資料進行比較，所有變更都會套用至產品配置資料。 然後，您可以檢閱並提交待處理的變更，以使變更生效。
 
 ## 匯出產品配置模型
 
@@ -645,7 +645,7 @@ ht-degree: 3%
 1. 登入[Global Admin Console](https://global-admin-console.adobe.com/)並導覽至&#x200B;**[!UICONTROL 產品配置]**&#x200B;標籤。
 2. 選取&#x200B;**[!UICONTROL 其他選項]**⋮圖示並選取&#x200B;**[!UICONTROL 匯入]**。
 3. 選取要上傳的JSON或CSV檔案。
-4. 選取&#x200B;**[!UICONTROL 檢閱擱置中的變更]**。 檢閱變更後，選取&#x200B;**[!UICONTROL 提交變更]**&#x200B;以[執行](https://helpx.adobe.com/tw/enterprise/global-admin-console/execute-jobs.html)它們。
+4. 選取&#x200B;**[!UICONTROL 檢閱擱置中的變更]**。 檢閱變更後，選取&#x200B;**[!UICONTROL 提交變更]**&#x200B;以[執行](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)它們。
 
 ## 匯出和匯入產品配置的格式
 
