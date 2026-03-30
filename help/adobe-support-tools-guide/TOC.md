@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: f6cba0e6b34a4ff33004fdf9606f9c8b188d4e95
+source-git-commit: 8a0f96df06da03ed2f125f183890ded7a6f707c6
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '275'
 ht-degree: 1%
 
 ---
@@ -31,6 +31,7 @@ ht-degree: 1%
    - [為多個組織和產品建立授權指派報告](adobe-admin-console/create-license-assignment-reports-for-multiple-organizations.md)
    - [在Global Admin Console中選取組織](adobe-admin-console/select-an-organization-in-the-global-admin-console.md)
    - [管理管理員](adobe-admin-console/manage-administrators.md)
+   - [在Global Admin Console中管理產品設定檔](adobe-admin-console/manage-product-profiles.md)
    - [匯出或匯入組織結構和產品配置](adobe-admin-console/export-or-import-organization-structure-and-product-allocations.md)
    - [在Admin Console中強制密碼過期](adobe-admin-console/enforce-password-expiration-in-the-admin-console.md)
    - [下載稽核記錄和匯出報告](adobe-admin-console/download-audit-logs-and-export-reports.md)
