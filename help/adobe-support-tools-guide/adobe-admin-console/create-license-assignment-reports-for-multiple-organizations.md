@@ -31,7 +31,7 @@ ht-degree: 1%
    >[!NOTE]
    >
    >**瞭解無法選取特定組織的原因**：
-   >如果下階組織沒有合約，或擁有與上階組織相同產品的個別企業合約，則無法建立授權指定報表。 例如，如果父組織的合約具有Adobe Acrobat，而子組織與其他合約的一部分具有相同，則產品配置會受限。 因此，在Global Admin Console中建立報表的能力也受到限制。 [瞭解如何使用這類組織的個別Admin Console](https://helpx.adobe.com/enterprise/using/assignment-reports.html)追蹤布建。
+   >如果下階組織沒有合約，或擁有與上階組織相同產品的個別企業合約，則無法建立授權指定報表。 例如，如果父組織的合約具有Adobe Acrobat，而子組織與其他合約的一部分具有相同，則產品配置會受限。 因此，在Global Admin Console中建立報表的能力也受到限制。 [瞭解如何使用這類組織的個別Admin Console](https://helpx.adobe.com/tw/enterprise/using/assignment-reports.html)追蹤布建。
 
    >[!NOTE]
    >
@@ -42,7 +42,7 @@ ht-degree: 1%
    >[!NOTE]
    >
    >**瞭解無法選取特定產品的原因**：
-   >在Global Admin Console中無法配置的產品不會納入報告建立作業。 這目前包括某些數位體驗產品，例如[!DNL Workfront]、[!DNL Adobe Experience Manager]和[!DNL Adobe Experience Platform]，以及產品，例如[!DNL Adobe Firefly Services]、[!DNL Acrobat Sign]和[!DNL Adobe Stock]。 [您使用Adobe Admin Console來尋找這些產品的授權布建資料](https://helpx.adobe.com/enterprise/using/assignment-reports.html)。
+   >在Global Admin Console中無法配置的產品不會納入報告建立作業。 這目前包括某些數位體驗產品，例如[!DNL Workfront]、[!DNL Adobe Experience Manager]和[!DNL Adobe Experience Platform]，以及產品，例如[!DNL Adobe Firefly Services]、[!DNL Acrobat Sign]和[!DNL Adobe Stock]。 [您使用Adobe Admin Console來尋找這些產品的授權布建資料](https://helpx.adobe.com/tw/enterprise/using/assignment-reports.html)。
 
 1. 選取要按月或年彙總報表。
 1. 選取自訂日期範圍或從預設集選項中選擇。 您可以挑選從2020年6月18日開始直到前一天的任何開始日期，只要該日期不在合約開始日期之前。
