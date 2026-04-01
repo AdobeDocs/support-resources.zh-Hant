@@ -4,23 +4,19 @@ description: 瞭解組織系統管理員如何在Adobe Admin Console中為其使
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-source-git-commit: e78ef432a4adcf3626fd46ce8a1854f9ec8317b6
+exl-id: d43e39a9-9c6e-4b19-9e6a-5037e91fc443
+source-git-commit: 7f9d141c8cfccc1830f0494526b742ae0c50fddf
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 2%
+source-wordcount: '122'
+ht-degree: 1%
 
 ---
 
-
 # 在Admin Console中強制密碼過期
 
-> **套用至：**&#x200B;企業和團隊
+**套用至：**&#x200B;企業和團隊
 
-組織系統管理員可以依照此程式為其使用者設定密碼過期時間限制。
-
-## 環境
-
-[Adobe Admin Console](https://adminconsole.adobe.com/)
+組織系統管理員可以依照此程式為其使用者設定密碼到期時間限制。 登入[Adobe Admin Console](https://adminconsole.adobe.com/)。
 
 ## 步驟
 
@@ -30,4 +26,4 @@ ht-degree: 2%
 
 1. 檢閱&#x200B;**[!UICONTROL 驗證層級]**，並為您的使用者選取最適合的驗證層級： **[!UICONTROL 使用者最簡單的驗證層級]**、**[!UICONTROL 更安全]**、**[!UICONTROL 最安全]**。
 
-請造訪[驗證設定Helpx](https://helpx.adobe.com/tw/enterprise/using/authentication-settings.html)，以進一步瞭解可用的驗證和安全性原則。
+請造訪[驗證設定Helpx](https://helpx.adobe.com/enterprise/using/authentication-settings.html)，以進一步瞭解可用的驗證和安全性原則。

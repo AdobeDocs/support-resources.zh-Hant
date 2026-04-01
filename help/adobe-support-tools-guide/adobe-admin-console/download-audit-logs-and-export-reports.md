@@ -5,9 +5,9 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 4b562a4d-14e5-4687-a1ae-6a435f087627
-source-git-commit: 8db982f6a642a288453086c23d20b44b14d55354
+source-git-commit: 5573d0f0e58b7ba799726740ae0d29b1053122aa
 workflow-type: tm+mt
-source-wordcount: '880'
+source-wordcount: '876'
 ht-degree: 3%
 
 ---
@@ -29,25 +29,25 @@ ht-degree: 3%
 
 >[!NOTE]
 >
-> 作為[Adobe Admin Console](https://adminconsole.adobe.com)組織中的系統管理員，您可以使用[稽核記錄](https://helpx.adobe.com/tw/enterprise/using/audit-logs.html)來檢閱使用者指派和使用者事件。 稽核記錄中也會包含所選組織的子組織中系統管理員所執行的動作。 深入瞭解系統管理員如何[追蹤在Admin Console中所做的變更](https://helpx.adobe.com/tw/enterprise/using/audit-logs.html)。
+> 作為[Adobe Admin Console](https://adminconsole.adobe.com)組織中的系統管理員，您可以使用[稽核記錄](https://helpx.adobe.com/enterprise/using/audit-logs.html)來檢閱使用者指派和使用者事件。 稽核記錄中也會包含所選組織的子組織中系統管理員所執行的動作。 深入瞭解系統管理員如何[追蹤在Admin Console中所做的變更](https://helpx.adobe.com/enterprise/using/audit-logs.html)。
 
 若要檢視或下載組織的稽核記錄：
 
 1. 以全域管理員身分登入[Global Admin Console](https://global-admin-console.adobe.com/insights)。
 1. 選取&#x200B;**[!UICONTROL 分析]** > **[!UICONTROL 稽核記錄]**。
+
 稽核記錄會顯示已篩選事件的下列資訊：
 
-   | 欄位 | 說明 |
-   |------ |-------------|
-   | 日期 | 事件的日期和時間，以當地時區顯示。 |
-   | 活動名稱 | 所執行動作的說明。 |
-   | 事件詳細資料 | 其他事件詳細資訊（如有）。 |
-   | 物件名稱 | 與事件有關的產品、產品設定檔或使用者群組名稱（如適用）。 |
-   | 受影響的使用者 | 受影響使用者的電子郵件地址（如適用）。 |
-   | 管理 | 執行動作之管理員的電子郵件地址。 如果動作是由Adobe後端系統執行，則會顯示&#x200B;*系統*。 |
-   | IP位址 | 執行動作之電腦的IP位址。 通常可反映實體位置，但可能是Proxy伺服器或VPN位址。 |
-   | 組織 | 受事件影響的組織名稱。 |
-
+| 欄位 | 說明 |
+|------ |-------------|
+| 日期 | 事件的日期和時間，以當地時區顯示。 |
+| 活動名稱 | 所執行動作的說明。 |
+| 事件詳細資料 | 其他事件詳細資訊（如有）。 |
+| 物件名稱 | 事件中涉及的產品、產品設定檔或使用者群組名稱（如適用）。 |
+| 受影響的使用者 | 受影響使用者的電子郵件地址（如適用）。 |
+| 管理 | 執行動作之管理員的電子郵件地址。 如果動作是由Adobe後端系統執行，則會顯示&#x200B;*系統*。 |
+| IP位址 | 執行動作之電腦的IP位址。 這通常會反映實體位置，但可以是Proxy伺服器或VPN位址。 |
+| 組織 | 受事件影響的組織名稱。 |
 
 1. 您可以使用以下選項篩選稽核記錄：
 
@@ -55,7 +55,7 @@ ht-degree: 3%
    - 選取一或多個組織。
    - 定義日期範圍。
    - 依事件名稱篩選。
-   - 您可以合併篩選器來縮小結果範圍，例如檢視特定組織過去七天的事件。
+   - 結合篩選器以縮小結果範圍，例如檢視特定組織過去七天的事件。
 
    ![稽核記錄](assets/audit-logs.png)
 
@@ -106,7 +106,7 @@ ht-degree: 3%
 
 1. 登入[Global Admin Console](https://global-admin-console.adobe.com/insights)並導覽至&#x200B;**[!UICONTROL Insights]** > **[!UICONTROL 匯出報表]**。
 
-   系統會顯示過去90天內產生的報表。 90天完成後，您可以再次產生報表。 瞭解如何產生[組織結構](https://helpx.adobe.com/tw/enterprise/global-admin-console/export-and-import-data.html#export-and-import-organization-structure)的報告。
+   系統會顯示過去90天內產生的報表。 90天完成後，您可以再次產生報表。 瞭解如何產生[組織結構](https://helpx.adobe.com/enterprise/global-admin-console/export-and-import-data.html#export-and-import-organization-structure)的報告。
 
 
    | 欄位 | 說明 |
