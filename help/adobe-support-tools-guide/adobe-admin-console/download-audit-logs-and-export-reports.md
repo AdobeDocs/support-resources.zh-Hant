@@ -5,10 +5,10 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 4b562a4d-14e5-4687-a1ae-6a435f087627
-source-git-commit: 5573d0f0e58b7ba799726740ae0d29b1053122aa
+source-git-commit: 7211d382c6cfba6070c8c3203956a1193f64ffbe
 workflow-type: tm+mt
-source-wordcount: '876'
-ht-degree: 3%
+source-wordcount: '872'
+ht-degree: 2%
 
 ---
 
@@ -24,12 +24,12 @@ ht-degree: 3%
 
 身為全域管理員，您可以完整檢視Global Admin Console中的變更。 您可以搜尋所有組織中的稽核記錄，以找出過去90天內採取的動作，包括動作發生的時間及執行者。
 - 稽核記錄可防止不適當的系統存取並稽核組織內的可疑行為，有助於確保持續合規性。
-- Global Admin Console中可用的記錄檔僅包含全域管理員有權存取的事件。 不包含使用者指派或使用者事件。 [深入瞭解](https://helpx.adobe.com/tw/enterprise/using/admin-console.html)每個主控台提供的不同功能。
+- Global Admin Console中可用的記錄檔僅包含全域管理員可存取的事件。 不包含使用者指派或使用者事件。 [深入瞭解](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview)每個主控台提供的不同功能。
 - 記錄會涵蓋階層中所有組織的事件，讓您一次搜尋所有組織的稽核記錄。
 
 >[!NOTE]
 >
-> 作為[Adobe Admin Console](https://adminconsole.adobe.com)組織中的系統管理員，您可以使用[稽核記錄](https://helpx.adobe.com/tw/enterprise/using/audit-logs.html)來檢閱使用者指派和使用者事件。 稽核記錄中也會包含所選組織的子組織中系統管理員所執行的動作。 深入瞭解系統管理員如何[追蹤在Admin Console中所做的變更](https://helpx.adobe.com/tw/enterprise/using/audit-logs.html)。
+> 作為[Adobe Admin Console](https://adminconsole.adobe.com)組織中的系統管理員，您可以使用[稽核記錄](https://helpx.adobe.com/enterprise/using/audit-logs.html)來檢閱使用者指派和使用者事件。 稽核記錄中也會包含所選組織的子組織中系統管理員所執行的動作。 深入瞭解系統管理員如何[追蹤在Admin Console中所做的變更](https://helpx.adobe.com/enterprise/using/audit-logs.html)。
 
 若要檢視或下載組織的稽核記錄：
 
@@ -106,7 +106,7 @@ ht-degree: 3%
 
 1. 登入[Global Admin Console](https://global-admin-console.adobe.com/insights)並導覽至&#x200B;**[!UICONTROL Insights]** > **[!UICONTROL 匯出報表]**。
 
-   系統會顯示過去90天內產生的報表。 90天完成後，您可以再次產生報表。 瞭解如何產生[組織結構](https://helpx.adobe.com/tw/enterprise/global-admin-console/export-and-import-data.html#export-and-import-organization-structure)的報告。
+   系統會顯示過去90天內產生的報表。 90天後，您可以再次產生報表。 瞭解如何產生[組織結構](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/export-or-import-organization-structure-and-product-allocations#export-the-organization-structure)的報告。
 
 
    | 欄位 | 說明 |
