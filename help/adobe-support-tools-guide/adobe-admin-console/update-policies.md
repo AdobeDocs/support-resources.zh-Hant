@@ -27,7 +27,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->在[Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html)中，從階層選取組織，並導覽至&#x200B;**原則**&#x200B;索引標籤以允許或禁止或鎖定原則。
+>在[Global Admin Console](https://helpx.adobe.com/tw/enterprise/global-admin-console/adopt-global-administration.html)中，從階層選取組織，並導覽至&#x200B;**原則**&#x200B;索引標籤以允許或禁止或鎖定原則。
 >
 > [登入Global Admin Console](https://global-admin-console.adobe.com/)
 
@@ -38,14 +38,14 @@ ht-degree: 0%
 
 若要修改組織的原則，請執行下列動作：
 
-1. 在Global Admin Console中，[選取要編輯的組織](https://helpx.adobe.com/enterprise/global-admin-console/overview.html)，然後導覽至&#x200B;**[!UICONTROL 原則]**&#x200B;索引標籤。
-1. 為相關原則選取切換以允許或不允許它。 您也可以鎖定原則，讓[選取的組織](https://helpx.adobe.com/enterprise/global-admin-console/overview.html)或其上層組織的全域管理員以外的人無法變更或解除鎖定原則。
+1. 在Global Admin Console中，[選取要編輯的組織](https://helpx.adobe.com/tw/enterprise/global-admin-console/overview.html)，然後導覽至&#x200B;**[!UICONTROL 原則]**&#x200B;索引標籤。
+1. 為相關原則選取切換以允許或不允許它。 您也可以鎖定原則，讓[選取的組織](https://helpx.adobe.com/tw/enterprise/global-admin-console/overview.html)或其上層組織的全域管理員以外的人無法變更或解除鎖定原則。
 1. 若要鎖定原則，請選取&#x200B;**[!UICONTROL 鎖定]** ![鎖定](./assets/lock.png)圖示。 將游標暫留在鎖定上會顯示所選組織的名稱。 深入瞭解[原則鎖定](#policy-locks)。
-1. 在您編輯完組織後，選取&#x200B;**[!UICONTROL 檢閱擱置中的變更]**。 檢閱後，選取&#x200B;**[!UICONTROL 提交變更]**&#x200B;以[執行](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)它們。
+1. 在您編輯完組織後，選取&#x200B;**[!UICONTROL 檢閱擱置中的變更]**。 檢閱後，選取&#x200B;**[!UICONTROL 提交變更]**&#x200B;以[執行](https://helpx.adobe.com/tw/enterprise/global-admin-console/execute-jobs.html)它們。
 
 ## 原則鎖定 {#policy-locks}
 
-鎖定原則時，除非解除鎖定原則，否則無法變更其值。 Global Admin Console記憶組織選擇器中的[選取的組織](https://helpx.adobe.com/enterprise/global-admin-console/overview.html)為鎖定原則的組織。 所選組織或樹狀結構中較高組織的任何全域管理員都有權解鎖原則。 範圍小於該組織的全域管理員沒有解除鎖定和變更原則值的許可權。
+鎖定原則時，除非解除鎖定原則，否則無法變更其值。 Global Admin Console記憶組織選擇器中的[選取的組織](https://helpx.adobe.com/tw/enterprise/global-admin-console/overview.html)為鎖定原則的組織。 所選組織或樹狀結構中較高組織的任何全域管理員都有權解鎖原則。 範圍小於該組織的全域管理員沒有解除鎖定和變更原則值的許可權。
 
 若要建立鎖定的環境，請在子組織上設定所需的原則值，然後加以鎖定。 這些子組織的全域管理員將無法編輯原則值。
 
