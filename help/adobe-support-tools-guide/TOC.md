@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 201356d2f86139f6f4230547ad946c3bb5190ace
+source-git-commit: 782bc1d8c2c594978dee3e0c8fada48d0f910242
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '300'
 ht-degree: 1%
 
 ---
@@ -37,6 +37,7 @@ ht-degree: 1%
    - [在Global Admin Console中管理原則範本](adobe-admin-console/manage-policy-templates.md)
    - [匯出或匯入組織結構和產品配置](adobe-admin-console/export-or-import-organization-structure-and-product-allocations.md)
    - [在Admin Console中強制密碼過期](adobe-admin-console/enforce-password-expiration-in-the-admin-console.md)
+   - [依IP位址限制產品存取](adobe-admin-console/adobe-ip-based-access.md)
    - [下載稽核記錄和匯出報告](adobe-admin-console/download-audit-logs-and-export-reports.md)
    - [將現有使用者移轉至Adobe Admin Console](adobe-admin-console/migrate-existing-users-to-the-adobe-admin-console.md)
 - Adobe Workfront支援 {#workfront}
