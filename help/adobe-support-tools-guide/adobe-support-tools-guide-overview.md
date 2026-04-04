@@ -20,7 +20,7 @@ ht-degree: 6%
 | [Adobe客戶支援體驗](https://experienceleague.adobe.com/zh-hant/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience) | 大致瞭解客戶如何導覽Adobe支援、管理案例，以及受益於AI輔助建議。 | 2026年1月27日 |
 | [Adobe客戶支援權益](https://experienceleague.adobe.com/zh-hant/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-entitlement-configuration) | 瞭解Adobe客戶如何設定支援權益以啟用案例提交。 | 2026年1月22日 |
 | [指定偏好的支援電話號碼](https://experienceleague.adobe.com/zh-hant/docs/support-resources/adobe-support-tools-guide/phone-numbers) | 存取地區特定的Adobe支援聯絡資訊，以快速取得正確的協助。 | 2025年12月21日 |
-| [系統管理角色](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-roles) | 檢閱與不同Adobe支援管理角色相關聯的許可權和責任。 | 2026年1月6日 |
+| [系統管理角色](https://experienceleague.adobe.com/zh-hant/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-roles) | 檢閱與不同Adobe支援管理角色相關聯的許可權和責任。 | 2026年1月6日 |
 | [Adobe商務平台與Admin Console常見問題集](https://experienceleague.adobe.com/zh-hant/docs/support-resources/adobe-support-tools-guide/workfront/faq) | 尋找常見Workfront相關支援和疑難排解問題的解答。 | 2026年1月5日 |
 | [如何在雲端基礎結構擴充時要求暫時Adobe Commerce](https://experienceleague.adobe.com/zh-hant/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/how-to-request-temporary-adobe-commerce-on-cloud-infrastructure-upsize) | 瞭解如何請求暫時增加Adobe Commerce的雲端基礎結構容量。 | 2026年1月7日 |
 | [Adobe Commerce P1通知熱線](https://experienceleague.adobe.com/zh-hant/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-p1-notification-hotline) | 瞭解P1事件在Adobe Commerce中的上報和溝通緊急程度。 | 2026年1月7日 |
