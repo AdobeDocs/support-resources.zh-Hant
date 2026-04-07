@@ -18,7 +18,7 @@ ht-degree: 0%
    1. **編輯階段**：變更組織或配置產品。
    2. **執行階段**：檢閱並執行暫止的變更，使其生效。
 
-- 若要確保[[!DNL Global Admin Console]](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html)中所做的所有變更已實作並生效，請選取&#x200B;**[!UICONTROL 工作執行]**&#x200B;索引標籤，然後繼續執行暫止的變更。
+- 若要確保[[!DNL Global Admin Console]](https://helpx.adobe.com/tw/enterprise/global-admin-console/adopt-global-administration.html)中所做的所有變更已實作並生效，請選取&#x200B;**[!UICONTROL 工作執行]**&#x200B;索引標籤，然後繼續執行暫止的變更。
 
   登入[[!DNL Global Admin Console]](https://global-admin-console.adobe.com/)。
 
