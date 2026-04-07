@@ -13,4 +13,4 @@ ht-degree: 0%
 
 Adobe Admin Console是管理整個組織中Adobe許可權的中央位置。 若要進一步瞭解，請觀看此[影片](https://youtu.be/hDOhQL9xPRY)。
 
-在[Adobe Admin Console概觀](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview)中進一步瞭解Adobe Admin Console。
+在[Adobe Admin Console概觀](https://experienceleague.adobe.com/zh-hant/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview)中進一步瞭解Adobe Admin Console。

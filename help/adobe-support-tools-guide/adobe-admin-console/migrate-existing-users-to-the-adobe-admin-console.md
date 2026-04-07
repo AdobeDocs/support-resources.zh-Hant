@@ -24,9 +24,9 @@ ht-degree: 0%
 
 為避免一般使用者產品存取權遺失，在現有Adobe Admin Console訂閱期限結束前，請在VIP中指派授權。
 
-* 若為ETLA客戶，允許至少30天的產品重疊。 在週年紀念日之前完成移轉，讓使用者能持續存取Adobe應用程式和服務。 如需ETLA合約到期詳細資料，請參閱[ETLA合約的自動到期階段](https://helpx.adobe.com/enterprise/using/contract-expiry.html)。
+* 若為ETLA客戶，允許至少30天的產品重疊。 在週年紀念日之前完成移轉，讓使用者能持續存取Adobe應用程式和服務。 如需ETLA合約到期詳細資料，請參閱[ETLA合約的自動到期階段](https://helpx.adobe.com/tw/enterprise/using/contract-expiry.html)。
 * 若為VIP客戶，請在您目前的週年紀念日前購買授權，並在續約期限截止前指派授權VIP條款。
-* CLP或TLP客戶可使用[授權](https://helpx.adobe.com/enterprise/using/licensing.html)中的移轉指示，從序列化Acrobat或Creative Suite移轉至具名使用者授權。
+* CLP或TLP客戶可使用[授權](https://helpx.adobe.com/tw/enterprise/using/licensing.html)中的移轉指示，從序列化Acrobat或Creative Suite移轉至具名使用者授權。
 
 >[!NOTE]
 >
@@ -74,9 +74,9 @@ Adobe處理您的企業採購單後，您會收到一封包含指示的確認電
 
    ![授權指派確認](assets/migrate-license-assignment.png)
 
-在Admin Console中下載[結果報告](https://helpx.adobe.com/enterprise/using/users.html#main-pars_header_1346350355)以確認已指派所有授權。 如果您在確認電子郵件中的日期之前完成，一般使用者應該不會遇到服務中斷的情況。
+在Admin Console中下載[結果報告](https://helpx.adobe.com/tw/enterprise/using/users.html#main-pars_header_1346350355)以確認已指派所有授權。 如果您在確認電子郵件中的日期之前完成，一般使用者應該不會遇到服務中斷的情況。
 
-安排Adobe入門專員（如果尚未安排）的1:1入門諮詢電話以進一步瞭解Admin Console，包括[管理員角色](https://helpx.adobe.com/enterprise/using/admin-roles.html)和[身分](https://helpx.adobe.com/tw/enterprise/using/identity.html)。
+安排Adobe入門專員（如果尚未安排）的1:1入門諮詢電話以進一步瞭解Admin Console，包括[管理員角色](https://helpx.adobe.com/tw/enterprise/using/admin-roles.html)和[身分](https://helpx.adobe.com/tw/enterprise/using/identity.html)。
 
 >[!NOTE]
 >
@@ -95,12 +95,12 @@ Adobe處理您的企業採購單後，您會收到一封包含指示的確認電
 
    ![使用CSV編輯使用者](assets/migrate-edit-users-by-csv.png)
 
-   如需下載檔案中的欄位說明，請參閱[CSV檔案格式](https://helpx.adobe.com/enterprise/using/users.html#main-pars_header)。
+   如需下載檔案中的欄位說明，請參閱[CSV檔案格式](https://helpx.adobe.com/tw/enterprise/using/users.html#main-pars_header)。
 4. 將授權指派新增至CSV，然後將更新的檔案拖曳至&#x200B;**[!UICONTROL 透過CSV編輯使用者]**&#x200B;對話方塊中，並按一下&#x200B;**[!UICONTROL 上傳]**。 作業完成時，您會收到電子郵件。
 
    ![使用者編輯完成](assets/migrate-user-edit-complete.png)
 
-下載[結果報表](https://helpx.adobe.com/enterprise/using/users.html#main-pars_header_1346350355)以驗證指派。 接著，安排與Adobe入門專員上線，以瞭解[管理角色](https://helpx.adobe.com/enterprise/using/admin-roles.html)和[身分](https://helpx.adobe.com/tw/enterprise/using/identity.html)。
+下載[結果報表](https://helpx.adobe.com/tw/enterprise/using/users.html#main-pars_header_1346350355)以驗證指派。 接著，安排與Adobe入門專員上線，以瞭解[管理角色](https://helpx.adobe.com/tw/enterprise/using/admin-roles.html)和[身分](https://helpx.adobe.com/tw/enterprise/using/identity.html)。
 
 ## 大量授權指派（VIP到ETLA）
 
@@ -119,9 +119,9 @@ Adobe處理您的企業採購單後，您會收到一封包含指示的確認電
 
 ![在VIP移轉至ETLA後新增的使用者](assets/migrate-users-added-vip-etla.png)
 
-下載[結果報表](https://helpx.adobe.com/enterprise/using/users.html#main-pars_header_1346350355)以驗證指派。 安排[管理員角色](https://helpx.adobe.com/enterprise/using/admin-roles.html)和[身分識別](https://helpx.adobe.com/tw/enterprise/using/identity.html)的Adobe入門專員入門。
+下載[結果報表](https://helpx.adobe.com/tw/enterprise/using/users.html#main-pars_header_1346350355)以驗證指派。 安排[管理員角色](https://helpx.adobe.com/tw/enterprise/using/admin-roles.html)和[身分識別](https://helpx.adobe.com/tw/enterprise/using/identity.html)的Adobe入門專員入門。
 
-如需大量上傳問題，請參閱[疑難排解大量使用者上傳](https://helpx.adobe.com/enterprise/kb/troubleshoot-bulk-user-csv-upload.html)。
+如需大量上傳問題，請參閱[疑難排解大量使用者上傳](https://helpx.adobe.com/tw/enterprise/kb/troubleshoot-bulk-user-csv-upload.html)。
 
 ## 大量授權指派（ETLA到VIP）
 
@@ -143,6 +143,6 @@ Adobe處理您的企業採購單後，您會收到一封包含指示的確認電
 
 ![在ETLA移轉至VIP後新增的使用者](assets/migrate-users-added-etla-vip.png)
 
-下載[結果報表](https://helpx.adobe.com/enterprise/using/users.html#main-pars_header_1346350355)以驗證指派。 安排[管理員角色](https://helpx.adobe.com/enterprise/using/admin-roles.html)和[身分識別](https://helpx.adobe.com/tw/enterprise/using/identity.html)的Adobe入門專員入門。
+下載[結果報表](https://helpx.adobe.com/tw/enterprise/using/users.html#main-pars_header_1346350355)以驗證指派。 安排[管理員角色](https://helpx.adobe.com/tw/enterprise/using/admin-roles.html)和[身分識別](https://helpx.adobe.com/tw/enterprise/using/identity.html)的Adobe入門專員入門。
 
-如需大量上傳問題，請參閱[疑難排解大量使用者上傳](https://helpx.adobe.com/enterprise/kb/troubleshoot-bulk-user-csv-upload.html)。
+如需大量上傳問題，請參閱[疑難排解大量使用者上傳](https://helpx.adobe.com/tw/enterprise/kb/troubleshoot-bulk-user-csv-upload.html)。
