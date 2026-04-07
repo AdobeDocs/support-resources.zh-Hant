@@ -1,13 +1,13 @@
 ---
 title: 為多個組織和產品建立授權指派報告
 description: 從Global Admin Console產生、檢視及下載多個組織和產品的授權指派報告。
-Feature-set: Experience Cloud Services
-Solution: Admin Console
-Feature: Admin Console
+feature-set: Experience Cloud Services
+solution: Admin Console
+feature: Admin Console
 exl-id: e3380a89-8529-473f-bd17-efb05466eab9
-source-git-commit: 74d2dd4eb999f91172eec4c3b5690e1e8b8bd293
+source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
 workflow-type: tm+mt
-source-wordcount: '711'
+source-wordcount: '725'
 ht-degree: 1%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 1%
    >[!NOTE]
    >
    >**瞭解無法選取特定組織的原因**：
-   >如果下階組織沒有合約，或擁有與上階組織相同產品的個別企業合約，則無法建立授權指定報表。 例如，如果父組織的合約具有Adobe Acrobat，而子組織與其他合約的一部分具有相同，則產品配置會受限。 因此，在Global Admin Console中建立報表的能力也受到限制。 [瞭解如何使用這類組織的個別Admin Console](https://helpx.adobe.com/tw/enterprise/using/assignment-reports.html)追蹤布建。
+   >如果下階組織沒有合約，或擁有與上階組織相同產品的個別企業合約，則無法建立授權指定報表。 例如，如果父組織的合約具有Adobe Acrobat，而子組織與其他合約的一部分具有相同，則產品配置會受限。 因此，在Global Admin Console中建立報表的能力也受到限制。 [瞭解如何使用這類組織的個別Admin Console](https://helpx.adobe.com/enterprise/using/assignment-reports.html)追蹤布建。
 
    >[!NOTE]
    >
@@ -42,11 +42,11 @@ ht-degree: 1%
    >[!NOTE]
    >
    >**瞭解無法選取特定產品的原因**：
-   >在Global Admin Console中無法配置的產品不會納入報告建立作業。 這目前包括某些數位體驗產品，例如[!DNL Workfront]、[!DNL Adobe Experience Manager]和[!DNL Adobe Experience Platform]，以及產品，例如[!DNL Adobe Firefly Services]、[!DNL Acrobat Sign]和[!DNL Adobe Stock]。 [您使用Adobe Admin Console來尋找這些產品的授權布建資料](https://helpx.adobe.com/tw/enterprise/using/assignment-reports.html)。
+   >在Global Admin Console中無法配置的產品不會納入報告建立作業。 目前包括一些數位體驗產品，例如Workfront、Adobe Experience Manager和Adobe Experience Platform，以及Adobe Firefly Services、Acrobat Sign和Adobe Stock等產品。 [您使用Adobe Admin Console來尋找這些產品的授權布建資料](https://helpx.adobe.com/enterprise/using/assignment-reports.html)。
 
 1. 選取要按月或年彙總報表。
 1. 選取自訂日期範圍或從預設集選項中選擇。 您可以挑選從2020年6月18日開始直到前一天的任何開始日期，只要該日期不在合約開始日期之前。
-1. 選取「下載&#x200B;**&#x200B;**」將報表匯出為CSV檔案。
+1. 選取「下載&#x200B;****」將報表匯出為CSV檔案。
 
 報告開始處理並出現在&#x200B;**[!UICONTROL 授權指派]**&#x200B;頁面上，其中包含名稱、建立者、建立時間、日期範圍和狀態等詳細資訊。 準備就緒後，您會收到電子郵件通知，並自動下載報告。
 
