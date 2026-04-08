@@ -2,13 +2,13 @@
 title: Experience League支援發行說明
 description: 有關Experience League支援的最新發行資訊。
 feature: Release Notes
-source-git-commit: 25bfd2450594c3fbb361cb80fe16e1a438f73b89
+exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
+source-git-commit: 2d3eefd7816fbd25898549b20a0ae913b8b51391
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '489'
 ht-degree: 2%
 
 ---
-
 
 # Experience League支援發行說明
 
@@ -17,6 +17,10 @@ ht-degree: 2%
 ![新](../adobe-support-tools-guide/assets/new.svg)新功能
 ![修正](../adobe-support-tools-guide/assets/fix.svg)修正和改良
 ![錯誤](../adobe-support-tools-guide/assets/bug.svg)已知問題
+
+## 2026年4月9日 — 擴充「要求回呼」功能
+
+Marketo產品使用者現在可以使用「要求回撥」功能。
 
 ## 2026年3月30日 — 增強型案例表單
 
@@ -78,6 +82,7 @@ ht-degree: 2%
 ## 2026年3月18日 — 擴充「要求回呼」功能
 
 Experience League現在提供「要求回撥」選項，透過熒幕共用功能啟用自助式Web會議排程，以更快解決問題。
+
 - 此功能適用於Adobe Experience Manager、Campaign和Workfront。
 - 客戶可以在方便的時候安排會議，並立即收到邀請。
 - 針對Adobe Experience Manager P1案例，立即回撥可確保於關鍵問題期間更快速地參與，將停機時間及業務影響降至最低。
