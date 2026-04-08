@@ -26,7 +26,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->在[Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html)中，選取要編輯的組織，並導覽至&#x200B;**原則範本**&#x200B;索引標籤，以簡化設定，並促進跨組織的一致原則管理。
+>在[Global Admin Console](https://helpx.adobe.com/tw/enterprise/global-admin-console/adopt-global-administration.html)中，選取要編輯的組織，並導覽至&#x200B;**原則範本**&#x200B;索引標籤，以簡化設定，並促進跨組織的一致原則管理。
 >
 > [登入Global Admin Console](https://global-admin-console.adobe.com/)
 
@@ -44,7 +44,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->與Global Admin Console中進行的其他變更不同，對原則範本的編輯會立即生效，不需要經過&#x200B;**[!UICONTROL 檢閱擱置的變更 — 提交]**&#x200B;程式。 不過，若要在套用原則範本的組織中實作暫止的變更，需要[提交](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)。
+>與Global Admin Console中進行的其他變更不同，對原則範本的編輯會立即生效，不需要經過&#x200B;**[!UICONTROL 檢閱擱置的變更 — 提交]**&#x200B;程式。 不過，若要在套用原則範本的組織中實作暫止的變更，需要[提交](https://helpx.adobe.com/tw/enterprise/global-admin-console/execute-jobs.html)。
 
 ## 建立原則範本
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
 針對範本中包含的每個原則，設定兩個設定：
 
-* **允許/不允許：**&#x200B;將滑桿設定為所要的值。 瞭解[原則詳細資料](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html#policy-details)。
+* **允許/不允許：**&#x200B;將滑桿設定為所要的值。 瞭解[原則詳細資料](https://helpx.adobe.com/tw/enterprise/global-admin-console/update-policies.html#policy-details)。
 * **鎖定值：**&#x200B;使用下列其中一個選項來修改原則的鎖定狀態：
    * **鎖定** — 原則將在套用範本後鎖定。
    * **解除鎖定** — 原則將在套用範本後解除鎖定。
@@ -79,7 +79,7 @@ ht-degree: 0%
    ![Pic4](./assets/DXSKB-3209-4-bulk-apply-template.png)
    <br>
 1. 選取&#x200B;**[!UICONTROL 套用範本]**。
-1. 若要在套用原則範本的組織中實作暫緩變更，請選取&#x200B;**[!UICONTROL 檢閱暫緩變更]**。 檢閱後，選取&#x200B;**[!UICONTROL 提交變更]**&#x200B;以[執行](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)它們。
+1. 若要在套用原則範本的組織中實作暫緩變更，請選取&#x200B;**[!UICONTROL 檢閱暫緩變更]**。 檢閱後，選取&#x200B;**[!UICONTROL 提交變更]**&#x200B;以[執行](https://helpx.adobe.com/tw/enterprise/global-admin-console/execute-jobs.html)它們。
 
 如果您選取的組織中的所有原則值已經符合範本中的值，則會出現一則訊息，通知您未進行任何變更。 此外，如果沒有其他擱置的編輯，則不會啟用&#x200B;**[!UICONTROL 檢閱擱置的變更]**。
 
@@ -90,7 +90,7 @@ ht-degree: 0%
    ![Pic5](./assets/DXSKB-3209-5-ga_15-1.png)
    <br>
 1. 更新原則範本並選取&#x200B;**[!UICONTROL 立即更新]**。
-1. 若要在套用原則範本的組織中實作暫緩變更，請選取&#x200B;**[!UICONTROL 檢閱暫緩變更]**。 檢閱後，選取&#x200B;**[!UICONTROL 提交變更]**&#x200B;以[執行](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)它們。
+1. 若要在套用原則範本的組織中實作暫緩變更，請選取&#x200B;**[!UICONTROL 檢閱暫緩變更]**。 檢閱後，選取&#x200B;**[!UICONTROL 提交變更]**&#x200B;以[執行](https://helpx.adobe.com/tw/enterprise/global-admin-console/execute-jobs.html)它們。
 
 ## 刪除範本
 
