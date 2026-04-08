@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 00c7788ac17cf2de2f09867ae68c7cd351b80776
+source-git-commit: 66e32c154b9afb1bfc7cd60bc21ddb2ff6ab7e3f
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '318'
 ht-degree: 1%
 
 ---
@@ -48,6 +48,7 @@ ht-degree: 1%
    - [Adobe Commerce的MySQL支援終止通知和資料庫相容性指引](adobe-commerce-support/mysql-end-of-support-notice-and-database-compatibility-guidance-for-adobe-commerce.md)
    - [如何取得及套用安全性修補程式](adobe-commerce-support/how-to-obtain-and-apply-security-patches.md)
    - [如何請求雲端基礎結構上的臨時Adobe Commerce升級](adobe-commerce-support/how-to-request-temporary-adobe-commerce-on-cloud-infrastructure-upsize.md)
+   - [針對雲端基礎結構上的Adobe Commerce提出假期突增容量要求](adobe-commerce-support/holiday-surge-capacity-requests-for-magento-commerce-cloud.md)
    - [Adobe Commerce P1通知熱線](adobe-commerce-support/adobe-commerce-p1-notification-hotline.md)
    - [Adobe Commerce Intelligence Essentials：更新付款方式或取消訂閱](adobe-commerce-support/adobe-commerce-intelligence-essentials-update-payment-cancel-subscription.md)
    - [Adobe支援客戶資料存取和隱私權](adobe-commerce-support/adobe-support-customer-data-access-and-privacy.md)
