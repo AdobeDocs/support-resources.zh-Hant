@@ -3,7 +3,7 @@ title: Experience League支援發行說明
 description: 有關Experience League支援的最新發行資訊。
 feature: Release Notes
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
-source-git-commit: 2d3eefd7816fbd25898549b20a0ae913b8b51391
+source-git-commit: 7d0f54c6a5d43fc9155a7d17fca2eefa3238179e
 workflow-type: tm+mt
 source-wordcount: '489'
 ht-degree: 2%
@@ -18,7 +18,7 @@ ht-degree: 2%
 ![修正](../adobe-support-tools-guide/assets/fix.svg)修正和改良
 ![錯誤](../adobe-support-tools-guide/assets/bug.svg)已知問題
 
-## 2026年4月9日 — 擴充「要求回呼」功能
+## 2026年4月8日 — 擴充「要求回呼」功能
 
 Marketo產品使用者現在可以使用「要求回撥」功能。
 
