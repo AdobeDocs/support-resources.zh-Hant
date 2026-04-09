@@ -17,11 +17,11 @@ ht-degree: 3%
 
 面對這些問題之一？ 選取問題以檢視解決方案。
 
-- [管理系統管理員角色](https://helpx.adobe.com/enterprise/using/admin-roles.html)
-- [下載安裝問題](https://helpx.adobe.com/download-install.html)
-- [重設Enterprise ID使用者密碼](https://helpx.adobe.com/enterprise/kb/enterprise-id-faq.html#faq)
-- [解決Federated ID錯誤](https://helpx.adobe.com/enterprise/kb/tshoot-fed-id.html)
-- [刪除使用者或還原已刪除的使用者](https://helpx.adobe.com/enterprise/using/manage-directory-users.html)
+- [管理系統管理員角色](https://helpx.adobe.com/tw/enterprise/using/admin-roles.html)
+- [下載安裝問題](https://helpx.adobe.com/tw/download-install.html)
+- [重設Enterprise ID使用者密碼](https://helpx.adobe.com/tw/enterprise/kb/enterprise-id-faq.html#faq)
+- [解決Federated ID錯誤](https://helpx.adobe.com/tw/enterprise/kb/tshoot-fed-id.html)
+- [刪除使用者或還原已刪除的使用者](https://helpx.adobe.com/tw/enterprise/using/manage-directory-users.html)
 
 **Adobe Admin Console — 使用者** — [在YouTube上觀看](https://youtu.be/w8b36YX2TEM)
 
@@ -37,7 +37,7 @@ Adobe enterprise和teams廣泛定義了兩種使用者：
 
 企業或團隊管理員會在Admin Console上執行管理任務。 您可以新增管理員來定義靈活的管理階層，以便更精細地管理Adobe產品存取、使用及其他管理任務。
 
-所有管理員都必須新增至Admin Console。 新增管理員時，管理員許可權是以其[管理員角色](https://helpx.adobe.com/enterprise/using/admin-roles.html)為基礎。
+所有管理員都必須新增至Admin Console。 新增管理員時，管理員許可權是以其[管理員角色](https://helpx.adobe.com/tw/enterprise/using/admin-roles.html)為基礎。
 
 ### 一般使用者
 
@@ -49,7 +49,7 @@ Adobe enterprise和teams廣泛定義了兩種使用者：
 
 >[!NOTE]
 >
->如果您是新的Adobe企業或團隊客戶，建議您先詳閱此表格，然後再開始在Admin Console上管理使用者。 現有客戶可以使用此功能，尤其是如果他們計畫從一種身分型別移轉至另一種身分型別（請參閱[編輯身分型別](https://helpx.adobe.com/enterprise/using/switch-user-identity.html)）。
+>如果您是新的Adobe企業或團隊客戶，建議您先詳閱此表格，然後再開始在Admin Console上管理使用者。 現有客戶可以使用此功能，尤其是如果他們計畫從一種身分型別移轉至另一種身分型別（請參閱[編輯身分型別](https://helpx.adobe.com/tw/enterprise/using/switch-user-identity.html)）。
 
 <table>
 <thead>
@@ -77,23 +77,23 @@ Adobe enterprise和teams廣泛定義了兩種使用者：
 </tr>
 <tr>
 <th scope="row"><strong>新增使用者</strong></th>
-<td><strong>Admin Console</strong>中的<strong>使用者</strong>索引標籤。 <a href="https://helpx.adobe.com/enterprise/using/manage-users-individually.html#add-users">閱讀全文</a>。</td>
-<td>在<strong>Admin Console</strong>中使用<strong>透過CSV</strong>新增使用者。 <a href="https://helpx.adobe.com/enterprise/using/bulk-upload-users.html">閱讀更多</a>。<em> （使用預設的CSV範本。）</em></td>
-<td>在<a href="https://helpx.adobe.com/enterprise/using/sso-setup-azure.html">Azure</a>或<a href="https://helpx.adobe.com/enterprise/using/setup-sso-google.html">Google</a>中新增使用者。 或透過<strong>Admin Console</strong>進行。</td>
+<td><strong>Admin Console</strong>中的<strong>使用者</strong>索引標籤。 <a href="https://helpx.adobe.com/tw/enterprise/using/manage-users-individually.html#add-users">閱讀全文</a>。</td>
+<td>在<strong>Admin Console</strong>中使用<strong>透過CSV</strong>新增使用者。 <a href="https://helpx.adobe.com/tw/enterprise/using/bulk-upload-users.html">閱讀更多</a>。<em> （使用預設的CSV範本。）</em></td>
+<td>在<a href="https://helpx.adobe.com/tw/enterprise/using/sso-setup-azure.html">Azure</a>或<a href="https://helpx.adobe.com/tw/enterprise/using/setup-sso-google.html">Google</a>中新增使用者。 或透過<strong>Admin Console</strong>進行。</td>
 <td colspan="2">您應將使用者新增至組織的LDAP中。</td>
 </tr>
 <tr>
 <th scope="row"><strong>移除使用者</strong></th>
-<td>在<strong>Admin Console</strong>中選取並移除使用者。 <a href="https://helpx.adobe.com/enterprise/using/manage-users-individually.html#remove-users">閱讀全文</a>。</td>
-<td>在<strong>Admin Console</strong>的<strong>使用者</strong>索引標籤中選擇<strong>透過CSV移除使用者</strong>。 <a href="https://helpx.adobe.com/enterprise/using/bulk-upload-users.html#remove-users">閱讀更多</a>。<em> （使用預設的CSV範本。）</em></td>
-<td>必須在<a href="https://helpx.adobe.com/enterprise/using/sso-setup-azure.html">Azure</a>或<a href="https://helpx.adobe.com/enterprise/using/setup-sso-google.html">Google</a>中移除使用者。</td>
+<td>在<strong>Admin Console</strong>中選取並移除使用者。 <a href="https://helpx.adobe.com/tw/enterprise/using/manage-users-individually.html#remove-users">閱讀全文</a>。</td>
+<td>在<strong>Admin Console</strong>的<strong>使用者</strong>索引標籤中選擇<strong>透過CSV移除使用者</strong>。 <a href="https://helpx.adobe.com/tw/enterprise/using/bulk-upload-users.html#remove-users">閱讀更多</a>。<em> （使用預設的CSV範本。）</em></td>
+<td>必須在<a href="https://helpx.adobe.com/tw/enterprise/using/sso-setup-azure.html">Azure</a>或<a href="https://helpx.adobe.com/tw/enterprise/using/setup-sso-google.html">Google</a>中移除使用者。</td>
 <td colspan="2">確定使用者資訊已同步。 <strong>警告：</strong>不在您組織LDAP中的使用者會從Admin Console中移除。</td>
 </tr>
 <tr>
 <th scope="row"><strong>編輯使用者詳細資訊</strong></th>
-<td>選取使用者，然後在Admin Console中<strong>編輯使用者詳細資訊</strong>。 <a href="https://helpx.adobe.com/enterprise/using/manage-users-individually.html#edit-user-details">閱讀全文</a>。</td>
-<td>在<strong>Admin Console</strong>的<strong>使用者</strong>索引標籤中選擇<strong>依CSV編輯使用者詳細資訊</strong>。 <a href="https://helpx.adobe.com/enterprise/using/bulk-upload-users.html#edit-user-details">閱讀更多</a>。<em> （使用預設的CSV範本。）</em></td>
-<td>必須在<a href="https://helpx.adobe.com/enterprise/using/sso-setup-azure.html">Azure</a>或<a href="https://helpx.adobe.com/enterprise/using/setup-sso-google.html">Google</a>中變更所有使用者資訊。</td>
+<td>選取使用者，然後在Admin Console中<strong>編輯使用者詳細資訊</strong>。 <a href="https://helpx.adobe.com/tw/enterprise/using/manage-users-individually.html#edit-user-details">閱讀全文</a>。</td>
+<td>在<strong>Admin Console</strong>的<strong>使用者</strong>索引標籤中選擇<strong>依CSV編輯使用者詳細資訊</strong>。 <a href="https://helpx.adobe.com/tw/enterprise/using/bulk-upload-users.html#edit-user-details">閱讀更多</a>。<em> （使用預設的CSV範本。）</em></td>
+<td>必須在<a href="https://helpx.adobe.com/tw/enterprise/using/sso-setup-azure.html">Azure</a>或<a href="https://helpx.adobe.com/tw/enterprise/using/setup-sso-google.html">Google</a>中變更所有使用者資訊。</td>
 <td colspan="2">確定使用者資訊已同步。</td>
 </tr>
 <tr>
@@ -130,12 +130,12 @@ Adobe enterprise和teams廣泛定義了兩種使用者：
 <td>
   <ul>
     <li>
-      <a href="https://helpx.adobe.com/enterprise/using/bulk-upload-users.html">
+      <a href="https://helpx.adobe.com/tw/enterprise/using/bulk-upload-users.html">
         管理使用者|大量上傳CSV
       </a>
     </li>
     <li>
-      <a href="https://helpx.adobe.com/enterprise/kb/troubleshoot-bulk-user-csv-upload.html">
+      <a href="https://helpx.adobe.com/tw/enterprise/kb/troubleshoot-bulk-user-csv-upload.html">
         疑難排解大量使用者CSV上傳
       </a>
     </li>
@@ -145,12 +145,12 @@ Adobe enterprise和teams廣泛定義了兩種使用者：
 <td>
   <ul>
     <li>
-      <a href="https://helpx.adobe.com/enterprise/using/sso-setup-azure.html">
+      <a href="https://helpx.adobe.com/tw/enterprise/using/sso-setup-azure.html">
         Azure AD聯結器
       </a>
     </li>
     <li>
-      <a href="https://helpx.adobe.com/enterprise/using/setup-sso-google.html">
+      <a href="https://helpx.adobe.com/tw/enterprise/using/setup-sso-google.html">
         Google同盟聯結器
       </a>
     </li>
@@ -170,7 +170,7 @@ Adobe enterprise和teams廣泛定義了兩種使用者：
       </a>
     </li>
     <li>
-      <a href="https://helpx.adobe.com/enterprise/using/user-sync.html">
+      <a href="https://helpx.adobe.com/tw/enterprise/using/user-sync.html">
         逐步指南
       </a>
     </li>
@@ -189,8 +189,8 @@ Adobe enterprise和teams廣泛定義了兩種使用者：
 
 根據您的授權方式指派授權給一般使用者：
 
-- **具名使用者授權：**&#x200B;將這些使用者新增至&#x200B;**產品** （[適用於團隊](https://helpx.adobe.com/enterprise/using/assign-licenses-to-teams-users.html)）或&#x200B;**產品設定檔** （[適用於企業](https://helpx.adobe.com/tw/enterprise/using/manage-product-profiles.html)），以授予Adobe產品和服務權益。 如需詳細資訊，請參閱如何[建立具名使用者授權套件](https://helpx.adobe.com/enterprise/using/create-nul-packages.html)和[產品設定檔](https://helpx.adobe.com/enterprise/using/manage-product-profiles.html#create-product-profile)。
-- **共用裝置授權：** [新增的使用者](https://helpx.adobe.com/enterprise/using/sdl-deployment-guide.html#add-users-admin-console)可以使用已設定的共用裝置，只有&#x200B;**組織使用者才能存取**。 如需詳細資訊，請參閱[建立SDL封裝](https://helpx.adobe.com/enterprise/using/create-sdl-packages.html)。
+- **具名使用者授權：**&#x200B;將這些使用者新增至&#x200B;**產品** （[適用於團隊](https://helpx.adobe.com/tw/enterprise/using/assign-licenses-to-teams-users.html)）或&#x200B;**產品設定檔** （[適用於企業](https://helpx.adobe.com/tw/enterprise/using/manage-product-profiles.html)），以授予Adobe產品和服務權益。 如需詳細資訊，請參閱如何[建立具名使用者授權套件](https://helpx.adobe.com/tw/enterprise/using/create-nul-packages.html)和[產品設定檔](https://helpx.adobe.com/tw/enterprise/using/manage-product-profiles.html#create-product-profile)。
+- **共用裝置授權：** [新增的使用者](https://helpx.adobe.com/tw/enterprise/using/sdl-deployment-guide.html#add-users-admin-console)可以使用已設定的共用裝置，只有&#x200B;**組織使用者才能存取**。 如需詳細資訊，請參閱[建立SDL封裝](https://helpx.adobe.com/tw/enterprise/using/create-sdl-packages.html)。
 
 ### 部署套件
 
@@ -199,18 +199,18 @@ Adobe enterprise和teams廣泛定義了兩種使用者：
 - 移至使用者端電腦，然後按兩下套件檔案（Windows或macOS）。
 - 使用Windows命令提示字元或macOS終端機。
 - 使用協力廠商工具：
-   - [Microsoft Intune](https://helpx.adobe.com/enterprise/kb/deploy-packages-using-ms-intune.html)
-   - [Microsoft System Center Configuration Manager (SCCM)](https://helpx.adobe.com/enterprise/kb/deploy-packages-using-sccm.html)
-   - [Apple遠端案頭(ARD)](https://helpx.adobe.com/enterprise/kb/deploy-packages-using-ard.html)
-   - [JAMF Pro](https://helpx.adobe.com/enterprise/kb/deploy-packages-using-jamf-pro.html)
-   - [Munki](https://helpx.adobe.com/enterprise/kb/deploy-packages-using-munki.html)
+   - [Microsoft Intune](https://helpx.adobe.com/tw/enterprise/kb/deploy-packages-using-ms-intune.html)
+   - [Microsoft System Center Configuration Manager (SCCM)](https://helpx.adobe.com/tw/enterprise/kb/deploy-packages-using-sccm.html)
+   - [Apple遠端案頭(ARD)](https://helpx.adobe.com/tw/enterprise/kb/deploy-packages-using-ard.html)
+   - [JAMF Pro](https://helpx.adobe.com/tw/enterprise/kb/deploy-packages-using-jamf-pro.html)
+   - [Munki](https://helpx.adobe.com/tw/enterprise/kb/deploy-packages-using-munki.html)
 
 ## 相關閱讀
 
 - [管理使用者|個別](https://helpx.adobe.com/tw/enterprise/using/manage-users-individually.html)
-- [管理使用者|大量CSV上傳](https://helpx.adobe.com/enterprise/using/bulk-upload-users.html)
-- [管理目錄使用者](https://helpx.adobe.com/enterprise/using/manage-directory-users.html)
+- [管理使用者|大量CSV上傳](https://helpx.adobe.com/tw/enterprise/using/bulk-upload-users.html)
+- [管理目錄使用者](https://helpx.adobe.com/tw/enterprise/using/manage-directory-users.html)
 - [Admin Console](https://helpx.adobe.com/tw/enterprise/using/admin-console.html)
-- [將使用者指派給產品設定檔（適用於企業和機構）](https://helpx.adobe.com/enterprise/using/manage-product-profiles.html#assign-users)
-- [指派授權給團隊使用者](https://helpx.adobe.com/enterprise/using/assign-licenses-to-teams-users.html)
-- [商務儲存模型](https://helpx.adobe.com/enterprise/kb/business-storage-model-introduction.html)
+- [將使用者指派給產品設定檔（適用於企業和機構）](https://helpx.adobe.com/tw/enterprise/using/manage-product-profiles.html#assign-users)
+- [指派授權給團隊使用者](https://helpx.adobe.com/tw/enterprise/using/assign-licenses-to-teams-users.html)
+- [商務儲存模型](https://helpx.adobe.com/tw/enterprise/kb/business-storage-model-introduction.html)
