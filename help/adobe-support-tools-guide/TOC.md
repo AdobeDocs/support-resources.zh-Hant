@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 66e32c154b9afb1bfc7cd60bc21ddb2ff6ab7e3f
+source-git-commit: bdfcda00d58f8583ab6562c4702f335193ee4a45
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '324'
 ht-degree: 1%
 
 ---
@@ -38,6 +38,8 @@ ht-degree: 1%
    - [在Global Admin Console中管理原則範本](adobe-admin-console/manage-policy-templates.md)
    - [匯出或匯入組織結構和產品配置](adobe-admin-console/export-or-import-organization-structure-and-product-allocations.md)
    - [在Admin Console中強制密碼過期](adobe-admin-console/enforce-password-expiration-in-the-admin-console.md)
+   - [Adobe Admin Console使用者](adobe-admin-console/adobe-admin-console-users.md)
+   - [身分總覽](adobe-admin-console/adobe-identity-overview.md)
    - [依IP位址限制產品存取](adobe-admin-console/adobe-ip-based-access.md)
    - [下載稽核記錄和匯出報告](adobe-admin-console/download-audit-logs-and-export-reports.md)
    - [將現有使用者移轉至Adobe Admin Console](adobe-admin-console/migrate-existing-users-to-the-adobe-admin-console.md)
