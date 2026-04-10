@@ -1,7 +1,7 @@
 ---
 source-git-commit: 13e17b77946de3270c46bd7c40160c8400c330d2
-workflow-type: ht
-source-wordcount: '0'
+workflow-type: tm+mt
+source-wordcount: '401'
 ht-degree: 100%
 
 ---
@@ -52,9 +52,9 @@ If you submit a pull request with significant changes to documentation and code 
 * [Markdown 基本介紹](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/)
 * [列印版 Markdown 速查表](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
-## 標記
+## 標籤
 
-在公開存放庫中，系統會為提取要求指派自動化標記，協助我們管理提取要求工作流程，同時協助您了解提取要求的最新狀況：
+在公開存放庫中，系統會為提取要求指派自動化標籤，協助我們管理提取要求工作流程，同時協助您了解提取要求的最新狀況：
 
 * **變更已傳送給作者**：作者已收到處理提取要求的通知。
 * **準備合併**：一切準備就緒，可供提取要求審核團隊審核。
