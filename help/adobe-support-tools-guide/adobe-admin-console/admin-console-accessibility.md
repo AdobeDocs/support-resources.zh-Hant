@@ -5,7 +5,7 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 2dfe1f68-9b93-47cd-8030-ac9e113b66b2
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+source-git-commit: 427a4498448adc3e1160e3638076f62c99670a9b
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ## 鍵盤支援
 
-Admin Console上的大部分互動式內容都可單獨使用鍵盤來導覽和操作。 例如，您可以使用&#x200B;**[!UICONTROL Tab]**&#x200B;或&#x200B;**[!UICONTROL Shift]** + **[!UICONTROL Tab]**&#x200B;進行導覽與控制。 導覽至正確的連結或按鈕後，按下&#x200B;**[!UICONTROL Enter]**&#x200B;或&#x200B;**[!UICONTROL Return]**&#x200B;鍵以選取它。 仍可能會有一些例外，如[協助工具一致性報告](https://www.adobe.com/accessibility/compliance.html)中所述（_僅英文_）。
+Admin Console上的大部分互動式內容都可單獨使用鍵盤來導覽和操作。 例如，您可以使用&#x200B;**[!UICONTROL Tab]**&#x200B;或&#x200B;**[!UICONTROL Shift]** + **[!UICONTROL Tab]**&#x200B;進行導覽與控制。 導覽至正確的連結或按鈕後，按下&#x200B;**[!UICONTROL Enter]**&#x200B;或&#x200B;**[!UICONTROL Return]**&#x200B;鍵以選取它。 仍可能會有一些例外，如[協助工具一致性報告](https://www.adobe.com/accessibility/compliance.html)中所述（*僅英文*）。
 
 ## 輔助技術支援
 
