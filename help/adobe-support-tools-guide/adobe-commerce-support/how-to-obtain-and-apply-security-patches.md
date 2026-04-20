@@ -1,9 +1,10 @@
 ---
 title: 如何取得並套用[!UICONTROL 安全性修補程式]
 description: 本文提供如何取得及套用已發行的[!UICONTROL 安全性修補程式]的指示，但無法取得指示。
-source-git-commit: 93ee9bd110930e244befca682fadd3edc24d138a
+exl-id: 6764d60e-5088-4a85-90fa-4372570b065b
+source-git-commit: eee15976f3dd402e84774ec5b769d952259c8dff
 workflow-type: tm+mt
-source-wordcount: '452'
+source-wordcount: '569'
 ht-degree: 0%
 
 ---
@@ -23,6 +24,12 @@ Adobe Commerce內部部署和雲端基礎結構 — 所有支援的版本
 ## 原因
 
 大部分[!UICONTROL 安全性修補程式]已發行，但未套用任何隔離的修補程式或Hotfix，因此需要升級至[!UICONTROL 安全性修補程式]發行版本。
+
+針對Adobe Commerce安全性公告，Adobe只會在公告版本中明確發佈/提及檔案時，提供單獨的實體修補程式/Hotfix檔案。 如果公告未包含（或參考）獨立的修補程式/Hotfix套件，我們就無法在事後產生並提供該套件。
+
+這是因為這些安全性修正是作為支援的安全性版本（例如修補版本）的一部分一起開發、測試和出貨的，而且它們不是設計為完全分離/分離到單獨的CVE修補檔案中，而不會產生不完整的涵蓋範圍或倒退的風險。
+
+支援的修正路徑仍會套用版本行的官方安全性更新（或升級至包含修正的版本）。
 
 ## 解決方案
 
