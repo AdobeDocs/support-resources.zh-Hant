@@ -3,9 +3,9 @@ title: Experience League支援發行說明
 description: 有關Experience League支援的最新發行資訊。
 feature: Release Notes
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
-source-git-commit: 7d0f54c6a5d43fc9155a7d17fca2eefa3238179e
+source-git-commit: 534325e6f8932b3a23a6701474f70675f8c681d6
 workflow-type: tm+mt
-source-wordcount: '489'
+source-wordcount: '514'
 ht-degree: 2%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 2%
 ![新](../adobe-support-tools-guide/assets/new.svg)新功能
 ![修正](../adobe-support-tools-guide/assets/fix.svg)修正和改良
 ![錯誤](../adobe-support-tools-guide/assets/bug.svg)已知問題
+
+## 2026年4月23日 — 擴充「要求回呼」功能
+
+Analytics、Admin Console、Audience Manager和Target產品使用者現在可以使用「要求回撥」功能。
 
 ## 2026年4月8日 — 擴充「要求回呼」功能
 
