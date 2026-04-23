@@ -4,9 +4,9 @@ title: Adobe Experience Cloud Customer One for Enterprise
 description: Adobe客戶支援體驗
 seo-description: Adobe Customer Support Experience
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 2d3eefd7816fbd25898549b20a0ae913b8b51391
+source-git-commit: 534325e6f8932b3a23a6701474f70675f8c681d6
 workflow-type: tm+mt
-source-wordcount: '1432'
+source-wordcount: '1438'
 ht-degree: 0%
 
 ---
@@ -82,7 +82,7 @@ Experience League是自助服務支援入口網站，專為提供個人化協助
 
 1. 從&#x200B;**[!UICONTROL 首頁]**&#x200B;功能表，您可以&#x200B;**[!UICONTROL 開啟支援票證]**、**[!UICONTROL 檢視及管理您的案例]**、**[!UICONTROL 要求回撥]**&#x200B;或存取其他學習資源。
 
-   **[!UICONTROL 要求回撥]**&#x200B;選項可讓您透過熒幕共用來排程網路會議，以更快速、更有效率的方式解決問題。 它適用於Adobe Experience Manager、Campaign、Marketo和Workfront。 會議可以安排在客戶方便時進行，並提供即時邀請。 對於Adobe Experience Manager P1案例，可確保立即回撥，以便在關鍵問題期間快速參與，協助將停機時間和對業務的影響降至最低。
+   **[!UICONTROL 要求回撥]**&#x200B;選項可讓您透過熒幕共用來排程網路會議，以更快速、更有效率的方式解決問題。 它適用於Adobe Experience Manager、Admin Console、Analytics、Audience Manager、Campaign、Marketo、Target和Workfront。 會議可以安排在客戶方便時進行，並提供即時邀請。 對於Adobe Experience Manager P1案例，可確保立即回撥，以便在關鍵問題期間快速參與，協助將停機時間和對業務的影響降至最低。
 
    ![Experience League首頁功能表](./assets/home-menu.png)
 
