@@ -1,9 +1,9 @@
 ---
 title: 系統分析
 description: 系統深入分析會主動識別Adobe Commerce環境中的潛在問題。 在案例建立期間檢閱深入分析可減少解決時間，有助於防止中斷，並支援穩定而安全的部署。
-source-git-commit: 4172c364c9bfffaae13759da882d03daa15d0754
+source-git-commit: d41e987c8778849311922d1b9438c2c74fb60138
 workflow-type: tm+mt
-source-wordcount: '741'
+source-wordcount: '747'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Adobe團隊會持續分析常見的支援問題和新興趨勢。 Adobe會根據
 
 「系統深入分析」目前僅適用於Adobe Commerce。 這些見解會在Experience League支援上的案例建立過程中出現，也可透過[全網站分析工具(SWAT)](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/tools/site-wide-analysis-tool/intro)取得。
 
-> [ !Note]
+>[ !Note]
 >
 >系統分析只會顯示生產環境的資料。
 
