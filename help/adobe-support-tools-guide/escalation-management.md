@@ -163,10 +163,10 @@ ht-degree: 1%
    - **[!UICONTROL 您為何要將此案例呈報？]**
    - **[!UICONTROL 我們可以協助您提供更詳細的資訊。]**
 1. 在下拉式清單中，選取提升原因：
-   - [UICONTROL解決時間]
-   - [UICONTROL解析度未符合預期]
-   - [UICONTROL代理程式通訊技能]
-   - [UICONTROL代理程式技術知識]
+   - [!UICONTROL 解決時間]
+   - [!UICONTROL 解析度未符合預期]
+   - [!UICONTROL 代理程式通訊技能]
+   - [!UICONTROL 代理程式技術知識]
 1. 在任意文字欄位中，提供有關提升的其他內容。
 1. 按一下&#x200B;**[!UICONTROL 呈報案例]**&#x200B;提交呈報，或按一下&#x200B;**[!UICONTROL 取消]**&#x200B;結束而不提交。
 
