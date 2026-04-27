@@ -3,20 +3,51 @@ title: Experience League支援發行說明
 description: 有關Experience League支援的最新發行資訊。
 feature: Release Notes
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
-source-git-commit: 534325e6f8932b3a23a6701474f70675f8c681d6
+source-git-commit: 26a20998811059cf66d8609c0ae7ac2816df3337
 workflow-type: tm+mt
-source-wordcount: '514'
-ht-degree: 2%
+source-wordcount: '917'
+ht-degree: 1%
 
 ---
 
 # Experience League支援發行說明
 
-這些發行說明包含Experience League支援的更新，並包含：
+這些發行說明包含Experience League支援的更新，並包括：
 
 ![新](../adobe-support-tools-guide/assets/new.svg)新功能
 ![修正](../adobe-support-tools-guide/assets/fix.svg)修正和改良
 ![錯誤](../adobe-support-tools-guide/assets/bug.svg)已知問題
+
+
+## 2026年4月27日 — Adobe Commerce的向上呈報管理和系統深入分析增強功能
+
+### 向上呈報管理
+
+1. Experience League支援的向上呈報管理提供一組新的自助服務功能，讓您透過根據需求打造的簡化系統導向工作流程，更能瞭解您的支援案例。
+
+1. 取得支援案例的即時AI支援快照，包括目前狀態、後續步驟、重要更新及完整案例摘要，而不需閱讀整個案例歷史記錄。
+
+1. 新的&#x200B;**[!UICONTROL 取得說明]**&#x200B;選項提供集中式體驗，讓客戶與支援團隊緊密合作，涵蓋疑難排解、回撥要求、自助問題緊急更新及管理關注要求。
+
+1. **[!UICONTROL 要求立即通話]** — 針對P1嚴重案例，請直接向您的案例清單中的技術支援工程師要求立即回撥。 只要提供您的電話號碼和問題的簡短說明，支援工程師會在有問題時立即與您聯絡。
+
+1. **[!UICONTROL 要求已排程的電話]** — 針對P2緊急和P3重要案例，請排程在適合您的日期和時間與技術支援工程師進行網路會議。 Microsoft Teams熒幕共用工作階段將在預訂時確認，並包含所有會議詳細資訊。
+
+1. **[!UICONTROL 變更問題急迫性]** — 針對P3 — 重要與P4 — 次要案例，自助服務會提供簡短理由，將您的案例優先順序從P4 — 次要提升至P2 — 緊急。 若無票證導致重新指派，優先順序要求可能會發生變更。
+
+1. **[!UICONTROL 我有一個問題未列出]** — 針對所有優先順序，針對上述選項未涵蓋的任何案例提出向上呈報，例如&#x200B;**[!UICONTROL 解決時間]**、**[!UICONTROL 解決方法未符合預期]**、**[!UICONTROL 代理程式通訊技能]**&#x200B;或&#x200B;**[!UICONTROL 代理程式技術知識]**。
+
+### Adobe Commerce案例建立表單中的系統分析
+
+1. 「系統深入分析」會自動顯示環境中偵測到的問題。 其中包含效能降低、安全性風險，以及使用API、New Relic和[!DNL Splunk]的遙測資料時的設定錯誤。 這可協助您更快找到並解決問題。
+
+1. 在案例建立過程中，系統分析目前僅適用於Experience League上的Adobe Commerce支援。
+
+1. 深入分析會限定在您的特定專案執行個體的範圍內，確保呈現的資訊與您的環境相關。
+
+1. 深入分析包括詳細說明、解決步驟、根本原因分析，以及相關Adobe檔案的連結。
+
+1. 使用者可以提交有關個別深入分析的意見回饋，以協助Adobe持續改善「系統深入分析」的正確性和相關性。
 
 ## 2026年4月23日 — 擴充「要求回呼」功能
 
@@ -39,7 +70,7 @@ Marketo產品使用者現在可以使用「要求回撥」功能。
 
 ![新](../adobe-support-tools-guide/assets/new.svg)已根據&#x200B;**[!UICONTROL 問題說明]**&#x200B;新增自動產生標題，允許自動產生標題，同時仍讓使用者在提交案例前可編輯標題。
 
-![新](../adobe-support-tools-guide/assets/new.svg)已新增&#x200B;**[!UICONTROL 「問題是否可複製？」有助於改善疑難排解的]**&#x200B;選項。 如果使用者選取&#x200B;**[!UICONTROL 是]**，系統會提示他們提供重現問題的步驟。 如果選取&#x200B;*否*，使用者可以繼續進行案例提交。
+![新](../adobe-support-tools-guide/assets/new.svg)已新增&#x200B;**[!UICONTROL 「問題是否可重現？」]** 選項來協助改善疑難排解。 如果使用者選取&#x200B;**[!UICONTROL 是]**，系統會提示他們提供重現問題的步驟。 如果選取&#x200B;*否*，使用者可以繼續進行案例提交。
 
 ![New](../adobe-support-tools-guide/assets/new.svg)新增了一個選項，可指出最近是否對環境或執行個體進行了任何變更。 如果選取&#x200B;**[!UICONTROL 是]**，系統會提示使用者提供有關變更的其他詳細資料。
 
