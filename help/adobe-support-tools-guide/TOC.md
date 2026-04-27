@@ -6,20 +6,22 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 1bb51424aef3dcf0a918f8eee7d0b74bf59c85e8
+source-git-commit: cc7aab1c9738446cfc7701c290bcc128e305a3f5
 workflow-type: tm+mt
-source-wordcount: '330'
-ht-degree: 1%
+source-wordcount: '349'
+ht-degree: 2%
 
 ---
 
 # Adobe支援與工具指南 {#adobe-support-tools-guide}
 
 - [Adobe支援與工具指南總覽](/help/adobe-support-tools-guide/adobe-support-tools-guide-overview.md)
-- [Experience League支援發行說明](/help/adobe-support-tools-guide/release-notes.md)
+- [Experience League支援發行說明](https://experienceleague.adobe.com/zh-hant/docs/support-resources/adobe-support-tools-guide/release-notes)
 - [Adobe客戶支援體驗](adobe-customer-support-experience.md)
 - [Adobe客戶支援權益設定](adobe-customer-support-entitlement-configuration.md)
 - [支援電話號碼更新](phone-numbers.md)
+- [向上呈報管理](/help/adobe-support-tools-guide/escalation-management.md)
+- [系統分析](/help/adobe-support-tools-guide/system-insights.md)
 - Adobe Admin Console {#adobe-admin-console}
    - [導覽Adobe Admin Console](adobe-admin-console/navigating-the-adobe-admin-console.md)
    - [執行擱置中的工作](adobe-admin-console/execute-jobs.md)
