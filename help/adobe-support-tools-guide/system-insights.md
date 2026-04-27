@@ -32,7 +32,7 @@ Adobe團隊會持續分析常見的支援問題和新興趨勢。 Adobe會根據
 
 ## 可用性和範圍
 
-「系統深入分析」目前僅適用於Adobe Commerce。 這些見解會在Experience League支援上的案例建立過程中出現，也可透過[全網站分析工具(SWAT)](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/site-wide-analysis-tool/intro)取得。
+「系統深入分析」目前僅適用於Adobe Commerce。 這些見解會在Experience League支援上的案例建立過程中出現，也可透過[全網站分析工具(SWAT)](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/tools/site-wide-analysis-tool/intro)取得。
 
 > [ !Note]
 >
@@ -40,7 +40,7 @@ Adobe團隊會持續分析常見的支援問題和新興趨勢。 Adobe會根據
 
 ## 存取系統分析
 
-系統深入分析會出現在整個案例建立工作流程中。 輸入問題詳細資訊後，**[!UICONTROL 系統深入分析]**&#x200B;面板會出現在畫面右側，AI支援的建議區段下方。 若要深入瞭解AI支援的建議，請參閱Adobe客戶支援體驗文章中的[填寫支援票證](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#fill-out-the-support-ticket)。
+系統深入分析會出現在整個案例建立工作流程中。 輸入問題詳細資訊後，**[!UICONTROL 系統深入分析]**&#x200B;面板會出現在畫面右側，AI支援的建議區段下方。 若要深入瞭解AI支援的建議，請參閱Adobe客戶支援體驗文章中的[填寫支援票證](https://experienceleague.adobe.com/zh-hant/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#fill-out-the-support-ticket)。
 
 面板會顯示範圍設定為特定專案執行個體的可捲動見解清單。 範圍設定是以在&#x200B;**[!UICONTROL 專案URL]**&#x200B;欄位中輸入的資訊為基礎。 請正確輸入&#x200B;**[!UICONTROL 專案URL]**，以確保深入分析反映正確的環境。
 
