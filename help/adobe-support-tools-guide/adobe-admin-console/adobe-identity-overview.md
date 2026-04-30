@@ -25,7 +25,7 @@ Adobe的identity management system可協助管理員建立和管理使用者對�
 下表會引導您選擇最適合貴組織的身分識別模式。
 
 >[!NOTE]
->如果您的組織尚未更新為Adobe的企業儲存模式，而且您仍在使用適用於個人的Adobe ID，請參閱下方[身分型別表格](https://helpx.adobe.com/enterprise/using/identity.html#using-personal-adobe-id)中的說明。
+>如果您的組織尚未更新為Adobe的企業儲存模式，而且您仍在使用適用於個人的Adobe ID，請參閱下方[身分型別表格](https://helpx.adobe.com/tw/enterprise/using/identity.html#using-personal-adobe-id)中的說明。
 
 <table>
 <thead>
@@ -51,7 +51,7 @@ Adobe的identity management system可協助管理員建立和管理使用者對�
 <th scope="row"><strong>重要方案</strong></th>
 <td>由組織建立、擁有和管理。 組織管理使用者認證，並透過SAML2身分提供者(IdP)使用單一登入(SSO)。</td>
 <td>由組織建立、擁有和管理。 組織保留在已驗證網域上建立使用者帳戶的專屬權利。</td>
-<td>由一般使用者建立、擁有和管理。 Adobe會執行驗證，而一般使用者會管理身分。 根據<a href="https://helpx.adobe.com/enterprise/using/storage-for-business.html">儲存模式</a>，使用者或企業仍可控制檔案和資料。 在未驗證、公開或信任的網域上建立Adobe ID帳戶。 請參閱下面附註一節的要點2。</td>
+<td>由一般使用者建立、擁有和管理。 Adobe會執行驗證，而一般使用者會管理身分。 根據<a href="https://helpx.adobe.com/tw/enterprise/using/storage-for-business.html">儲存模式</a>，使用者或企業仍可控制檔案和資料。 在未驗證、公開或信任的網域上建立Adobe ID帳戶。 請參閱下面附註一節的要點2。</td>
 </tr>
 <tr>
 <th scope="row"><strong>帳戶與資料所有權</strong></th>
@@ -81,7 +81,7 @@ Adobe的identity management system可協助管理員建立和管理使用者對�
 <tr>
 <th scope="row"><strong>重設密碼</strong></th>
 <td colspan="2">不支援</td>
-<td><a href="https://helpx.adobe.com/manage-account/using/change-or-reset-password.html">重設您的帳戶密碼</a></td>
+<td><a href="https://helpx.adobe.com/tw/manage-account/using/change-or-reset-password.html">重設您的帳戶密碼</a></td>
 </tr>
 <tr>
 <th scope="row"><strong>適用於企業的Creative Cloud和適用於企業的Document Cloud</strong></th>
@@ -124,8 +124,8 @@ Adobe的identity management system可協助管理員建立和管理使用者對�
 <tr>
 <th scope="row"><strong>開始使用</strong></th>
 <td><a href="https://helpx.adobe.com/tw/enterprise/using/set-up-identity.html">設定身分</a></td>
-<td><a href="https://helpx.adobe.com/enterprise/using/add-domains-directories.html#claim-domains">宣告網域</a></td>
-<td><a href="https://helpx.adobe.com/enterprise/using/users.html#add-users">新增使用者</a></td>
+<td><a href="https://helpx.adobe.com/tw/enterprise/using/add-domains-directories.html#claim-domains">宣告網域</a></td>
+<td><a href="https://helpx.adobe.com/tw/enterprise/using/users.html#add-users">新增使用者</a></td>
 </tr>
 </tbody>
 </table>
@@ -133,7 +133,7 @@ Adobe的identity management system可協助管理員建立和管理使用者對�
 >[!NOTE]
 >
 >1. 適用於團隊的Creative Cloud的密碼原則與適用於個人的Creative Cloud的密碼原則相同。
->1. Adobe ID使用者使用其Adobe ID憑證或透過其所屬組織的驗證模型（SSO、2FA等）進行驗證。 在這種情況下，會將使用者重新導向至所屬組織的SSO頁面。 驗證之後，使用者可能需要[選擇企業設定檔](https://helpx.adobe.com/enterprise/kb/enterprise-id-faq.html#choose-profile)。
+>1. Adobe ID使用者使用其Adobe ID憑證或透過其所屬組織的驗證模型（SSO、2FA等）進行驗證。 在這種情況下，會將使用者重新導向至所屬組織的SSO頁面。 驗證之後，使用者可能需要[選擇企業設定檔](https://helpx.adobe.com/tw/enterprise/kb/enterprise-id-faq.html#choose-profile)。
 
 ## 使用個人Adobe ID
 
@@ -167,7 +167,7 @@ Adobe正在更新所有團隊和企業客戶，以使用Adobe的企業儲存模�
 </tr>
 <tr>
 <th scope="row"><strong>重設密碼</strong></th>
-<td><a href="https://helpx.adobe.com/manage-account/using/change-or-reset-password.html">重設您的帳戶密碼。</a>  請參閱下面附註一節中的要點2。</td>
+<td><a href="https://helpx.adobe.com/tw/manage-account/using/change-or-reset-password.html">重設您的帳戶密碼。</a>  請參閱下面附註一節中的要點2。</td>
 </tr>
 <tr>
 <th scope="row"><strong>適用於企業的Creative Cloud和適用於企業的Document Cloud</strong></th>
@@ -191,7 +191,7 @@ Adobe正在更新所有團隊和企業客戶，以使用Adobe的企業儲存模�
 </tr>
 <tr>
 <th scope="row"><strong>開始使用</strong></th>
-<td><a href="https://helpx.adobe.com/enterprise/using/users.html#add-users">新增使用者</a></td>
+<td><a href="https://helpx.adobe.com/tw/enterprise/using/users.html#add-users">新增使用者</a></td>
 </tr>
 </tbody>
 </table>
@@ -199,13 +199,13 @@ Adobe正在更新所有團隊和企業客戶，以使用Adobe的企業儲存模�
 >[!NOTE]
 >
 >1. 適用於團隊的Creative Cloud的密碼原則與適用於個人的Creative Cloud的密碼原則相同。
->1. 針對使用[企業儲存空間](https://helpx.adobe.com/enterprise/using/manage-adobe-storage.html)的企業客戶Creative Cloud，管理員可以將Adobe ID使用者新增至Admin Console，但無法將其新增至產品設定檔。 管理員必須將Adobe ID使用者移轉至另一個身分型別。
+>1. 針對使用[企業儲存空間](https://helpx.adobe.com/tw/enterprise/using/manage-adobe-storage.html)的企業客戶Creative Cloud，管理員可以將Adobe ID使用者新增至Admin Console，但無法將其新增至產品設定檔。 管理員必須將Adobe ID使用者移轉至另一個身分型別。
 >1. 有些產品和服務（例如&#x200B;**Adobe授權網站）僅支援** Adobe ID。
 
 ## 更多相關資訊
 
 - [設定身分](https://helpx.adobe.com/tw/enterprise/using/set-up-identity.html)
-- [切換使用者身分](https://helpx.adobe.com/enterprise/using/switch-user-identity.html)
-- [Admin Console概觀](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview)
-- [教育常見問題集](https://helpx.adobe.com/x-productkb/policy-pricing/education-faq.html)
+- [切換使用者身分](https://helpx.adobe.com/tw/enterprise/using/switch-user-identity.html)
+- [Admin Console概觀](https://experienceleague.adobe.com/zh-hant/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview)
+- [教育常見問題集](https://helpx.adobe.com/tw/x-productkb/policy-pricing/education-faq.html)
 - [新增和管理使用者](https://helpx.adobe.com/tw/enterprise/using/users.html)
