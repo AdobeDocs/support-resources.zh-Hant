@@ -116,7 +116,7 @@ Adobe Experience League支援案例管理可透過案例與支援人員合作，
 
 >[!NOTE]
 >
->如果您在雲端基礎結構&#x200B;**上提交具有「**[!DNL Commerce]」的票證並選取為產品，而且組織列有多個專案，系統會提示您選取適當的&#x200B;**[!UICONTROL 專案ID]**。 如果您找不到所需的&#x200B;**[!UICONTROL 專案識別碼]**，請務必在票證上新增附註，說明您正在尋求其他「專案X」的協助。<br>如果您打算在Managed Services **」票證上提交「**[!DNL Commerce]」，且位於雲端基礎結構上的&#x200B;**[!DNL Commerce]**，但並未將雲端基礎結構上的&#x200B;**[!DNL Commerce]視為可用的產品：<br>1。**&#x200B;在&#x200B;**[!UICONTROL 案例標題]**.<br>2中輸入問題的主旨。 在&#x200B;**[!UICONTROL 案例說明]**.<br>3中輸入問題的說明。 輸入這兩個專案後，您將會看到下面的&#x200B;**[!UICONTROL 雲端專案URL]**&#x200B;欄位。
+>如果您在雲端基礎結構&#x200B;**上提交具有「**&#x200B;[!DNL Commerce]」的票證並選取為產品，而且組織列有多個專案，系統會提示您選取適當的&#x200B;**[!UICONTROL 專案ID]**。 如果您找不到所需的&#x200B;**[!UICONTROL 專案識別碼]**，請務必在票證上新增附註，說明您正在尋求其他「專案X」的協助。<br>如果您打算在Managed Services **」票證上提交「**&#x200B;[!DNL Commerce]」，且位於雲端基礎結構上的&#x200B;**[!DNL Commerce]**，但並未將雲端基礎結構上的&#x200B;**[!DNL Commerce]視為可用的產品：<br>1。**&#x200B;在&#x200B;**&#x200B;[!UICONTROL 案例標題]**.<br>2中輸入問題的主旨。 在&#x200B;**[!UICONTROL 案例說明]**.<br>3中輸入問題的說明。 輸入這兩個專案後，您將會看到下面的&#x200B;**[!UICONTROL 雲端專案URL]**&#x200B;欄位。
 
 >[!IMPORTANT]
 >
@@ -371,7 +371,7 @@ Adobe Experience League支援案例管理可透過案例與支援人員合作，
 
 <u>解決方法</u>
 
-如果未在此頁面](https://account.magento.com/grantor/manage/)上新增/指定[，則無法從MAG[XYZ ]*刪除共用名稱為* Cloud Shared Access的共用存取使用者清單。 這些檔案會保留以供參考/稽核之用。
+如果未在此頁面[&#128279;](https://account.magento.com/grantor/manage/)上新增/指定，則無法從MAG[XYZ ]*刪除共用名稱為* Cloud Shared Access的共用存取使用者清單。 這些檔案會保留以供參考/稽核之用。
 
 不過，一旦您撤銷了這些共用存取許可權使用者的許可權，他們便無法再擁有該存取權。
 
