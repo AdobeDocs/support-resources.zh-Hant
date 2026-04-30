@@ -5,9 +5,9 @@ feature: Support, Roles/Permissions, Tools and External Services, Admin Workspac
 feature-set: Commerce
 solution: Commerce
 exl-id: a7833d47-1d4b-4c10-9d2e-42fa43f8513c
-source-git-commit: 4f8b8e20e9edab31b2db3c90087acc4feccc3537
+source-git-commit: f0cf10d8d97b8e2c2925999061c115f6a5d3c81e
 workflow-type: tm+mt
-source-wordcount: '3310'
+source-wordcount: '3618'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    * [Adobe Experience League首頁](#experience-league-start-page)
    * [Adobe Commerce帳戶頁面](#submit-case-adobe-commerce-account-page)
-   * [*請確認您的電子郵件地址*](#verify-email-address-error)
+   * [*請確認您的電子郵件地址* Adobe Commerce帳戶頁面上的錯誤](#verify-email-address-error)
 
 * [追蹤您的支援案例](#track-support-cases)
 * [您案例中的註解](#comments-in-your-case)
@@ -104,8 +104,8 @@ Adobe Experience League支援案例管理可透過案例與支援人員合作，
 
 >[!INFO]
 >
->1. 若要提交案例，您必須有權獲得適當產品的支援(例如Adobe Commerce、Adobe Commerce Intelligence、Adobe Commerce支付服務、Experience Platform等)。 如果您無權取得支援，頁面頂端會顯示橫條，通知您您您並非組織中有權取得支援的使用者。
->1. 如果您屬於多個組織，或有多個組織具有類似的外觀(每個組織都代表該組織訂閱的任何其他Adobe產品)，您必須先從左欄（以&#x200B;*[!DNL (Commerce)]*&#x200B;結尾）的下拉式清單中選取適當的組織。
+>1. 若要提交案例，您必須有權獲得適當產品的支援（例如Adobe Commerce、Adobe Commerce Intelligence、Adobe Commerce支付服務、Experience Platform等）。 如果您無權取得支援，頁面頂端會顯示橫條，通知您您您並非組織中有權取得支援的使用者。
+>1. 如果您屬於多個組織，或有多個組織具有類似的外觀（每個組織都代表該組織訂閱的任何其他Adobe產品），您必須先從左欄（以&#x200B;*[!DNL (Commerce)]*&#x200B;結尾）的下拉式清單中選取適當的組織。
 >1. 如果&#x200B;**[!UICONTROL 選取產品]**&#x200B;下拉式清單在提交案例時是空的，表示您可能使用Adobe Commerce合作夥伴帳戶。 只有擁有來自具有支援權益之商家的[共用存取權](#shared-access)的使用者才能提交票證。 如有商家問題，請要求共用存取權。 如需合作夥伴相關問題，請聯絡spphelp@adobe.com。
 
 >[!NOTE]
@@ -116,7 +116,7 @@ Adobe Experience League支援案例管理可透過案例與支援人員合作，
 
 >[!NOTE]
 >
->如果您在雲端基礎結構&#x200B;**[!DNL Commerce]上提交具有「**」的票證並選取為產品，而且組織列有多個專案，系統會提示您選取適當的&#x200B;**[!UICONTROL 專案ID]**。 如果您找不到所需的&#x200B;**[!UICONTROL 專案識別碼]**，請務必在票證上新增附註，說明您正在尋求其他「專案X」的協助。<br>如果您打算在Managed Services **[!DNL Commerce]」票證上提交「**」，且位於雲端基礎結構&#x200B;**[!DNL Commerce]上的**&#x200B;上，但未在雲端基礎結構&#x200B;**[!DNL Commerce]上將**&#x200B;視為可用產品：<br>1。 在&#x200B;**[!UICONTROL 案例標題]**&#x200B;中輸入您問題的主旨。<br>2. 在&#x200B;**[!UICONTROL 案例說明]**&#x200B;中輸入問題的說明。<br>3.輸入這兩個專案後，您將會看到下面的&#x200B;**[!UICONTROL 雲端專案URL]**&#x200B;欄位。
+>如果您在雲端基礎結構&#x200B;**上提交具有「**&#x200B;[!DNL Commerce]」的票證並選取為產品，而且組織列有多個專案，系統會提示您選取適當的&#x200B;**[!UICONTROL 專案ID]**。 如果您找不到所需的&#x200B;**[!UICONTROL 專案識別碼]**，請務必在票證上新增附註，說明您正在尋求其他「專案X」的協助。<br>如果您打算在Managed Services **」票證上提交「**&#x200B;[!DNL Commerce]」，且位於雲端基礎結構上的&#x200B;**[!DNL Commerce]**，但並未將雲端基礎結構上的&#x200B;**[!DNL Commerce]視為可用的產品：<br>1。**&#x200B;在&#x200B;**&#x200B;[!UICONTROL 案例標題]**.<br>2中輸入問題的主旨。 在&#x200B;**[!UICONTROL 案例說明]**.<br>3中輸入問題的說明。 輸入這兩個專案後，您將會看到下面的&#x200B;**[!UICONTROL 雲端專案URL]**&#x200B;欄位。
 
 >[!IMPORTANT]
 >
@@ -186,7 +186,7 @@ Adobe Experience League支援案例管理可透過案例與支援人員合作，
 
 #### *請確認您的電子郵件地址* Adobe Commerce帳戶頁面上的錯誤 {#verify-email-address-error}
 
-如果您收到[請確認您的電子郵件地址]錯誤(類似於[Adobe Commerce帳戶](https://account.magento.com/)頁面上的錯誤)，將無法提交支援票證。
+如果您收到[請確認您的電子郵件地址]錯誤（類似於[Adobe Commerce帳戶](https://account.magento.com/)頁面上的錯誤），將無法提交支援票證。
 
 ![Verify_Email_Address_Error](/help/adobe-support-tools-guide/assets/Verify_Email_Address_Error.png)
 
@@ -209,13 +209,9 @@ Adobe Experience League支援案例管理可透過案例與支援人員合作，
 
 ![檢視支援案例](/help/adobe-support-tools-guide/assets/view_support_cases.png)
 
-#### 從Adobe Commerce說明中心檢視您的歷史案例
-
-深入瞭解如何從Adobe Commerce說明中心&#x200B;**停用Adobe Commerce說明中心**&#x200B;的Adobe Commerce知識庫[檢視您的歷史案例](https://experienceleague.adobe.com/zh-hant/docs/commerce-knowledge-base/kb/announcements/news/decommissioning-of-adobe-commerce-help-center)。
-
 #### 檢視您的觀看案例
 
-您可以按一下左側功能表上的&#x200B;*我的組織案例*，檢視您&#x200B;**[!UICONTROL 新增到作為監看員的Commerce案例]**。
+您可以按一下左側功能表上的&#x200B;**[!UICONTROL 我的組織案例]**，檢視您&#x200B;*新增到作為監看員的Commerce案例*。
 
 <!-- TODO: Add image here -->
 
@@ -230,7 +226,7 @@ Adobe Experience League支援案例管理可透過案例與支援人員合作，
 
 如果您認為某個案例需要進一步關注，而我們的初始回應時間已過，您可以升級該案例。 若要這麼做，
 
-1. 按一下熒幕右側&#x200B;**[!UICONTROL 案例詳細資料]**&#x200B;面板右下角的&#x200B;*[!UICONTROL 呈報到管理]*。
+1. 按一下熒幕右側&#x200B;*[!UICONTROL 案例詳細資料]*&#x200B;面板右下角的&#x200B;**[!UICONTROL 呈報到管理]**。
 
    ![呈報至管理](/help/adobe-support-tools-guide/assets/escalate_to_management.png)
 
@@ -268,7 +264,7 @@ Adobe Experience League支援案例管理可透過案例與支援人員合作，
 
 ### 關閉您的案例 {#close-case}
 
-若要關閉您的案例，請按一下&#x200B;**[!UICONTROL 案例詳細資料]**&#x200B;面板右下角的&#x200B;*[!UICONTROL 關閉案例]*。
+若要關閉您的案例，請按一下&#x200B;*[!UICONTROL 案例詳細資料]*&#x200B;面板右下角的&#x200B;**[!UICONTROL 關閉案例]**。
 
 ![close-case](/help/adobe-support-tools-guide/assets/close_case.png)
 
@@ -280,7 +276,7 @@ Adobe Experience League支援案例管理可透過案例與支援人員合作，
 
 >[!NOTE]
 >
->**您只能在案例關閉後14天內重新開啟案例。**&#x200B;如果您已超過案件結案的14天，但仍想尋求問題的協助，則需開啟新案件。<br>如需有關關閉與重新開啟案例的詳細資訊，請參閱[新增與移除觀察者、關閉與重新開啟票證影片](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/help-and-support/add-remove-watchers-close-reopen-support-ticket)。
+>**您只能在案例關閉後的14天內重新開啟案例。** 如果您已超過案件結案的14天，但仍想尋求問題的協助，則需開啟新案件。<br>如需有關關閉與重新開啟案例的詳細資訊，請參閱[新增與移除觀察者、關閉與重新開啟票證影片](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/help-and-support/add-remove-watchers-close-reopen-support-ticket)。
 
 >[!NOTE]
 >
@@ -346,7 +342,7 @@ Adobe Experience League支援案例管理可透過案例與支援人員合作，
 
 1. 在[https://account.magento.com](https://account.magento.com/)登入您的Adobe Commerce帳戶。
 1. 在左側的面板中，在[共用存取]底下，選擇&#x200B;**管理許可權。**
-1. 尋找要撤銷共用存取許可權的使用者，然後按一下使用者列（![動作](/help/adobe-support-tools-guide/assets/remove_icon.png){width="25"}欄）中的&#x200B;**移除圖示**。
+1. 尋找要撤銷共用存取許可權的使用者，然後按一下使用者列（**動作**&#x200B;欄）中的![移除圖示](/help/adobe-support-tools-guide/assets/remove_icon.png){width="25"}。
 1. 按一下&#x200B;**刪除使用者**&#x200B;以撤銷存取權，或按一下上角的X取消撤銷。
 
    ![revoke_shared_access](/help/adobe-support-tools-guide/assets/revoke_shared_access.png){width="800"}
@@ -367,7 +363,7 @@ Adobe Experience League支援案例管理可透過案例與支援人員合作，
 
 <u>原因</u>
 
-如果您有/擁有Adobe Commerce Cloud專案，並且已將使用者新增至專案，系統可能會自動授予他們專案擁有者影像ID的共用存取權。 這通常會在&#x200B;**[!UICONTROL 共用名稱]**&#x200B;欄中顯示，顯示來自MAG *XYZ[的]*&#x200B;雲端共用存取。
+如果您有/擁有Adobe Commerce Cloud專案，並且已將使用者新增至專案，系統可能會自動授予他們專案擁有者影像ID的共用存取權。 這通常會在&#x200B;**[!UICONTROL 共用名稱]**&#x200B;欄中顯示，顯示來自MAG[XYZ ]*的*&#x200B;雲端共用存取。
 
 >[!NOTE]
 >
@@ -375,13 +371,13 @@ Adobe Experience League支援案例管理可透過案例與支援人員合作，
 
 <u>解決方法</u>
 
-如果未在此頁面&#x200B;*上新增/指定[，則無法從MAG]* XYZ[刪除共用名稱為](https://account.magento.com/grantor/manage/)Cloud Shared Access的共用存取使用者清單。 這些檔案會保留以供參考/稽核之用。
+如果未在此頁面[&#128279;](https://account.magento.com/grantor/manage/)上新增/指定，則無法從MAG[XYZ ]*刪除共用名稱為* Cloud Shared Access的共用存取使用者清單。 這些檔案會保留以供參考/稽核之用。
 
 不過，一旦您撤銷了這些共用存取許可權使用者的許可權，他們便無法再擁有該存取權。
 
 1. 在[https://account.magento.com](https://account.magento.com/)登入您的Adobe Commerce帳戶。
 1. 在左側面板的&#x200B;**[!UICONTROL 共用存取權]**&#x200B;下，選取&#x200B;**[!UICONTROL 管理許可權]**。
-1. 尋找要撤銷共用存取許可權的使用者，然後按一下使用者列（**[!UICONTROL 動作]**&#x200B;欄）中的&#x200B;*[!UICONTROL 編輯]*。
+1. 尋找要撤銷共用存取許可權的使用者，然後按一下使用者列（*[!UICONTROL 動作]*&#x200B;欄）中的&#x200B;**[!UICONTROL 編輯]**。
 1. 取消勾選&#x200B;**[!UICONTROL 授予帳戶許可權]**&#x200B;下的所有資源。
 1. 為避免使用者是否仍擁有&#x200B;**[!UICONTROL 雲端共用存取權]**&#x200B;發生任何混淆，您應將&#x200B;**[!UICONTROL 共用名稱]**&#x200B;修改成類似下列的名稱：已撤銷&#x200B;*雲端共用存取權 — 無法刪除*&#x200B;或類似名稱。
 

@@ -4,13 +4,13 @@ description: 瞭解並選擇您組織的身分型別（Federated ID、Enterprise
 Feature-set: Experience Cloud Services
 Solution: Admin Console
 Feature: Admin Console
-source-git-commit: c066e95c05f8e8a0953daecda9a220268d325f98
+exl-id: e53ded7c-1ba3-4d98-bc20-792a252618ac
+source-git-commit: f20f8cfe6f9f31af953c089b9c5f4e76d0573f84
 workflow-type: tm+mt
-source-wordcount: '723'
+source-wordcount: '840'
 ht-degree: 5%
 
 ---
-
 
 # 身分總覽
 
@@ -167,7 +167,7 @@ Adobe正在更新所有團隊和企業客戶，以使用Adobe的企業儲存模�
 </tr>
 <tr>
 <th scope="row"><strong>重設密碼</strong></th>
-<td><a href="https://helpx.adobe.com/tw/manage-account/using/change-or-reset-password.html">重設您的帳戶密碼。</a>請參考以下附註一節中的要點2。</td>
+<td><a href="https://helpx.adobe.com/tw/manage-account/using/change-or-reset-password.html">重設您的帳戶密碼。</a>  請參閱下面附註一節中的要點2。</td>
 </tr>
 <tr>
 <th scope="row"><strong>適用於企業的Creative Cloud和適用於企業的Document Cloud</strong></th>
@@ -206,6 +206,6 @@ Adobe正在更新所有團隊和企業客戶，以使用Adobe的企業儲存模�
 
 - [設定身分](https://helpx.adobe.com/tw/enterprise/using/set-up-identity.html)
 - [切換使用者身分](https://helpx.adobe.com/tw/enterprise/using/switch-user-identity.html)
-- [Admin Console概觀](https://helpx.adobe.com/enterprise/using/admin-console-overview.html)
-- [教育常見問題集](https://helpx.adobe.com/enterprise/using/education-faq.html)
+- [Admin Console概觀](https://experienceleague.adobe.com/zh-hant/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview)
+- [教育常見問題集](https://helpx.adobe.com/tw/x-productkb/policy-pricing/education-faq.html)
 - [新增和管理使用者](https://helpx.adobe.com/tw/enterprise/using/users.html)
