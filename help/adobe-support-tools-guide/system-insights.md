@@ -1,9 +1,10 @@
 ---
 title: 系統分析
 description: 系統深入分析會主動識別Adobe Commerce環境中的潛在問題。 在案例建立期間檢閱深入分析可減少解決時間，有助於防止中斷，並支援穩定而安全的部署。
-source-git-commit: d41e987c8778849311922d1b9438c2c74fb60138
+hide: true
+source-git-commit: f9a38443243d230c76d968ca7a67c4ba29d07a26
 workflow-type: tm+mt
-source-wordcount: '747'
+source-wordcount: '738'
 ht-degree: 0%
 
 ---
