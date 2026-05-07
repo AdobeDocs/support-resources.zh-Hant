@@ -1,12 +1,12 @@
 ---
 keywords: Experience Platform支援；平台支援；智慧型服務支援；customer ai支援；attribution ai支援；rtcdp支援；提交支援票證；客戶支援
-title: Adobe Experience Cloud Customer One for Enterprise
+title: 適用於企業的Adobe Experience Cloud Customer One
 description: Adobe客戶支援體驗
 seo-description: Adobe Customer Support Experience
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 534325e6f8932b3a23a6701474f70675f8c681d6
+source-git-commit: 062166aa0fff76e070826855cba9aa57332baae8
 workflow-type: tm+mt
-source-wordcount: '1438'
+source-wordcount: '1499'
 ht-degree: 0%
 
 ---
@@ -82,9 +82,9 @@ Experience League是自助服務支援入口網站，專為提供個人化協助
 
 1. 從&#x200B;**[!UICONTROL 首頁]**&#x200B;功能表，您可以&#x200B;**[!UICONTROL 開啟支援票證]**、**[!UICONTROL 檢視及管理您的案例]**、**[!UICONTROL 要求回撥]**&#x200B;或存取其他學習資源。
 
-   **[!UICONTROL 要求回撥]**&#x200B;選項可讓您透過熒幕共用來排程網路會議，以更快速、更有效率的方式解決問題。 它適用於Adobe Experience Manager、Admin Console、Analytics、Audience Manager、Campaign、Marketo、Target和Workfront。 會議可以安排在客戶方便時進行，並提供即時邀請。 對於Adobe Experience Manager P1案例，可確保立即回撥，以便在關鍵問題期間快速參與，協助將停機時間和對業務的影響降至最低。
+**[!UICONTROL 要求回撥]**&#x200B;選項可讓您排程具有熒幕共用P2和P3案例的Web會議，以更快速、更有效率的方式解決問題。 它適用於Adobe Experience Manager、Admin Console、Analytics、Audience Manager、Campaign、Commerce、GenStudio、Marketo、Target和Workfront。 會議排程可在客戶方便時進行。 此外，對於除Adobe Commerce以外的所有上述產品，也提供P1案例的立即電話回呼。
 
-   ![Experience League首頁功能表](./assets/home-menu.png)
+![Experience League首頁功能表](./assets/home-menu.png)
 
 1. 若要提交案例，請選取&#x200B;**[!UICONTROL 開啟支援票證]**。 您也可以在側邊欄功能表中選取&#x200B;**[!UICONTROL 開啟票證]**。
 
@@ -143,7 +143,7 @@ Experience League是自助服務支援入口網站，專為提供個人化協助
 
    ![按一下下一個選項](./assets/click-next.png)
 
-1. 在&#x200B;**[!UICONTROL 系統資訊]**&#x200B;區段中，提供&#x200B;**[!UICONTROL 產品版本]**、**[!UICONTROL 環境]**、**[!UICONTROL 產品方案]**，並指示是否對環境或執行個體進行了任何最近的變更。 選取「**是**」以提供有關變更的其他詳細資料。 若未進行任何變更，請選取&#x200B;**否**，然後按一下[下一步]&#x200B;**[!UICONTROL 。]**
+1. 在&#x200B;**[!UICONTROL 系統資訊]**&#x200B;區段中，提供&#x200B;**[!UICONTROL 產品版本]**、**[!UICONTROL 環境]**、**[!UICONTROL 產品方案]**，並指示是否對環境或執行個體進行了任何最近的變更。 選取「**是**」以提供有關變更的其他詳細資料。 若未進行任何變更，請選取&#x200B;**否**，然後按一下[下一步]&#x200B;**。**
 
    >[!NOTE]
    >
