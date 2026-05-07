@@ -3,9 +3,9 @@ title: Experience League支援發行說明
 description: 有關Experience League支援的最新發行資訊。
 feature: Release Notes
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
-source-git-commit: 26a20998811059cf66d8609c0ae7ac2816df3337
+source-git-commit: eb474379539945e0bbfca35e9f83f1ece61a16b6
 workflow-type: tm+mt
-source-wordcount: '917'
+source-wordcount: '973'
 ht-degree: 1%
 
 ---
@@ -18,6 +18,9 @@ ht-degree: 1%
 ![修正](../adobe-support-tools-guide/assets/fix.svg)修正和改良
 ![錯誤](../adobe-support-tools-guide/assets/bug.svg)已知問題
 
+## 2026年5月7日 — 擴充「要求回呼」功能
+
+Adobe Commerce和Adobe GenStudio現在都可使用「要求回撥」功能。 Adobe Commerce客戶可以方便地在最適合自己的時間排程回呼，而Adobe GenStudio客戶可以選擇要求立即或排程的回呼。
 
 ## 2026年4月27日 — Adobe Commerce的向上呈報管理和系統深入分析增強功能
 
