@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: d487b7e82a01bf0d7e847a541be1eb3ca6e1c527
+source-git-commit: 5c66760ce359e3a5d4c399dd9cab303ad04c6508
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '338'
 ht-degree: 2%
 
 ---
@@ -66,3 +66,4 @@ ht-degree: 2%
    - [雲端基礎結構沙箱要求的合作夥伴Adobe Commerce](adobe-commerce-support/partner-magento-commerce-cloud-sandbox-requests.md)
    - [無法將使用者新增至Adobe Commerce雲端專案](adobe-commerce-support/unable-add-user-adobe-commerce-cloud-project.md)
    - [如何套用Adobe提供的撰寫器修補程式](adobe-commerce-support/how-to-apply-a-composer-patch-provided-by-magento.md)
+   - [支援工具總覽](adobe-commerce-support/overview.md)
