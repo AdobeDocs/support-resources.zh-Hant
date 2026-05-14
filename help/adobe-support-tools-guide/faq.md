@@ -4,8 +4,11 @@ title: Adobe商業平台與Admin Console常見問題集
 description: Adobe Workfront常見問題集
 exl-id: 533d7a19-1bb2-4823-860f-d2c66412bb3d
 TQID: https://experienceleague.adobe.com/9vMmY3Kkuy1AuXuGvdqjOwq-eOtL54YaUr1jMVuR-Tw
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
 source-wordcount: 484

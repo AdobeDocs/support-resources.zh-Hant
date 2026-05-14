@@ -3,9 +3,14 @@ title: Adobe Commerce支援票證生命週期原則更新
 description: 本文提供Adobe Commerce支援票證生命週期原則更新的相關資訊。
 exl-id: 1d0da27f-4334-4f3a-a9b5-fca2eb16de4e
 TQID: https://experienceleague.adobe.com/InnjmzEbkWnGVY47P4F76Fb9l-ul0KMe5Kk377XUwiY
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-topic_v2: id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
 source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
 source-wordcount: 546

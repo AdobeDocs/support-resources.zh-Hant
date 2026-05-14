@@ -4,9 +4,13 @@ description: Adobe技術支援可能需要存取您的Adobe Commerce相關資料
 solution: Commerce
 exl-id: ab8f406d-e86c-498c-8cce-0e56c1d26a33
 TQID: https://experienceleague.adobe.com/pXFc4bwBBZtXkcP2DmnK0x2MDxcVlQDrvgPVEgrh4I8
-product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-topic_v2: id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
 source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
 source-wordcount: 472

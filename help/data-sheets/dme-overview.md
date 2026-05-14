@@ -3,7 +3,8 @@ title: Creative Enterprise 和 Document Cloud 支援服務概觀
 description: 本文提供 Adobe Creative Cloud 和 Document Cloud 的客戶支援選項摘要。 這些選項包括標準、商務、企業和菁英。
 exl-id: e3c762b9-d4b3-4248-b1c1-8212a763b4c5
 TQID: https://experienceleague.adobe.com/Ly4fta5e3fXbRKDGWPxAIQA45BzxrsHCOw-Xn0aY4ho
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
 source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
 source-wordcount: 287

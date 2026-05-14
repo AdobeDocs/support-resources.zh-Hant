@@ -3,9 +3,14 @@ title: 存取  [!DNL Adobe Success] 入口網站
 description: 了解如何在  [!DNL Adobe Success]  入口網站管理案例。
 exl-id: 791b6cce-e7c9-42fe-a50c-4ef16fafdd10
 TQID: https://experienceleague.adobe.com/l1FEv9wdhBq6ouA-PMu-VUMKiKvI8P4vvnxPS282BRE
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
 source-wordcount: 191

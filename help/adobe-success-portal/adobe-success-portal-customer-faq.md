@@ -3,9 +3,14 @@ title: '[!DNL Adobe Success] 入口網站：客戶常見問題集'
 description: 此常見問題集文章解答許多有關 [!DNL Adobe Success] 入口網站的常見問題。
 exl-id: fff82b90-4077-4669-8cd5-5105cd0c7307
 TQID: https://experienceleague.adobe.com/sIIr9uo3-K1N44AG-k0uhHcfwb9J93r0RbzVz0NRMhk
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
 source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
 source-wordcount: 661
@@ -16,6 +21,7 @@ ht-degree: 93%
 # [!DNL Adobe Success] 入口網站：客戶常見問題集
 
  
+
 ## [!DNL Adobe Success] 入口網站的範圍為何？
 
 [!DNL Adobe Success] 入口網站是 Adobe 全新推出的集中式、供客戶使用的平台，旨在統一支援、成功及參與方面的售後體驗。 Alpha 版本的聚焦於提供一致性的體驗，整合先前分散於多個平台上的工具和工作流程成品 (例如：支援入口網站、手動的 Ultimate Success 成果資料)。 此目標為簡化客戶在整個生命週期 (從上線到續約) 與 Adobe 的互動方式，同時改善透明度、自助服務及價值實現。

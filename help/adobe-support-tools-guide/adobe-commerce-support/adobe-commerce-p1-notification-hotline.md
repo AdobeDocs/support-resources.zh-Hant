@@ -4,10 +4,16 @@ description: 本文提供Adobe Commerce的P1通知熱線號碼，可在尋求報
 solution: Commerce
 exl-id: 0c7088b2-6149-4307-b513-cebeeaa8f6ea
 TQID: https://experienceleague.adobe.com/Ezd7AIFJt6h2teDrV-eShDh2Ojmq4FWVPr3g1fmmD7Y
-product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
-feature_v2: id: c1256247-af4b-46d8-9dca-0c654ecfa157
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: c1256247-af4b-46d8-9dca-0c654ecfa157
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
 source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
 source-wordcount: 571
@@ -26,7 +32,7 @@ ht-degree: 0%
 ## P1通知熱線電話原則
 
 * P1通知熱線可用於報告P1層級的問題（請參閱上一節中的P1事件定義）。
-* 在呼叫Adobe Commerce P1通知熱線前，請先提交支援票證](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket)。[
+* 在呼叫Adobe Commerce P1通知熱線前，請先提交支援票證[&#128279;](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket)。
 * 調查、疑難排解和通訊將僅在支援票證內進行。
 * 在呼叫之前，直接將您可能擁有的所有其他問題相關資訊新增到票證。
 * 打電話時，請確定有票證號碼。

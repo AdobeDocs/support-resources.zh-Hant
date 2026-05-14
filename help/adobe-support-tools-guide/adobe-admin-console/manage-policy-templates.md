@@ -4,9 +4,12 @@ description: 瞭解全域管理員如何直接從存放在Global Admin Console�
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-product_v2: id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 exl-id: e4dc5c35-1323-4894-bd47-b31c61a864bc
 TQID: https://experienceleague.adobe.com/eA6HyH9bNWst49X3xVmzD6XyaEVdxL5VarET-kCQ7CI
 source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063

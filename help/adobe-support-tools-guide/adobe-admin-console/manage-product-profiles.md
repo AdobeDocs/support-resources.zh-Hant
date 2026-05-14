@@ -4,9 +4,12 @@ description: 瞭解全域管理員如何在Global Admin Console中新增、編�
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-product_v2: id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 exl-id: 6a0b2d9f-9e02-428c-a2be-bc457230f7e0
 TQID: https://experienceleague.adobe.com/lG0ZmW8ynu7tKpYa0JWoSeBDpeR1TaenUMNNCLcPSOI
 source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063

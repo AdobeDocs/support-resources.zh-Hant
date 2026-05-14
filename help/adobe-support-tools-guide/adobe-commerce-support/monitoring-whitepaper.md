@@ -3,9 +3,13 @@ title: 正在監視 [!DNL Adobe Commerce on cloud pro infrastructure]的資料�
 description: 本檔案提供Adobe Commerce基礎架構監控和通知的相關資訊。
 exl-id: 0dd3239f-de10-48df-b3f4-ac2b8cbc6c72
 TQID: https://experienceleague.adobe.com/H7CvXHTRGGHEh079EB2rOZV2yc7BoFMQgdq5-yLkjF4
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
 source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
 source-wordcount: 511

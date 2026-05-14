@@ -3,8 +3,11 @@ title: '[!UICONTROL 價值追蹤器]'
 description: '[!UICONTROL 價值追蹤器] 頁面提供由 KBO 分類您的 [!UICONTROL  使用案例] 視圖。'
 exl-id: 2b3d5d40-4c5a-4e34-a7ea-3c16c3b621ff
 TQID: https://experienceleague.adobe.com/TwfH8YYNuuyUaiTY4KnqjepbtqUxX0pbYx9HldoEoeU
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
 source-wordcount: 113

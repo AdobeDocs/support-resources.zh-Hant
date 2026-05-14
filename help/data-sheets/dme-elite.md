@@ -3,9 +3,12 @@ title: Creative Cloud 和 Adobe Document Cloud 的菁英支援
 description: Adobe 提供全方位的技術資源來支援您的業務，這些資源包含在您的 Adobe 企業訂閱中。 菁英支援計劃可加強這項服務。
 exl-id: 2f506e8d-ac9b-4bc7-b98a-ac5ffc626c65
 TQID: https://experienceleague.adobe.com/daL6pp7pxEL2mHoC8cpKMMQUXYVM3W-dsXldBeyjL3Q
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-feature_v2: id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
-topic_v2: id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2:
+  - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
 source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
 source-wordcount: 1122
