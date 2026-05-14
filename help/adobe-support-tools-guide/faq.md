@@ -64,7 +64,7 @@ Adobe Workfront支援團隊會透過即時協助和指導來移動客戶，以�
 
 +++**AAC有哪些可用的訓練資源？**
 
-&lt;https://helpx.adobe.com/enterprise/using/admin-console.html >
+&lt;https://helpx.adobe.com/tw/enterprise/using/admin-console.html >
 
 +++
 

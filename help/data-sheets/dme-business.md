@@ -264,7 +264,7 @@ Adobe 提供全方位的技術資源來支援您的業務，這些資源包含�
 |--- |--- |
 | [企業學習與支援](https://helpx.adobe.com/tw/enterprise.html) | 企業學習與支援是可供 Adobe 客戶找到各種支援的地方，其中包括自助式教學課程、產品文件、由講師授課的培訓課程、社群以及精選 Adobe Creative Cloud 和 Document 產品等支援。 |
 | [Adobe 支援社群](https://community.adobe.com/) | Adobe 支援社群是提問、尋找答案、向專家學習和分享知識的地方。 |
-| [生產問題與系統中斷](https://status.adobe.com/) | Status.adobe.com 會傳達所有在多租用戶環境中部署的 Adobe 產品與服務的健康資訊。 客戶可以選擇其訂閱偏好設定，以便在 Adobe 建立、更新或解決產品事件時收到電子郵件通知。 這可以包括預定的維護或是不同嚴重性等級的服務問題。 |
+| [生產問題與系統中斷](https://status.adobe.com/zh-tw/) | Status.adobe.com 會傳達所有在多租用戶環境中部署的 Adobe 產品與服務的健康資訊。 客戶可以選擇其訂閱偏好設定，以便在 Adobe 建立、更新或解決產品事件時收到電子郵件通知。 這可以包括預定的維護或是不同嚴重性等級的服務問題。 |
 | [條款與條件](https://helpx.adobe.com/tw/support/programs/support-policies-terms-conditions.html) | 詳述支援服務方案的條款與條件。 |
 
 {style="table-layout:auto"}
