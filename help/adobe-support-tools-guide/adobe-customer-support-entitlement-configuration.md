@@ -5,9 +5,12 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 75b0e812-da38-46af-94b6-7b7db8954be3
-source-git-commit: e6379bd22238091d6f6d26d2aa3e515ce7c61e5a
+TQID: https://experienceleague.adobe.com/HW1x4D7Ha06777wNq6j2gISGc7mNKt6Yohhi2GP66XU
+product_v2: id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: 376
 ht-degree: 0%
 
 ---
@@ -45,7 +48,7 @@ ht-degree: 0%
 
    ![編輯管理許可權Marketo](assets/edit-admin-rights-advanced.png)
 
-1. 選取之後，按一下[儲存]。**&#x200B;**
+1. 選取之後，按一下[儲存]。****
 
 使用者會收到來自`message@adobe.com`有關新系統管理許可權的電子郵件邀請。
 

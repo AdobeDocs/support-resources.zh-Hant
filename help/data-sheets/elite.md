@@ -2,9 +2,13 @@
 title: Elite 支援
 description: Adobe Experience Cloud Elite 支援服務提供同級最佳的服務層級目標 (SLT)、主動式支援，以及與技術客戶經理和指定的支援工程師的合作關係。
 exl-id: 46a0f6bb-dccb-4554-a811-de1384db2747
-source-git-commit: eab88ea8d66a5ae104369655137c389822671e0f
+TQID: https://experienceleague.adobe.com/iF7FcpFJB-kViSwkHmyGYF9fnUKAOdV0s6BcnLpvXWQ
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2: id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: c1579802-ddd4-4214-8a91-97b2066abe11id: c2be0313-b3ae-45e0-b454-d20bf54b23f2id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adebid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '1386'
+source-wordcount: 1406
 ht-degree: 100%
 
 ---
@@ -367,9 +371,9 @@ Adobe 解決方案專家可向客戶和實作合作夥伴提供以最佳實務�
 
 | 資源 | 說明 |
 |--- |--- |
-| [Experience League](https://experienceleague.adobe.com/zh-hant) | Experience League 是 Adobe 幫助企業經由其所做的 Adobe 投資來實現預期價值的方式。 這是一個統一的位置，客戶可以在這裡學習、交流並沿著個人化的成功路徑而成長，這裡有提供自助式教學課程、產品文件、由講師授課的訓練課程、社群及技術支援。 |
+| [Experience League](https://experienceleague.adobe.com/) | Experience League 是 Adobe 幫助企業經由其所做的 Adobe 投資來實現預期價值的方式。 這是一個統一的位置，客戶可以在這裡學習、交流並沿著個人化的成功路徑而成長，這裡有提供自助式教學課程、產品文件、由講師授課的訓練課程、社群及技術支援。 |
 | [訓練](https://training.adobe.com/training/) | 您可以從 Experience League 存取 Adobe 數位學習服務課程。 學習課程整合了隨選課程及講師授課的課程。 您可以在這裡累積具有公認市場價值的技能，並在組織中發揮這些技能以取得成功。 |
-| [生產問題與系統中斷](https://status.adobe.com/zh-tw/) | Status.adobe.com 會傳達所有在多租用戶環境中部署的 Adobe 產品與服務的健康資訊。 客戶可以選擇其訂閱偏好設定，以便在 Adobe 建立、更新或解決產品事件時收到電子郵件通知。 這可以包括預定的維護或是不同嚴重性等級的服務問題。 |
+| [生產問題與系統中斷](https://status.adobe.com/) | Status.adobe.com 會傳達所有在多租用戶環境中部署的 Adobe 產品與服務的健康資訊。 客戶可以選擇其訂閱偏好設定，以便在 Adobe 建立、更新或解決產品事件時收到電子郵件通知。 這可以包括預定的維護或是不同嚴重性等級的服務問題。 |
 | [條款與條件](https://helpx.adobe.com/tw/support/programs/support-policies-terms-conditions.html) | 詳述支援服務方案的條款與條件。 |
 
 ## Adobe 支援的區域範圍、當地營業時間和語言支援

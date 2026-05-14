@@ -1,17 +1,20 @@
 ---
 title: '[!UICONTROL 行動計劃]'
-description: /[!UICONTROL 行動計劃/] 提供 KBO (關鍵業務目標) 如何執行的結構化視圖。其中包括 Adobe 團隊已規劃、已完成，或正在積極進行的相關加速器和活動，以協助您實現目標。
+description: /[!UICONTROL 行動計劃/] 提供 KBO (關鍵業務目標) 如何執行的結構化視圖。 其中包括 Adobe 團隊已規劃、已完成，或正在積極進行的相關加速器和活動，以協助您實現目標。
 exl-id: 818b149c-91ee-43b6-a235-576f2810db1b
-source-git-commit: 4af12a2808ec6c20b84fdbbd0608e9603cc2647b
-workflow-type: ht
-source-wordcount: '202'
+TQID: https://experienceleague.adobe.com/Hoc6wzygdoIm5nhLxkz5vp1xCyG-v-N2WwXtHQ68ou4
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+workflow-type: tm+mt
+source-wordcount: 216
 ht-degree: 100%
 
 ---
 
 # [!UICONTROL 行動計劃]
 
-**[!UICONTROL 行動計劃]**&#x200B;提供 KBO (關鍵業務目標) 如何執行的結構化視圖。其中包括 Adobe 團隊已規劃、已完成，或正在積極進行的相關加速器和活動，以協助您實現目標。
+**[!UICONTROL 行動計劃]**&#x200B;提供 KBO (關鍵業務目標) 如何執行的結構化視圖。 其中包括 Adobe 團隊已規劃、已完成，或正在積極進行的相關加速器和活動，以協助您實現目標。
 
 前往&#x200B;**[!UICONTROL 行動計劃]**，按一下入口網站首頁左側導覽面板上的「![action-plan-icon](/help/adobe-success-portal/assets/action-plan-icon.png)」圖示。
 
@@ -23,7 +26,7 @@ ht-degree: 100%
 
 ![action-plan-kbo-tab](/help/adobe-success-portal/assets/action-plan-kbo-tab.png)
 
-按一下清單中的 KBO 以開啟此目標的詳細視圖。您也可以選取連結的&#x200B;**[!UICONTROL 活動]**&#x200B;或&#x200B;**[!UICONTROL 加速器]**，以檢視其專屬的資訊，例如：
+按一下清單中的 KBO 以開啟此目標的詳細視圖。 您也可以選取連結的&#x200B;**[!UICONTROL 活動]**&#x200B;或&#x200B;**[!UICONTROL 加速器]**，以檢視其專屬的資訊，例如：
 
 * 說明
 * 目前狀態
@@ -34,7 +37,7 @@ ht-degree: 100%
 
 ## [!UICONTROL 活動]
 
-此索引標籤會顯示未繫結至任何 KBO 的活動清單。每個活動皆包括：
+此索引標籤會顯示未繫結至任何 KBO 的活動清單。 每個活動皆包括：
 
 * 說明
 * 目前狀態

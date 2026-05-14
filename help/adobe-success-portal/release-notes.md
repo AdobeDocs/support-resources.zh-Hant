@@ -3,10 +3,14 @@ title: Adobe Success 入口網站發行說明
 description: ' [!DNL Adobe Success portal] 的最新版本資訊。'
 feature: Release Notes
 exl-id: be268e05-8298-4f21-8f2f-f66c52d76fe3
-source-git-commit: 2894190b3171228e9c14a7cdef5bb2d92b97a6ec
+TQID: https://experienceleague.adobe.com/LSmHwDaQ39QEnzOcHgHLlr7g8OhoO3CQTsiFlceM8AA
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '595'
-ht-degree: 83%
+source-wordcount: 597
+ht-degree: 81%
 
 ---
 
@@ -14,9 +18,9 @@ ht-degree: 83%
 
 以下發行說明包含 [!DNL Adobe Success portal] 的更新內容，以及：
 
-![新增](../adobe-success-portal/assets/new.svg) - 新功能
-![修正](../adobe-success-portal/assets/fix.svg) - 修正和改良
-![錯誤](../adobe-success-portal/assets/bug.svg) - 已知問題
+![新增](../adobe-success-portal/assets/new.svg) — 新功能
+![修正](../adobe-success-portal/assets/fix.svg) — 修正和改良
+![錯誤](../adobe-success-portal/assets/bug.svg) — 已知問題
 
 ## 4.0
 
@@ -26,7 +30,7 @@ _2025 年 11 月 11 日_
 
 ![修正](../adobe-success-portal/assets/fix.svg)已更新案例詳細資料，因此使用&#x200B;**Ctrl+Click** / **Command+Click**&#x200B;在新索引標籤中開啟時，[上一步]按鈕會正確停用，以避免導覽錯誤。
 
-![錯誤](../adobe-success-portal/assets/bug.svg)修正&#x200B;**[!UICONTROL 支援與深入分析]**&#x200B;中&#x200B;**[!UICONTROL Adobe狀態]**&#x200B;警示顯示錯誤狀態、地區或時區詳細資料的問題。
+![錯誤](../adobe-success-portal/assets/bug.svg)修正&#x200B;**[!UICONTROL 支援與深入分析]**&#x200B;中&#x200B;**[!UICONTROL Adobe Status]**&#x200B;警示顯示錯誤狀態、地區或時區詳細資料的問題。
 
 ![錯誤](../adobe-success-portal/assets/bug.svg)已解決連結至&#x200B;**[!UICONTROL 策略合作夥伴]**&#x200B;的&#x200B;**[!UICONTROL 加速器]**&#x200B;和&#x200B;**[!UICONTROL 活動]**&#x200B;的顯示問題。
 
@@ -41,8 +45,8 @@ _2025 年 10 月 9 日_
    * 藍色代表&#x200B;**[!UICONTROL 加速器]**
    * 綠色代表&#x200B;**[!UICONTROL 活動]**
 * 每個&#x200B;**[!UICONTROL 加速器]**/**[!UICONTROL 活動]**&#x200B;都會顯示名稱、狀態和開始/結束日期 (格式為 *YYYY 年* *XX 月*)。
-* 按一下事件卡片會開啟包含事件詳細資料的頁面。按一下「上一頁」按鈕會返回 。
-* 事件會以顏色標示：藍色代表&#x200B;**[!UICONTROL 加速器]**，綠色代表&#x200B;**[!UICONTROL 活動]**。垂直捲動可瀏覽 KBO，水平捲動可按週或月瀏覽。
+* 按一下事件卡片會開啟包含事件詳細資料的頁面。 按一下「上一頁」按鈕會返回 。
+* 事件會以顏色標示：藍色代表&#x200B;**[!UICONTROL 加速器]**，綠色代表&#x200B;**[!UICONTROL 活動]**。 垂直捲動可瀏覽 KBO，水平捲動可按週或月瀏覽。
 * 工具提示會在文字遭截斷時顯示全名，時間軸會在捲動時保持可見。
 * 預設檢視為當週；導覽箭頭可在不同週之間移動。
 * 月檢視可提供進行中和已規劃工作的明確時間軸。
@@ -58,7 +62,7 @@ _2025 年 10 月 9 日_
 
 ![修正](../adobe-success-portal/assets/fix.svg) 顯示與帳戶關聯的所有&#x200B;**[!UICONTROL 策略合作夥伴]**，以及主要聯絡人的指標。
 
-![修正](../adobe-success-portal/assets/fix.svg)修正&#x200B;**[!UICONTROL 警示與Adobe狀態]**&#x200B;中的時區未正確反映登入使用者設定檔的問題。
+![修正](../adobe-success-portal/assets/fix.svg)修正&#x200B;**[!UICONTROL 警示與Adobe Status]**&#x200B;中的時區未正確反映登入使用者設定檔的問題。
 
 ![修正](../adobe-success-portal/assets/fix.svg) 已修正「**[!UICONTROL 警示與 Adobe 狀態]**」中的篩選器未如預期一起運作的問題。
 
@@ -74,7 +78,7 @@ _2025 年 9 月 11 日_
 
 ![新增](../adobe-success-portal/assets/new.svg) 在「**[!UICONTROL 活動詳細資訊]**」頁面中新增以下欄位：
 
-* **[!UICONTROL 優先順序]**：表示活動的優先等級。可用值包括：*緊急*、*高*、*正常*、*低*&#x200B;和&#x200B;*無*。如果值為&#x200B;*無*，則入口網站的使用者介面不會顯示「**[!UICONTROL 優先順序]**」欄位。
+* **[!UICONTROL 優先順序]**：表示活動的優先等級。 可用值包括：*緊急*、*高*、*正常*、*低*&#x200B;和&#x200B;*無*。 如果值為&#x200B;*無*，則入口網站的使用者介面不會顯示「**[!UICONTROL 優先順序]**」欄位。
 * **[!UICONTROL Adobe 所有者]**：顯示活動的指定 Adobe 所有者。
 * **[!UICONTROL 用戶端所有者]**：顯示客戶端的所有者。
 * **[!UICONTROL 後續步驟]**：顯示為活動擷取的後續動作。

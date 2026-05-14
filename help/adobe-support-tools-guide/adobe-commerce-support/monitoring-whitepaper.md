@@ -1,13 +1,17 @@
 ---
 title: 正在監視 [!DNL Adobe Commerce on cloud pro infrastructure]的資料工作表
 description: 本檔案提供Adobe Commerce基礎架構監控和通知的相關資訊。
-source-git-commit: a04a7a5669938aeea7e994df5f5700c084650851
+exl-id: 0dd3239f-de10-48df-b3f4-ac2b8cbc6c72
+TQID: https://experienceleague.adobe.com/H7CvXHTRGGHEh079EB2rOZV2yc7BoFMQgdq5-yLkjF4
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '458'
+source-wordcount: 511
 ht-degree: 0%
 
 ---
-
 
 # 正在監視[!DNL Adobe Commerce on cloud pro infrastructure]的資料工作表
 
@@ -30,11 +34,11 @@ Adobe Commerce例項通常包含自訂程式碼和設定。 Adobe不支援或解
 | 網站可用性 | 說明 |
 |------------|------------|
 | **監視目標** | 追蹤網站可用性。 |
-| **檢測於** | 已為高[!DNL URL]選取單一[!DNL SLA]。 |
+| **檢測於** | 已為高[!DNL SLA]選取單一[!DNL URL]。 |
 | **說明** | 網站可用性是根據測量結果周圍的設定臨界值來決定。 如果檢查在10分鐘內失敗，並且沒有正在進行的部署，則會觸發網站中斷通知。 |
 | **通知收件者** | 商家/合作夥伴和Adobe。 |
 | 由Adobe執行的&#x200B;**動作** | 如果問題發生在Adobe Commerce基礎架構上，則負責分類及修正。 |
-| 商戶的&#x200B;**動作** | 負責修正因商家/合作夥伴引進的變更或自訂程式碼所造成的問題。 如需疑難排解，請參閱： [Site Down Troubleshooter](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/site-down-or-unresponsive/magento-site-down-troubleshooter.html?lang=zh-Hant)。 |
+| 商戶的&#x200B;**動作** | 負責修正因商家/合作夥伴引進的變更或自訂程式碼所造成的問題。 如需疑難排解，請參閱： [Site Down Troubleshooter](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/site-down-or-unresponsive/magento-site-down-troubleshooter.html)。 |
 
 ## 磁碟空間監視
 
@@ -46,4 +50,4 @@ Adobe Commerce例項通常包含自訂程式碼和設定。 Adobe不支援或解
 | **說明** | 系統會根據設定在主機可用磁碟空間周圍的臨界值來傳送通知。 額外的磁碟空間會自動新增一次，以利相關掛載（[!DNL MySQL]或媒體）避免網站中斷，並讓商家有時間清除磁碟空間，及/或識別並解決造成磁碟使用量快速增加的任何程式碼或記錄檔。 |
 | **通知收件者** | 商家/合作夥伴和Adobe。 |
 | 由Adobe執行的&#x200B;**動作** | 自動提高支援票證，並將額外的磁碟空間自動新增至相關的掛載（[!DNL MySQL]或媒體），以防止網站中斷。 |
-| 商戶的&#x200B;**動作** | 若要接收持續警告層級的磁碟空間警示，請參閱： <ul><li>[[!DNL Managed alerts for Adobe Commerce]：磁碟警告警示](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-for-magento-commerce-disk-warning-alert)</li><li>[[!DNL Managed alerts for Adobe Commerce]：磁碟嚴重警示](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-for-magento-commerce-disk-critical-alert) </li></ul> |
+| 商戶的&#x200B;**動作** | 若要接收持續警告層級的磁碟空間警示，請參閱： <ul><li>[[!DNL Managed alerts for Adobe Commerce]：磁碟警告警示](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-for-magento-commerce-disk-warning-alert)</li><li>[[!DNL Managed alerts for Adobe Commerce]：磁碟嚴重警示](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-for-magento-commerce-disk-critical-alert) </li></ul> |

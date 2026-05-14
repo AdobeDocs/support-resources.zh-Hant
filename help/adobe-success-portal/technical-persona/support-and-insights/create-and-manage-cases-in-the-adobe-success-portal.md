@@ -2,9 +2,13 @@
 title: 在 [!DNL Adobe Success] 入口網站建立和管理案例
 description: 了解如何在 [!DNL Adobe Success] 入口網站管理案例。
 exl-id: 0b4eb2bc-ee11-4136-a744-457f9e204143
-source-git-commit: 0a8d1af656473e05f82f7c309291c0b63bf6b71c
-workflow-type: ht
-source-wordcount: '441'
+TQID: https://experienceleague.adobe.com/oLYc4m1alO0xMd4WF2L2UxOiDAFKBgAFskN8SLdPfAg
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+workflow-type: tm+mt
+source-wordcount: 431
 ht-degree: 100%
 
 ---

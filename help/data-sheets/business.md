@@ -2,9 +2,12 @@
 title: 業務支援
 description: Adobe Experience Cloud 業務支援服務提供聯繫 Adobe 技術支援團隊及帳戶支援負責人的完整功能，以進行帳戶管理。
 exl-id: 2f31e22f-8523-4322-875b-69f0f44a513a
-source-git-commit: d9c68a402ce091063abf016bc4fd7e2eb9ca9644
+TQID: https://experienceleague.adobe.com/gocC4k5TByvM3L1jSyhOGMzibQQuBDMD-qSr0ETtZq8
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+topic_v2: id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '882'
+source-wordcount: 905
 ht-degree: 100%
 
 ---
@@ -21,7 +24,7 @@ Adobe Experience Cloud 業務支援服務提供聯繫 Adobe 技術支援團隊�
     <th></th>
     <th></th>
     <th>線上支援</th>
-    <th>商務支援</th>
+    <th>業務支援</th>
   </tr>
 </thead>
 <tbody>
@@ -240,9 +243,9 @@ Adobe Customer Support offers access to online resources for documentation, enga
 
 | 資源 | 說明 |
 |--- |--- |
-| [Experience League](https://experienceleague.adobe.com/zh-hant) | Experience League 是 Adobe 幫助企業經由其所做的 Adobe 投資來實現預期價值的方式。 這是一個統一的位置，客戶可以在這裡學習、交流並沿著個人化的成功路徑而成長，這裡有提供自助式教學課程、產品文件、由講師授課的訓練課程、社群及技術支援。 |
+| [Experience League](https://experienceleague.adobe.com/) | Experience League 是 Adobe 幫助企業經由其所做的 Adobe 投資來實現預期價值的方式。 這是一個統一的位置，客戶可以在這裡學習、交流並沿著個人化的成功路徑而成長，這裡有提供自助式教學課程、產品文件、由講師授課的訓練課程、社群及技術支援。 |
 | [訓練](https://training.adobe.com/training/) | 您可以從 Experience League 存取 Adobe 數位學習服務課程。 學習課程整合了隨選課程及講師授課的課程。 您可以在這裡累積具有公認市場價值的技能，並在組織中發揮這些技能以取得成功。 |
-| [生產問題與系統中斷](https://status.adobe.com/zh-tw/) | Status.adobe.com 會傳達所有在多租用戶環境中部署的 Adobe 產品與服務的健康資訊。 客戶可以選擇其訂閱偏好設定，以便在 Adobe 建立、更新或解決產品事件時收到電子郵件通知。 這可以包括預定的維護或是不同嚴重性等級的服務問題。 |
+| [生產問題與系統中斷](https://status.adobe.com/) | Status.adobe.com 會傳達所有在多租用戶環境中部署的 Adobe 產品與服務的健康資訊。 客戶可以選擇其訂閱偏好設定，以便在 Adobe 建立、更新或解決產品事件時收到電子郵件通知。 這可以包括預定的維護或是不同嚴重性等級的服務問題。 |
 | [業務支援網站](https://helpx.adobe.com/tw/support/programs/enterprise-support-programs/premier-support-business.html) | Adobe 業務支援網站。 |
 | [條款與條件](https://helpx.adobe.com/tw/support/programs/support-policies-terms-conditions.html) | 詳述支援服務方案的條款與條件。 |
 

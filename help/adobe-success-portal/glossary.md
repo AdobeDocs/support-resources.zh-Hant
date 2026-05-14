@@ -2,9 +2,13 @@
 title: 字彙表
 description: ' [!DNL Adobe Success]  入口網站內的重要術語集以及其定義。'
 exl-id: 76bb7345-6827-4a42-9784-441f2875435e
-source-git-commit: 7303086f53fd7ba95328e590a01c5b710d9c781b
-workflow-type: ht
-source-wordcount: '383'
+TQID: https://experienceleague.adobe.com/qKraH4XPhSdzrkILT0YBRE3dV5U3tdf69DO-IGJAeS0
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adebid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+workflow-type: tm+mt
+source-wordcount: 386
 ht-degree: 100%
 
 ---
@@ -22,12 +26,12 @@ ht-degree: 100%
 | Expert Success | 反應式技術支援，所有 Adobe DX 授權均包含此類支援。 |
 | KBO (關鍵業務目標) | 客戶希望透過與 Adobe 合作而達到的高層級目標。 |
 | KPI (關鍵績效指標) | 表示有效達成一項目標或目的之程度的可衡量數值。 |
-| MAP (共同行動計劃) | 關於客戶如何利用 Adobe 技術達成其 KBO 的整合計劃。包括策略優先順序、行動計劃、價值追蹤器、合作夥伴治理，以及服務審閱。 |
+| MAP (共同行動計劃) | 關於客戶如何利用 Adobe 技術達成其 KBO 的整合計劃。 包括策略優先順序、行動計劃、價值追蹤器、合作夥伴治理，以及服務審閱。 |
 | 成熟度 | 客戶成長的各個階段或產品的使用深度，通常與採用和最佳化相關聯。 |
 | SSM (支援服務經理) | 指定的客戶宣傳者，負責協調所報告事件的調查工作，與技術專家合作解決問題以及提供一致的更新。 |
 | 成功加速器 | 業務和技術專家進行簡短但具影響力的參與，幫助客戶規劃價值、賦予團隊能力以及按照路徑圖執行。 |
 | 蜂群小組 | 一種協作支援模型，專家團隊會快速動員以解決複雜的客戶問題。 |
-| TAD (技術客戶總監) | 客戶的主要技術資源，負責進行領導層監督、全權負責高階主管參與，以及確保有效管理。以 Ultimate Success 附加元件的形式提供使用。 |
+| TAD (技術客戶總監) | 客戶的主要技術資源，負責進行領導層監督、全權負責高階主管參與，以及確保有效管理。 以 Ultimate Success 附加元件的形式提供使用。 |
 | TAM (技術客戶經理) | 指定的 Adobe 團隊成員，提供主動式技術領導、個人化的知識分享以及關鍵業務洞察。 |
 | Ultimate Success | 白手套支援和客戶 success plan，提供策略領導力和主動式技術健康專業知識，以提供高效能的數位體驗。 |
 | 使用案例 | 特定、可追蹤的產品情境或應用，讓客戶能夠達到所期望的結果。 |

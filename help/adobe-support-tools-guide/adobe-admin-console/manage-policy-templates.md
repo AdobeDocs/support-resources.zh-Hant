@@ -4,16 +4,14 @@ description: 瞭解全域管理員如何直接從存放在Global Admin Console�
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-product_v2:
-  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2: id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 exl-id: e4dc5c35-1323-4894-bd47-b31c61a864bc
-source-git-commit: ad324036dbeb2a54855349321b2ba33405d2c075
+TQID: https://experienceleague.adobe.com/eA6HyH9bNWst49X3xVmzD6XyaEVdxL5VarET-kCQ7CI
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: 705
+source-wordcount: 758
 ht-degree: 0%
 
 ---
@@ -26,7 +24,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->在[Global Admin Console](https://helpx.adobe.com/tw/enterprise/global-admin-console/adopt-global-administration.html)中，選取要編輯的組織，並導覽至&#x200B;**原則範本**&#x200B;索引標籤，以簡化設定，並促進跨組織的一致原則管理。
+>在[Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html)中，選取要編輯的組織，並導覽至&#x200B;**原則範本**&#x200B;索引標籤，以簡化設定，並促進跨組織的一致原則管理。
 >
 > [登入Global Admin Console](https://global-admin-console.adobe.com/)
 
@@ -44,24 +42,24 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->與Global Admin Console中進行的其他變更不同，對原則範本的編輯會立即生效，不需要經過&#x200B;**[!UICONTROL 檢閱擱置的變更 — 提交]**&#x200B;程式。 不過，若要在套用原則範本的組織中實作暫止的變更，需要[提交](https://helpx.adobe.com/tw/enterprise/global-admin-console/execute-jobs.html)。
+>與Global Admin Console中進行的其他變更不同，對原則範本的編輯會立即生效，不需要經過&#x200B;**[!UICONTROL 檢閱擱置的變更 — 提交]**&#x200B;程式。 不過，若要在套用原則範本的組織中實作暫止的變更，需要[提交](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)。
 
 ## 建立原則範本
 
 1. 在[Global Admin Console](https://global-admin-console.adobe.com/)中，選取要編輯的組織，然後導覽至&#x200B;**[!UICONTROL 原則範本]**&#x200B;索引標籤。
-1. 選取&#x200B;**[!UICONTROL 建立範本]**.<br>
+1. 選取&#x200B;**[!UICONTROL 建立範本]**。<br>
    ![圖片1](./assets/DXSKB-3209-1-ga_14.png)
    <br>
 1. 在&#x200B;**[!UICONTROL 建立原則範本]**&#x200B;對話方塊中，輸入原則範本的&#x200B;**名稱**&#x200B;和&#x200B;**描述**。<br>原則範本的名稱最多可為100個字元。
 1. 選取要包含在範本中的原則。
 1. 為選取的原則設定值（請參閱下面的[設定原則值](#setting-policy-values)）。
-1. 選取&#x200B;**[!UICONTROL 「儲存」]**。
+1. 選取「**[!UICONTROL 儲存]**」。
 
 ### 設定原則值 {#setting-policy-values}
 
 針對範本中包含的每個原則，設定兩個設定：
 
-* **允許/不允許：**&#x200B;將滑桿設定為所要的值。 瞭解[原則詳細資料](https://helpx.adobe.com/tw/enterprise/global-admin-console/update-policies.html#policy-details)。
+* **允許/不允許：**&#x200B;將滑桿設定為所要的值。 瞭解[原則詳細資料](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html#policy-details)。
 * **鎖定值：**&#x200B;使用下列其中一個選項來修改原則的鎖定狀態：
    * **鎖定** — 原則將在套用範本後鎖定。
    * **解除鎖定** — 原則將在套用範本後解除鎖定。
@@ -73,13 +71,13 @@ ht-degree: 0%
 
 1. 在[Global Admin Console](https://global-admin-console.adobe.com/)中，選取要編輯的組織，然後導覽至&#x200B;**[!UICONTROL 原則範本]**&#x200B;索引標籤。
 1. 選取相關原則範本的&#x200B;**[!UICONTROL 更多選項]** ![更多選項](./assets/manage-product-profiles_more-options.png)圖示，並選取&#x200B;**[!UICONTROL 套用範本至組織]**。<br>
-   ![Pic3](./assets/DXSKB-3209-3-ga_15.png)
+   ![圖片3](./assets/DXSKB-3209-3-ga_15.png)
    <br>
 1. 選取要套用範本的組織。 您可以選取多個組織。<br>
-   ![Pic4](./assets/DXSKB-3209-4-bulk-apply-template.png)
+   ![圖片4](./assets/DXSKB-3209-4-bulk-apply-template.png)
    <br>
 1. 選取&#x200B;**[!UICONTROL 套用範本]**。
-1. 若要在套用原則範本的組織中實作暫緩變更，請選取&#x200B;**[!UICONTROL 檢閱暫緩變更]**。 檢閱後，選取&#x200B;**[!UICONTROL 提交變更]**&#x200B;以[執行](https://helpx.adobe.com/tw/enterprise/global-admin-console/execute-jobs.html)它們。
+1. 若要在套用原則範本的組織中實作暫緩變更，請選取&#x200B;**[!UICONTROL 檢閱暫緩變更]**。 檢閱後，選取&#x200B;**[!UICONTROL 提交變更]**&#x200B;以[執行](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)它們。
 
 如果您選取的組織中的所有原則值已經符合範本中的值，則會出現一則訊息，通知您未進行任何變更。 此外，如果沒有其他擱置的編輯，則不會啟用&#x200B;**[!UICONTROL 檢閱擱置的變更]**。
 
@@ -87,15 +85,15 @@ ht-degree: 0%
 
 1. 在[Global Admin Console](https://global-admin-console.adobe.com/)中，選取要編輯的組織，然後導覽至&#x200B;**[!UICONTROL 原則範本]**&#x200B;索引標籤。
 1. 選取相關範本的&#x200B;**[!UICONTROL 更多選項]**&#x200B;圖示![更多選項](./assets/manage-product-profiles_more-options.png)，然後選取&#x200B;**[!UICONTROL 編輯範本]**。<br>
-   ![Pic5](./assets/DXSKB-3209-5-ga_15-1.png)
+   ![圖片5](./assets/DXSKB-3209-5-ga_15-1.png)
    <br>
 1. 更新原則範本並選取&#x200B;**[!UICONTROL 立即更新]**。
-1. 若要在套用原則範本的組織中實作暫緩變更，請選取&#x200B;**[!UICONTROL 檢閱暫緩變更]**。 檢閱後，選取&#x200B;**[!UICONTROL 提交變更]**&#x200B;以[執行](https://helpx.adobe.com/tw/enterprise/global-admin-console/execute-jobs.html)它們。
+1. 若要在套用原則範本的組織中實作暫緩變更，請選取&#x200B;**[!UICONTROL 檢閱暫緩變更]**。 檢閱後，選取&#x200B;**[!UICONTROL 提交變更]**&#x200B;以[執行](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)它們。
 
 ## 刪除範本
 
 1. 在[Global Admin Console](https://global-admin-console.adobe.com/)中，選取要編輯的組織，然後導覽至&#x200B;**[!UICONTROL 原則範本]**&#x200B;索引標籤。
 1. 選取相關範本的&#x200B;**[!UICONTROL 更多選項]** ![更多選項](./assets/manage-product-profiles_more-options.png)圖示，並選取&#x200B;**[!UICONTROL 刪除範本]**。<br>
-   ![Pic6](./assets/DXSKB-3209-6-ga_15-2.png)
+   ![圖片6](./assets/DXSKB-3209-6-ga_15-2.png)
    <br>
 1. 在出現的對話方塊中選取&#x200B;*是*。

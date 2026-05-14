@@ -1,10 +1,13 @@
 ---
 title: Creative Cloud 和 Adobe Document Cloud 的商務支援
-description: Adobe 提供全方位的技術資源來支援您的業務，這些資源包含在您的 Adobe 企業訂閱中。商務支援計劃可加強這項服務。商務支援包括支援案例的優先路由，以確保根據提交案例更快聯絡到更資深的支援資源。
+description: Adobe 提供全方位的技術資源來支援您的業務，這些資源包含在您的 Adobe 企業訂閱中。 商務支援計劃可加強這項服務。 商務支援包括支援案例的優先路由，以確保根據提交案例更快聯絡到更資深的支援資源。
 exl-id: d2042be3-46af-4863-8f37-491a61ae3b0b
-source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
+TQID: https://experienceleague.adobe.com/jYFjKBCdJyMEpfRufkgr6mYLpQLxjvIEh3cOFXEEWhs
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+topic_v2: id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '830'
+source-wordcount: 835
 ht-degree: 100%
 
 ---
@@ -13,7 +16,7 @@ ht-degree: 100%
 
 ![圖示](assets/Businessbanner.png)
 
-Adobe 提供全方位的技術資源來支援您的業務，這些資源包含在您的 Adobe 企業訂閱中。商務支援計劃可加強這項服務。商務支援包括支援案例的優先路由，以確保根據提交案例更快聯絡到更資深的支援資源。
+Adobe 提供全方位的技術資源來支援您的業務，這些資源包含在您的 Adobe 企業訂閱中。 商務支援計劃可加強這項服務。 商務支援包括支援案例的優先路由，以確保根據提交案例更快聯絡到更資深的支援資源。
 
 商務客戶還可以透過電話或支援入口網站，聯絡我們的技術支援團隊並提出任何產品查詢；我們可在最關鍵的時刻幫助保護您的業務。 商務客戶將可善用帳戶支援專員來支援案例升級管理，針對您最關鍵的支援請求獲得定期溝通和更新。
 
@@ -25,7 +28,7 @@ Adobe 提供全方位的技術資源來支援您的業務，這些資源包含�
     <th></th>
     <th></th>
     <th>標準支援</th>
-    <th>商務支援</th>
+    <th>商業支援</th>
   </tr>
 </thead>
 <tbody>
@@ -142,7 +145,7 @@ Adobe 提供全方位的技術資源來支援您的業務，這些資源包含�
   <tr>
     <th>優先順序</th>
     <th>標準支援</th>
-    <th>商業支援</th>
+    <th>業務支援</th>
     <th>企業支援</th>
     <th>Elite 支援</th>
   </tr>
@@ -259,7 +262,7 @@ Adobe 提供全方位的技術資源來支援您的業務，這些資源包含�
 |--- |--- |
 | [企業學習與支援](https://helpx.adobe.com/tw/enterprise.html) | 企業學習與支援是可供 Adobe 客戶找到各種支援的地方，其中包括自助式教學課程、產品文件、由講師授課的培訓課程、社群以及精選 Adobe Creative Cloud 和 Document 產品等支援。 |
 | [Adobe 支援社群](https://community.adobe.com/) | Adobe 支援社群是提問、尋找答案、向專家學習和分享知識的地方。 |
-| [生產問題與系統中斷](https://status.adobe.com/zh-tw/) | Status.adobe.com 會傳達所有在多租用戶環境中部署的 Adobe 產品與服務的健康資訊。 客戶可以選擇其訂閱偏好設定，以便在 Adobe 建立、更新或解決產品事件時收到電子郵件通知。 這可以包括預定的維護或是不同嚴重性等級的服務問題。 |
+| [生產問題與系統中斷](https://status.adobe.com/) | Status.adobe.com 會傳達所有在多租用戶環境中部署的 Adobe 產品與服務的健康資訊。 客戶可以選擇其訂閱偏好設定，以便在 Adobe 建立、更新或解決產品事件時收到電子郵件通知。 這可以包括預定的維護或是不同嚴重性等級的服務問題。 |
 | [條款與條件](https://helpx.adobe.com/tw/support/programs/support-policies-terms-conditions.html) | 詳述支援服務方案的條款與條件。 |
 
 {style="table-layout:auto"}

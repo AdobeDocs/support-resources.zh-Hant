@@ -1,13 +1,16 @@
 ---
 title: Adobe Commerce支援工具總覽
 description: Adobe Commerce提供多種支援工具，協助並強化您改善電子商務商店體驗。
-source-git-commit: 1cce56d266fe921d4342a2b22fa7a676bb4a5801
+exl-id: 4a532f12-265e-4f0e-a296-e50b3e817de4
+TQID: https://experienceleague.adobe.com/faLeIPeiNe2Z9N9XmDsIK3Kh-HWfEo5k4z-9y-Rzdo0
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: 458
 ht-degree: 0%
 
 ---
-
 
 # Adobe Commerce支援工具總覽
 
@@ -24,23 +27,23 @@ Adobe Commerce提供多種支援工具，協助並強化您改善電子商務商
 
 [!DNL Observation for Adobe Commerce]是[!DNL New Relic nerdlet]，可檢視您的Adobe Commerce網站狀態、目前或過去的時間檢視。 Nerdlet是以[!DNL New Relic One]程式設計能力建置的自訂應用程式。 它會以簡易的格式，對照常見的時間表來呈現最相關的[!DNL New Relic]資訊。
 
-若要瞭解如何在雲端架構上使用[!DNL Observation for Adobe Commerce]，請參閱[[!DNL Observation for Adobe Commerce] >簡介](https://experienceleague.adobe.com/docs/commerce-operations/tools/observation-for-adobe-commerce/intro.html?lang=zh-Hant)。
+若要瞭解如何在雲端架構上使用[!DNL Observation for Adobe Commerce]，請參閱[[!DNL Observation for Adobe Commerce] >簡介](https://experienceleague.adobe.com/docs/commerce-operations/tools/observation-for-adobe-commerce/intro.html)。
 
 ## Adobe Commerce的管理警示 — 取得關鍵儲存和Apdex層級的警示  {#managed-alerts-for-adobe-commerce}
 
 針對雲端基礎結構上的Adobe Commerce管理的警報會產生現成的[!DNL New Relic]警報，其中包括疑難排解的後續步驟指示。
 
-我們設定了重要的儀表板和警報，協助您瞭解網站何時達到關鍵儲存和Apdex等級（使用者對應用程式和服務回應時間的滿意度）。 這可協助您在注意到回應時間緩慢或中斷之前採取行動。 您將可以使用我們的支援知識庫中提供的文章來疑難排解警示。 按一下Adobe Commerce的[受管理警示](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-for-magento-commerce)以深入瞭解受管理警示。
+我們設定了重要的儀表板和警報，協助您瞭解網站何時達到關鍵儲存和Apdex等級（使用者對應用程式和服務回應時間的滿意度）。 這可協助您在注意到回應時間緩慢或中斷之前採取行動。 您將可以使用我們的支援知識庫中提供的文章來疑難排解警示。 按一下Adobe Commerce的[受管理警示](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-for-magento-commerce)以深入瞭解受管理警示。
 
 
 ## [!DNL Site-Wide Analysis Tool] — 根據網站掃描取得效能建議 {#site-wide-analysis-tool}
 
 [!DNL Site-Wide Analysis Tool]是執行端對端「時間點」網站分析的SaaS （軟體即服務）應用程式。 所有與工具相關的客戶地點資訊，會以預先決定的排程收集，從每三小時收集到每天一次。 這表示SWAT會持續分析客戶網站資料。
 
-若要進一步瞭解[!DNL Site-Wide Analysis Tool]，請參閱[[!DNL Site-Wide Analysis Tool] 指南](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html?lang=zh-Hant)。
+若要進一步瞭解[!DNL Site-Wide Analysis Tool]，請參閱[[!DNL Site-Wide Analysis Tool] 指南](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)。
 
 ## [!DNL Quality Patches Tool] — 取得您的Adobe Commerce版本可用的所有修補程式 {#quality-patches-tool}
 
 [!DNL Quality Patches Tool] (QPT)提供由Adobe和Magento Open Source社群開發的個別修補程式。 它可讓您套用、還原及檢視已安裝的Adobe Commerce或Magento Open Source版本可用的所有個別修補程式的一般資訊。
 
-QPT只會顯示已安裝版本可用的修補程式，並具備分類及易於應用/移除的功能。 若要進一步瞭解，請參閱我們的支援知識庫中的[檢查Adobe Commerce問題 [!DNL Quality Patches Tool]](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/tools/quality-patches-tool/check-patch-for-magento-issue-with-magento-quality-patches)的修補程式。
+QPT只會顯示已安裝版本可用的修補程式，並具備分類及易於應用/移除的功能。 若要進一步瞭解，請參閱我們的支援知識庫中的[檢查Adobe Commerce問題 [!DNL Quality Patches Tool]](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/check-patch-for-magento-issue-with-magento-quality-patches)的修補程式。
