@@ -1,19 +1,22 @@
 ---
-title: Creative Enterprise 和 Document Cloud 支援服務總覽
-description: 本文提供 Adobe Creative Cloud 和 Document Cloud 的客戶支援選項摘要。這些選項包括標準、商務、企業和菁英。
+title: Creative Enterprise 和 Document Cloud 支援服務概觀
+description: 本文提供 Adobe Creative Cloud 和 Document Cloud 的客戶支援選項摘要。 這些選項包括標準、商務、企業和菁英。
 exl-id: e3c762b9-d4b3-4248-b1c1-8212a763b4c5
-source-git-commit: 6e3accaab1360993295e9ee4ab88d55d3e7b744e
+TQID: https://experienceleague.adobe.com/Ly4fta5e3fXbRKDGWPxAIQA45BzxrsHCOw-Xn0aY4ho
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: 287
 ht-degree: 98%
 
 ---
 
 # Creative Cloud Enterprise 和 Document Cloud 的支援服務
 
-Adobe Creative Cloud 和 Document Cloud 客戶支援組織旨在致力助您取得成功。所有應用程式都包含某個支援等級，可讓您輕鬆存取我們的高技能技術資源，以獲得技術方面的協助。
+Adobe Creative Cloud 和 Document Cloud 客戶支援組織旨在致力助您取得成功。 所有應用程式都包含某個支援等級，可讓您輕鬆存取我們的高技能技術資源，以獲得技術方面的協助。
 
-為了滿足更全面的需求，我們提供了 Adobe 支援計劃，其中包含聯絡指定的支援專業人員，以及主動式指導和服務審查的會議。無論您的支援需求有多複雜，Adobe 都能提供您所需的技術和營運專業知識，以協助您從 Adobe 應用程式中獲得最佳效能和最大價值。
+為了滿足更全面的需求，我們提供了 Adobe 支援計劃，其中包含聯絡指定的支援專業人員，以及主動式指導和服務審查的會議。 無論您的支援需求有多複雜，Adobe 都能提供您所需的技術和營運專業知識，以協助您從 Adobe 應用程式中獲得最佳效能和最大價值。
 
 <table style="table-layout:fixed">
 <tr>
@@ -22,7 +25,7 @@ Adobe Creative Cloud 和 Document Cloud 客戶支援組織旨在致力助您取�
     <img alt="標準" src="assets/STANDARDSupportThumbnailCC.png"/>
     </a>
     <div>
-    <a href="dme-standard.md"><strong>標準支援</strong></a> (檢視<a href="assets/DMeStandardSupportDatasheet_2022.pdf" target="_blank">PDF</a>)
+    <a href="dme-standard.md"><strong>標準支援</strong></a> （檢視<a href="assets/DMeStandardSupportDatasheet_2022.pdf" target="_blank">PDF</a>）
     </div>
     <p>授權的使用者 (管理員) 可透過聊天或電話與我們的技術支援團隊互動 (24x7 全年無休)，也可以透過我們的支援入口網站提出協助請求。 </p>
     <br>
@@ -32,7 +35,7 @@ Adobe Creative Cloud 和 Document Cloud 客戶支援組織旨在致力助您取�
       <img alt="商務" src="assets/BusinessSupportThumbnailCC.png">
     </a>
     <div>
-    <a href="dme-business.md"><strong>商業支援</strong></a> (檢視 <a href="assets/DMeBusinessSupportDatasheet_2022.pdf" target="_blank">PDF</a>)
+    <a href="dme-business.md"><strong>商務支援</strong></a> (檢視 <a href="assets/DMeBusinessSupportDatasheet_2022.pdf" target="_blank">PDF</a>)
     </div>
     <p>支援案例優先路由以確保更快聯絡到更資深的支援人員，此外還能夠利用帳戶支援專員，收到您最關鍵支援請求的定期溝通和更新。</p>
     <br>

@@ -2,16 +2,22 @@
 title: '[!UICONTROL 參與度計劃]'
 description: 了解[!UICONTROL 參與度計劃]如何透過提供 Adobe 客戶團隊和參與度選項的集中視圖，來增強利害關係人的可見度和溝通能力。
 exl-id: 65a0ac9f-9103-4497-8e85-c471c2ffff51
-source-git-commit: 76f639e3764509ef2f30bbd98fedbf010075b400
-workflow-type: ht
-source-wordcount: '176'
+TQID: https://experienceleague.adobe.com/M9nZSIddX0t75QsdfRNR0arXCUxoDxcRTdShF3c6-co
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+workflow-type: tm+mt
+source-wordcount: 187
 ht-degree: 100%
 
 ---
 
 # [!UICONTROL 參與度計劃]
 
-**[!UICONTROL 參與度計劃]** 區段解決與利害關係人可見度和溝通能力相關的挑戰。它提供您的 Adobe 客戶團隊集中視圖以及您與他們的互動方式。
+**[!UICONTROL 參與度計劃]** 區段解決與利害關係人可見度和溝通能力相關的挑戰。 它提供您的 Adobe 客戶團隊集中視圖以及您與他們的互動方式。
 
 若要存取此區段，按一下入口網站首頁左側導覽面板的「![engagement-icon](/help/adobe-success-portal/assets/engagement-icon.png)」圖示。
 
@@ -19,7 +25,7 @@ ht-degree: 100%
 
 ## [!UICONTROL 戰略合作夥伴]
 
-此索引標籤顯示您的 Adobe 帳戶合作夥伴清單。按一下每位聯絡人，即可檢視他們的電子郵件、聯絡時間，以及相應的 **[!UICONTROL 加速器]** 和他們參與的 **[!UICONTROL 活動]**。
+此索引標籤顯示您的 Adobe 帳戶合作夥伴清單。 按一下每位聯絡人，即可檢視他們的電子郵件、聯絡時間，以及相應的 **[!UICONTROL 加速器]** 和他們參與的 **[!UICONTROL 活動]**。
 
 ![engagement-plan-strategic-partner](/help/adobe-success-portal/assets/engagement-plan-strategic-partner.png)
 
@@ -31,6 +37,6 @@ ht-degree: 100%
 
 ## [!UICONTROL 加速器目錄]
 
-此索引標籤提供已包含在您的訂閱中可用的 **[!UICONTROL 加速器]** 目錄。審閱產品並與您的 Adobe 客戶團隊協調，以要求加速器參與。
+此索引標籤提供已包含在您的訂閱中可用的 **[!UICONTROL 加速器]** 目錄。 審閱產品並與您的 Adobe 客戶團隊協調，以要求加速器參與。
 
 ![engagement-plan-accelerator-catalog](/help/adobe-success-portal/assets/engagement-plan-accelerator-catalog.png)

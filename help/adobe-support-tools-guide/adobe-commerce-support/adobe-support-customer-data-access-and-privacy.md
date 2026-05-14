@@ -2,13 +2,21 @@
 title: Adobe支援客戶資料存取和隱私權
 description: Adobe技術支援可能需要存取您的Adobe Commerce相關資料才能提供支援。 如果主要的Adobe Commerce帳戶擁有者選擇授權，則只能在其Adobe Commerce帳戶隱私權設定中提供授權。 在建立支援請求之前允許此存取權將有助於確保可正確調查問題和/或幫助提高解決速度。 請注意，Adobe Commerce Cloud專案的「專案所有者」可能不是Adobe Commerce的主要帳戶持有者。
 solution: Commerce
-source-git-commit: e1d8ce29eb1c0487f7f9ec9d2baacb6e5a49c517
+exl-id: ab8f406d-e86c-498c-8cce-0e56c1d26a33
+TQID: https://experienceleague.adobe.com/pXFc4bwBBZtXkcP2DmnK0x2MDxcVlQDrvgPVEgrh4I8
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '458'
-ht-degree: 0%
+source-wordcount: 472
+ht-degree: 1%
 
 ---
-
 
 # Adobe支援客戶資料存取和隱私權
 
@@ -25,7 +33,7 @@ Adobe技術支援可能需要存取您的Adobe Commerce相關資料才能提供�
 1. 在&#x200B;**[!UICONTROL 我的帳戶]**&#x200B;頁面> **[!UICONTROL 帳戶設定]** > **[!UICONTROL 隱私權設定]**。 您將看到同意表單，以授予Adobe技術支援人員存取您資料的許可權。
 1. 檢閱隱私權設定的相關資訊後，請選擇是否勾選&#x200B;**我授權在以下期間存取我的資料的核取方塊：**。
 1. 在持續時間下拉式清單中，選取您希望Adobe技術支援人員存取您的客戶資料的時間段。 您可以選取7天、30天、一年或無限期。
-1. 按一下&#x200B;**[!UICONTROL 「儲存」]**。這會更新頁面底部&#x200B;**下方的開始和結束日期。您已同意下列持續時間** （熒幕擷取畫面）。 取得同意後，授權的主要使用者將在畫面底部看到撤回同意的選項。
+1. 按一下&#x200B;**[!UICONTROL 「儲存」]**。 這會更新頁面底部&#x200B;**下方的開始和結束日期。您已同意下列持續時間** （熒幕擷取畫面）。 取得同意後，授權的主要使用者將在畫面底部看到撤回同意的選項。
    ![magento-account-privacy-settings.png](/help/adobe-support-tools-guide/assets/magento-account-privacy-settings.png)
 
 您可以隨時按一下&#x200B;**撤回同意**，以撤回您對Adobe支援人員存取您資料的同意。

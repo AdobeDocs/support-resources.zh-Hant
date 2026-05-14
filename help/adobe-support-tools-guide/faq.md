@@ -2,9 +2,16 @@
 keywords: FAQ；常見問題
 title: Adobe商業平台與Admin Console常見問題集
 description: Adobe Workfront常見問題集
-source-git-commit: 653e7ff37fefc20cb0d7c745a12d6f47038e8463
+exl-id: 533d7a19-1bb2-4823-860f-d2c66412bb3d
+TQID: https://experienceleague.adobe.com/9vMmY3Kkuy1AuXuGvdqjOwq-eOtL54YaUr1jMVuR-Tw
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '473'
+source-wordcount: 484
 ht-degree: 11%
 
 ---
@@ -33,7 +40,7 @@ ht-degree: 11%
 
 IMS是使用Adobe Workfront的Identity Management服務的縮寫，這代表……
 
-組織是可以讓管理員設定群組和使用者，以及控制 Experience Cloud 中單一登入的實體。組織的作用就像一間登入公司，涵蓋所有 Experience Cloud 產品和應用程式。 通常組織就是您的公司名稱，但是一間公司可以有多個組織。
+組織是可以讓管理員設定群組和使用者，以及控制 Experience Cloud 中單一登入的實體。 組織的作用就像一間登入公司，涵蓋所有 Experience Cloud 產品和應用程式。 通常組織就是您的公司名稱， 但是一間公司可以有多個組織。
 
 +++
 
@@ -69,7 +76,7 @@ Adobe Workfront支援團隊會透過即時協助和指導來移動客戶，以�
 
 +++**如果客戶在Adobe套裝中有其他產品，移至AAC會整合管理主控台嗎？**
 
-是！管理控制檯在Adobe中完全相同，可為管理員提供一個平台，以使用Workfront和幾乎所有其他Adobe產品。
+是！ 管理控制檯在Adobe中完全相同，可為管理員提供一個平台，以使用Workfront和幾乎所有其他Adobe產品。
 
 +++
 

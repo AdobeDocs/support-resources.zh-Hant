@@ -3,9 +3,22 @@ title: Adobe Success Plan 概觀
 description: 本文提供 Adobe Experience Cloud、Adobe Document Cloud 和 Adobe Creative Cloud 的客戶支援選項摘要。
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
 hide: true
-source-git-commit: 521217db5c864fe63289b268d691dafa22d91f45
+TQID: https://experienceleague.adobe.com/jyd4rXuRngHrYK9F6QAUMiOT-toNmxV1t-eAMTRwLWA
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2:
+  - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: 7570e35edc9099a15556ce94a50904d4b402c042
 workflow-type: tm+mt
-source-wordcount: '1822'
+source-wordcount: 1822
 ht-degree: 98%
 
 ---

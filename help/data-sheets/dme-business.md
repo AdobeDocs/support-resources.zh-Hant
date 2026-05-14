@@ -1,10 +1,15 @@
 ---
 title: Creative Cloud 和 Adobe Document Cloud 的商務支援
-description: Adobe 提供全方位的技術資源來支援您的業務，這些資源包含在您的 Adobe 企業訂閱中。商務支援計劃可加強這項服務。商務支援包括支援案例的優先路由，以確保根據提交案例更快聯絡到更資深的支援資源。
+description: Adobe 提供全方位的技術資源來支援您的業務，這些資源包含在您的 Adobe 企業訂閱中。 商務支援計劃可加強這項服務。 商務支援包括支援案例的優先路由，以確保根據提交案例更快聯絡到更資深的支援資源。
 exl-id: d2042be3-46af-4863-8f37-491a61ae3b0b
-source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
+TQID: https://experienceleague.adobe.com/jYFjKBCdJyMEpfRufkgr6mYLpQLxjvIEh3cOFXEEWhs
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '830'
+source-wordcount: 835
 ht-degree: 100%
 
 ---
@@ -13,7 +18,7 @@ ht-degree: 100%
 
 ![圖示](assets/Businessbanner.png)
 
-Adobe 提供全方位的技術資源來支援您的業務，這些資源包含在您的 Adobe 企業訂閱中。商務支援計劃可加強這項服務。商務支援包括支援案例的優先路由，以確保根據提交案例更快聯絡到更資深的支援資源。
+Adobe 提供全方位的技術資源來支援您的業務，這些資源包含在您的 Adobe 企業訂閱中。 商務支援計劃可加強這項服務。 商務支援包括支援案例的優先路由，以確保根據提交案例更快聯絡到更資深的支援資源。
 
 商務客戶還可以透過電話或支援入口網站，聯絡我們的技術支援團隊並提出任何產品查詢；我們可在最關鍵的時刻幫助保護您的業務。 商務客戶將可善用帳戶支援專員來支援案例升級管理，針對您最關鍵的支援請求獲得定期溝通和更新。
 
@@ -25,7 +30,7 @@ Adobe 提供全方位的技術資源來支援您的業務，這些資源包含�
     <th></th>
     <th></th>
     <th>標準支援</th>
-    <th>商務支援</th>
+    <th>商業支援</th>
   </tr>
 </thead>
 <tbody>
@@ -142,7 +147,7 @@ Adobe 提供全方位的技術資源來支援您的業務，這些資源包含�
   <tr>
     <th>優先順序</th>
     <th>標準支援</th>
-    <th>商業支援</th>
+    <th>業務支援</th>
     <th>企業支援</th>
     <th>Elite 支援</th>
   </tr>

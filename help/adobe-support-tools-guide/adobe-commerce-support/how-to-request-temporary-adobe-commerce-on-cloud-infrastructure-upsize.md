@@ -3,10 +3,25 @@ title: 如何請求雲端基礎結構上的臨時Adobe Commerce升級
 description: 如果您的組織正在規劃您預期會有高流量的線上活動，或您突然發現您的網站正在進行高流量活動，您可以提出[支援票證](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=zh-Hant#submit-ticket)以請求雲端基礎結構存放區中Adobe Commerce的臨時額外雲端容量。
 solution: Commerce
 exl-id: 203882c0-929a-4bb3-afff-738bc518b46b
-source-git-commit: bbc1d3c0a0436a36d55adac14bb354fe0ecf96da
+TQID: https://experienceleague.adobe.com/9--JwGLuX01kXR569r1OjVrkiTd2BQa-j-gOTs9oKGY
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: bd989d82-1e15-4534-88db-f1f51dd77ffa
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+subfeature_v2:
+  - id: f8ddfd3b-6194-46e8-a176-0e918039be56
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '882'
-ht-degree: 0%
+source-wordcount: 1136
+ht-degree: 1%
 
 ---
 
@@ -65,16 +80,16 @@ Adobe為雲端基礎結構上的Adobe Commerce提供一組New Relic警報政策�
    * **[!UICONTROL 案例標題]**
    * **[!UICONTROL 案例描述]** *（請確定這些描述清楚說明問題和內容。）*
 
-1. 從&#x200B;*問題原因*&#x200B;下拉式功能表中選取&#x200B;**[!UICONTROL 基礎結構變更要求]**。
+1. 從&#x200B;**[!UICONTROL 問題原因]**&#x200B;下拉式功能表中選取&#x200B;*基礎結構變更要求*。
 
 1. 從下拉式功能表中選擇&#x200B;**[!UICONTROL 環境]**。
 
 1. 從下拉式功能表中選取適當的&#x200B;**[!UICONTROL 產品版本]**。
 
-1. 從&#x200B;*您今天想要進行的基礎變更*&#x200B;下拉式選單中選擇&#x200B;**[!UICONTROL 雲端專案調整大小(vCPU)]**。
+1. 從&#x200B;**[!UICONTROL 您今天想要進行的基礎變更]**&#x200B;下拉式選單中選擇&#x200B;*雲端專案調整大小(vCPU)*。
 
 1. **選取[!UICONTROL 架構]**：
-   * *預設架構：*&#x200B;從&#x200B;*選取大小*&#x200B;下拉式功能表中選取&#x200B;**下一個可用大小**。
+   * *預設架構：*&#x200B;從&#x200B;**選取大小**&#x200B;下拉式功能表中選取&#x200B;*下一個可用大小*。
    * *縮放架構：*&#x200B;選取時，畫面會變更為顯示兩個額外的欄位：
       * *網頁節點的大小*
       * *服務節點的大小* *（請輸入每個節點的所需大小。）*
@@ -118,11 +133,11 @@ Adobe為雲端基礎結構上的Adobe Commerce提供一組New Relic警報政策�
 ## 相關閱讀
 
 * 如需如何衡量及改善網站績效的深入分析、方法和範例，請參閱我們的支援知識庫中的下列深入文章：
-   * 雲端上Adobe Commerce的[CPU配置計算](https://experienceleague.adobe.com/zh-hant/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-cpu-allocation-calculation)
+   * [雲端上Adobe Commerce的CPU配置計算](https://experienceleague.adobe.com/zh-hant/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-cpu-allocation-calculation)
    * [檢查雲端上的Adobe Commerce是否需要主機執行個體的大小調整](https://experienceleague.adobe.com/zh-hant/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-check-if-upsize-for-hosts-instances-is-needed)
    * [檢查雲端上Adobe Commerce的主機CPU設定](https://experienceleague.adobe.com/zh-hant/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-check-hosts-cpu-configuration)
 * 如需如何識別中斷的詳細資訊，請參閱我們的支援知識庫中的[識別並測量雲端上Adobe Commerce的中斷](https://experienceleague.adobe.com/zh-hant/docs/commerce-knowledge-base/kb/how-to/how-to-identify-outages)。
 * 如需改善網站效能以避免使用容量增加之需要的資訊，請參閱我們的開發人員檔案中的下列文章：
    * [影像大小](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/catalog/products/digital-assets/product-image-config#product-image-resizing)
-   * [整頁快取](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/systems/tools/cache-management#full-page-caching)
+   * [全頁快取](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/systems/tools/cache-management#full-page-caching)
    * [ECE-Tools](https://experienceleague.adobe.com/zh-hant/docs/commerce-on-cloud/user-guide/dev-tools/ece-tools/package-overview)

@@ -2,9 +2,22 @@
 title: 企業支援
 description: Adobe Experience Cloud 企業支援服務提供增強型支援服務層級目標 (SLT)、技術專長的好處以及具有指定支援工程師身分的宣傳者。
 exl-id: f3dfbc40-df11-4ad9-9693-568d9e35ec04
-source-git-commit: 1fd2098e2065def561147cd99dbed18c3d94cde8
+TQID: https://experienceleague.adobe.com/7dJ79eoty0bp2vHc0RuZsrxQ2dmQpDjbLuBot9xnViI
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2:
+  - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+  - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '1213'
+source-wordcount: 1230
 ht-degree: 100%
 
 ---

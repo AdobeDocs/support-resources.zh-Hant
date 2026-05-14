@@ -2,9 +2,18 @@
 title: 業務人物誌的重要功能
 description: /[!DNL Adobe Success/] 入口網站為業務人物誌提供的各項功能，可以針對多項關鍵業務目標進行價值衡量、追蹤進度，以及透過容易存取的視圖提供洞察。
 exl-id: 374c3809-a982-464e-b417-1b0ae4191628
-source-git-commit: b1bc0a7a210ead0639cb87193c93d23b38f1f08a
-workflow-type: ht
-source-wordcount: '131'
+TQID: https://experienceleague.adobe.com/DhUGTnT-ENmeY-Rg65TJLonVqvaSU7dwGrXvsTJV0dk
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+workflow-type: tm+mt
+source-wordcount: 142
 ht-degree: 100%
 
 ---
