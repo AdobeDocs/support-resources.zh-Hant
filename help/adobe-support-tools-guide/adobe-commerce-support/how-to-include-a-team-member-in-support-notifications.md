@@ -7,10 +7,15 @@ solution: Commerce
 feature-set: Commerce
 exl-id: 392ef795-f710-401f-8b0e-3c8dfec7bb3a
 TQID: 'https://experienceleague.adobe.com/fWRfvDT8NCwPfzmAx1Zowo4T8KvKLKWqhDkZDfX8stU'
-product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
-feature_v2: id: e7dae43f-215c-4cdf-90d3-c5a461a6e669
-subfeature_v2: id: bb2df8be-afdd-4818-b6b5-95ca1dd3bc3a
-role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: e7dae43f-215c-4cdf-90d3-c5a461a6e669
+subfeature_v2:
+  - id: bb2df8be-afdd-4818-b6b5-95ca1dd3bc3a
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
 source-git-commit: 9f1760d31cd80e0358aa341c3f6091b2a86b6d67
 workflow-type: tm+mt
 source-wordcount: 305
