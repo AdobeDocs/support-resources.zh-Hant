@@ -9,8 +9,8 @@ index: true
 exl-id: 7a36a281-98d0-4b1f-afc5-dbcde10fddaf
 source-git-commit: bbc1d3c0a0436a36d55adac14bb354fe0ecf96da
 workflow-type: tm+mt
-source-wordcount: '3827'
-ht-degree: 1%
+source-wordcount: '4803'
+ht-degree: 3%
 
 ---
 
@@ -175,7 +175,7 @@ Customer Journey Analytics使用5 P來達成假日/旺季整備。
 
 * 利用RAM （[[!UICONTROL 報告活動管理員]總覽](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview)）即時監視使用中及佇列的報告要求、識別無容量連線，並找出瓶頸。
 * 使用[錯誤和疑難排解指南](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-workspace/workspace-faq/error-messages)和[已知限制](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-workspace/workspace-faq/aw-limitations)文章，在尖峰負載期間留意延遲增加的情況。
-* 讓管理員透過RAM搶先暫停或取消長時間執行/封鎖的請求。 請參閱CJA[文章中的](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-cancel-requests)取消報告要求。
+* 讓管理員透過RAM搶先暫停或取消長時間執行/封鎖的請求。 請參閱CJA[&#128279;](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-cancel-requests)文章中的取消報告要求。
 
 ### 最佳做法
 
@@ -186,7 +186,7 @@ Customer Journey Analytics使用5 P來達成假日/旺季整備。
 ### 疑難排解
 
 * 疑難排解工作區錯誤時，請參閱錯誤訊息以取得原因和建議的動作；使用RAM （[!UICONTROL 報告活動管理員]）來清除瓶頸並有效管理並行。 如需詳細資訊，請參閱[CJA Workspace錯誤處理](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-workspace/workspace-faq/error-messages)。
-* 使用RAM （[[!UICONTROL 中的]報告活動管理員](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview)）來找出有問題的使用者、查詢或專案；視需要排定優先順序並終止/取消。
+* 使用RAM （[&#128279;](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview)中的[!UICONTROL 報告活動管理員]）來找出有問題的使用者、查詢或專案；視需要排定優先順序並終止/取消。
 
 ### 尖峰後學習
 
@@ -232,7 +232,7 @@ Customer Journey Analytics使用5 P來達成假日/旺季整備。
 
 * 如需使用Adobe Experience Manager雲端服務為高流量做好準備的詳細深入分析和指引，請參閱下列連結：
 
-   * AEM as a Cloud Service中的[CDN](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/implementing/content-delivery/cdn)
+   * [AEM as a Cloud Service 中的 CDN](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/implementing/content-delivery/cdn)
    * [AEM as a Cloud Service快取](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-learn/cloud-service/caching/overview)
 
 * 如果您是Ultimate Success客戶，且最近與Adobe客戶團隊共用大量預測資訊，請放心再次將資訊傳送給我們，我們已經有一個檢視。
@@ -293,7 +293,7 @@ AEM客戶運用Adobe Managed Services時，可以主動與其CSE合作，針對�
    * 快速輕鬆地將直接電子郵件傳送至您的測試記錄，以瞭解您的電子郵件在不同使用者端/裝置上的顯示方式。 請參閱[從智慧列示](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list)文章執行單一流程步驟。
    * 對於[!DNL Litmus]位使用者，現在比以往更容易整合您的帳戶，並直接從電子郵件編輯器開始轉譯測試。 檢視[使用 [!DNL Litmus]](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/email-marketing/email-designer/test-email-rendering)測試電子郵件轉譯文章。
 * 檢視電子郵件垃圾郵件報告功能，此功能與[!DNL SpamAssassin]整合，以檢閱您的電子郵件內容，並指派分數，說明其點選收件匣或標示為&#x200B;*垃圾郵件*&#x200B;的可能性。 請參閱[電子郵件垃圾郵件報告](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/email-marketing/email-designer/spam-report)文章。
-* 密切注視[!UICONTROL 行銷活動佇列]，確認您的行銷活動正在處理中，並正確排定高度緊急專案的優先順序。 檢視[我的行銷活動是否正在執行？](https://nation.marketo.com/t5/knowledgebase/is-my-campaign-running/ta-p/248662)篇文章。
+* 密切注視[!UICONTROL 行銷活動佇列]，確認您的行銷活動正在處理中，並正確排定高度緊急專案的優先順序。 檢視[我的行銷活動是否正在執行？](https://nation.marketo.com/t5/knowledgebase/is-my-campaign-running/ta-p/248662) 文章。
 
 ### 簡化您的支援體驗
 
@@ -384,7 +384,7 @@ AEM客戶運用Adobe Managed Services時，可以主動與其CSE合作，針對�
 為了在假期維持快速可靠的報表，Adobe建議：
 
 * [最佳化Analysis Workspace效能](https://experienceleague.adobe.com/zh-hant/docs/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance)
-* [Report Builder的疑難排解和最佳做法：最佳化要求的建議](https://experienceleague.adobe.com/zh-hant/docs/analytics/analyze/legacy-report-builder/troubleshoot#section_33EF919255BF46CD97105D8ACB43573F)
+* [Report Builder的疑難排解和最佳做法：最佳化請求的建議](https://experienceleague.adobe.com/zh-hant/docs/analytics/analyze/legacy-report-builder/troubleshoot#section_33EF919255BF46CD97105D8ACB43573F)
 * [Analytics元件指南：排程報表佇列](https://experienceleague.adobe.com/zh-hant/docs/analytics/components/scheduled-reports-admin)
 
 ### 假日維護規劃
