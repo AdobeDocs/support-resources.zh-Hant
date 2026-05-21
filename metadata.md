@@ -7,7 +7,7 @@ usetq: true
 product: experience cloud
 type: Documentation
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/support-resources.en
+git-repo: https://github.com/AdobeDocs/support-resources.zh-Hant
 index: true
 source-git-commit: b4bfd1b10411953a5d3a1d36bf25099193c0ec1c
 workflow-type: tm+mt
