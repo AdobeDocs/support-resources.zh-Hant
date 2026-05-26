@@ -91,7 +91,7 @@ ht-degree: 2%
 
 ## 產品狀態警示
 
-區段顯示指派給組織的Adobe產品的目前操作狀態。 狀態&#x200B;**[!UICONTROL 可用]**&#x200B;表示產品已完全運作，沒有使用中的中斷。 如果存在一或多個問題，產品卡上就會顯示使用中問題的總數。 選取產品卡以檢視Adobe [狀態網站](https://status.adobe.com/)上的其他詳細資料。
+區段顯示指派給組織的Adobe產品的目前操作狀態。 狀態&#x200B;**[!UICONTROL 可用]**&#x200B;表示產品已完全運作，沒有使用中的中斷。 如果存在一或多個問題，產品卡上就會顯示使用中問題的總數。 選取產品卡以檢視Adobe [狀態網站](https://status.adobe.com/zh-tw/)上的其他詳細資料。
 
 ![產品狀態警示區段](/help/adobe-support-tools-guide/assets/product-status-alerts.png)
 
@@ -117,7 +117,7 @@ ht-degree: 2%
 
 ![您的系統狀態警示區段](/help/adobe-support-tools-guide/assets/system-status-alerts.png)
 
-選取「**[!UICONTROL 管理訂閱]**」以在Adobe [狀態網站](https://status.adobe.com/)上設定您Adobe產品的通知偏好設定。
+選取「**[!UICONTROL 管理訂閱]**」以在Adobe [狀態網站](https://status.adobe.com/zh-tw/)上設定您Adobe產品的通知偏好設定。
 
 ## 您的計畫資訊
 
