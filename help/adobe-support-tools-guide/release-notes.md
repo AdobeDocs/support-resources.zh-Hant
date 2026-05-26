@@ -11,9 +11,9 @@ role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: 7570e35edc9099a15556ce94a50904d4b402c042
+source-git-commit: bff5962913571b7bc192e634346c124985dc3609
 workflow-type: tm+mt
-source-wordcount: 973
+source-wordcount: 1177
 ht-degree: 1%
 
 ---
@@ -25,6 +25,24 @@ ht-degree: 1%
 ![新](../adobe-support-tools-guide/assets/new.svg)新功能
 ![修正](../adobe-support-tools-guide/assets/fix.svg)修正和改良
 ![錯誤](../adobe-support-tools-guide/assets/bug.svg)已知問題
+
+## 2026年5月26日 — Experience League支援入口網站UI更新
+
+1. 新的集中式首頁提供支援活動的概覽，包括按優先順序的案例計數、等待回應的案例、即時產品狀態以及單一儀表板中的系統警示。
+
+1. 左上角的&#x200B;**[!UICONTROL 組織切換器]**&#x200B;可讓您切換組織，而入口網站會自動更新所選組織的案例資料、產品狀態和支援資訊。
+
+1. 入口網站切換功能可讓您隨時在重新設計的入口網站和目前的Experience League支援入口網站之間切換，兩個體驗會保持完全同步，讓您的案例資料保持最新。
+
+1. 您可以監視有權存取您組織的所有Adobe產品的即時運作狀態，並依事件型別（包括主要、次要、潛在、維護和公告）篩選系統警報。
+
+1. Ultimate Success plan客戶現在可以存取專屬的&#x200B;**[!UICONTROL 我的成功]**&#x200B;頁面，其中包含有關其成功團隊的詳細資訊和資源，以支援其與Adobe的互動。
+
+1. 重新設計的支援入口網站適用於除Adobe Commerce以外的所有產品。
+
+>[!NOTE]
+>
+>計畫在未來的版本中更新「案例建立」、「案例詳細資料」和「我的案例」頁面。 在此之前，這些頁面將可在目前的Experience League支援入口網站中使用。
 
 ## 2026年5月7日 — 擴充「要求回呼」功能
 
