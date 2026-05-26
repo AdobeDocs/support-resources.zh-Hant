@@ -1,10 +1,9 @@
 ---
 title: Experience League支援入口網站 — 新使用者介面
 description: 重新設計Experience League支援入口網站，透過改善導覽、分析和快速動作，以及順暢地切換到目前的入口網站進行案例管理，來簡化支援工作流程、案例分析和產品監控。
-hold: true
-source-git-commit: 66bfb45f44f79681278b77a528c0c5000504b293
+source-git-commit: c40672aed3df1f842cfd032b5a653b8fbf70876e
 workflow-type: tm+mt
-source-wordcount: '914'
+source-wordcount: '898'
 ht-degree: 2%
 
 ---
@@ -92,7 +91,7 @@ ht-degree: 2%
 
 ## 產品狀態警示
 
-區段顯示指派給組織的Adobe產品的目前操作狀態。 狀態&#x200B;**[!UICONTROL 可用]**&#x200B;表示產品已完全運作，沒有使用中的中斷。 如果存在一或多個問題，產品卡上就會顯示使用中問題的總數。 選取產品卡以檢視Adobe [狀態網站](https://status.adobe.com/zh-tw/)上的其他詳細資料。
+區段顯示指派給組織的Adobe產品的目前操作狀態。 狀態&#x200B;**[!UICONTROL 可用]**&#x200B;表示產品已完全運作，沒有使用中的中斷。 如果存在一或多個問題，產品卡上就會顯示使用中問題的總數。 選取產品卡以檢視Adobe [狀態網站](https://status.adobe.com/)上的其他詳細資料。
 
 ![產品狀態警示區段](/help/adobe-support-tools-guide/assets/product-status-alerts.png)
 
@@ -118,7 +117,7 @@ ht-degree: 2%
 
 ![您的系統狀態警示區段](/help/adobe-support-tools-guide/assets/system-status-alerts.png)
 
-選取「**[!UICONTROL 管理訂閱]**」以在Adobe [狀態網站](https://status.adobe.com/zh-tw/)上設定您Adobe產品的通知偏好設定。
+選取「**[!UICONTROL 管理訂閱]**」以在Adobe [狀態網站](https://status.adobe.com/)上設定您Adobe產品的通知偏好設定。
 
 ## 您的計畫資訊
 

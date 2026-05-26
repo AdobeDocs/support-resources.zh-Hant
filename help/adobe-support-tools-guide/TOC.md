@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 5c66760ce359e3a5d4c399dd9cab303ad04c6508
+source-git-commit: 665fb88bb2240bcf414697ee415569dc083a9539
 workflow-type: tm+mt
-source-wordcount: '338'
+source-wordcount: '345'
 ht-degree: 2%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 2%
 - [Adobe客戶支援權益設定](adobe-customer-support-entitlement-configuration.md)
 - [支援電話號碼更新](phone-numbers.md)
 - [向上呈報管理](/help/adobe-support-tools-guide/escalation-management.md)
+- [Experience League支援入口網站 — 新使用者介面](/help/adobe-support-tools-guide/exl-new-ui.md)
 - Adobe Admin Console {#adobe-admin-console}
    - [導覽Adobe Admin Console](adobe-admin-console/navigating-the-adobe-admin-console.md)
    - [執行擱置中的工作](adobe-admin-console/execute-jobs.md)
