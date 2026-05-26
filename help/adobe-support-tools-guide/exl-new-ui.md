@@ -1,10 +1,9 @@
 ---
 title: Experience League支援入口網站 — 新使用者介面
 description: 重新設計Experience League支援入口網站，透過改善導覽、分析和快速動作，以及順暢地切換到目前的入口網站進行案例管理，來簡化支援工作流程、案例分析和產品監控。
-hold: true
-source-git-commit: 66bfb45f44f79681278b77a528c0c5000504b293
+source-git-commit: c40672aed3df1f842cfd032b5a653b8fbf70876e
 workflow-type: tm+mt
-source-wordcount: '914'
+source-wordcount: '898'
 ht-degree: 2%
 
 ---
