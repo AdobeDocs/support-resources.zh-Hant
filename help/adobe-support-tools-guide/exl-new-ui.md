@@ -1,7 +1,7 @@
 ---
 title: Experience League支援入口網站 — 新使用者介面
 description: 重新設計Experience League支援入口網站，透過改善導覽、分析和快速動作，以及順暢地切換到目前的入口網站進行案例管理，來簡化支援工作流程、案例分析和產品監控。
-source-git-commit: c40672aed3df1f842cfd032b5a653b8fbf70876e
+source-git-commit: 693c4ee7852623006acd388d905b43bccab27730
 workflow-type: tm+mt
 source-wordcount: '898'
 ht-degree: 2%
@@ -22,7 +22,7 @@ ht-degree: 2%
 
 **[!UICONTROL 首頁]**&#x200B;頁面是支援活動的中心樞紐。 它提供支援環境的概觀，並可快速存取主要功能。
 
-新EXL UI的![首頁](/help/adobe-support-tools-guide/assets/home-page-new-ui.png)
+新EXL UI的![首頁](/help/adobe-support-tools-guide/assets/home-page-new-ui-1.png)
 
 左側導覽面板提供下列區段的存取權：
 
@@ -60,7 +60,7 @@ ht-degree: 2%
 
 **[!UICONTROL 服務分析]**&#x200B;區段提供支援案例活動的摘要。 在&#x200B;**[!UICONTROL 我的案例]**&#x200B;和&#x200B;**[!UICONTROL 我的組織案例]**&#x200B;檢視之間切換。 **[!UICONTROL 我的案例]**&#x200B;檢視會顯示個人專屬的案例統計資料，而&#x200B;**[!UICONTROL 我的組織案例]**&#x200B;檢視則會顯示整個組織的案例統計資料。
 
-![服務分析區段](/help/adobe-support-tools-guide/assets/service-analytics.png)
+![服務分析區段](/help/adobe-support-tools-guide/assets/service-analytics-1.png)
 
 可使用下列量度：
 
@@ -71,7 +71,7 @@ ht-degree: 2%
 
 本區段顯示依優先順序層級的支援案例視覺細目。
 
-![依優先順序區段的案例計數](/help/adobe-support-tools-guide/assets/case-count-by-priority.png)
+![依優先順序區段的案例計數](/help/adobe-support-tools-guide/assets/case-count-by-priority-1.png)
 
 **[!UICONTROL 我的案例]**&#x200B;和&#x200B;**[!UICONTROL 我的組織案例]**&#x200B;選項適用於此圖表，可讓您在個人或組織層級檢視。
 
@@ -85,15 +85,15 @@ ht-degree: 2%
 - 提交日期
 - 狀態
 
-![我提交的案例區段](/help/adobe-support-tools-guide/assets/my-submitted-case.png)
+![我提交的案例區段](/help/adobe-support-tools-guide/assets/my-submitted-case-1.png)
 
 選取&#x200B;**[!UICONTROL 案例ID]**&#x200B;以在目前的Experience League支援入口網站中檢視案例詳細資料。 選取&#x200B;**[!UICONTROL 檢視所有案例]**&#x200B;以檢視完整的案例清單。
 
 ## 產品狀態警示
 
-區段顯示指派給組織的Adobe產品的目前操作狀態。 狀態&#x200B;**[!UICONTROL 可用]**&#x200B;表示產品已完全運作，沒有使用中的中斷。 如果存在一或多個問題，產品卡上就會顯示使用中問題的總數。 選取產品卡以檢視Adobe [狀態網站](https://status.adobe.com/zh-tw/)上的其他詳細資料。
+區段顯示指派給組織的Adobe產品的目前操作狀態。 狀態&#x200B;**[!UICONTROL 可用]**&#x200B;表示產品已完全運作，沒有使用中的中斷。 如果存在一或多個問題，產品卡上就會顯示使用中問題的總數。 選取產品卡以檢視Adobe [狀態網站](https://status.adobe.com/)上的其他詳細資料。
 
-![產品狀態警示區段](/help/adobe-support-tools-guide/assets/product-status-alerts.png)
+![產品狀態警示區段](/help/adobe-support-tools-guide/assets/product-status-alerts-1.png)
 
 ## 您的系統狀態警示
 
@@ -115,9 +115,9 @@ ht-degree: 2%
 
 選取警報以展開並檢視其他詳細資料。
 
-![您的系統狀態警示區段](/help/adobe-support-tools-guide/assets/system-status-alerts.png)
+![您的系統狀態警示區段](/help/adobe-support-tools-guide/assets/system-status-alerts-1.png)
 
-選取「**[!UICONTROL 管理訂閱]**」以在Adobe [狀態網站](https://status.adobe.com/zh-tw/)上設定您Adobe產品的通知偏好設定。
+選取「**[!UICONTROL 管理訂閱]**」以在Adobe [狀態網站](https://status.adobe.com/)上設定您Adobe產品的通知偏好設定。
 
 ## 您的計畫資訊
 
@@ -131,7 +131,7 @@ ht-degree: 2%
 >  
 >此頁面僅供&#x200B;**[!UICONTROL Ultimate Success]**&#x200B;計畫的客戶使用。
 
-![我的成功頁面](/help/adobe-support-tools-guide/assets/my-success-page.png)
+![我的成功頁面](/help/adobe-support-tools-guide/assets/my-success-page-1.png)
 
 此頁面包含：
 
@@ -148,4 +148,4 @@ ht-degree: 2%
 
 本區段顯示您專屬的Adobe成功團隊。 選取要傳送電子郵件之團隊成員旁的&#x200B;**[!UICONTROL 連絡人]**。
 
-![Adobe成功團隊區段](/help/adobe-support-tools-guide/assets/adobe-success-team.png)
+![Adobe成功團隊區段](/help/adobe-support-tools-guide/assets/adobe-success-team-1.png)
