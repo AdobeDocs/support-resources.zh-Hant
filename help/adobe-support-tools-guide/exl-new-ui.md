@@ -1,9 +1,14 @@
 ---
 title: Experience League支援入口網站 — 新使用者介面
 description: 重新設計Experience League支援入口網站，透過改善導覽、分析和快速動作，以及順暢地切換到目前的入口網站進行案例管理，來簡化支援工作流程、案例分析和產品監控。
-source-git-commit: 06859737ce72b5350543f8e02c30a721884e2464
+TQID: 'https://experienceleague.adobe.com/-pTlo6TkAlBDt4-xPwcU-I7yWtUinu2avTCoJVXK2bs'
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 2efca23d4302f4c6caf580a9ae3d3ffde70bfa36
 workflow-type: tm+mt
-source-wordcount: '898'
+source-wordcount: 898
 ht-degree: 2%
 
 ---
@@ -91,7 +96,7 @@ ht-degree: 2%
 
 ## 產品狀態警示
 
-區段顯示指派給組織的Adobe產品的目前操作狀態。 狀態&#x200B;**[!UICONTROL 可用]**&#x200B;表示產品已完全運作，沒有使用中的中斷。 如果存在一或多個問題，產品卡上就會顯示使用中問題的總數。 選取產品卡以檢視Adobe [狀態網站](https://status.adobe.com/zh-tw/)上的其他詳細資料。
+區段顯示指派給組織的Adobe產品的目前操作狀態。 狀態&#x200B;**[!UICONTROL 可用]**&#x200B;表示產品已完全運作，沒有使用中的中斷。 如果存在一或多個問題，產品卡上就會顯示使用中問題的總數。 選取產品卡以檢視Adobe [狀態網站](https://status.adobe.com/)上的其他詳細資料。
 
 ![產品狀態警示區段](/help/adobe-support-tools-guide/assets/product-status-alerts-1.png)
 
@@ -117,7 +122,7 @@ ht-degree: 2%
 
 ![您的系統狀態警示區段](/help/adobe-support-tools-guide/assets/system-status-alerts-1.png)
 
-選取「**[!UICONTROL 管理訂閱]**」以在Adobe [狀態網站](https://status.adobe.com/zh-tw/)上設定您Adobe產品的通知偏好設定。
+選取「**[!UICONTROL 管理訂閱]**」以在Adobe [狀態網站](https://status.adobe.com/)上設定您Adobe產品的通知偏好設定。
 
 ## 您的計畫資訊
 
