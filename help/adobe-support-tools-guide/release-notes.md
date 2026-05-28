@@ -4,16 +4,12 @@ description: 有關Experience League支援的最新發行資訊。
 feature: Release Notes
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
 TQID: https://experienceleague.adobe.com/deGe04hNuc2gsMLHx49aIihzTqQoUbFYCYiReOgzowk
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-topic_v2:
-  - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: bff5962913571b7bc192e634346c124985dc3609
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11
+source-git-commit: a279aba612b6a6c61e4df38ee42b76fca90d20ea
 workflow-type: tm+mt
-source-wordcount: 1177
+source-wordcount: 1209
 ht-degree: 1%
 
 ---
@@ -25,6 +21,10 @@ ht-degree: 1%
 ![新](../adobe-support-tools-guide/assets/new.svg)新功能
 ![修正](../adobe-support-tools-guide/assets/fix.svg)修正和改良
 ![錯誤](../adobe-support-tools-guide/assets/bug.svg)已知問題
+
+## 2026年5月28日 — 擴充[!UICONTROL 要求回呼]功能
+
+Adobe Journey Optimizer、Customer Journey Analytics和Real-Time Customer Data Platform產品使用者現在可以使用&#x200B;**[!UICONTROL 要求回撥]**&#x200B;功能。
 
 ## 2026年5月26日 — Experience League支援入口網站UI更新
 
@@ -44,7 +44,7 @@ ht-degree: 1%
 >
 >計畫在未來的版本中更新「案例建立」、「案例詳細資料」和「我的案例」頁面。 在此之前，這些頁面將可在目前的Experience League支援入口網站中使用。
 
-## 2026年5月7日 — 擴充「要求回呼」功能
+## 2026年5月7日 — 擴充[!UICONTROL 要求回呼]功能
 
 Adobe Commerce和Adobe GenStudio現在都可使用「要求回撥」功能。 Adobe Commerce客戶可以方便地在最適合自己的時間排程回呼，而Adobe GenStudio客戶可以選擇要求立即或排程的回呼。
 
@@ -78,13 +78,13 @@ Adobe Commerce和Adobe GenStudio現在都可使用「要求回撥」功能。 Ad
 
 1. 使用者可以提交有關個別深入分析的意見回饋，以協助Adobe持續改善「系統深入分析」的正確性和相關性。
 
-## 2026年4月23日 — 擴充「要求回呼」功能
+## 2026年4月23日 — 擴充[!UICONTROL 要求回呼]功能
 
-Analytics、Admin Console、Audience Manager和Target產品使用者現在可以使用「要求回撥」功能。
+**[!UICONTROL 要求回撥]**&#x200B;功能現在可供Analytics、Admin Console、Audience Manager和Target產品使用者使用。
 
-## 2026年4月8日 — 擴充「要求回呼」功能
+## 2026年4月8日 — 擴充[!UICONTROL 要求回呼]功能
 
-Marketo產品使用者現在可以使用「要求回撥」功能。
+**[!UICONTROL 要求回撥]**&#x200B;功能現在可供Marketo產品使用者使用。
 
 ## 2026年3月30日 — 增強型案例表單
 
@@ -143,9 +143,9 @@ Marketo產品使用者現在可以使用「要求回撥」功能。
 
 ![修正](../adobe-support-tools-guide/assets/fix.svg)已新增星號(*)作為必要欄位指標，以確保完整度並減少提交錯誤。
 
-## 2026年3月18日 — 擴充「要求回呼」功能
+## 2026年3月18日 — 擴充[!UICONTROL 要求回呼]功能
 
-Experience League現在提供「要求回撥」選項，透過熒幕共用功能啟用自助式Web會議排程，以更快解決問題。
+Experience League現在提供&#x200B;**[!UICONTROL 要求回撥]**&#x200B;選項，透過熒幕共用功能啟用自助網路會議排程，以更快解決問題。
 
 - 此功能適用於Adobe Experience Manager、Campaign和Workfront。
 - 客戶可以在方便的時候安排會議，並立即收到邀請。
