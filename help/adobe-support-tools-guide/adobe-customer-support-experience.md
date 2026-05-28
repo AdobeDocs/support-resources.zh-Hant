@@ -14,9 +14,9 @@ topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 7570e35edc9099a15556ce94a50904d4b402c042
+source-git-commit: 08be6152d1f6395647c7eb04e39ed448dac86bba
 workflow-type: tm+mt
-source-wordcount: 1499
+source-wordcount: 1510
 ht-degree: 0%
 
 ---
@@ -92,9 +92,9 @@ Experience League是自助服務支援入口網站，專為提供個人化協助
 
 1. 從&#x200B;**[!UICONTROL 首頁]**&#x200B;功能表，您可以&#x200B;**[!UICONTROL 開啟支援票證]**、**[!UICONTROL 檢視及管理您的案例]**、**[!UICONTROL 要求回撥]**&#x200B;或存取其他學習資源。
 
-**[!UICONTROL 要求回撥]**&#x200B;選項可讓您排程具有熒幕共用P2和P3案例的Web會議，以更快速、更有效率的方式解決問題。 它適用於Adobe Experience Manager、Admin Console、Analytics、Audience Manager、Campaign、Commerce、GenStudio、Marketo、Target和Workfront。 會議排程可在客戶方便時進行。 此外，對於除Adobe Commerce以外的所有上述產品，也提供P1案例的立即電話回呼。
+   **[!UICONTROL 要求回撥]**&#x200B;選項可讓您排程具有熒幕共用P2和P3案例的Web會議，以更快速、更有效率的方式解決問題。 它適用於Adobe Experience Manager、Admin Console、Adobe Journey Optimizer、Analytics、Audience Manager、Campaign、Commerce、Customer Journey Analytics、GenStudio、Marketo、Real-Time Customer Data Platform、Target和Workfront。 會議排程可在客戶方便時進行。 此外，對於除Adobe Commerce以外的所有上述產品，也提供P1案例的立即電話回呼。
 
-![Experience League首頁功能表](./assets/home-menu.png)
+   ![Experience League首頁功能表](./assets/home-menu.png)
 
 1. 若要提交案例，請選取&#x200B;**[!UICONTROL 開啟支援票證]**。 您也可以在側邊欄功能表中選取&#x200B;**[!UICONTROL 開啟票證]**。
 
