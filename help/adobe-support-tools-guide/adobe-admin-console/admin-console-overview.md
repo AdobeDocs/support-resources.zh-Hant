@@ -5,10 +5,10 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 34be803e-da0f-4968-bb54-171be200a875
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+source-git-commit: f6a43012bc97ea73f8b2b42cfb7d0fe5e176bf56
 workflow-type: tm+mt
-source-wordcount: '1742'
-ht-degree: 1%
+source-wordcount: '2011'
+ht-degree: 3%
 
 ---
 
@@ -43,11 +43,11 @@ Admin Console上的每個標籤都可讓您執行各種工作。 選取連結的
 
 ![Admin Console選取您的組織](assets/admin-console-select-your-org.png "組織選擇器")
 
-如果組織是Global Admin Console的一部分，組織名稱旁會出現階層圖示。 您也可以檢視組織的路徑，並可決定組織在階層中的位置。 例如，在熒幕擷圖中，管理員是組織B的成員，而組織的Global Admin Console路徑為A > B，其中B是組織A的子系。
+如果組織是Global Admin Console的一部分，組織名稱旁會出現階層圖示。 您也可以檢視組織的路徑，並可決定組織在階層中的位置。 例如，在熒幕擷圖中，管理員是頂層組織的成員，而子組織具有Global Admin Console路徑，例如「父項組織」>「子項組織」，其中子組織巢狀位於父項之下。 在此情境中，路徑中的每個組織都是Adobe Admin Console；子組織是階層中的子Admin Console。
 
 ![Admin Console選取您的子組織](assets/admin-console-select-your-org-hierarchy.png "Global Admin Console階層中的組織位置")
 
-如果您的組織結構複雜，擁有許多Admin Console，或是您想將主要Admin Console分割為多個主控台，您可以[採用Global Admin Console](https://experienceleague.adobe.com/zh-hant/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)。 例如，跨國公司、教育聯盟、大型學區和大型政府機構。 Global Admin Console將現有的Admin Console巢狀內嵌到階層式結構中，例如組織圖，以便在分散式企業中提供透明度。
+如果您的組織結構複雜，擁有許多Admin Console，或是您想將主要Admin Console分割為多個主控台，您可以[採用Global Admin Console](https://experienceleague.adobe.com/zh-hant/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)。 Global Admin Console會將這些Adobe Admin Console分組為階層式結構，例如組織圖，這樣全域管理員就能管理子主控台，並向其分配產品，同時系統管理員可在每個主控台中繼續日常管理。 例如，跨國公司、教育聯盟、大型學區和大型政府機構。
 
 ## [!UICONTROL 產品] {#products}
 
@@ -55,7 +55,7 @@ Admin Console上的每個標籤都可讓您執行各種工作。 選取連結的
 
 **企業**
 
-**[!UICONTROL Admin Console]**&#x200B;中的[產品](https://adminconsole.adobe.com)頁面提供管理產品和產品設定檔的選項。 產品設定檔可讓您啟用計畫中可用的所有或部分Adobe應用程式和服務，以及自訂與指定產品或計畫相關的設定。 然後，您可以將稱為產品管理員的管理員指派給產品設定檔。 這些管理員會將一般使用者新增至他們管理的產品設定檔。
+[Admin Console](https://adminconsole.adobe.com)中的&#x200B;**[!UICONTROL 產品]**&#x200B;頁面提供管理產品和產品設定檔的選項。 產品設定檔可讓您啟用計畫中可用的所有或部分Adobe應用程式和服務，以及自訂與指定產品或計畫相關的設定。 然後，您可以將稱為產品管理員的管理員指派給產品設定檔。 這些管理員會將一般使用者新增至他們管理的產品設定檔。
 
 如需詳細資訊，請參閱：
 
@@ -64,9 +64,9 @@ Admin Console上的每個標籤都可讓您執行各種工作。 選取連結的
 
 **團隊**
 
-**[!UICONTROL Admin Console]**&#x200B;中的[產品](https://adminconsole.adobe.com)頁面可讓您指派產品授權給使用者。 若要將產品授權指派給使用者或群組，請在&#x200B;**[!UICONTROL 產品]**&#x200B;頁面上選取所需的產品，然後按一下&#x200B;**[!UICONTROL 新增使用者]**。
+[Admin Console](https://adminconsole.adobe.com)中的&#x200B;**[!UICONTROL 產品]**&#x200B;頁面可讓您指派產品授權給使用者。 若要將產品授權指派給使用者或群組，請在&#x200B;**[!UICONTROL 產品]**&#x200B;頁面上選取所需的產品，然後按一下&#x200B;**[!UICONTROL 新增使用者]**。
 
-輸入使用者的名稱或電子郵件地址。 您可以搜尋現有使用者，或透過指定有效的電子郵件地址並在畫面上填寫資訊來新增使用者。 按一下&#x200B;**[!UICONTROL 「儲存」]**。系統會傳送電子郵件給使用者或群組，確認對應用程式的存取權。
+輸入使用者的名稱或電子郵件地址。 您可以搜尋現有使用者，或透過指定有效的電子郵件地址並在畫面上填寫資訊來新增使用者。 按一下「**[!UICONTROL 儲存]**」。 系統會傳送電子郵件給使用者或群組，確認對應用程式的存取權。
 
 如需詳細資訊，請參閱：
 
@@ -75,7 +75,7 @@ Admin Console上的每個標籤都可讓您執行各種工作。 選取連結的
 
 ## [!UICONTROL 使用者] {#users}
 
-**[!UICONTROL Admin Console]**&#x200B;中的[使用者](https://adminconsole.adobe.com)頁面可讓您建立、搜尋、更新及移除使用者帳戶。 這些使用者帳戶可讓貴組織的一般使用者有權使用Adobe產品和服務。 您也可以使用大量編輯工作流程來新增使用者或修改使用者詳細資料和授權指派。
+[Admin Console](https://adminconsole.adobe.com)中的&#x200B;**[!UICONTROL 使用者]**&#x200B;頁面可讓您建立、搜尋、更新及移除使用者帳戶。 這些使用者帳戶可讓貴組織的一般使用者有權使用Adobe產品和服務。 您也可以使用大量編輯工作流程來新增使用者或修改使用者詳細資料和授權指派。
 
 如需詳細資訊，請參閱：
 
@@ -120,7 +120,7 @@ Admin Console上的每個標籤都可讓您執行各種工作。 選取連結的
 
 誰可以檢視此標籤：系統管理員和儲存系統管理員（僅適用於移轉至[集區儲存模式](https://helpx.adobe.com/tw/enterprise/using/manage-adobe-storage.html)的客戶）。
 
-**[!UICONTROL Admin Console]**&#x200B;中的[儲存頁面](https://adminconsole.adobe.com)可讓您檢視整個Creative Cloud應用程式的儲存空間。 儲存配額對使用者而言是有彈性的，最多可達組織購買的儲存量。
+[Admin Console](https://adminconsole.adobe.com)中的&#x200B;**[!UICONTROL 儲存頁面]**&#x200B;可讓您檢視整個Creative Cloud應用程式的儲存空間。 儲存配額對使用者而言是有彈性的，最多可達組織購買的儲存量。
 
 您也可以檢視個別使用者使用的配額量，以及所有使用者使用的整體配額。
 
@@ -130,7 +130,7 @@ Admin Console上的每個標籤都可讓您執行各種工作。 選取連結的
 
 誰可以檢視此標籤：系統管理員和部署管理員。
 
-**[!UICONTROL Admin Console]**&#x200B;中的[套件](https://adminconsole.adobe.com)頁面提供下列功能。 當您計畫部署案頭應用程式給組織中的使用者時，請使用它們。
+[Admin Console](https://adminconsole.adobe.com)中的&#x200B;**[!UICONTROL 套件]**&#x200B;頁面提供下列功能。 當您計畫部署案頭應用程式給組織中的使用者時，請使用它們。
 
 - 使用[Adobe範本](https://helpx.adobe.com/tw/enterprise/using/package-templates.html)下載預先設定的封裝。
 - 使用您想要一般使用者擁有的組態和應用程式，建立自訂的[具名使用者授權](https://helpx.adobe.com/tw/enterprise/using/create-nul-packages.html)或[共用裝置](https://helpx.adobe.com/tw/enterprise/using/create-sdl-packages.html)授權（適用於教育機構）封裝。

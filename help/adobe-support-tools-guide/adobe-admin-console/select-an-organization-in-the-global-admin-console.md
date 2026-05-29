@@ -5,9 +5,9 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 6a94922a-3343-433d-96e7-0af0f26581a1
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+source-git-commit: d1ef19b7858bb0f7b81b88cdf5b72eddc2647ada
 workflow-type: tm+mt
-source-wordcount: '631'
+source-wordcount: '705'
 ht-degree: 1%
 
 ---
@@ -20,11 +20,11 @@ ht-degree: 1%
 >
 >存取[Global Admin Console](https://experienceleague.adobe.com/zh-hant/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration#request-access-to-the-global-admin-console)後，您可以先選取組織來檢視及管理組織的名稱、使用者群組、產品設定檔、管理員和組織原則。 若要登入，請前往[Global Admin Console](https://global-admin-console.adobe.com/)。
 
-Global Admin Console是組織的中心，管理Adobe資源。 全域管理員可以：
+Global Admin Console會將階層中的Adobe Admin Console分組。 您選取的每個組織都是一個Adobe Admin Console。 全域管理員可以：
 
-- 在其組織下建立子組織
-- 指派系統管理員來管理他們
-- 將資源分配給子組織，以便管理並指定給這些組織中的使用者
+- 在其組織下建立子管理主控台（子組織）
+- 指派系統管理員來管理每個子主控台
+- 將支援的產品資源/授權分配給子管理主控台，以便系統管理員指派給這些主控台中的使用者
 
 >[!NOTE]
 >

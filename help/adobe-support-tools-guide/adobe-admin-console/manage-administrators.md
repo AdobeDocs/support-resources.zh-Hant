@@ -5,9 +5,9 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 41c00379-98ee-4922-8eba-cc373c23a019
-source-git-commit: e3179d567660c4960ce398062629ed1f695eab49
+source-git-commit: 174cc3f37780e28d7de9359071ebfebbf7f063da
 workflow-type: tm+mt
-source-wordcount: '1159'
+source-wordcount: '1244'
 ht-degree: 2%
 
 ---
@@ -18,8 +18,7 @@ ht-degree: 2%
 
 探索全域管理員權能，並瞭解如何將使用者、產品授權和群組的管理委派和分發給每個組織的管理員。
 
-在Global Admin Console中，您可以選取組織並導覽至&#x200B;**[!UICONTROL 管理員]**&#x200B;索引標籤，以新增、編輯或移除管理員許可權。 若要瞭解更多資訊，請參閱[採用全域管理](https://experienceleague.adobe.com/zh-hant/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)。 前往這裡[登入Admin Console](https://adminconsole.adobe.com)。
-
+在Global Admin Console中，您可以選取組織並導覽至&#x200B;**[!UICONTROL 管理員]**&#x200B;索引標籤，以新增、編輯或移除管理員許可權。 階層中的每個組織都是Adobe Admin Console；請參閱[採用全域管理](https://experienceleague.adobe.com/zh-hant/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)，瞭解Global Admin Console如何將這些主控台分組。 登入[Global Admin Console](https://global-admin-console.adobe.com)以進行全階層工作，或登入[Adobe Admin Console](https://adminconsole.adobe.com)以進行單一組織內的工作。
 
 Global Admin Console引進了稱為全域管理員的角色。 此角色與系統管理員不同，可讓您進行以下操作：
 

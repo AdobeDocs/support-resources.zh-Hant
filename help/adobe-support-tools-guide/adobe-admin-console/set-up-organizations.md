@@ -5,9 +5,9 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 6fcf16e3-0408-4961-9981-14d526e1ea28
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+source-git-commit: e4d473130a577a7673aba981a42bcb7ac352c18c
 workflow-type: tm+mt
-source-wordcount: '1547'
+source-wordcount: '1872'
 ht-degree: 0%
 
 ---
@@ -20,9 +20,13 @@ ht-degree: 0%
 
 取得[對Global Admin Console](https://experienceleague.adobe.com/zh-hant/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration#request-access-to-the-global-admin-console)的存取權後，您可以建立新組織、將現有組織新增至階層、刪除組織，以及變更父級組織。 前往這裡[登入Global Admin Console](https://global-admin-console.adobe.com/)。
 
-組織是一種用來管理Adobe產品和使用者的結構。 [Adobe Admin Console](https://experienceleague.adobe.com/zh-hant/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview)可讓管理員管理其組織中產品和使用者的部署與設定。 [Global Admin Console](https://experienceleague.adobe.com/zh-hant/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)可讓全域管理員建立、管理及刪除多個組織。
+在Global Admin Console中，組織就是Adobe Admin Console — 一種用來管理企業內單一實體Adobe產品和使用者的結構。 [Adobe Admin Console](https://experienceleague.adobe.com/zh-hant/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview)可讓系統管理員在該主控台中管理部署、使用者和授權。 [Global Admin Console](https://experienceleague.adobe.com/zh-hant/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)可讓全域管理員在階層中建立、重新父系及刪除子管理主控台（子組織），以及將產品從父項配置到子主控台。
 
 ## 建立子組織
+
+>[!NOTE]
+>
+> 子組織是子Adobe Admin Console。 建立主控台會將新主控台新增至您的Global Admin Console階層。
 
 作為[全域管理員](https://experienceleague.adobe.com/zh-hant/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators)，您可以在階層中建立任何組織的子組織，並設定名稱、國家/地區、使用者群組、產品、產品設定檔、管理員和原則。
 
@@ -113,7 +117,7 @@ ht-degree: 0%
 
 您也可以將小組組織新增至組織階層。 團隊組織不會參與產品配置或產品使用彙總，而Global Admin Console中的團隊組織管理是有限的。 您可以將受眾新增至組織階層，以追蹤受眾，並可檢視受眾購買的產品。 專案團隊組織下不能有子組織，也沒有企業組織的許多功能。
 
-深入瞭解產品配置[的](https://helpx.adobe.com/tw/enterprise/global-admin-console/allocate-products.html#limitations)限制。
+深入瞭解產品配置[&#128279;](https://helpx.adobe.com/tw/enterprise/global-admin-console/allocate-products.html#limitations)的限制。
 
 >[!WARNING]
 >
