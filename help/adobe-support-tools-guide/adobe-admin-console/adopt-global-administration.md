@@ -30,7 +30,7 @@ Global Admin Console適用於具有複雜組織結構的客戶，這些客戶可
 
 Global Admin Console不會取代或變更現有Admin Console的日常功能。 其運作方式為階層式結構，頂端有根組織，下方則是所有巢狀內嵌的連結主控台。 根主控台是根據採購與組織設定來決定。
 
-若要進一步瞭解Global Admin Console的功能和優點，請參閱Global Admin Console](https://community.adobe.com/questions-624/new-white-paper-for-the-adobe-global-admin-console-678929#M35625)上的[白皮書，並觀看下列[影片](https://youtu.be/FLBWR78wpok)。
+若要進一步瞭解Global Admin Console的功能和優點，請參閱Global Admin Console[&#128279;](https://community.adobe.com/questions-624/new-white-paper-for-the-adobe-global-admin-console-678929#M35625)上的白皮書，並觀看下列[影片](https://youtu.be/FLBWR78wpok)。
 
 此視訊的內容和旁白目前僅提供英文版。
 

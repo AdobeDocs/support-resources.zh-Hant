@@ -177,7 +177,7 @@ Global Admin Console的設計可在多個組織和Admin Console中運作。 下�
 
    ![Global Admin Console編輯管理許可權](../assets/global-admin-console-edit-admin-right.png)
 
-1. 更新管理員詳細資料，然後選取[儲存]。****
+1. 更新管理員詳細資料，然後選取[儲存]。**&#x200B;**
 
 1. 在您編輯完組織後，選取&#x200B;**[!UICONTROL 檢閱擱置中的變更]**。
 

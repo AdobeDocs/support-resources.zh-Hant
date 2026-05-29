@@ -41,7 +41,7 @@ ht-degree: 0%
 - 共用原則、密碼原則及安全性連絡人（由&#x200B;**在建立子組織時繼承資產共用設定** [原則](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html)）所控制。
 
 1. 登入[Global Admin Console](https://global-admin-console.adobe.com/)。 在&#x200B;**[!UICONTROL 組織]**&#x200B;標籤中，選取您要新增子組織的組織。
-2. 選取&#x200B;**[!UICONTROL 新增+]**圖示。
+2. 選取&#x200B;**[!UICONTROL 新增+]**&#x200B;圖示。
    ![新增組織](/help/adobe-support-tools-guide/assets/add-an-organization-1.png)
 3. 指定組織的&#x200B;**名稱**&#x200B;和&#x200B;**國家/地區**。\
    組織的簡單名稱必須介於4到100個字元之間；路徑名稱的最大長度為255個字元。
@@ -65,7 +65,7 @@ ht-degree: 0%
 >刪除組織會影響您的使用者。 確保刪除組織時沒有存取權或資訊會遺失。
 
 1. 登入[Global Admin Console](https://global-admin-console.adobe.com/)。 移至&#x200B;**[!UICONTROL 組織]**&#x200B;標籤，並選取您要刪除的組織。
-1. 選取&#x200B;**[!UICONTROL 刪除]**圖示。
+1. 選取&#x200B;**[!UICONTROL 刪除]**&#x200B;圖示。
    ![刪除組織](/help/adobe-support-tools-guide/assets/delete-organization.png)
 1. 在&#x200B;**[!UICONTROL 刪除組織]**&#x200B;對話方塊中，選取&#x200B;**[!UICONTROL 確定]**。
 1. 在您編輯完組織後，選取&#x200B;**[!UICONTROL 檢閱擱置中的變更]**。 檢閱後，選取&#x200B;**[!UICONTROL 提交變更]**&#x200B;以[執行](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)它們。
@@ -77,7 +77,7 @@ ht-degree: 0%
 身為[全域系統管理員](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators)，您可以編輯任何父或子組織的名稱，以協助使用者在登入Creative Cloud產品和服務時識別正確的設定檔。
 
 1. 登入[Global Admin Console](https://global-admin-console.adobe.com/)。 在&#x200B;**[!UICONTROL 組織]**&#x200B;標籤中，選取您要重新命名的組織。
-1. 選取&#x200B;**[!UICONTROL 編輯]**圖示。
+1. 選取&#x200B;**[!UICONTROL 編輯]**&#x200B;圖示。
    ![重新命名組織](/help/adobe-support-tools-guide/assets/rename-organization.png)
 1. 更新您的組織名稱並選取&#x200B;**[!UICONTROL 儲存]**。
 
@@ -117,7 +117,7 @@ ht-degree: 0%
 
 您也可以將小組組織新增至組織階層。 團隊組織不會參與產品配置或產品使用彙總，而Global Admin Console中的團隊組織管理是有限的。 您可以將受眾新增至組織階層，以追蹤受眾，並可檢視受眾購買的產品。 專案團隊組織下不能有子組織，也沒有企業組織的許多功能。
 
-深入瞭解產品配置](https://helpx.adobe.com/enterprise/global-admin-console/allocate-products.html#limitations)的[限制。
+深入瞭解產品配置[&#128279;](https://helpx.adobe.com/enterprise/global-admin-console/allocate-products.html#limitations)的限制。
 
 >[!WARNING]
 >
