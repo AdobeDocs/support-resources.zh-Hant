@@ -1,13 +1,13 @@
 ---
 title: 採用全域管理
-description: 瞭解什麼是Global Admin Console以及如何請求存取權。
+description: 瞭解Global Admin Console如何將Adobe Admin Console分組、什麼是子級Admin Console，以及如何請求存取權。
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 4da055a9-7cdc-4411-8895-016e24eabb2e
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+source-git-commit: 817407268abec35b0b252ffb54540be29948f9b6
 workflow-type: tm+mt
-source-wordcount: '813'
+source-wordcount: '929'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,15 @@ ht-degree: 0%
 
 ## 簡介
 
-[Global Admin Console](https://global-admin-console.adobe.com)適用於具有複雜組織結構的客戶，這些客戶可能擁有許多Admin Console，或是想要將其主要Admin Console分割為多個主控台。 例如，跨國公司、教育聯盟、大型學區和大型政府機構。 它將現有的Admin Console巢狀內嵌到階層式結構中（例如組織圖），以在分散式企業中提供透明度。
+[Global Admin Console](https://global-admin-console.adobe.com)將多個[Adobe Admin Console](https://adminconsole.adobe.com)群組為一個階層。 該階層中的每個組織都是一個Adobe Admin Console。 管理員在每個主控台中使用相同的核心功能，管理該組織的使用者、授權和設定。 Global Admin Console新增了跨主控台管理：組織子Admin Console、在階層中分配產品和授權，以及在群組間套用組織層級原則。
 
-Global Admin Console不會取代或變更現有Admin Console的功能。 其運作方式為階層，頂端有根組織，且所有主控台都巢狀於該根組織下。 有一個選取標準，專注於購買和建立階層結構，其中Admin Console會作為根主控台運作。
+Global Admin Console適用於具有複雜組織結構的客戶，這些客戶可能擁有許多Admin Console，或想將其主要Admin Console分割為多個主控台。 例如，跨國公司、教育聯盟、大型學區和大型政府機構。 它將現有的Admin Console巢狀內嵌到階層式結構中（例如組織圖），以在分散式企業中提供透明度。
 
-若要進一步瞭解Global Admin Console的功能和優點，請參閱Global Admin Console[上的](https://community.adobe.com/questions-624/new-white-paper-for-the-adobe-global-admin-console-678929#M35625)白皮書，並觀看下列[影片](https://youtu.be/FLBWR78wpok)。
+子Admin Console （在Global Admin Console中稱為&#x200B;*子組織*）是階層中另一個主控台下的任何Adobe Admin Console巢狀結構。 在這個意義上，只有連結至您Global Admin Console的Admin Console是兒童主控台，而不是全球所有Adobe Admin Console。
+
+Global Admin Console不會取代或變更現有Admin Console的日常功能。 其運作方式為階層式結構，頂端有根組織，下方則是所有巢狀內嵌的連結主控台。 根主控台是根據採購與組織設定來決定。
+
+若要進一步瞭解Global Admin Console的功能和優點，請參閱Global Admin Console](https://community.adobe.com/questions-624/new-white-paper-for-the-adobe-global-admin-console-678929#M35625)上的[白皮書，並觀看下列[影片](https://youtu.be/FLBWR78wpok)。
 
 此視訊的內容和旁白目前僅提供英文版。
 
@@ -44,7 +48,7 @@ Global Admin Console不會取代或變更現有Admin Console的功能。 其運�
 - 建立、編輯和刪除產品設定檔和使用者群組。
 - 匯出組織資訊以供報告或用於其他處理。
 - 匯入組織的更新以及組織階層的變更。
-- 接收子組織中有關ETLA合約狀態的通知，包括即將到期、已到期或非作用中合約。 如需詳細資訊，請參閱[合約到期日](https://helpx.adobe.com/tw/enterprise/using/contract-expiry.html)檔案。
+- 接收子組織中有關ETLA合約狀態的通知，包括即將到期、已到期或非作用中合約。 如需詳細資訊，請參閱[合約到期日](https://helpx.adobe.com/enterprise/using/contract-expiry.html)檔案。
 
 ## 資格條件
 
@@ -78,7 +82,7 @@ Global Admin Console不會取代或變更現有Admin Console的功能。 其運�
 1. 在&#x200B;**[!UICONTROL 中說明您面臨的問題性質]**，說明您的組織正在要求存取Global Admin Console，並包含下列詳細資料：
 
    - **名稱與主控台ID** （可在URL中找到，作為「@AdobeOrg」之前的數字與字母系列）的Admin Console，以指定為&#x200B;*根（頂端）*組織，或要求新的主控台並指定所要的名稱。
- — 在某些情況下，新主控台是偏好選項。 您的Adobe代表可為您提供指引。 請謹慎選取*root*&#x200B;組織，因為很難在稍後變更。
+ — 在某些情況下，新主控台是偏好選項。您的Adobe代表可為您提供指引。請謹慎選取*根*&#x200B;組織，因為很難在稍後變更。
    - 至少指派一位目前系統管理員給全域管理員角色。 您稍後可以新增其他管理員。
    - Adobe代表或客戶成功經理的姓名和電子郵件地址。
 

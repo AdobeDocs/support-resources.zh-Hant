@@ -5,9 +5,9 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 41c00379-98ee-4922-8eba-cc373c23a019
-source-git-commit: e3179d567660c4960ce398062629ed1f695eab49
+source-git-commit: 174cc3f37780e28d7de9359071ebfebbf7f063da
 workflow-type: tm+mt
-source-wordcount: '1159'
+source-wordcount: '1244'
 ht-degree: 2%
 
 ---
@@ -18,8 +18,7 @@ ht-degree: 2%
 
 探索全域管理員權能，並瞭解如何將使用者、產品授權和群組的管理委派和分發給每個組織的管理員。
 
-在Global Admin Console中，您可以選取組織並導覽至&#x200B;**[!UICONTROL 管理員]**&#x200B;索引標籤，以新增、編輯或移除管理員許可權。 若要瞭解更多資訊，請參閱[採用全域管理](https://experienceleague.adobe.com/zh-hant/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)。 前往這裡[登入Admin Console](https://adminconsole.adobe.com)。
-
+在Global Admin Console中，您可以選取組織並導覽至&#x200B;**[!UICONTROL 管理員]**&#x200B;索引標籤，以新增、編輯或移除管理員許可權。 階層中的每個組織都是Adobe Admin Console；請參閱[採用全域管理](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)，瞭解Global Admin Console如何將這些主控台分組。 登入[Global Admin Console](https://global-admin-console.adobe.com)以進行全階層工作，或登入[Adobe Admin Console](https://adminconsole.adobe.com)以進行單一組織內的工作。
 
 Global Admin Console引進了稱為全域管理員的角色。 此角色與系統管理員不同，可讓您進行以下操作：
 
@@ -154,7 +153,7 @@ Global Admin Console的設計可在多個組織和Admin Console中運作。 下�
 
    >[!NOTE]
    >
-   > 組織對於可以新增的帳戶型別可以有限制。 這些可能以[原則](https://helpx.adobe.com/tw/enterprise/global-admin-console/update-policies.html)或組織的其他組態引數為基礎。 組織不允許同時新增AdobeID使用者和BusinessID使用者。 一般而言，組織中不應有同時屬於這兩種型別的使用者，但根據規則設定的順序，可能會有特定「帳戶型別」的某些使用者預先設定原則或規則的應用日期。
+   > 組織對於可以新增的帳戶型別可以有限制。 這些可能以[原則](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html)或組織的其他組態引數為基礎。 組織不允許同時新增AdobeID使用者和BusinessID使用者。 一般而言，組織中不應有同時屬於這兩種型別的使用者，但根據規則設定的順序，可能會有特定「帳戶型別」的某些使用者預先設定原則或規則的應用日期。
 
 1. 從&#x200B;**[!UICONTROL 管理員許可權]**&#x200B;區段中選取一或多個管理員角色。
 
@@ -164,7 +163,7 @@ Global Admin Console的設計可在多個組織和Admin Console中運作。 下�
 
 1. 選取「**[!UICONTROL 儲存]**」。
 
-1. 編輯組織後，請選取&#x200B;**[!UICONTROL 檢閱擱置的變更]**，然後選取&#x200B;**[!UICONTROL 提交變更]**&#x200B;以[執行](https://helpx.adobe.com/tw/enterprise/global-admin-console/execute-jobs.html)變更。
+1. 編輯組織後，請選取&#x200B;**[!UICONTROL 檢閱擱置的變更]**，然後選取&#x200B;**[!UICONTROL 提交變更]**&#x200B;以[執行](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)變更。
 
 新增管理員角色時，使用者會收到電子郵件通知，告知他們角色已變更。
 
@@ -178,11 +177,11 @@ Global Admin Console的設計可在多個組織和Admin Console中運作。 下�
 
    ![Global Admin Console編輯管理許可權](../assets/global-admin-console-edit-admin-right.png)
 
-1. 更新管理員詳細資料，然後選取[儲存]。**&#x200B;**
+1. 更新管理員詳細資料，然後選取[儲存]。****
 
 1. 在您編輯完組織後，選取&#x200B;**[!UICONTROL 檢閱擱置中的變更]**。
 
-每個新增或移除的管理員角色在暫止變更清單中都會顯示一個單獨的命令。 檢閱後，選取&#x200B;**[!UICONTROL 提交變更]**&#x200B;以[執行](https://helpx.adobe.com/tw/enterprise/global-admin-console/execute-jobs.html)它們。
+每個新增或移除的管理員角色在暫止變更清單中都會顯示一個單獨的命令。 檢閱後，選取&#x200B;**[!UICONTROL 提交變更]**&#x200B;以[執行](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)它們。
 
 ## 移除管理員許可權
 
@@ -194,6 +193,6 @@ Global Admin Console的設計可在多個組織和Admin Console中運作。 下�
 
 1. 在確認對話方塊中選取&#x200B;**[!UICONTROL 確定]**。
 
-1. 在您編輯完組織後，選取&#x200B;**[!UICONTROL 檢閱擱置中的變更]**。 檢閱後，選取&#x200B;**[!UICONTROL 提交變更]**&#x200B;以[執行](https://helpx.adobe.com/tw/enterprise/global-admin-console/execute-jobs.html)它們。
+1. 在您編輯完組織後，選取&#x200B;**[!UICONTROL 檢閱擱置中的變更]**。 檢閱後，選取&#x200B;**[!UICONTROL 提交變更]**&#x200B;以[執行](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)它們。
 
 刪除管理員後，使用者會收到電子郵件通知，告知他們該組織的Admin Console存取權已喪失。
