@@ -3,20 +3,19 @@ title: Experience League支援發行說明
 description: 有關Experience League支援的最新發行資訊。
 feature: Release Notes
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
-TQID: https://experienceleague.adobe.com/deGe04hNuc2gsMLHx49aIihzTqQoUbFYCYiReOgzowk
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-topic_v2:
-  - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: a279aba612b6a6c61e4df38ee42b76fca90d20ea
+autotag-review: '2026-06-12T20:44:20.941Z'
+TQID: 'https://experienceleague.adobe.com/ULOOxxvZGorHsE8Q44r8n7HbvTb712-8NnVMzl0J-Q8'
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: d00e9f03-e50b-4162-b143-0c0817c937c2id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 3f934873bc3e6a2c81b8173b1f63333a5151af9a
 workflow-type: tm+mt
-source-wordcount: 1209
+source-wordcount: 1386
 ht-degree: 1%
 
 ---
+
 
 # Experience League支援發行說明
 
@@ -25,6 +24,18 @@ ht-degree: 1%
 ![新](../adobe-support-tools-guide/assets/new.svg)新功能
 ![修正](../adobe-support-tools-guide/assets/fix.svg)修正和改良
 ![錯誤](../adobe-support-tools-guide/assets/bug.svg)已知問題
+
+## 2026年6月17日 — 重新設計的Experience League支援入口網站更新
+
+1. 重新設計的Experience League支援入口網站現在可供Adobe Commerce使用者使用。
+
+1. 在&#x200B;**[!UICONTROL 服務分析]**&#x200B;區段中選取&#x200B;**[!UICONTROL 我的組織案例]**&#x200B;切換時，**[!UICONTROL 我的已提交案例]**&#x200B;區段會顯示整個組織最近提交的三個案例。 選取&#x200B;**[!UICONTROL 檢視所有案例]**&#x200B;會在Experience League支援入口網站中開啟&#x200B;**[!UICONTROL 我的組織案例]**&#x200B;頁面，並預先選取&#x200B;**[!UICONTROL 我的組織案例（全部）]**&#x200B;篩選器。
+
+1. 依優先順序的&#x200B;**[!UICONTROL 案例計數]**&#x200B;圖表現在提供暫留的更詳細劃分。 將滑鼠懸停在優先順序區段上會顯示工具提示，顯示案例總數以及開啟和關閉案例的數量。
+
+1. **[!UICONTROL 產品狀態]** Widget現在支援互動式產品篩選。 您可以直接從首頁選取一或多個產品，以篩選系統狀態警示。 在此Widget中選取產品時，不再重新導向至[status.adobe.com](http://status.adobe.com)。
+
+1. **[!UICONTROL 產品狀態]** Widget現在會以更直覺的順序列出產品。 有作用中問題的產品會先出現，接著是依字母順序排序的其餘產品。
 
 ## 2026年5月28日 — 擴充[!UICONTROL 要求回呼]功能
 
