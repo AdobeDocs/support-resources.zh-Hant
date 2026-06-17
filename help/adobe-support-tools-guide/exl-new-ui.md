@@ -12,10 +12,10 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 2efca23d4302f4c6caf580a9ae3d3ffde70bfa36
+source-git-commit: cac9b6e8d4058de8bbd474481a9f47eaedb093fe
 workflow-type: tm+mt
-source-wordcount: 898
-ht-degree: 2%
+source-wordcount: 1084
+ht-degree: 1%
 
 ---
 
@@ -69,26 +69,37 @@ ht-degree: 2%
 
 ## 服務分析
 
-**[!UICONTROL 服務分析]**&#x200B;區段提供支援案例活動的摘要。 在&#x200B;**[!UICONTROL 我的案例]**&#x200B;和&#x200B;**[!UICONTROL 我的組織案例]**&#x200B;檢視之間切換。 **[!UICONTROL 我的案例]**&#x200B;檢視會顯示個人專屬的案例統計資料，而&#x200B;**[!UICONTROL 我的組織案例]**&#x200B;檢視則會顯示整個組織的案例統計資料。
+**[!UICONTROL 服務分析]**&#x200B;區段會顯示支援案例活動的摘要。 使用檢視選擇器在&#x200B;**[!UICONTROL 我的案例]**&#x200B;和&#x200B;**[!UICONTROL 我的組織案例]**&#x200B;之間切換：
 
-![服務分析區段](/help/adobe-support-tools-guide/assets/service-analytics-1.png)
+- **[!UICONTROL 我的案例]** — 顯示個人專屬的案例統計資料。
+- **[!UICONTROL 我的組織案例]** — 顯示所選組織的案例統計資料。
 
-可使用下列量度：
+選取的檢視會套用至此區段中的所有量度和圖表，包括[[!UICONTROL 依優先順序的案例計數]](#cases-count-by-priority)和[[!UICONTROL 我提交的案例]](#my-submitted-cases)區段。
 
-**[!UICONTROL 擱置中的回應案例]** — 目前等待回應的案例數目
-**[!UICONTROL 已提交的案例]** — 已提交的案例總數
+![服務分析](/help/adobe-support-tools-guide/assets/service-analytics-1.png)
+
+**[!UICONTROL 服務分析]**&#x200B;區段提供下列量度：
+
+- **[!UICONTROL 擱置中的回應案例]** — 顯示等待回應的案例數目。
+- **[!UICONTROL 已提交案例]** — 顯示已提交的案例總數。
 
 ## 依優先順序的案例計數
 
 本區段顯示依優先順序層級的支援案例視覺細目。
 
-![依優先順序區段的案例計數](/help/adobe-support-tools-guide/assets/case-count-by-priority-1.png)
+依優先順序的![案例計數](/help/adobe-support-tools-guide/assets/case-count-by-priority-1.png)
 
-**[!UICONTROL 我的案例]**&#x200B;和&#x200B;**[!UICONTROL 我的組織案例]**&#x200B;選項適用於此圖表，可讓您在個人或組織層級檢視。
+**[!UICONTROL 服務分析]**&#x200B;區段中的&#x200B;**[!UICONTROL 我的案例]**&#x200B;和&#x200B;**[!UICONTROL 我的組織案例]**&#x200B;選項適用於此圖表，並可讓您在個人或組織層級檢視。
+
+將滑鼠懸停在優先順序區段上可檢視工具提示，其顯示：
+
+- 該優先順序層級的案例總數
+- 未結案例的數量
+- 已結束案例的數量
 
 ## 我已提交的案例
 
-本區段顯示三個最新的支援案例，包括：
+本區段顯示最近提交的三個支援案例，包括：
 
 - 案例ID
 - 案例標題
@@ -96,15 +107,38 @@ ht-degree: 2%
 - 提交日期
 - 狀態
 
-![我提交的案例區段](/help/adobe-support-tools-guide/assets/my-submitted-case-1.png)
+![我已提交的案例](/help/adobe-support-tools-guide/assets/my-submitted-case-1.png)
 
-選取&#x200B;**[!UICONTROL 案例ID]**&#x200B;以在目前的Experience League支援入口網站中檢視案例詳細資料。 選取&#x200B;**[!UICONTROL 檢視所有案例]**&#x200B;以檢視完整的案例清單。
+選取&#x200B;**[!UICONTROL 我的案例]**&#x200B;時，此區段會顯示最近提交的三個案例。 在&#x200B;**[!UICONTROL 服務分析]**&#x200B;區段中選取&#x200B;**[!UICONTROL 我的組織案例]**&#x200B;時，會顯示整個組織中最近提交的三個案例。
+
+![我的案例](/help/adobe-support-tools-guide/assets/my-case.png)
+
+選取&#x200B;**[!UICONTROL 案例ID]**&#x200B;以在目前的Experience League支援入口網站中檢視案例詳細資料。
+
+![選取案例ID](/help/adobe-support-tools-guide/assets/select-case-id.png)
+
+選取「**[!UICONTROL 檢視所有案例]**」，在目前的Experience League支援入口網站上開啟「**[!UICONTROL 我的案例]**」頁面。
+
+![檢視所有案例](/help/adobe-support-tools-guide/assets/view-all-cases.png)
+
+在&#x200B;**[!UICONTROL Service Analytics]**&#x200B;中選取&#x200B;**[!UICONTROL 我的案例]**&#x200B;時，**[!UICONTROL 我的案例（全部）]**&#x200B;會預先選取並在Experience League支援入口網站中開啟。 選取&#x200B;**[!UICONTROL 我的組織案例]**&#x200B;時，已在Experience League支援入口網站中預先選取&#x200B;**[!UICONTROL 我的組織案例（全部）]**。
 
 ## 產品狀態警示
 
-區段顯示指派給組織的Adobe產品的目前操作狀態。 狀態&#x200B;**[!UICONTROL 可用]**&#x200B;表示產品已完全運作，沒有使用中的中斷。 如果存在一或多個問題，產品卡上就會顯示使用中問題的總數。 選取產品卡以檢視Adobe [狀態網站](https://status.adobe.com/zh-tw/)上的其他詳細資料。
+本區段顯示指派給組織的Adobe產品的目前作業狀態。
 
-![產品狀態警示區段](/help/adobe-support-tools-guide/assets/product-status-alerts-1.png)
+![產品狀態警示](/help/adobe-support-tools-guide/assets/product-status-alerts-1.png)
+
+狀態&#x200B;**[!UICONTROL 可用]**&#x200B;表示產品已完全運作，沒有使用中的中斷。 如果存在一或多個問題，產品卡上就會顯示使用中問題的總數。
+
+產品會依下列順序顯示：
+
+1. 有作用中問題的產品
+1. 剩餘產品，按字母順序列出
+
+此優先順序有助於快速識別需要注意的產品並將其優先化。 您可以在&#x200B;**[!UICONTROL 首頁]**&#x200B;頁面的&#x200B;**[!UICONTROL 您的系統狀態警示]**&#x200B;中，選取一或多個產品卡以篩選警示。
+
+![警示篩選器](/help/adobe-support-tools-guide/assets/select-more-products.png)
 
 ## 您的系統狀態警示
 
@@ -151,7 +185,7 @@ ht-degree: 2%
 - 計畫的主要元件，包括：
    - **[!UICONTROL 成功團隊]**
    - **[!UICONTROL 成功加速器]**
-   - **[!UICONTROL 相互行動計畫]**
+   - **[!UICONTROL Mutual Action Plan]**
 
 它也能讓您存取Experience League、Experience League社群和Premium學習訂閱等學習資源。
 
