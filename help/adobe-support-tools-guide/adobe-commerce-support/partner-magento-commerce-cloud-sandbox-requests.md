@@ -34,7 +34,7 @@ ht-degree: 2%
 
 ## 解決方案合作夥伴或技術合作夥伴應在哪裡/如何提交支援請求？ {#wherehow-do-solution-partners-or-tech-partners-submit-a-support-request}
 
-合作夥伴沙箱雲端專案的合作夥伴無法透過Experience League](https://experienceleague.adobe.com/en/support?support-tab=home#home)的[支援區段提交沙箱相關問題的票證。 請勿使用商戶帳戶來提交這些票證，因為這些票證似乎是代表他們提交的，並會導致混淆。
+合作夥伴沙箱雲端專案的合作夥伴無法透過Experience League[&#128279;](https://experienceleague.adobe.com/en/support?support-tab=home#home)的支援區段提交沙箱相關問題的票證。 請勿使用商戶帳戶來提交這些票證，因為這些票證似乎是代表他們提交的，並會導致混淆。
 
 當合作夥伴在內部環境中工作而不是為特定客戶工作時，此要求也適用。 合作夥伴不得根據客戶組織提交支援請求，除非他們主動代表該客戶參與。
 
