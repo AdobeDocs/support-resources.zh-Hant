@@ -5,10 +5,10 @@ feature: Cloud
 solution: Commerce
 feature-set: Commerce
 exl-id: 844e7e59-15f2-43f8-a8ea-b5ba2ee41f02
-source-git-commit: ad8c171204cedc16c2cadd794998f53b01d01894
+source-git-commit: 35ed6ef84423367f4e0ba3be7b17e68ab9db70ae
 workflow-type: tm+mt
-source-wordcount: '355'
-ht-degree: 0%
+source-wordcount: '423'
+ht-degree: 2%
 
 ---
 
@@ -34,10 +34,9 @@ ht-degree: 0%
 
 ## 解決方案合作夥伴或技術合作夥伴應在哪裡/如何提交支援請求？ {#wherehow-do-solution-partners-or-tech-partners-submit-a-support-request}
 
-合作夥伴沙箱雲端專案的合作夥伴無法透過Experience League[的](https://experienceleague.adobe.com/zh-hant/support?support-tab=home#home)支援區段提交沙箱相關問題的票證。 請勿使用商戶帳戶來提交這些票證，因為這些票證似乎是代表他們提交的，並會導致混淆。
+合作夥伴沙箱雲端專案的合作夥伴無法透過Experience League[&#128279;](https://experienceleague.adobe.com/zh-hant/support?support-tab=home#home)的支援區段提交沙箱相關問題的票證。 請勿使用商戶帳戶來提交這些票證，因為這些票證似乎是代表他們提交的，並會導致混淆。
 
-> **範例：**
-> 雖然本節說明Adobe Commerce Cloud沙箱帳戶，但若合作夥伴在內部環境中工作，而非針對特定客戶，則適用相同規定。 合作夥伴不得根據客戶組織提交支援請求，除非他們主動代表該客戶參與。
+當合作夥伴在內部環境中工作而不是為特定客戶工作時，此要求也適用。 合作夥伴不得根據客戶組織提交支援請求，除非他們主動代表該客戶參與。
 
 如果您代表尚未獲授共用存取權的商家提交票證，請向帳戶擁有者要求存取權。 如需如何要求存取權的步驟，請參閱[共用存取權：授予其他使用者存取您帳戶的許可權](https://experienceleague.adobe.com/zh-hant/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access)。
 
