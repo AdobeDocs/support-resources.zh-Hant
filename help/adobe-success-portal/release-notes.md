@@ -11,7 +11,7 @@ role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+source-git-commit: b701d905fa6fc5c837ec3bdd633504c65694f621
 workflow-type: tm+mt
 source-wordcount: 597
 ht-degree: 81%
@@ -43,6 +43,7 @@ _2025 年 11 月 11 日_
 _2025 年 10 月 9 日_
 
 ![新增](../adobe-success-portal/assets/new.svg) 已將行事曆檢視新增至&#x200B;**[!UICONTROL 行動計劃]**&#x200B;模組，以視覺化連結至&#x200B;**[!UICONTROL 關鍵業務目標]** (KBO) 的&#x200B;**[!UICONTROL 加速器]**&#x200B;和&#x200B;**[!UICONTROL 活動]**&#x200B;的時間軸。
+
 * 從「行動計劃 KBO」頁面或從「**[!UICONTROL KBO]**/**[!UICONTROL 加速器]**/**[!UICONTROL 活動]**&#x200B;詳細資料」頁面中存取行事曆 (僅在它們連結至 KBO 時)。
 * 在清單檢視 (預設) 和行事曆檢視之間切換。
 * 行事曆會顯示每個 KBO 的可收合區段：
