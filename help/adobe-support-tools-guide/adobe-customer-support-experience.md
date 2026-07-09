@@ -5,9 +5,15 @@ description: Adobe客戶支援體驗
 seo-description: Adobe Customer Support Experience
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 TQID: https://experienceleague.adobe.com/cGHwAzUXOUNouNknfl84ix4Gi7t8koCJVICt1zJWRp8
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: c1579802-ddd4-4214-8a91-97b2066abe11id: e0eb8757-182f-49f3-94a4-1587d16f5094
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: 3da0095b5ae5b72334482acddb2f092db447bfc0
 workflow-type: tm+mt
 source-wordcount: 2033
@@ -60,7 +66,7 @@ ht-degree: 0%
 
    ![編輯管理許可權Marketo](assets/edit-admin-rights-advanced.png)
 
-1. 選取之後，按一下[儲存]。****
+1. 選取之後，按一下[儲存]。**&#x200B;**
 
 使用者會收到來自`message@adobe.com`有關新系統管理許可權的電子郵件邀請。
 
@@ -110,7 +116,7 @@ Experience League是自助服務支援入口網站，專為提供個人化協助
 
 請依照下列步驟建立支援票證：
 
-1. 按一下產品名稱以選取受影響的產品，然後按一下[下一步]****。
+1. 按一下產品名稱以選取受影響的產品，然後按一下[下一步]&#x200B;**&#x200B;**。
 
    ![Experience League選取產品](./assets/product-selection.png)
 
@@ -147,7 +153,7 @@ Experience League是自助服務支援入口網站，專為提供個人化協助
 
    ![按一下下一個選項](./assets/click-next.png)
 
-1. 在&#x200B;**[!UICONTROL 系統資訊]**&#x200B;區段中，提供&#x200B;**[!UICONTROL 產品版本]**、**[!UICONTROL 環境]**、**[!UICONTROL 產品方案]**，並指示是否對環境或執行個體進行了任何最近的變更。 選取「**是**」以提供有關變更的其他詳細資料。 若未進行任何變更，請選取&#x200B;**否**，然後按一下[下一步]]**。**[!UICONTROL 
+1. 在&#x200B;**[!UICONTROL 系統資訊]**&#x200B;區段中，提供&#x200B;**[!UICONTROL 產品版本]**、**[!UICONTROL 環境]**、**[!UICONTROL 產品方案]**，並指示是否對環境或執行個體進行了任何最近的變更。 選取「**是**」以提供有關變更的其他詳細資料。 若未進行任何變更，請選取&#x200B;**否**，然後按一下[下一步]&#x200B;**。**
 
    >[!NOTE]
    >
@@ -205,7 +211,7 @@ Experience League支援提供AI支援的聊天介面，作為建立和管理支�
 
    ![Experience League選取產品](./assets/product-selection.png)
 
-1. 按一下產品名稱以選取受影響的產品，然後按一下[下一步]****。
+1. 按一下產品名稱以選取受影響的產品，然後按一下[下一步]&#x200B;**&#x200B;**。
 1. 在右上角，選取&#x200B;**[!UICONTROL AI聊天]**。
 
    ![AI聊天](./assets/ai-chat.png)
