@@ -1,11 +1,14 @@
 ---
 title: 系統分析
 description: 系統深入分析會主動識別Adobe Commerce環境中的潛在問題。 在案例建立期間檢閱深入分析可減少解決時間，有助於防止中斷，並支援穩定而安全的部署。
-hide: true
-hold: true
-source-git-commit: d72c704d44f675d40c9c5b0ce2132957d5129df9
+autotag-review: '2026-07-06T16:24:45.881Z'
+TQID: 'https://experienceleague.adobe.com/jSV4V0a4G9gPqbFSURQSP2ctdKob7eu71JB7am0ZwSo'
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2: id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: d095671a-1355-40aa-8b5f-06c33c68080bid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: ada6c0ec0c6814e3176d3b6c953455be019bc703
 workflow-type: tm+mt
-source-wordcount: '738'
+source-wordcount: 738
 ht-degree: 1%
 
 ---
@@ -36,13 +39,13 @@ Adobe團隊會持續分析常見的支援問題和新興趨勢。 Adobe會根據
 
 「系統深入分析」目前僅適用於Adobe Commerce。 這些見解會在Experience League支援上的案例建立過程中出現，也可透過[全網站分析工具(SWAT)](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/tools/site-wide-analysis-tool/intro)取得。
 
->[ !Note]
+>[!Note]
 >
 >系統分析只會顯示生產環境的資料。
 
 ## 存取系統分析
 
-系統深入分析會出現在整個案例建立工作流程中。 輸入問題詳細資訊後，**[!UICONTROL 系統深入分析]**&#x200B;面板會出現在畫面右側，AI支援的建議區段下方。 若要深入瞭解AI支援的建議，請參閱Adobe客戶支援體驗文章中的[填寫支援票證](https://experienceleague.adobe.com/zh-hant/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#fill-out-the-support-ticket)。
+系統深入分析會出現在整個案例建立工作流程中。 輸入問題詳細資訊後，**[!UICONTROL 系統深入分析]**&#x200B;面板會出現在畫面右側，AI支援的建議區段下方。 若要深入瞭解AI支援的建議，請參閱Adobe客戶支援體驗文章中的[填寫支援票證](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#fill-out-the-support-ticket)。
 
 面板會顯示範圍設定為特定專案執行個體的可捲動見解清單。 範圍設定是以在&#x200B;**[!UICONTROL 專案URL]**&#x200B;欄位中輸入的資訊為基礎。 請正確輸入&#x200B;**[!UICONTROL 專案URL]**，以確保深入分析反映正確的環境。
 
