@@ -5,20 +5,14 @@ feature: Release Notes
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
 autotag-review: '2026-06-12T20:44:20.941Z'
 TQID: 'https://experienceleague.adobe.com/ULOOxxvZGorHsE8Q44r8n7HbvTb712-8NnVMzl0J-Q8'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: d00e9f03-e50b-4162-b143-0c0817c937c2
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 3f934873bc3e6a2c81b8173b1f63333a5151af9a
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: d00e9f03-e50b-4162-b143-0c0817c937c2id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 2c6c6384b7bbe59f477278b984d0a7ba5efe6682
 workflow-type: tm+mt
-source-wordcount: 1386
-ht-degree: 1%
+source-wordcount: 1686
+ht-degree: 0%
 
 ---
 
@@ -31,6 +25,28 @@ ht-degree: 1%
 ![修正](../adobe-support-tools-guide/assets/fix.svg)修正和改良
 ![錯誤](../adobe-support-tools-guide/assets/bug.svg)已知問題
 
+## 2026年7月9日 — Experience League支援AI聊天
+
+1. Experience League支援現在提供全新的AI Chat介面，作為傳統案例建立表單的選擇加入替代方案，讓客戶以對話方式說明問題，而非填寫結構化欄位。 傳統表單仍可完整使用，此體驗不會取代傳統表單。
+
+1. AI Chat支援輸入式輸入和語音轉文字，提供擴音互動功能，以提供更易於存取且更彈性的案例建立體驗。
+
+1. AI Chat會詢問目標性的後續問題，以收集必要的詳細資訊（例如重製步驟），並根據使用者回應動態調整對話流程，從而引導客戶完成案例建立。
+
+1. 在建立案例之前，AI Chat會根據問題說明主動顯示相關知識庫文章和已知解決方案，以實現更快的自助解決方案。 如果找不到解決方案，AI Chat會繼續順暢地建立案例。
+
+1. 收集到足夠的資訊後，AI Chat會自動產生結構化的案例草稿，包括標題、說明和重複步驟，以供客戶在提交前檢閱。
+
+1. 透過AI Chat提交的所有案例都會透過與透過傳統表單提交的案例相同的後端工作流程進行處理，確保支援團隊接收或處理案例的方式不會有任何變更。
+
+1. 客戶可以轉換方式管理現有的支援案例，包括擷取案例摘要、檢查狀態和優先順序、檢視依優先順序層級分組的未完成案例，以及要求後續動作，例如升級或回撥。
+
+1. 傳統入口網站中可用的所有支援動作（包括呈報和回呼請求）都可以透過AI Chat中的對話命令存取。
+
+>[!NOTE]
+>
+>這是AI Chat的早期測試版本。 它可供所有人使用，但AI回應和交談流程在工作階段之間可能略有不同，同時維持一致的資料收集目標。 在回應之前，請仔細檢查所有AI產生的回應。
+
 ## 2026年6月17日 — 重新設計的Experience League支援入口網站更新
 
 1. 重新設計的Experience League支援入口網站現在可供Adobe Commerce使用者使用。
@@ -39,7 +55,7 @@ ht-degree: 1%
 
 1. 依優先順序的&#x200B;**[!UICONTROL 案例計數]**&#x200B;圖表現在提供暫留的更詳細劃分。 將滑鼠懸停在優先順序區段上會顯示工具提示，顯示案例總數以及開啟和關閉案例的數量。
 
-1. **[!UICONTROL 產品狀態]** Widget現在支援互動式產品篩選。 您可以直接從首頁選取一或多個產品，以篩選系統狀態警示。 在此Widget中選取產品時，不再重新導向至[status.adobe.com](http://status.adobe.com/zh-tw)。
+1. **[!UICONTROL 產品狀態]** Widget現在支援互動式產品篩選。 您可以直接從首頁選取一或多個產品，以篩選系統狀態警示。 在此Widget中選取產品時，不再重新導向至[status.adobe.com](http://status.adobe.com)。
 
 1. **[!UICONTROL 產品狀態]** Widget現在會以更直覺的順序列出產品。 有作用中問題的產品會先出現，接著是依字母順序排序的其餘產品。
 
