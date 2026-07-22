@@ -12,9 +12,10 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: cac9b6e8d4058de8bbd474481a9f47eaedb093fe
+hold: true
+source-git-commit: 850462d9daa57f4e3c15b1d04f0a4c582040c2bd
 workflow-type: tm+mt
-source-wordcount: 1084
+source-wordcount: 1061
 ht-degree: 1%
 
 ---
@@ -27,7 +28,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->重新設計的入口網站不提供&#x200B;**[!UICONTROL 案例建立]**、**[!UICONTROL 我的案例]**&#x200B;和&#x200B;**[!UICONTROL 案例詳細資料]**。 切換到目前的Experience League支援入口網站以建立和管理案例。 兩個入口網站都會保持同步，以確保各體驗中的案例資料保持最新。
+>若要在重新設計的入口網站中建立和管理支援案例，請參閱[建立和管理支援案例](exl-new-ui-support-cases.md)。
 
 ## 首頁
 
@@ -38,7 +39,8 @@ ht-degree: 1%
 左側導覽面板提供下列區段的存取權：
 
 - **[!UICONTROL 首頁]**&#x200B;開啟為預設登陸頁面，並顯示支援活動的集中檢視。
-- **[!UICONTROL 開啟案例]**&#x200B;與&#x200B;**[!UICONTROL 我的案例]**&#x200B;重新導向至目前的Experience League支援入口網站，以建立和管理案例。
+- **[!UICONTROL 開啟案例]**&#x200B;在重新設計的入口網站中開啟案例建立工作流程。 請參閱[建立和管理支援案例](exl-new-ui-support-cases.md)。
+- **[!UICONTROL 我的案例]**&#x200B;在重新設計的入口網站中開啟案例清單。 請參閱[建立和管理支援案例](exl-new-ui-support-cases.md)。
 - **[!UICONTROL 我的成功]**&#x200B;僅供Ultimate Success plan客戶使用。
 
 ## 切換組織
@@ -61,11 +63,11 @@ ht-degree: 1%
 
 **[!UICONTROL 首頁]**&#x200B;頁面頂端有以下快速動作：
 
-1. **[!UICONTROL 開啟支援案例]** — 重新導向至目前Experience League支援入口網站中的&#x200B;**[!UICONTROL 開啟票證]**&#x200B;模組，以建立新案例。 按一下&#x200B;**[!UICONTROL 開始使用]**。
+1. **[!UICONTROL 開啟支援案例]** — 在重新設計的入口網站中開啟案例建立工作流程。 選取&#x200B;**[!UICONTROL 開始使用]**。
 
-2. **[!UICONTROL 檢視及管理您的案例]** — 重新導向至目前Experience League支援入口網站中的&#x200B;**[!UICONTROL 我的案例]**&#x200B;模組。 選取&#x200B;**[!UICONTROL 立即移至]**&#x200B;以存取。
+1. **[!UICONTROL 檢視及管理您的案例]** — 在重新設計的入口網站中開啟&#x200B;**[!UICONTROL 我的案例]**&#x200B;頁面。 選取&#x200B;**[!UICONTROL 立即執行]**。
 
-3. **[!UICONTROL 要求回撥]** — 與Adobe專家排程有關案例的通話。 對於P1 （嚴重）案例，請要求立即回撥。 針對P2和P3案例，安排在便利的日期和時間與支援工程師進行網路會議。 選取&#x200B;**[!UICONTROL 立即要求]**&#x200B;以開始。
+1. **[!UICONTROL 要求回撥]** — 與Adobe專家排程有關案例的通話。 對於P1 （嚴重）案例，請要求立即回撥。 針對P2和P3案例，安排在便利的日期和時間與支援工程師進行網路會議。 選取&#x200B;**[!UICONTROL 立即要求]**&#x200B;以開始。
 
 ## 服務分析
 
@@ -109,15 +111,15 @@ ht-degree: 1%
 
 ![我已提交的案例](/help/adobe-support-tools-guide/assets/my-submitted-case-1.png)
 
-選取&#x200B;**[!UICONTROL 我的案例]**&#x200B;時，此區段會顯示最近提交的三個案例。 在&#x200B;**[!UICONTROL 服務分析]**&#x200B;區段中選取&#x200B;**[!UICONTROL 我的組織案例]**&#x200B;時，會顯示整個組織中最近提交的三個案例。
+在&#x200B;**[!UICONTROL 服務分析]**&#x200B;中選取&#x200B;**[!UICONTROL 我的案例]**&#x200B;時，此區段會顯示最近提交的三個案例。 在&#x200B;**[!UICONTROL 服務分析]**&#x200B;區段中選取&#x200B;**[!UICONTROL 我的組織案例]**&#x200B;時，會顯示整個組織中最近提交的三個案例。
 
 ![我的案例](/help/adobe-support-tools-guide/assets/my-case.png)
 
-選取&#x200B;**[!UICONTROL 案例ID]**&#x200B;以在目前的Experience League支援入口網站中檢視案例詳細資料。
+選取&#x200B;**[!UICONTROL 案例ID]**，在重新設計的Experience League支援入口網站中檢視案例詳細資料。
 
 ![選取案例ID](/help/adobe-support-tools-guide/assets/select-case-id.png)
 
-選取「**[!UICONTROL 檢視所有案例]**」，在目前的Experience League支援入口網站上開啟「**[!UICONTROL 我的案例]**」頁面。
+選取「**[!UICONTROL 檢視所有案例]**」，在重新設計的Experience League支援入口網站中開啟「**[!UICONTROL 我的案例]**」頁面。
 
 ![檢視所有案例](/help/adobe-support-tools-guide/assets/view-all-cases.png)
 
@@ -183,9 +185,9 @@ ht-degree: 1%
 - 此歡迎訊息概述Ultimate Success如何提供策略領導和主動式技術健康支援，以提供高效能的數位體驗
 - **[!UICONTROL 觀看影片]**&#x200B;選項，以進一步瞭解計畫
 - 計畫的主要元件，包括：
-   - **[!UICONTROL 成功團隊]**
-   - **[!UICONTROL 成功加速器]**
-   - **[!UICONTROL Mutual Action Plan]**
+  - **[!UICONTROL 成功團隊]**
+  - **[!UICONTROL 成功加速器]**
+  - **[!UICONTROL Mutual Action Plan]**
 
 它也能讓您存取Experience League、Experience League社群和Premium學習訂閱等學習資源。
 

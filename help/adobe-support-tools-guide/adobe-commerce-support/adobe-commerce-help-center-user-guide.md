@@ -5,9 +5,9 @@ feature: Support, Roles/Permissions, Tools and External Services, Admin Workspac
 feature-set: Commerce
 solution: Commerce
 exl-id: a7833d47-1d4b-4c10-9d2e-42fa43f8513c
-source-git-commit: f0cf10d8d97b8e2c2925999061c115f6a5d3c81e
+source-git-commit: 6ac712151b002370eb84a3e3deb5480921cc40a6
 workflow-type: tm+mt
-source-wordcount: '3618'
+source-wordcount: '3602'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,9 @@ ht-degree: 0%
 * [登入Experience League支援](#sign-in-experience-support)
 * [提交支援案例](#support-case)
 
-   * [Adobe Experience League首頁](#experience-league-start-page)
-   * [Adobe Commerce帳戶頁面](#submit-case-adobe-commerce-account-page)
-   * [*請確認您的電子郵件地址* Adobe Commerce帳戶頁面上的錯誤](#verify-email-address-error)
+  * [Adobe Experience League首頁](#experience-league-start-page)
+  * [Adobe Commerce帳戶頁面](#submit-case-adobe-commerce-account-page)
+  * [*請確認您的電子郵件地址* Adobe Commerce帳戶頁面上的錯誤](#verify-email-address-error)
 
 * [追蹤您的支援案例](#track-support-cases)
 * [您案例中的註解](#comments-in-your-case)
@@ -55,7 +55,7 @@ ht-degree: 0%
 * [提供共用存取權](#provide-shared-access)
 * [撤銷（刪除）共用存取權](#revoke-shared-access)
 
-   * [如何刪除透過雲端專案獲得共用存取許可權的使用者？](#remove-cloud-shared-access-users)
+  * [如何刪除透過雲端專案獲得共用存取許可權的使用者？](#remove-cloud-shared-access-users)
 
 * [存取共用帳戶（切換帳戶）](#switch-accounts)
 * [共用存取疑難排解](#troubleshooting-shared-access)
@@ -148,6 +148,8 @@ Adobe Experience League支援案例管理可透過案例與支援人員合作，
 >
 >如果您的組織有權使用Adobe Commerce Intelligence / Commerce報告(MBI)，但您需要進階報告的協助，請勿選取&#x200B;**Commerce報告**&#x200B;作為產品。 Commerce報告團隊不提供進階報告問題的支援。
 >
+>如果您的問題與付款相關，預設請勿選取「付款服務」。 付款服務專指Adobe付款服務模組。 一般而言，若針對付款問題選取此專案，可能會導致範圍中的產品與適當調查路徑產生混淆。
+>
 >如果您無法選取其他產品（例如，**[!UICONTROL 選取產品]**&#x200B;下拉式清單是空的或未顯示），通常是下列其中一個原因造成：
 >
 >* 您的Commerce權益已過期或停用（例如，由於未解決的帳單或授權問題）。
@@ -201,7 +203,7 @@ Adobe Experience League支援案例管理可透過案例與支援人員合作，
 >[!NOTE]
 >
 >如果您的支援案例是除了Commerce以外提交其他Adobe產品，則系統無法從相同畫面追蹤這些票證 — 您必須先切換至與產品軟體權利檔案相關聯的組織。
->例如，您先前選取以「(Commerce)」結尾的組織來追蹤您的Commerce案例，同時您也有AEP支援案例 — 這些案例不會顯示在這裡。
+>例如，您先前選取以「(Commerce)」結尾的組織來追蹤您的Commerce案例，同時您也有AEP支援案例 — 這些案例將不會顯示在這裡。
 
 #### 檢視您的案例
 
@@ -254,7 +256,7 @@ Adobe Experience League支援案例管理可透過案例與支援人員合作，
 
 ### 您案例中的註解 {#comments-in-your-case}
 
-您案例中的註解包含您或Adobe Commerce支援團隊所撰寫的所有註解。 註解會以最新（頂端）到最早（底部）的順序顯示。
+您案例中的註解包含您或Adobe Commerce支援團隊所撰寫的所有註解。註解會以最新（頂端）到最早（底部）的順序顯示。
 若要新增註解，請執行下列步驟：
 
 1. 捲動至票證底部。
@@ -390,7 +392,7 @@ Adobe Experience League支援案例管理可透過案例與支援人員合作，
 >[!NOTE]
 >
 >提交Adobe Commerce的票證不需要此步驟。
->如需有關提交Adobe Commerce票證的示範，[請參閱此影片](https://experienceleague.adobe.com/zh-hant/playlists/support-requests)。
+>如需提交Adobe Commerce票證的示範，[請參閱此影片](https://experienceleague.adobe.com/zh-hant/playlists/support-requests)。
 
 若要使用為您提供的共用存取權，請遵循下列步驟：
 

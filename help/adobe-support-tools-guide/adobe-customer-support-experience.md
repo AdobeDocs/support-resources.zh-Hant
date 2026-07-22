@@ -14,9 +14,10 @@ topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 3da0095b5ae5b72334482acddb2f092db447bfc0
+hold: true
+source-git-commit: dee6ae400f5e35467f27bf6c666e4894ed72af9d
 workflow-type: tm+mt
-source-wordcount: 2033
+source-wordcount: 2077
 ht-degree: 0%
 
 ---
@@ -83,6 +84,10 @@ ht-degree: 0%
 >[!NOTE]
 >
 > 在提交支援票證之前，請檢查[Adobe狀態](https://status.adobe.com/zh-tw)網站上的Adobe系統效能、使用狀態和已知問題。
+
+>[!NOTE]
+>
+>如果您使用重新設計的Experience League支援入口網站開啟支援案例，請參閱[建立和管理支援案例](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/exl-new-ui-support-cases)。 以下步驟說明目前的（舊版）入口網站介面。
 
 Experience League是自助服務支援入口網站，專為提供個人化協助以及授權客戶易用的體驗而設計。
 
