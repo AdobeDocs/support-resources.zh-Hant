@@ -164,7 +164,7 @@ ht-degree: 1%
 
 ![您的系統狀態警示區段](/help/adobe-support-tools-guide/assets/system-status-alerts-1.png)
 
-選取「**[!UICONTROL 管理訂閱]**」以在Adobe [狀態網站](https://status.adobe.com/)上設定您Adobe產品的通知偏好設定。
+選取「**[!UICONTROL 管理訂閱]**」以在Adobe [狀態網站](https://status.adobe.com/zh-tw/)上設定您Adobe產品的通知偏好設定。
 
 ## 您的計畫資訊
 
