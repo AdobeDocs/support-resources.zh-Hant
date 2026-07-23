@@ -2,20 +2,14 @@
 title: Experience League支援入口網站 — 新使用者介面
 description: 重新設計Experience League支援入口網站，透過改善導覽、分析和快速動作，以及順暢地切換到目前的入口網站進行案例管理，來簡化支援工作流程、案例分析和產品監控。
 TQID: 'https://experienceleague.adobe.com/-pTlo6TkAlBDt4-xPwcU-I7yWtUinu2avTCoJVXK2bs'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 hold: true
-source-git-commit: 2a64b77927d75c7d11730b9ef4d8ae490020ef10
+source-git-commit: 167da98ed4e537d0e354fa5344d23c6e15f15bb6
 workflow-type: tm+mt
-source-wordcount: 1325
+source-wordcount: 1371
 ht-degree: 0%
 
 ---
@@ -58,6 +52,10 @@ ht-degree: 0%
 兩個入口網站都會保持同步，以確保各個體驗中的案例資料和支援資訊都保持一致。
 
 ![舊的UI](/help/adobe-support-tools-guide/assets/old-ui.png)
+
+>[!NOTE]
+>
+>入口網站偏好設定會自動儲存。 您上次使用的入口網站會成為您未來登入的預設入口網站。 如果您上次使用重新設計的入口網站，它將直接開啟，而不載入舊版入口網站。 如果您上次使用舊版入口網站，系統會開啟舊版入口網站。
 
 首頁包含個人化的歡迎橫幅，以及可跨Experience League支援入口網站進行搜尋的全域搜尋列。
 
@@ -166,7 +164,7 @@ ht-degree: 0%
 
 ### 管理訂閱
 
-使用&#x200B;**[!UICONTROL 管理訂閱]**&#x200B;設定Adobe產品和服務狀態事件的電子郵件通知。 訂閱可協助您在Adobe建立、更新或解決選定產品和地區的事件時獲得最新資訊。
+使用&#x200B;**[UICONTROL管理訂閱]**&#x200B;設定Adobe產品和服務狀態事件的電子郵件通知。 訂閱可協助您在Adobe建立、更新或解決選定產品和地區的事件時獲得最新資訊。
 
 1. 在&#x200B;**[!UICONTROL 您的系統狀態警示]**&#x200B;區段中，選取&#x200B;**[!UICONTROL 管理訂閱]**。
 
@@ -181,10 +179,10 @@ ht-degree: 0%
 1. 在&#x200B;**[!UICONTROL 請選取區域]**，選取要監視的一或多個區域。
 1. 在&#x200B;**[!UICONTROL 中，請選取事件型別]**，選取下列一或多個事件型別：
 
-   &#x200B;* 重大服務問題
-   &#x200B;* 次要服務問題
-   &#x200B;* 服務維護
-   &#x200B;* 公告
+   * 重大服務問題
+   * 次要服務問題
+   * 服務維護
+   * 公告
 
    ![建立訂閱頁面](assets/create-subscription-page.png)
 
@@ -209,9 +207,9 @@ ht-degree: 0%
 
 您可以從此頁面執行下列動作：
 
-&#x200B;* 選取&#x200B;**[!UICONTROL 編輯訂閱]**&#x200B;以修改現有的訂閱。
-&#x200B;* 選取&#x200B;**[!UICONTROL 全部取消訂閱]**&#x200B;以移除所有訂閱。
-&#x200B;* 選取訂閱旁的刪除圖示，即可移除個別訂閱。
+* 選取&#x200B;**[!UICONTROL 編輯訂閱]**&#x200B;以修改現有的訂閱。
+* 選取&#x200B;**[!UICONTROL 全部取消訂閱]**&#x200B;以移除所有訂閱。
+* 選取訂閱旁的刪除圖示，即可移除個別訂閱。
 
 ## 您的計畫資訊
 
