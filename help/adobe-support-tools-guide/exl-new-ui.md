@@ -2,20 +2,14 @@
 title: Experience League支援入口網站 — 新使用者介面
 description: 重新設計Experience League支援入口網站，透過改善導覽、分析和快速動作，以及順暢地切換到目前的入口網站進行案例管理，來簡化支援工作流程、案例分析和產品監控。
 TQID: 'https://experienceleague.adobe.com/-pTlo6TkAlBDt4-xPwcU-I7yWtUinu2avTCoJVXK2bs'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: fed8e553a6410a44b96b631d18ae1a71962a8ba1
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 0e6073c6c2305dcc92c6fba789401a5c4916d63f
 workflow-type: tm+mt
-source-wordcount: 1370
-ht-degree: 0%
+source-wordcount: 1069
+ht-degree: 1%
 
 ---
 
@@ -24,10 +18,6 @@ ht-degree: 0%
 ## 概觀
 
 重新設計的Experience League支援入口網站提供統一且直覺式的體驗，讓您管理Adobe支援活動。 它可讓您更快速地存取基本功能，包括追蹤支援案例、監控產品狀態、存取案例深入分析並與Success團隊連線。
-
->[!NOTE]
->
->若要在重新設計的入口網站中建立和管理支援案例，請參閱[建立和管理支援案例](exl-new-ui-support-cases.md)。
 
 ## 首頁
 
@@ -38,8 +28,8 @@ ht-degree: 0%
 左側導覽面板提供下列區段的存取權：
 
 - **[!UICONTROL 首頁]**&#x200B;開啟為預設登陸頁面，並顯示支援活動的集中檢視。
-- **[!UICONTROL 開啟案例]**&#x200B;在重新設計的入口網站中開啟案例建立工作流程。 請參閱[建立和管理支援案例](exl-new-ui-support-cases.md)。
-- **[!UICONTROL 我的案例]**&#x200B;在重新設計的入口網站中開啟案例清單。 請參閱[建立和管理支援案例](exl-new-ui-support-cases.md)。
+- **[!UICONTROL 開啟案例]**&#x200B;會在目前的Experience League支援入口網站中開啟案例建立工作流程。
+- **[!UICONTROL 我的案例]**&#x200B;會在目前的Experience League支援入口網站中開啟案例清單。
 - **[!UICONTROL 我的成功]**&#x200B;僅供Ultimate Success plan客戶使用。
 
 ## 切換組織
@@ -66,9 +56,9 @@ ht-degree: 0%
 
 **[!UICONTROL 首頁]**&#x200B;頁面頂端有以下快速動作：
 
-1. **[!UICONTROL 開啟支援案例]** — 在重新設計的入口網站中開啟案例建立工作流程。 選取&#x200B;**[!UICONTROL 開始使用]**。
+1. **[!UICONTROL 開啟支援案例]** — 在舊版支援入口網站開啟案例建立工作流程。 選取&#x200B;**[!UICONTROL 開始使用]**。
 
-1. **[!UICONTROL 檢視及管理您的案例]** — 在重新設計的入口網站中開啟&#x200B;**[!UICONTROL 我的案例]**&#x200B;頁面。 選取&#x200B;**[!UICONTROL 立即執行]**。
+1. **[!UICONTROL 檢視及管理您的案例]** — 在舊版支援入口網站開啟&#x200B;**[!UICONTROL 我的案例]**&#x200B;頁面。 選取&#x200B;**[!UICONTROL 立即執行]**。
 
 1. **[!UICONTROL 要求回撥]** — 與Adobe專家排程有關案例的通話。 對於P1 （嚴重）案例，請要求立即回撥。 針對P2和P3案例，安排在便利的日期和時間與支援工程師進行網路會議。 選取&#x200B;**[!UICONTROL 立即要求]**&#x200B;以開始。
 
@@ -118,11 +108,11 @@ ht-degree: 0%
 
 ![我的案例](/help/adobe-support-tools-guide/assets/my-case.png)
 
-選取&#x200B;**[!UICONTROL 案例ID]**，在重新設計的Experience League支援入口網站中檢視案例詳細資料。
+選取&#x200B;**[!UICONTROL 案例ID]**&#x200B;以在目前的Experience League支援入口網站中檢視案例詳細資料。
 
 ![選取案例ID](/help/adobe-support-tools-guide/assets/select-case-id.png)
 
-選取「**[!UICONTROL 檢視所有案例]**」，在重新設計的Experience League支援入口網站中開啟「**[!UICONTROL 我的案例]**」頁面。
+選取「**[!UICONTROL 檢視所有案例]**」，在目前的Experience League支援入口網站中開啟「**[!UICONTROL 我的案例]**」頁面。
 
 ![檢視所有案例](/help/adobe-support-tools-guide/assets/view-all-cases.png)
 
@@ -166,55 +156,6 @@ ht-degree: 0%
 選取警報以展開並檢視其他詳細資料。
 
 ![您的系統狀態警示區段](/help/adobe-support-tools-guide/assets/system-status-alerts-1.png)
-
-### 管理訂閱
-
-使用&#x200B;**[!UICONTROL 管理訂閱]**&#x200B;設定Adobe產品和服務狀態事件的電子郵件通知。 訂閱可協助您在Adobe建立、更新或解決選定產品和地區的事件時獲得最新資訊。
-
-1. 在&#x200B;**[!UICONTROL 您的系統狀態警示]**&#x200B;區段中，選取&#x200B;**[!UICONTROL 管理訂閱]**。
-
-   ![管理訂閱](assets/manage-subscriptions.png)
-
-1. 在&#x200B;**[!UICONTROL 管理訂閱]**&#x200B;頁面上，選取&#x200B;**[!UICONTROL 建立訂閱]**。
-
-   ![建立訂閱](assets/create-subscriptions.png)
-
-1. 在&#x200B;**[!UICONTROL 請選取Cloud]**&#x200B;中，選取包含您要監視之產品的Adobe雲端。
-1. 在&#x200B;**[!UICONTROL 中，請選取產品和方案]**，選取您要接收通知的產品。
-1. 在&#x200B;**[!UICONTROL 請選取區域]**，選取要監視的一或多個區域。
-1. 在&#x200B;**[!UICONTROL 中，請選取事件型別]**，選取下列一或多個事件型別：
-
-   &#x200B;* 重大服務問題
-   &#x200B;* 次要服務問題
-   &#x200B;* 服務維護
-   &#x200B;* 公告
-
-   ![建立訂閱頁面](assets/create-subscription-page.png)
-
-1. 檢閱預設通知設定，包括語言和時區。
-1. 選取&#x200B;**[!UICONTROL 繼續]**。
-1. 檢閱訂閱詳細資訊，包括選取的雲端、產品、服務、地區和事件型別。
-1. 選取&#x200B;**[!UICONTROL 確認]**&#x200B;以建立訂閱。
-
-   ![確認訂閱詳細資料](assets/confirm-subscription.png)
-
-1. 確認訊息會出現，並建立訂閱。
-
-建立訂閱後，當符合所選產品、地區和事件型別條件的事件建立、更新或解決時，Adobe會傳送電子郵件通知。
-
->[!NOTE]
->
->電子郵件是狀態通知的預設通訊通道。 訂閱偏好設定僅適用於選取的產品、地區和事件型別。
-
-下次您開啟&#x200B;**[!UICONTROL 管理訂閱]**&#x200B;時，此頁面會顯示您目前的訂閱詳細資料，包括選取的雲端、產品、服務、地區和事件型別。
-
-![管理現有的訂閱](assets/edit-subscriptions.png)
-
-您可以從此頁面執行下列動作：
-
-&#x200B;* 選取&#x200B;**[!UICONTROL 編輯訂閱]**&#x200B;以修改現有的訂閱。
-&#x200B;* 選取&#x200B;**[!UICONTROL 全部取消訂閱]**&#x200B;以移除所有訂閱。
-&#x200B;* 選取訂閱旁的刪除圖示，即可移除個別訂閱。
 
 ## 您的計畫資訊
 
