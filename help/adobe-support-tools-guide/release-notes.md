@@ -5,10 +5,16 @@ feature: Release Notes
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
 autotag-review: '2026-06-12T20:44:20.941Z'
 TQID: 'https://experienceleague.adobe.com/ULOOxxvZGorHsE8Q44r8n7HbvTb712-8NnVMzl0J-Q8'
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2: id: d00e9f03-e50b-4162-b143-0c0817c937c2id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: d00e9f03-e50b-4162-b143-0c0817c937c2
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: d76226eb8ff1eecca20a67ef3ce9f62955152be1
 workflow-type: tm+mt
 source-wordcount: 1757
