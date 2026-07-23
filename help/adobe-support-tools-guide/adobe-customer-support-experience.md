@@ -5,18 +5,12 @@ description: Adobe客戶支援體驗
 seo-description: Adobe Customer Support Experience
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 TQID: https://experienceleague.adobe.com/cGHwAzUXOUNouNknfl84ix4Gi7t8koCJVICt1zJWRp8
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-topic_v2:
-  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-  - id: c1579802-ddd4-4214-8a91-97b2066abe11
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 0e6073c6c2305dcc92c6fba789401a5c4916d63f
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: c1579802-ddd4-4214-8a91-97b2066abe11id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: 671678370c8a941c9644d0623bf713b9a4e056e1
 workflow-type: tm+mt
-source-wordcount: 2033
+source-wordcount: 2034
 ht-degree: 0%
 
 ---
@@ -25,17 +19,17 @@ ht-degree: 0%
 
 ## Experience League支援票證
 
-現已透過[Experience League](https://experienceleague.adobe.com/home?lang=zh-Hant#support)提交支援票證。 如需如何提交支援票證的說明，請參閱[提交支援票證](#create-a-support-ticket-with-experience-league)的區段。
+現已透過[Experience League](https://experienceleague.adobe.com/home#support)提交支援票證。 如需如何提交支援票證的說明，請參閱[提交支援票證](#create-a-support-ticket-with-experience-league)的區段。
 
-我們正致力改善您與Adobe客戶支援的互動方式。 我們的願景是使用Experience League移至單一入口點，以簡化支援體驗。 上線後，您的組織將能夠輕鬆存取Adobe客戶支援；透過跨產品的通用系統更清楚地瞭解您的服務記錄；透過電話、網路和透過單一入口網站聊天請求協助。
+我們正致力改善您與Adobe客戶支援的互動方式。 我們的願景是使用Experience League移至單一入口點，以簡化支援體驗。 上線後，您的組織將能夠輕鬆存取Adobe客戶支援；透過跨產品的通用系統更清楚地瞭解您的服務歷史記錄；透過電話、網路和透過單一入口網站聊天請求協助。
 
-如果您是Adobe Commerce使用者，請參閱Adobe Commerce的Experience League支援使用指南中的[提交支援案例](https://experienceleague.adobe.com/zh-hant/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)。
+如果您是Adobe Commerce使用者，請參閱Adobe Commerce的Experience League支援使用指南中的[提交支援案例](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)。
 
 ## 案例提交所需的支援授權角色 {#submit-ticket}
 
-若要在[Experience League](https://experienceleague.adobe.com/home?lang=zh-Hant#support)中提交支援票證，您需要系統管理員指派支援管理員角色。 只有您組織中的系統管理員可以指派此角色。 產品、產品設定檔及其他管理角色無法指派支援管理員角色，也無法檢視用於提交支援票證的&#x200B;**[!UICONTROL 建立案例]**&#x200B;選項。 若要深入瞭解不同型別的管理員角色及其權益，請參閱[管理員角色](adobe-admin-console/admin-roles.md)。
+若要在[Experience League](https://experienceleague.adobe.com/home#support)中提交支援票證，您需要系統管理員指派支援管理員角色。 只有您組織中的系統管理員可以指派此角色。 產品、產品設定檔及其他管理角色無法指派支援管理員角色，也無法檢視用於提交支援票證的&#x200B;**[!UICONTROL 建立案例]**&#x200B;選項。 若要深入瞭解不同型別的管理員角色及其權益，請參閱[管理員角色](adobe-admin-console/admin-roles.md)。
 
-如果您使用Commerce，共用存取許可權以處理支援案例的流程會不同。 若要瞭解更多資訊，請參閱Adobe Commerce的Experience League支援使用指南中的[共用存取權：授予其他使用者存取您帳戶的許可權](https://experienceleague.adobe.com/zh-hant/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access)。
+如果您使用Commerce，共用存取許可權以處理支援案例的流程會不同。 若要瞭解更多資訊，請參閱Adobe Commerce的Experience League支援使用指南中的[共用存取權：授予其他使用者存取您帳戶的許可權](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access)。
 
 ### 新增支援可讓角色擁有組織許可權
 
@@ -66,7 +60,7 @@ ht-degree: 0%
 
    ![編輯管理許可權Marketo](assets/edit-admin-rights-advanced.png)
 
-1. 選取之後，按一下[儲存]。**&#x200B;**
+1. 選取之後，按一下[儲存]。****
 
 使用者會收到來自`message@adobe.com`有關新系統管理許可權的電子郵件邀請。
 
@@ -82,11 +76,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> 在提交支援票證之前，請檢查[Adobe狀態](https://status.adobe.com/zh-tw)網站上的Adobe系統效能、使用狀態和已知問題。
+> 在提交支援票證之前，請檢查[Adobe狀態](https://status.adobe.com)網站上的Adobe系統效能、使用狀態和已知問題。
 
 Experience League是自助服務支援入口網站，專為提供個人化協助以及授權客戶易用的體驗而設計。
 
-1. 若要在[Experience League](https://experienceleague.adobe.com/home?lang=zh-Hant#support)中建立票證，請選取頂端導覽列中的&#x200B;**[!UICONTROL 支援]**&#x200B;索引標籤。
+1. 若要在[Experience League](https://experienceleague.adobe.com/home#support)中建立票證，請選取頂端導覽列中的&#x200B;**[!UICONTROL 支援]**&#x200B;索引標籤。
 
    ![Experience League支援標籤](./assets/experience-league-support-tab.png)
 
@@ -116,7 +110,7 @@ Experience League是自助服務支援入口網站，專為提供個人化協助
 
 請依照下列步驟建立支援票證：
 
-1. 按一下產品名稱以選取受影響的產品，然後按一下[下一步]&#x200B;**&#x200B;**。
+1. 按一下產品名稱以選取受影響的產品，然後按一下[下一步]****。
 
    ![Experience League選取產品](./assets/product-selection.png)
 
@@ -153,7 +147,7 @@ Experience League是自助服務支援入口網站，專為提供個人化協助
 
    ![按一下下一個選項](./assets/click-next.png)
 
-1. 在&#x200B;**[!UICONTROL 系統資訊]**&#x200B;區段中，提供&#x200B;**[!UICONTROL 產品版本]**、**[!UICONTROL 環境]**、**[!UICONTROL 產品方案]**，並指示是否對環境或執行個體進行了任何最近的變更。 選取「**是**」以提供有關變更的其他詳細資料。 若未進行任何變更，請選取&#x200B;**否**，然後按一下[下一步]&#x200B;**。**
+1. 在&#x200B;**[!UICONTROL 系統資訊]**&#x200B;區段中，提供&#x200B;**[!UICONTROL 產品版本]**、**[!UICONTROL 環境]**、**[!UICONTROL 產品方案]**，並指示是否對環境或執行個體進行了任何最近的變更。 選取「**是**」以提供有關變更的其他詳細資料。 若未進行任何變更，請選取&#x200B;**否**，然後按一下[下一步]]**。**[!UICONTROL 
 
    >[!NOTE]
    >
@@ -167,7 +161,7 @@ Experience League是自助服務支援入口網站，專為提供個人化協助
 
    ![Experience League優先順序與業務影響](./assets/priority-business-impact.png)
 
-   如需案例優先順序與業務影響如何影響支援回應時間的詳細資訊，請參閱成功計畫資原始檔中的[支援的目標初始回應時間](https://experienceleague.adobe.com/zh-hant/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support)。
+   如需案例優先順序與業務影響如何影響支援回應時間的詳細資訊，請參閱成功計畫資原始檔中的[支援的目標初始回應時間](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support)。
 
 1. 在&#x200B;**[!UICONTROL 連絡人資訊與觀察者清單]**&#x200B;區段中，選取時區、輸入您的電話號碼、新增觀察者、視需要附加任何檔案，然後按一下&#x200B;**[!UICONTROL 下一步]**。
 
@@ -211,7 +205,7 @@ Experience League支援提供AI支援的聊天介面，作為建立和管理支�
 
    ![Experience League選取產品](./assets/product-selection.png)
 
-1. 按一下產品名稱以選取受影響的產品，然後按一下[下一步]&#x200B;**&#x200B;**。
+1. 按一下產品名稱以選取受影響的產品，然後按一下[下一步]****。
 1. 在右上角，選取&#x200B;**[!UICONTROL AI聊天]**。
 
    ![AI聊天](./assets/ai-chat.png)
