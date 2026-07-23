@@ -12,10 +12,9 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-hold: true
-source-git-commit: 850462d9daa57f4e3c15b1d04f0a4c582040c2bd
+source-git-commit: 671678370c8a941c9644d0623bf713b9a4e056e1
 workflow-type: tm+mt
-source-wordcount: 1061
+source-wordcount: 1070
 ht-degree: 1%
 
 ---
@@ -26,10 +25,6 @@ ht-degree: 1%
 
 重新設計的Experience League支援入口網站提供統一且直覺式的體驗，讓您管理Adobe支援活動。 它可讓您更快速地存取基本功能，包括追蹤支援案例、監控產品狀態、存取案例深入分析並與Success團隊連線。
 
->[!NOTE]
->
->若要在重新設計的入口網站中建立和管理支援案例，請參閱[建立和管理支援案例](exl-new-ui-support-cases.md)。
-
 ## 首頁
 
 **[!UICONTROL 首頁]**&#x200B;頁面是支援活動的中心樞紐。 它提供支援環境的概觀，並可快速存取主要功能。
@@ -39,8 +34,8 @@ ht-degree: 1%
 左側導覽面板提供下列區段的存取權：
 
 - **[!UICONTROL 首頁]**&#x200B;開啟為預設登陸頁面，並顯示支援活動的集中檢視。
-- **[!UICONTROL 開啟案例]**&#x200B;在重新設計的入口網站中開啟案例建立工作流程。 請參閱[建立和管理支援案例](exl-new-ui-support-cases.md)。
-- **[!UICONTROL 我的案例]**&#x200B;在重新設計的入口網站中開啟案例清單。 請參閱[建立和管理支援案例](exl-new-ui-support-cases.md)。
+- **[!UICONTROL 開啟案例]**&#x200B;會在目前的Experience League支援入口網站中開啟案例建立工作流程。
+- **[!UICONTROL 我的案例]**&#x200B;會在目前的Experience League支援入口網站中開啟案例清單。
 - **[!UICONTROL 我的成功]**&#x200B;僅供Ultimate Success plan客戶使用。
 
 ## 切換組織
@@ -59,13 +54,17 @@ ht-degree: 1%
 
 ![舊的UI](/help/adobe-support-tools-guide/assets/old-ui.png)
 
+>[!NOTE]
+>
+>入口網站偏好設定會自動儲存。 您上次使用的入口網站會成為您未來登入的預設入口網站。 如果您上次使用重新設計的入口網站，它將直接開啟，而不載入舊版入口網站。 如果您上次使用舊版入口網站，系統會開啟舊版入口網站。
+
 首頁包含個人化的歡迎橫幅，以及可跨Experience League支援入口網站進行搜尋的全域搜尋列。
 
 **[!UICONTROL 首頁]**&#x200B;頁面頂端有以下快速動作：
 
-1. **[!UICONTROL 開啟支援案例]** — 在重新設計的入口網站中開啟案例建立工作流程。 選取&#x200B;**[!UICONTROL 開始使用]**。
+1. **[!UICONTROL 開啟支援案例]** — 在舊版支援入口網站開啟案例建立工作流程。 選取&#x200B;**[!UICONTROL 開始使用]**。
 
-1. **[!UICONTROL 檢視及管理您的案例]** — 在重新設計的入口網站中開啟&#x200B;**[!UICONTROL 我的案例]**&#x200B;頁面。 選取&#x200B;**[!UICONTROL 立即執行]**。
+1. **[!UICONTROL 檢視及管理您的案例]** — 在舊版支援入口網站開啟&#x200B;**[!UICONTROL 我的案例]**&#x200B;頁面。 選取&#x200B;**[!UICONTROL 立即執行]**。
 
 1. **[!UICONTROL 要求回撥]** — 與Adobe專家排程有關案例的通話。 對於P1 （嚴重）案例，請要求立即回撥。 針對P2和P3案例，安排在便利的日期和時間與支援工程師進行網路會議。 選取&#x200B;**[!UICONTROL 立即要求]**&#x200B;以開始。
 
@@ -115,11 +114,11 @@ ht-degree: 1%
 
 ![我的案例](/help/adobe-support-tools-guide/assets/my-case.png)
 
-選取&#x200B;**[!UICONTROL 案例ID]**，在重新設計的Experience League支援入口網站中檢視案例詳細資料。
+選取&#x200B;**[!UICONTROL 案例ID]**&#x200B;以在目前的Experience League支援入口網站中檢視案例詳細資料。
 
 ![選取案例ID](/help/adobe-support-tools-guide/assets/select-case-id.png)
 
-選取「**[!UICONTROL 檢視所有案例]**」，在重新設計的Experience League支援入口網站中開啟「**[!UICONTROL 我的案例]**」頁面。
+選取「**[!UICONTROL 檢視所有案例]**」，在目前的Experience League支援入口網站中開啟「**[!UICONTROL 我的案例]**」頁面。
 
 ![檢視所有案例](/help/adobe-support-tools-guide/assets/view-all-cases.png)
 
@@ -163,8 +162,6 @@ ht-degree: 1%
 選取警報以展開並檢視其他詳細資料。
 
 ![您的系統狀態警示區段](/help/adobe-support-tools-guide/assets/system-status-alerts-1.png)
-
-選取「**[!UICONTROL 管理訂閱]**」以在Adobe [狀態網站](https://status.adobe.com/zh-tw/)上設定您Adobe產品的通知偏好設定。
 
 ## 您的計畫資訊
 

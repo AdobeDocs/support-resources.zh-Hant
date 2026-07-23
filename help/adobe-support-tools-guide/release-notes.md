@@ -15,9 +15,9 @@ level_v2:
 topic_v2:
   - id: d00e9f03-e50b-4162-b143-0c0817c937c2
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 2c6c6384b7bbe59f477278b984d0a7ba5efe6682
+source-git-commit: d76226eb8ff1eecca20a67ef3ce9f62955152be1
 workflow-type: tm+mt
-source-wordcount: 1686
+source-wordcount: 1757
 ht-degree: 0%
 
 ---
@@ -30,6 +30,14 @@ ht-degree: 0%
 ![新](../adobe-support-tools-guide/assets/new.svg)新功能
 ![修正](../adobe-support-tools-guide/assets/fix.svg)修正和改良
 ![錯誤](../adobe-support-tools-guide/assets/bug.svg)已知問題
+
+## 2026年7月23日 — 重新設計的Experience League支援入口網站中的持續入口網站偏好設定
+
+1. 入口網站喜好設定現在已根據您最後的&#x200B;**[!UICONTROL 嘗試新首頁]**&#x200B;切換選取專案自動儲存。
+
+2. 如果您在上一個工作階段期間開啟了切換功能，您下次登入時將會直接進入重新設計的入口網站，且不會載入舊版入口網站。
+
+3. 如果切換功能已關閉，您仍可如常登陸舊版入口網站。
 
 ## 2026年7月9日 — Experience League支援AI聊天
 
@@ -51,7 +59,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->這是AI Chat的早期測試版本。 它可供所有人使用，但AI回應和交談流程在工作階段之間可能略有不同，同時維持一致的資料收集目標。 在回應之前，請仔細檢查所有AI產生的回應。
+>此AI Chat為搶先測試版。 它可供所有人使用，但AI回應和交談流程在工作階段之間可能略有不同，同時維持一致的資料收集目標。 在對其執行操作之前，請仔細檢查所有AI產生的回應。
 
 ## 2026年6月17日 — 重新設計的Experience League支援入口網站更新
 
@@ -149,30 +157,30 @@ Adobe Commerce和Adobe GenStudio現在都可使用「要求回撥」功能。 Ad
 ![新](../adobe-support-tools-guide/assets/new.svg)已新增授權產品的&#x200B;**其他[!UICONTROL 環境內容]欄位**，以擷取重要詳細資料：
 
 - **Marketo**
-   - Munchkin ID
+  - Munchkin ID
 - **Adobe Target**
-   - 活動名稱
-   - 網站URL （標籤屬性名稱）
+  - 活動名稱
+  - 網站URL （標籤屬性名稱）
 - **Adobe Analytics**
-   - RSID
-   - 網站URL（標籤屬性名稱） / cURL
-   - Workspace短連結
+  - RSID
+  - 網站URL（標籤屬性名稱） / cURL
+  - Workspace短連結
 - **Adobe Journey Optimizer (AJO)**
-   - 歷程ID或URL/促銷活動ID或URL/管道ID或URL/Offer Decisioning ID或URL
-   - 範例設定檔
-   - 沙箱名稱
+  - 歷程ID或URL/促銷活動ID或URL/管道ID或URL/Offer Decisioning ID或URL
+  - 範例設定檔
+  - 沙箱名稱
 - **Real-Time Customer Data Platform (RTCDP)**
-   - 受影響的元件ID （目的地ID/對象ID/資料集ID/資料流ID/合併原則ID/結構描述ID/Source ID/批次ID）
-   - 範例設定檔
-   - 沙箱名稱
+  - 受影響的元件ID （目的地ID/對象ID/資料集ID/資料流ID/合併原則ID/結構描述ID/Source ID/批次ID）
+  - 範例設定檔
+  - 沙箱名稱
 - **Adobe Experience Platform (AEP)**
-   - 受影響的元件ID （目的地ID/對象ID/資料集ID/資料流ID/合併原則ID/結構描述ID/Source ID/批次ID）
-   - 範例設定檔
-   - 沙箱名稱
+  - 受影響的元件ID （目的地ID/對象ID/資料集ID/資料流ID/合併原則ID/結構描述ID/Source ID/批次ID）
+  - 範例設定檔
+  - 沙箱名稱
 - **Customer Journey Analytics (CJA)**
-   - Workspace專案URL
-   - 連線ID /錯誤訊息/代碼
-   - 資料檢視ID
+  - Workspace專案URL
+  - 連線ID /錯誤訊息/代碼
+  - 資料檢視ID
 
 ![New](../adobe-support-tools-guide/assets/new.svg)已新增&#x200B;**AI導向的[!UICONTROL Recommendations面板]**，以便在不中斷案例建立流程的情況下顯示實用指引。
 

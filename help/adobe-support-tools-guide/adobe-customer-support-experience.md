@@ -14,10 +14,9 @@ topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-hold: true
-source-git-commit: dee6ae400f5e35467f27bf6c666e4894ed72af9d
+source-git-commit: 671678370c8a941c9644d0623bf713b9a4e056e1
 workflow-type: tm+mt
-source-wordcount: 2077
+source-wordcount: 2034
 ht-degree: 0%
 
 ---
@@ -28,7 +27,7 @@ ht-degree: 0%
 
 現已透過[Experience League](https://experienceleague.adobe.com/home?lang=zh-Hant#support)提交支援票證。 如需如何提交支援票證的說明，請參閱[提交支援票證](#create-a-support-ticket-with-experience-league)的區段。
 
-我們正致力改善您與Adobe客戶支援的互動方式。 我們的願景是使用Experience League移至單一入口點，以簡化支援體驗。 上線後，您的組織將能夠輕鬆存取Adobe客戶支援；透過跨產品的通用系統更清楚地瞭解您的服務記錄；透過電話、網路和透過單一入口網站聊天請求協助。
+我們正致力改善您與Adobe客戶支援的互動方式。 我們的願景是使用Experience League移至單一入口點，以簡化支援體驗。 上線後，您的組織將能夠輕鬆存取Adobe客戶支援；透過跨產品的通用系統更清楚地瞭解您的服務歷史記錄；透過電話、網路和透過單一入口網站聊天請求協助。
 
 如果您是Adobe Commerce使用者，請參閱Adobe Commerce的Experience League支援使用指南中的[提交支援案例](https://experienceleague.adobe.com/zh-hant/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)。
 
@@ -84,10 +83,6 @@ ht-degree: 0%
 >[!NOTE]
 >
 > 在提交支援票證之前，請檢查[Adobe狀態](https://status.adobe.com/zh-tw)網站上的Adobe系統效能、使用狀態和已知問題。
-
->[!NOTE]
->
->如果您使用重新設計的Experience League支援入口網站開啟支援案例，請參閱[建立和管理支援案例](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/exl-new-ui-support-cases)。 以下步驟說明目前的（舊版）入口網站介面。
 
 Experience League是自助服務支援入口網站，專為提供個人化協助以及授權客戶易用的體驗而設計。
 

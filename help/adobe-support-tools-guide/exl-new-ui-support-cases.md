@@ -6,9 +6,10 @@ TQID: 'https://experienceleague.adobe.com/vmb2kfbBn3vgPgTQC1W3vf4CodiDfR6lzJNB0E
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
 hold: true
-source-git-commit: df632069c153ca8215fcc75c9c73f7a67c11b0c6
+hide: true
+source-git-commit: 498f5c828603a24aaaaf8565941b0badbe0c405b
 workflow-type: tm+mt
-source-wordcount: 1168
+source-wordcount: 1170
 ht-degree: 0%
 
 ---
@@ -143,9 +144,7 @@ ht-degree: 0%
 - **[!UICONTROL 產品]** — 指派給貴組織的產品
 - **[!UICONTROL 優先順序]** — P4 — 次要、P3 — 重要、P2 — 緊急、P1 — 嚴重
 
-案例表格會顯示案例開啟、案例編號、案例標題、狀態、產品、優先順序、請求者、關閉、上次更新、案例摘要及其他說明。 選取&#x200B;**[!UICONTROL 案例摘要]**&#x200B;欄中的&#x200B;**[!UICONTROL 檢視]**&#x200B;以開啟AI產生的案例摘要。 選取&#x200B;**[!UICONTROL 取得協助]**&#x200B;以取得案例的其他協助。
-
-選取&#x200B;**[!UICONTROL 案件編號]**&#x200B;以開啟案件詳細資料頁面。
+案例表格會顯示案例開啟、案例編號、案例標題、狀態、產品、優先順序、請求者、關閉、上次更新、案例摘要及其他說明。 選取&#x200B;**[!UICONTROL 案例摘要]**&#x200B;欄中的&#x200B;**[!UICONTROL 檢視]**&#x200B;以開啟AI產生的案例摘要。 選取&#x200B;**[!UICONTROL 取得協助]**&#x200B;以取得案例的其他協助。 您可以選取&#x200B;**[!UICONTROL 案件編號]**&#x200B;以開啟案件詳細資料頁面。
 
 ![案例摘要](/help/adobe-support-tools-guide/assets/case-summary-1.png)
 
