@@ -16,7 +16,7 @@ level_v2:
 topic_v2:
   - id: d00e9f03-e50b-4162-b143-0c0817c937c2
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 10aa275ca5c6275f991de2aa7136f41f677e0700
+source-git-commit: 2198c97998da303856e5472b5d9ad27cd854ffb2
 workflow-type: tm+mt
 source-wordcount: 2140
 ht-degree: 0%
@@ -232,4 +232,3 @@ Experience League現在提供&#x200B;**[!UICONTROL 要求回撥]**&#x200B;選項
 - 此功能適用於Adobe Experience Manager、Campaign和Workfront。
 - 客戶可以在方便的時候安排會議，並立即收到邀請。
 - 針對Adobe Experience Manager P1案例，立即回撥可確保於關鍵問題期間更快速地參與，將停機時間及業務影響降至最低。
-
