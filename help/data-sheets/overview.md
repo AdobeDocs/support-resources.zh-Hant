@@ -27,7 +27,7 @@ ht-degree: 97%
 
 >[!NOTE]
 >
->如果您有問題或需要協助，請移至[支援](https://experienceleague.adobe.com/en/support#home)頁面開啟支援案例。
+>如果您有問題或需要協助，請移至[支援](https://experienceleague.adobe.com/zh-hant/support#home)頁面開啟支援案例。
 
 Adobe Success Plan 超越了被動解決問題的模式，為您帶來全新個人化體驗，讓業務時刻準備面對任何問題。 您的 Adobe 團隊採用深厚的技術專業知識、多樣化的能力和先進的方法，為您提供所需的適當水準的支援、專業知識以及技術和策略指導。
 
