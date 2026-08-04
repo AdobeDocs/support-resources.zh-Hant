@@ -14,5 +14,5 @@ ht-degree: 100%
 
 # Ultimate Success 網路廣播 - 第 1 集
 
->[!VIDEO](https://video.tv.adobe.com/v/3428393?quality=12learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453246?captions=chi_hant&quality=12learn=on)
 
