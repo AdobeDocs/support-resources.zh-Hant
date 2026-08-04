@@ -175,7 +175,7 @@ Customer Journey Analytics使用5 P來達成假日/旺季整備。
 
 * 利用RAM （[[!UICONTROL 報告活動管理員]總覽](https://experienceleague.adobe.com/en/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview)）即時監視使用中及佇列的報告要求、識別無容量連線，並找出瓶頸。
 * 使用[錯誤和疑難排解指南](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/workspace-faq/error-messages)和[已知限制](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/workspace-faq/aw-limitations)文章，在尖峰負載期間留意延遲增加的情況。
-* 讓管理員透過RAM搶先暫停或取消長時間執行/封鎖的請求。 請參閱CJA](https://experienceleague.adobe.com/en/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-cancel-requests)文章中的[取消報告要求。
+* 讓管理員透過RAM搶先暫停或取消長時間執行/封鎖的請求。 請參閱CJA[&#128279;](https://experienceleague.adobe.com/en/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-cancel-requests)文章中的取消報告要求。
 
 ### 最佳做法
 
@@ -186,7 +186,7 @@ Customer Journey Analytics使用5 P來達成假日/旺季整備。
 ### 疑難排解
 
 * 疑難排解工作區錯誤時，請參閱錯誤訊息以取得原因和建議的動作；使用RAM （[!UICONTROL 報告活動管理員]）來清除瓶頸並有效管理並行。 如需詳細資訊，請參閱[CJA Workspace錯誤處理](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/workspace-faq/error-messages)。
-* 使用RAM （](https://experienceleague.adobe.com/en/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview)中的[[!UICONTROL 報告活動管理員]）來找出有問題的使用者、查詢或專案；視需要排定優先順序並終止/取消。
+* 使用RAM （[&#128279;](https://experienceleague.adobe.com/en/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview)中的[!UICONTROL 報告活動管理員]）來找出有問題的使用者、查詢或專案；視需要排定優先順序並終止/取消。
 
 ### 尖峰後學習
 
