@@ -9,7 +9,7 @@ index: true
 exl-id: 7a36a281-98d0-4b1f-afc5-dbcde10fddaf
 source-git-commit: bbc1d3c0a0436a36d55adac14bb354fe0ecf96da
 workflow-type: tm+mt
-source-wordcount: '4803'
+source-wordcount: '4788'
 ht-degree: 3%
 
 ---
@@ -94,9 +94,9 @@ Adobe強調強大的安全性和治理實務，尤其是在高流量季節中，
 ### 預測需求
 
 * 根據假日季節壓縮和較大量的行銷活動，預計：
-   * 即時事件和觸發的歷程（放棄購買、最後一分鐘優惠）流量激增
-   * 訊息飽和度風險（較高的選擇退出、疲勞）
-   * 增加跨管道複雜性（電子郵件+推播+簡訊+應用程式內）
+  * 即時事件和觸發的歷程（放棄購買、最後一分鐘優惠）流量激增
+  * 訊息飽和度風險（較高的選擇退出、疲勞）
+  * 增加跨管道複雜性（電子郵件+推播+簡訊+應用程式內）
 * 使用去年的量度（開啟/點按/選擇退出率、歷程進入量）來模擬預期載入，並設定訊息系統的臨界值。
 * 識別可能的「靜音視窗」或低效能期間（例如：週末、假日），並據此規劃傳送量。
 
@@ -107,27 +107,27 @@ Adobe強調強大的安全性和治理實務，尤其是在高流量季節中，
 * 設定頻道/歷程規則集：請參閱[使用規則集](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/conflict-prioritization/capping-rules/rule-sets)。
 * 準備您的資料衛生/即時事件串流和細分架構。
 * 請確定您已定義假日行銷活動的目標對象，例如：
-   * 高價值客戶
-   * 忠誠區段
-   * 購物車放棄者
-   * 首次購買者
+  * 高價值客戶
+  * 忠誠區段
+  * 購物車放棄者
+  * 首次購買者
 * 預先載入或準備假日歷程的範本，運用決策邏輯（優惠方案/限制），讓您能夠根據詳細目錄、時效性優惠方案和管道偏好設定進行動態調整。 請參閱[將限制新增至優惠方案](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/decisioning/offer-decisioning/managing-offers-in-the-offer-library/configure-offers/add-constraints)文章中的範例。
 * 技術整備：確認API/端點負載容量、自訂動作和外部整合的節流/上限規則。 請參閱[護欄和限制](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/get-started/guardrails)。
 
 ### 測試及驗證
 
 * 使用您的實驗架構來測試關鍵變數變更：
-   * 傳送時間
-   * 優惠型別
-   * 頻道組合
-請參閱[AJO Experimentation Accelerator最佳實務](https://experienceleague.adobe.com/zh-hant/docs/experimentation-accelerator/using/get-started/experiment-accelerator-best-practices)。
+  * 傳送時間
+  * 優惠型別
+  * 頻道組合
+    請參閱[AJO Experimentation Accelerator最佳實務](https://experienceleague.adobe.com/zh-hant/docs/experimentation-accelerator/using/get-started/experiment-accelerator-best-practices)。
 * 進行端對端歷程驗證：
-   * 事件觸發程式
-   * 分段專案
-   * 歷程路徑流程
-   * 個人化邏輯
-   * 優惠方案限制
-   * 退出條件
+  * 事件觸發程式
+  * 分段專案
+  * 歷程路徑流程
+  * 個人化邏輯
+  * 優惠方案限制
+  * 退出條件
 * 驗證上限和衝突規則。 請參閱[歷程上限與仲裁](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/conflict-prioritization/journey-capping)文章。
 * 針對尖峰傳送或尖峰的壓力測試縮放磁碟區：模擬高觸發磁碟區以驗證系統在負載下的行為。
 * 驗證傳遞能力：預熱電子郵件網域/傳送者、確認行動推播設定，以及檢查簡訊/應用程式內遞補頻道。
@@ -209,7 +209,7 @@ Customer Journey Analytics使用5 P來達成假日/旺季整備。
 
 ### 準備進行擴展
 
-遵循[規劃與樞紐分析：2025年旺季的戰略方針](https://experienceleague.adobe.com/zh-hant/perspectives/planning-and-pivoting-a-strategic-approach-to-peak-season-2025)指南中的建議，該指南使用Adobe Commerce （和選用的Adobe Experience Cloud工具）提供可操作的策略，以協助您規劃、樞紐分析並在一年中最繁忙的時段提供傑出的客戶體驗。
+遵循[計畫和樞紐分析：2025年旺季的戰略方針](https://experienceleague.adobe.com/zh-hant/perspectives/planning-and-pivoting-a-strategic-approach-to-peak-season-2025)指南中的建議，該指南使用Adobe Commerce （和選用的Adobe Experience Cloud工具）提供可操作的策略，以幫助您規劃、樞紐分析並在一年中最繁忙的時段提供傑出的客戶體驗。
 
 ### 最佳做法
 
@@ -232,8 +232,8 @@ Customer Journey Analytics使用5 P來達成假日/旺季整備。
 
 * 如需使用Adobe Experience Manager雲端服務為高流量做好準備的詳細深入分析和指引，請參閱下列連結：
 
-   * [AEM as a Cloud Service 中的 CDN](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/implementing/content-delivery/cdn)
-   * [AEM as a Cloud Service快取](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-learn/cloud-service/caching/overview)
+  * [AEM as a Cloud Service 中的 CDN](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/implementing/content-delivery/cdn)
+  * [AEM as a Cloud Service快取](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-learn/cloud-service/caching/overview)
 
 * 如果您是Ultimate Success客戶，且最近與Adobe客戶團隊共用大量預測資訊，請放心再次將資訊傳送給我們，我們已經有一個檢視。
 
@@ -250,8 +250,8 @@ Customer Journey Analytics使用5 P來達成假日/旺季整備。
 Adobe已排程維護排除期，以確保在關鍵假期期間服務不會中斷：
 
 * **不會發生自動更新**，介於：
-   * 2025年11月24日至2025年12月2日
-   * 2025年12月15日至2026年1月2日
+  * 2025年11月24日至2025年12月2日
+  * 2025年12月15日至2026年1月2日
 
 這可確保高流量期間的穩定性。 如需完整的發行排程和維護期間，請參閱[AEM發行藍圖](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-release-information/aem-release-updates/update-releases-roadmap)。
 
@@ -289,9 +289,9 @@ AEM客戶運用Adobe Managed Services時，可以主動與其CSE合作，針對�
 在您點選&#x200B;**[!UICONTROL 傳送]**&#x200B;之前，請確定您的電子郵件外觀與執行方式與預期完全相同。
 
 * Marketo提供多種方法來測試電子郵件的外觀，以確保其外觀與您的構想完全相同。
-   * 使用&#x200B;**[!UICONTROL 預覽]**&#x200B;函式，透過分段預覽或個別潛在客戶來確保您的動態內容和Token正確呈現。 請參閱[預覽包含動態內容的電子郵件](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content)文章。
-   * 快速輕鬆地將直接電子郵件傳送至您的測試記錄，以瞭解您的電子郵件在不同使用者端/裝置上的顯示方式。 請參閱[從智慧列示](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list)文章執行單一流程步驟。
-   * 對於[!DNL Litmus]位使用者，現在比以往更容易整合您的帳戶，並直接從電子郵件編輯器開始轉譯測試。 檢視[使用 [!DNL Litmus]](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/email-marketing/email-designer/test-email-rendering)測試電子郵件轉譯文章。
+  * 使用&#x200B;**[!UICONTROL 預覽]**&#x200B;函式，透過分段預覽或個別潛在客戶來確保您的動態內容和Token正確呈現。 請參閱[預覽包含動態內容的電子郵件](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content)文章。
+  * 快速輕鬆地將直接電子郵件傳送至您的測試記錄，以瞭解您的電子郵件在不同使用者端/裝置上的顯示方式。 請參閱[從智慧列示](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list)文章執行單一流程步驟。
+  * 對於[!DNL Litmus]位使用者，現在比以往更容易整合您的帳戶，並直接從電子郵件編輯器開始轉譯測試。 檢視[使用 [!DNL Litmus]](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/email-marketing/email-designer/test-email-rendering)測試電子郵件轉譯文章。
 * 檢視電子郵件垃圾郵件報告功能，此功能與[!DNL SpamAssassin]整合，以檢閱您的電子郵件內容，並指派分數，說明其點選收件匣或標示為&#x200B;*垃圾郵件*&#x200B;的可能性。 請參閱[電子郵件垃圾郵件報告](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/email-marketing/email-designer/spam-report)文章。
 * 密切注視[!UICONTROL 行銷活動佇列]，確認您的行銷活動正在處理中，並正確排定高度緊急專案的優先順序。 檢視[我的行銷活動是否正在執行？](https://nation.marketo.com/t5/knowledgebase/is-my-campaign-running/ta-p/248662) 文章。
 
@@ -325,7 +325,7 @@ AEM客戶運用Adobe Managed Services時，可以主動與其CSE合作，針對�
 * [準備Adobe Workfront發行](https://experienceleague.adobe.com/zh-hant/docs/workfront/using/product-announcements/product-releases/release-readiness)
 * [Workfront發行說明封存](https://experienceleague.adobe.com/zh-hant/docs/workfront/using/product-announcements/product-releases/product-releases)
 * [2025年第1季版本總覽](https://experienceleague.adobe.com/zh-hant/docs/workfront/using/product-announcements/product-releases/release-25-q1/25-q1-release-overview)
-* [Workfront發行網路研討會影片](https://experienceleague.adobe.com/zh-hant/docs/events/workfront-recordings/releases/25-1-release-webinar)
+* [Workfront發行網路研討會影片](https://experienceleague.adobe.com/en/docs/events/workfront-recordings/releases/25-1-release-webinar)
 
 ### 最佳做法
 
@@ -347,7 +347,7 @@ AEM客戶運用Adobe Managed Services時，可以主動與其CSE合作，針對�
 
 ### 讓您的假日行銷活動脫穎而出的專家秘訣
 
-就像開始您的節日購物永遠都不嫌早一樣，開始規劃大獲成功的節日行銷活動也永遠都不嫌早。 有了Adobe Campaign，您可以設計、規劃及執行行銷活動，好讓貴組織的所有節日願望都成真。 但是您知道在年底之前讓執行的行銷活動大獲成功的所有秘訣嗎？ 觀看此影片，[專家秘訣，讓您的假日行銷活動脫穎而出](https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03)，其中會討論傳遞能力和執行最佳實務，並示範如何在Adobe Campaign中完成所有工作。
+就像開始您的節日購物永遠都不嫌早一樣，開始規劃大獲成功的節日行銷活動也永遠都不嫌早。 有了Adobe Campaign，您可以設計、規劃及執行行銷活動，好讓貴組織的所有節日願望都成真。 但是您知道在年底之前讓執行的行銷活動大獲成功的所有秘訣嗎？ 觀看此影片，[專家秘訣，讓您的假日行銷活動脫穎而出](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03)，其中會討論傳遞能力和執行最佳實務，並示範如何在Adobe Campaign中完成所有工作。
 
 ### 假日期間的考量事項和準備事項
 
