@@ -14,14 +14,18 @@ topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 671678370c8a941c9644d0623bf713b9a4e056e1
+source-git-commit: 67a24fda4908c1856daabd6051eb453626c75a6c
 workflow-type: tm+mt
-source-wordcount: 2034
+source-wordcount: 2067
 ht-degree: 0%
 
 ---
 
 # Adobe客戶支援體驗
+
+>[!NOTE]
+>
+>本頁面說明如何建立和管理Adobe Customer Experience Orchestration (CXO)解決方案的支援票證。 若要檢視Adobe Creative Cloud解決方案的支援資訊，[請按一下這裡](https://helpx.adobe.com/tw/support.html)。
 
 ## Experience League支援票證
 
@@ -82,7 +86,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> 在提交支援票證之前，請檢查[Adobe狀態](https://status.adobe.com/zh-tw)網站上的Adobe系統效能、使用狀態和已知問題。
+>在提交支援票證之前，請檢查[Adobe狀態](https://status.adobe.com/zh-tw)網站上的Adobe系統效能、使用狀態和已知問題。
 
 Experience League是自助服務支援入口網站，專為提供個人化協助以及授權客戶易用的體驗而設計。
 
