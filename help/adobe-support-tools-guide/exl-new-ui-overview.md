@@ -2,10 +2,16 @@
 title: Experience League支援入口網站 — 新使用者介面
 description: 重新設計Experience League支援入口網站，透過改善導覽、分析和快速動作，以及順暢地切換到目前的入口網站進行案例管理，來簡化支援工作流程、案例分析和產品監控。
 TQID: 'https://experienceleague.adobe.com/-pTlo6TkAlBDt4-xPwcU-I7yWtUinu2avTCoJVXK2bs'
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: 21a6c72123a7415e208ff03e51324cad5a790efd
 workflow-type: tm+mt
 source-wordcount: 1311
@@ -177,10 +183,10 @@ ht-degree: 0%
 5. 在&#x200B;**[!UICONTROL 請選取區域]**，選取要監視的一或多個區域。
 6. 在&#x200B;**[!UICONTROL 中，請選取事件型別]**，選取下列一或多個事件型別：
 
-   * 重大服務問題
-   * 次要服務問題
-   * 服務維護
-   * 公告
+   &#x200B;* 重大服務問題
+   &#x200B;* 次要服務問題
+   &#x200B;* 服務維護
+   &#x200B;* 公告
 
    ![建立訂閱頁面](assets/create-subscription-page.png)
 
@@ -205,9 +211,9 @@ ht-degree: 0%
 
 您可以從此頁面執行下列動作：
 
-* 選取&#x200B;**[!UICONTROL 編輯訂閱]**&#x200B;以修改現有的訂閱。
-* 選取&#x200B;**[!UICONTROL 全部取消訂閱]**&#x200B;以移除所有訂閱。
-* 選取訂閱旁的刪除圖示，即可移除個別訂閱。
+&#x200B;* 選取&#x200B;**[!UICONTROL 編輯訂閱]**&#x200B;以修改現有的訂閱。
+&#x200B;* 選取&#x200B;**[!UICONTROL 全部取消訂閱]**&#x200B;以移除所有訂閱。
+&#x200B;* 選取訂閱旁的刪除圖示，即可移除個別訂閱。
 
 ## 您的計畫資訊
 
