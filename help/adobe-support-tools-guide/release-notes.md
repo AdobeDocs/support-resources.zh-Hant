@@ -2,7 +2,6 @@
 title: Experience League支援發行說明
 description: 有關Experience League支援的最新發行資訊。
 feature: Release Notes
-hold: true
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
 autotag-review: '2026-06-12T20:44:20.941Z'
 TQID: 'https://experienceleague.adobe.com/ULOOxxvZGorHsE8Q44r8n7HbvTb712-8NnVMzl0J-Q8'
@@ -16,7 +15,7 @@ level_v2:
 topic_v2:
   - id: d00e9f03-e50b-4162-b143-0c0817c937c2
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 2198c97998da303856e5472b5d9ad27cd854ffb2
+source-git-commit: f49f431102be472e8e1c69870c8d2ea783623c69
 workflow-type: tm+mt
 source-wordcount: 2140
 ht-degree: 0%
