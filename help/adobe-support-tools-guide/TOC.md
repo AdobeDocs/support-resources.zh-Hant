@@ -6,7 +6,7 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 85b1c584dc93970bc57a294a7a04f040980077f4
+source-git-commit: 21a6c72123a7415e208ff03e51324cad5a790efd
 workflow-type: tm+mt
 source-wordcount: '346'
 ht-degree: 2%
@@ -23,7 +23,7 @@ ht-degree: 2%
 - [向上呈報管理](/help/adobe-support-tools-guide/escalation-management.md)
 - [系統分析](/help/adobe-support-tools-guide/system-insights.md)
 - Experience League支援入口網站 — 新使用者介面 {#exl-new-ui}
-  - [概觀](/help/adobe-support-tools-guide/exl-new-ui.md)
+  - [概觀](/help/adobe-support-tools-guide/exl-new-ui-overview.md)
   - [建立及管理支援案例](/help/adobe-support-tools-guide/exl-new-ui-support-cases.md)
 - Adobe Admin Console {#adobe-admin-console}
   - [導覽Adobe Admin Console](adobe-admin-console/navigating-the-adobe-admin-console.md)
