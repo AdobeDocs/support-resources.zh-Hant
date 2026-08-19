@@ -14,13 +14,13 @@ ht-degree: 0%
 
 # 建立及管理支援案例
 
-若要在[Experience League](https://experienceleague.adobe.com/en/support?support-tab=home#home)中提交支援案例，您需要系統管理員指派支援管理員角色。 如需支援權益和角色需求，請參閱[案例提交所需的支援授權角色](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#support-entitled-roles-needed-for-case-submission-submit-ticket)。
+若要在[Experience League](https://experienceleague.adobe.com/zh-hant/support?support-tab=home#home)中提交支援案例，您需要系統管理員指派支援管理員角色。 如需支援權益和角色需求，請參閱[案例提交所需的支援授權角色](https://experienceleague.adobe.com/zh-hant/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#support-entitled-roles-needed-for-case-submission-submit-ticket)。
 
 ## 使用新的使用者介面建立支援案例
 
 >[!NOTE]
 >
->在提交支援案例之前，請先檢查[Adobe狀態網站](https://status.adobe.com/)上的Adobe系統效能、使用狀態和已知問題。
+>在提交支援案例之前，請先檢查[Adobe狀態網站](https://status.adobe.com/zh-tw/)上的Adobe系統效能、使用狀態和已知問題。
 
 若要在Experience League中建立支援案例，請遵循下列步驟：
 
@@ -76,11 +76,11 @@ ht-degree: 0%
    >
    >AI支援的建議不會針對Adobe Admin Console產品顯示。
 
-   當您輸入問題詳細資訊時，「系統深入分析」面板會出現在畫面右側，AI支援的建議區段下方。 「系統深入分析」目前僅適用於Adobe Commerce。 如需詳細資訊，請參閱[系統深入分析](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/system-insights)。
+   當您輸入問題詳細資訊時，「系統深入分析」面板會出現在畫面右側，AI支援的建議區段下方。 「系統深入分析」目前僅適用於Adobe Commerce。 如需詳細資訊，請參閱[系統深入分析](https://experienceleague.adobe.com/zh-hant/docs/support-resources/adobe-support-tools-guide/system-insights)。
 
    ![問題說明步驟](/help/adobe-support-tools-guide/assets/create-support-ticket-helpful-resources.png)
 
-   選取右上角的&#x200B;**[!UICONTROL 傳統表單]**&#x200B;或&#x200B;**[!UICONTROL AI聊天]**，以切換案例建立體驗。 如需AI聊天室詳細資料，請參閱案例建立體驗[&#128279;](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#ai-chat-in-the-case-creation-experience)中的AI聊天。
+   選取右上角的&#x200B;**[!UICONTROL 傳統表單]**&#x200B;或&#x200B;**[!UICONTROL AI聊天]**，以切換案例建立體驗。 如需AI聊天室詳細資料，請參閱案例建立體驗[&#128279;](https://experienceleague.adobe.com/zh-hant/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#ai-chat-in-the-case-creation-experience)中的AI聊天。
 
    ![AI聊天](/help/adobe-support-tools-guide/assets/create-support-ticket-ai-chat.png)
 
@@ -94,7 +94,7 @@ ht-degree: 0%
 
 4. 在&#x200B;**[!UICONTROL 優先順序與業務影響]**&#x200B;區段中，選取案例優先順序（P4 — 次要、P3 — 重要、P2 — 緊急、P1 — 嚴重）。 當選取的優先順序為P1 — 嚴重時，提供業務影響詳細資料，然後選取&#x200B;**[!UICONTROL 下一步]**。
 
-   如需案例優先順序與業務影響如何影響支援回應時間的詳細資訊，請參閱[支援的目標初始回應時間](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support)。
+   如需案例優先順序與業務影響如何影響支援回應時間的詳細資訊，請參閱[支援的目標初始回應時間](https://experienceleague.adobe.com/zh-hant/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support)。
 
    ![優先順序和業務影響步驟](/help/adobe-support-tools-guide/assets/create-support-ticket-priority.png)
 
