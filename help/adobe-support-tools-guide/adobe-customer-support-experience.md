@@ -2,6 +2,7 @@
 keywords: Experience Platform支援；平台支援；智慧型服務支援；customer ai支援；attribution ai支援；rtcdp支援；提交支援票證；客戶支援
 title: Adobe Experience Cloud企業客戶一
 description: Adobe客戶支援體驗
+hold: true
 seo-description: Adobe Customer Support Experience
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 TQID: https://experienceleague.adobe.com/cGHwAzUXOUNouNknfl84ix4Gi7t8koCJVICt1zJWRp8
@@ -14,9 +15,9 @@ topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 5e76b3d3c2a2b733805fece399b3cf276cc879ea
+source-git-commit: 917b0668639b4942a151c51af9bc0e8a6682a1dd
 workflow-type: tm+mt
-source-wordcount: 2113
+source-wordcount: 2122
 ht-degree: 0%
 
 ---
@@ -147,10 +148,6 @@ Experience League是自助服務支援入口網站，專為提供個人化協助
 
    建議面板會因應問題說明的詳細程度而顯示，不會中斷案例的建立。 您可以隨時檢閱建議，並繼續提交案例。 當問題說明&#x200B;**超過50個字元**&#x200B;時，系統會產生針對此問題量身打造的AI支援建議。
 
-   >[!NOTE]
-   >
-   >AI支援的建議不會針對Adobe Admin Console產品顯示。
-
    ![Experience League問題詳細資料](./assets/ai-recommendations.png)
 
    當描述包含&#x200B;**少於50個字元**&#x200B;時，系統會顯示建議的文章作為指引。 內建字元計數器會即時追蹤最低需求。
@@ -208,6 +205,10 @@ Experience League是自助服務支援入口網站，專為提供個人化協助
 ### 案例建立體驗中的AI聊天
 
 Experience League支援提供AI支援的聊天介面，作為建立和管理支援案例的替代方式。 AI聊天體驗為選擇加入，不會取代傳統的案例建立工作流程。
+
+>[!NOTE]
+&#x200B;>>
+入口網站現在會將您的&#x200B;**[!UICONTROL AI聊天]**&#x200B;選擇儲存為偏好案例建立體驗，並記住它以供您下次造訪時使用。
 
 >[!NOTE]
 >

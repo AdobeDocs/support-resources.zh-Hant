@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 21a6c72123a7415e208ff03e51324cad5a790efd
+source-git-commit: 1e7ecaf39631f8d50acca414bfd65e2083f7a499
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '355'
 ht-degree: 2%
 
 ---
@@ -25,6 +25,7 @@ ht-degree: 2%
 - Experience League支援入口網站 — 新使用者介面 {#exl-new-ui}
   - [概觀](/help/adobe-support-tools-guide/exl-new-ui-overview.md)
   - [建立及管理支援案例](/help/adobe-support-tools-guide/exl-new-ui-support-cases.md)
+- {hide-from-toc}[Adobe支援語音助理 — 下班後與週末支援（日本）](/help/adobe-support-tools-guide/adobe-support-voice-assistant.md)
 - Adobe Admin Console {#adobe-admin-console}
   - [導覽Adobe Admin Console](adobe-admin-console/navigating-the-adobe-admin-console.md)
   - [執行擱置中的工作](adobe-admin-console/execute-jobs.md)

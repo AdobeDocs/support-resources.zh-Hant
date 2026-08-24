@@ -1,13 +1,14 @@
 ---
 title: 建立及管理支援案例
 description: 瞭解如何在重新設計的Experience League支援入口網站中建立、檢視及管理支援案例。
+hold: true
 autotag-review: '2026-07-22T11:27:24.736Z'
 TQID: 'https://experienceleague.adobe.com/vmb2kfbBn3vgPgTQC1W3vf4CodiDfR6lzJNB0EBz71A'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: 85b1c584dc93970bc57a294a7a04f040980077f4
+source-git-commit: 230c42fca07c58c03c9be2f90e91bec7fc830569
 workflow-type: tm+mt
-source-wordcount: 1220
+source-wordcount: 1214
 ht-degree: 0%
 
 ---
@@ -71,10 +72,6 @@ ht-degree: 0%
    ![問題說明步驟](/help/adobe-support-tools-guide/assets/create-support-ticket-ai-recommendation.png)
 
    說明內含少於50個字元時，系統會顯示建議的文章以供參考。 內建字元計數器會即時追蹤最低需求。
-
-   >[!NOTE]
-   >
-   >AI支援的建議不會針對Adobe Admin Console產品顯示。
 
    當您輸入問題詳細資訊時，「系統深入分析」面板會出現在畫面右側，AI支援的建議區段下方。 「系統深入分析」目前僅適用於Adobe Commerce。 如需詳細資訊，請參閱[系統深入分析](https://experienceleague.adobe.com/zh-hant/docs/support-resources/adobe-support-tools-guide/system-insights)。
 
@@ -148,6 +145,6 @@ ht-degree: 0%
 
 ![案例摘要](/help/adobe-support-tools-guide/assets/case-summary-1.png)
 
-案例詳細資訊頁面會顯示案例標題、案例ID、狀態、上次更新日期、案例說明及可複製性。 詳細資訊面板包括Adobe支援代理、請求者、產品、優先順序、時區、觀察者以及案例附件。 若要新增註解，請在註解編輯器中輸入您的訊息，然後選取&#x200B;**[!UICONTROL 傳送訊息]**。 您可以使用附件圖示附加檔案。 選取註解上的釘選圖示，以將註解釘選至大小寫。 您可以釘選和取消釘選多個註解。
+案例詳細資訊頁面會顯示案例標題、案例ID、狀態、上次更新日期、案例說明及可複製性。 詳細資訊面板包括Adobe支援代理、請求者、產品、優先順序、時區、觀察者以及案例附件。 若要新增註解，請在註解編輯器中輸入您的訊息，然後選取&#x200B;**[!UICONTROL 傳送訊息]**。 您可以使用附件圖示附加檔案，並刪除入口網站中的附件。 選取註解上的釘選圖示，以將註解釘選至大小寫。 您可以釘選和取消釘選多個註解。
 
 ![案例詳細資料](/help/adobe-support-tools-guide/assets/case-details.png)
