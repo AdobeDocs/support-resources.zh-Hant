@@ -1,26 +1,26 @@
 ---
 title: 建立及管理支援案例
 description: 瞭解如何在重新設計的Experience League支援入口網站中建立、檢視及管理支援案例。
+hold: true
 autotag-review: '2026-07-22T11:27:24.736Z'
 TQID: 'https://experienceleague.adobe.com/vmb2kfbBn3vgPgTQC1W3vf4CodiDfR6lzJNB0EBz71A'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: 85b1c584dc93970bc57a294a7a04f040980077f4
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+source-git-commit: 230c42fca07c58c03c9be2f90e91bec7fc830569
 workflow-type: tm+mt
-source-wordcount: 1220
+source-wordcount: 1214
 ht-degree: 0%
 
 ---
 
 # 建立及管理支援案例
 
-若要在[Experience League](https://experienceleague.adobe.com/zh-hant/support?support-tab=home#home)中提交支援案例，您需要系統管理員指派支援管理員角色。 如需支援權益和角色需求，請參閱[案例提交所需的支援授權角色](https://experienceleague.adobe.com/zh-hant/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#support-entitled-roles-needed-for-case-submission-submit-ticket)。
+若要在[Experience League](https://experienceleague.adobe.com/en/support?support-tab=home#home)中提交支援案例，您需要系統管理員指派支援管理員角色。 如需支援權益和角色需求，請參閱[案例提交所需的支援授權角色](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#support-entitled-roles-needed-for-case-submission-submit-ticket)。
 
 ## 使用新的使用者介面建立支援案例
 
 >[!NOTE]
 >
->在提交支援案例之前，請先檢查[Adobe狀態網站](https://status.adobe.com/zh-tw/)上的Adobe系統效能、使用狀態和已知問題。
+>在提交支援案例之前，請先檢查[Adobe狀態網站](https://status.adobe.com/)上的Adobe系統效能、使用狀態和已知問題。
 
 若要在Experience League中建立支援案例，請遵循下列步驟：
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
    ![產品選擇步驟](/help/adobe-support-tools-guide/assets/create-support-ticket-product-selection.png)
 
-2. 在&#x200B;**[!UICONTROL 問題說明]**&#x200B;區段中，輸入問題的說明。 案例標題會根據問題說明自動產生。 您可以視需要編輯標題。 確認是否可以重新產生問題。 如果問題可重現，請選取&#x200B;**[!UICONTROL 是]**。 此時會出現一個文字方塊，您可在其中說明重現問題所需的步驟。 如果問題無法一致地重現，請選取&#x200B;**[!UICONTROL 否]**，然後按一下[下一步]&#x200B;**&#x200B;**。
+2. 在&#x200B;**[!UICONTROL 問題說明]**&#x200B;區段中，輸入問題的說明。 案例標題會根據問題說明自動產生。 您可以視需要編輯標題。 確認是否可以重新產生問題。 如果問題可重現，請選取&#x200B;**[!UICONTROL 是]**。 此時會出現一個文字方塊，您可在其中說明重現問題所需的步驟。 如果問題無法一致地重現，請選取&#x200B;**[!UICONTROL 否]**，然後按一下[下一步]****。
 
    ![問題說明步驟](/help/adobe-support-tools-guide/assets/create-support-ticket-problem-description.png)
 
@@ -72,15 +72,11 @@ ht-degree: 0%
 
    說明內含少於50個字元時，系統會顯示建議的文章以供參考。 內建字元計數器會即時追蹤最低需求。
 
-   >[!NOTE]
-   >
-   >AI支援的建議不會針對Adobe Admin Console產品顯示。
-
-   當您輸入問題詳細資訊時，「系統深入分析」面板會出現在畫面右側，AI支援的建議區段下方。 「系統深入分析」目前僅適用於Adobe Commerce。 如需詳細資訊，請參閱[系統深入分析](https://experienceleague.adobe.com/zh-hant/docs/support-resources/adobe-support-tools-guide/system-insights)。
+   當您輸入問題詳細資訊時，「系統深入分析」面板會出現在畫面右側，AI支援的建議區段下方。 「系統深入分析」目前僅適用於Adobe Commerce。 如需詳細資訊，請參閱[系統深入分析](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/system-insights)。
 
    ![問題說明步驟](/help/adobe-support-tools-guide/assets/create-support-ticket-helpful-resources.png)
 
-   選取右上角的&#x200B;**[!UICONTROL 傳統表單]**&#x200B;或&#x200B;**[!UICONTROL AI聊天]**，以切換案例建立體驗。 如需AI聊天室詳細資料，請參閱案例建立體驗[&#128279;](https://experienceleague.adobe.com/zh-hant/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#ai-chat-in-the-case-creation-experience)中的AI聊天。
+   選取右上角的&#x200B;**[!UICONTROL 傳統表單]**&#x200B;或&#x200B;**[!UICONTROL AI聊天]**，以切換案例建立體驗。 如需AI聊天室詳細資料，請參閱案例建立體驗](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#ai-chat-in-the-case-creation-experience)中的[AI聊天。
 
    ![AI聊天](/help/adobe-support-tools-guide/assets/create-support-ticket-ai-chat.png)
 
@@ -94,7 +90,7 @@ ht-degree: 0%
 
 4. 在&#x200B;**[!UICONTROL 優先順序與業務影響]**&#x200B;區段中，選取案例優先順序（P4 — 次要、P3 — 重要、P2 — 緊急、P1 — 嚴重）。 當選取的優先順序為P1 — 嚴重時，提供業務影響詳細資料，然後選取&#x200B;**[!UICONTROL 下一步]**。
 
-   如需案例優先順序與業務影響如何影響支援回應時間的詳細資訊，請參閱[支援的目標初始回應時間](https://experienceleague.adobe.com/zh-hant/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support)。
+   如需案例優先順序與業務影響如何影響支援回應時間的詳細資訊，請參閱[支援的目標初始回應時間](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support)。
 
    ![優先順序和業務影響步驟](/help/adobe-support-tools-guide/assets/create-support-ticket-priority.png)
 
@@ -148,6 +144,6 @@ ht-degree: 0%
 
 ![案例摘要](/help/adobe-support-tools-guide/assets/case-summary-1.png)
 
-案例詳細資訊頁面會顯示案例標題、案例ID、狀態、上次更新日期、案例說明及可複製性。 詳細資訊面板包括Adobe支援代理、請求者、產品、優先順序、時區、觀察者以及案例附件。 若要新增註解，請在註解編輯器中輸入您的訊息，然後選取&#x200B;**[!UICONTROL 傳送訊息]**。 您可以使用附件圖示附加檔案。 選取註解上的釘選圖示，以將註解釘選至大小寫。 您可以釘選和取消釘選多個註解。
+案例詳細資訊頁面會顯示案例標題、案例ID、狀態、上次更新日期、案例說明及可複製性。 詳細資訊面板包括Adobe支援代理、請求者、產品、優先順序、時區、觀察者以及案例附件。 若要新增註解，請在註解編輯器中輸入您的訊息，然後選取&#x200B;**[!UICONTROL 傳送訊息]**。 您可以使用附件圖示附加檔案，並刪除入口網站中的附件。 選取註解上的釘選圖示，以將註解釘選至大小寫。 您可以釘選和取消釘選多個註解。
 
 ![案例詳細資料](/help/adobe-support-tools-guide/assets/case-details.png)
