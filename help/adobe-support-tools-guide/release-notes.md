@@ -6,17 +6,11 @@ hold: true
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
 autotag-review: '2026-06-12T20:44:20.941Z'
 TQID: 'https://experienceleague.adobe.com/ULOOxxvZGorHsE8Q44r8n7HbvTb712-8NnVMzl0J-Q8'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: d00e9f03-e50b-4162-b143-0c0817c937c2
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 800aa84ee3767f35140afc379cb47fd1c58fbd53
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: d00e9f03-e50b-4162-b143-0c0817c937c2id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 194902cbcd272b6948f548f45945d4cf1512a0e7
 workflow-type: tm+mt
 source-wordcount: 2254
 ht-degree: 0%
@@ -35,11 +29,8 @@ ht-degree: 0%
 ## 2026年8月26日 — 重新設計的Experience League支援入口網站進行更新
 
 1. 案例建立介面現在會記住您上次選取的體驗 — **[!UICONTROL 傳統表單]**&#x200B;或&#x200B;**[!UICONTROL AI聊天]**。 如果最近使用&#x200B;**[!UICONTROL AI聊天]**，則下次您建立案例時會自動選取它，因此您不需要在每次造訪時手動切換。
-
 1. 現在可以使用每個附件上顯示的刪除圖示，直接從&#x200B;**[!UICONTROL 案例詳細資料]**&#x200B;頁面刪除附件。 此功能不適用於已關閉案例或Workfront組織。
-
 1. **[!UICONTROL 我的案例]**&#x200B;頁面上的所有資料行現在都支援排序。
-
 1. 在建立案例期間選取&#x200B;**[!UICONTROL Admin Console]**&#x200B;作為產品時，現在可以使用&#x200B;**[!UICONTROL AI建議]**。
 
 ## 2026年8月19日 — 重新設計的Experience League支援入口網站現在提供案例建立、我的案例和案例詳細資訊
@@ -110,7 +101,7 @@ ht-degree: 0%
 
 1. 依優先順序的&#x200B;**[!UICONTROL 案例計數]**&#x200B;圖表現在提供暫留的更詳細劃分。 將滑鼠懸停在優先順序區段上會顯示工具提示，顯示案例總數以及開啟和關閉案例的數量。
 
-1. **[!UICONTROL 產品狀態]** Widget現在支援互動式產品篩選。 您可以直接從首頁選取一或多個產品，以篩選系統狀態警示。 在此Widget中選取產品時，不再重新導向至[status.adobe.com](http://status.adobe.com/zh-tw)。
+1. **[!UICONTROL 產品狀態]** Widget現在支援互動式產品篩選。 您可以直接從首頁選取一或多個產品，以篩選系統狀態警示。 在此Widget中選取產品時，不再重新導向至[status.adobe.com](http://status.adobe.com)。
 
 1. **[!UICONTROL 產品狀態]** Widget現在會以更直覺的順序列出產品。 有作用中問題的產品會先出現，接著是依字母順序排序的其餘產品。
 
