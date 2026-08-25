@@ -15,7 +15,7 @@ topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 917b0668639b4942a151c51af9bc0e8a6682a1dd
+source-git-commit: 194902cbcd272b6948f548f45945d4cf1512a0e7
 workflow-type: tm+mt
 source-wordcount: 2122
 ht-degree: 0%
@@ -280,3 +280,4 @@ AI會收集必要的資訊，例如：
 * 重製步驟
 
 您可以在提交之前檢閱草稿，以確保所有詳細資料都正確無誤，而且您可以在案例建立對話期間或之後隨時新增附件、記錄、熒幕擷取畫面及其他補充詳細資訊，以向支援團隊提供其所需的完整內容。
+

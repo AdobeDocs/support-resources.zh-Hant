@@ -6,7 +6,7 @@ autotag-review: '2026-07-22T11:27:24.736Z'
 TQID: 'https://experienceleague.adobe.com/vmb2kfbBn3vgPgTQC1W3vf4CodiDfR6lzJNB0EBz71A'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: 230c42fca07c58c03c9be2f90e91bec7fc830569
+source-git-commit: 194902cbcd272b6948f548f45945d4cf1512a0e7
 workflow-type: tm+mt
 source-wordcount: 1214
 ht-degree: 0%
@@ -148,3 +148,4 @@ ht-degree: 0%
 案例詳細資訊頁面會顯示案例標題、案例ID、狀態、上次更新日期、案例說明及可複製性。 詳細資訊面板包括Adobe支援代理、請求者、產品、優先順序、時區、觀察者以及案例附件。 若要新增註解，請在註解編輯器中輸入您的訊息，然後選取&#x200B;**[!UICONTROL 傳送訊息]**。 您可以使用附件圖示附加檔案，並刪除入口網站中的附件。 選取註解上的釘選圖示，以將註解釘選至大小寫。 您可以釘選和取消釘選多個註解。
 
 ![案例詳細資料](/help/adobe-support-tools-guide/assets/case-details.png)
+
