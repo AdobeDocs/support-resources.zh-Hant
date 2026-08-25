@@ -6,8 +6,11 @@ solution: Commerce
 feature-set: Commerce
 autotag-review: '2026-08-19T13:22:21.768Z'
 TQID: 'https://experienceleague.adobe.com/tmaNqB6uOX2ukmfxQvcqFvYwm2UyO6USzb7t8hFQM1A'
-product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047id: eadea719-cf89-469b-a6fd-a236a7138047
-feature_v2: id: b5f00040-57a0-4a6d-a39e-383b1936c2c9
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: b5f00040-57a0-4a6d-a39e-383b1936c2c9
 source-git-commit: 45b00b9b0d2ceb422747c0a4a34f060f33ab127b
 workflow-type: tm+mt
 source-wordcount: 219
