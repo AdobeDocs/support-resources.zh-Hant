@@ -2,7 +2,6 @@
 title: Experience League支援發行說明
 description: 有關Experience League支援的最新發行資訊。
 feature: Release Notes
-hold: true
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
 autotag-review: '2026-06-12T20:44:20.941Z'
 TQID: 'https://experienceleague.adobe.com/ULOOxxvZGorHsE8Q44r8n7HbvTb712-8NnVMzl0J-Q8'
@@ -16,9 +15,9 @@ level_v2:
 topic_v2:
   - id: d00e9f03-e50b-4162-b143-0c0817c937c2
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 194902cbcd272b6948f548f45945d4cf1512a0e7
+source-git-commit: f4a8d4cf7aa7438acd341e166f123ff908d9ef67
 workflow-type: tm+mt
-source-wordcount: 2254
+source-wordcount: 2250
 ht-degree: 0%
 
 ---
@@ -32,12 +31,12 @@ ht-degree: 0%
 ![修正](../adobe-support-tools-guide/assets/fix.svg)修正和改良
 ![錯誤](../adobe-support-tools-guide/assets/bug.svg)已知問題
 
-## 2026年8月26日 — 重新設計的Experience League支援入口網站進行更新
+## 2026年8月27日 — 重新設計的Experience League支援入口網站更新
 
-1. 案例建立介面現在會記住您上次選取的體驗 — **[!UICONTROL 傳統表單]**&#x200B;或&#x200B;**[!UICONTROL AI聊天]**。 如果最近使用&#x200B;**[!UICONTROL AI聊天]**，則下次您建立案例時會自動選取它，因此您不需要在每次造訪時手動切換。
-1. 現在可以使用每個附件上顯示的刪除圖示，直接從&#x200B;**[!UICONTROL 案例詳細資料]**&#x200B;頁面刪除附件。 此功能不適用於已關閉案例或Workfront組織。
-1. **[!UICONTROL 我的案例]**&#x200B;頁面上的所有資料行現在都支援排序。
-1. 在建立案例期間選取&#x200B;**[!UICONTROL Admin Console]**&#x200B;作為產品時，現在可以使用&#x200B;**[!UICONTROL AI建議]**。
+1. 案例建立介面會記住您上次選取的體驗 — **[!UICONTROL 傳統表單]**&#x200B;或&#x200B;**[!UICONTROL AI聊天]**。 如果最近使用&#x200B;**[!UICONTROL AI聊天]**，則下次您建立案例時會自動選取它，因此您不需要在每次造訪時手動切換。
+1. 您可以使用每個附件上顯示的刪除圖示，直接從&#x200B;**[!UICONTROL 案例詳細資料]**&#x200B;頁面刪除附件。 此功能不適用於已關閉案例或Workfront組織。
+1. **[!UICONTROL 我的案例]**&#x200B;頁面上的所有資料行都支援排序。
+1. 在建立案例期間選取&#x200B;**[!UICONTROL Admin Console]**&#x200B;作為產品時，即可使用&#x200B;**[!UICONTROL AI建議]**。
 
 ## 2026年8月19日 — 重新設計的Experience League支援入口網站現在提供案例建立、我的案例和案例詳細資訊
 
