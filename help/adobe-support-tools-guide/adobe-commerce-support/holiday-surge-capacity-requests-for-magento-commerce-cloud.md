@@ -4,9 +4,10 @@ description: 在旺季的假期銷售季節（大約11月中旬至1月中旬）�
 feature: Support
 feature-set: Commerce
 role: Admin
-source-git-commit: e6ae0022bac9c91eb52c76a6b7a8d8f6c45257cb
+exl-id: 560fae4d-77f0-4618-a3a5-f549daa74402
+source-git-commit: 168b398944b55d94d31e22c452dbec45e0ed124a
 workflow-type: tm+mt
-source-wordcount: '472'
+source-wordcount: '586'
 ht-degree: 0%
 
 ---
@@ -43,13 +44,13 @@ ht-degree: 0%
 
 **更多說明？**
 
-需要更多有關高峰期流量準備的指引嗎？ 雲端基礎結構上的Adobe Commerce商家可以聯絡他們的Adobe客戶團隊，以取得為成功的旺季做準備的協助、策略及規劃秘訣。 我們也建議您檢視[Magento部落格](https://magento.com/blog)，以取得全年策略秘訣。
+需要更多有關高峰期流量準備的指引嗎？ 雲端基礎結構上的Adobe Commerce商家可以聯絡他們的Adobe客戶團隊，以取得為成功的旺季做準備的協助、策略及規劃秘訣。 我們也建議您檢視[Adobe for Business部落格](https://magento.com/blog)，以取得全年策略秘訣。
 
 ## 複查產能的資源
 
 在我們的支援知識庫中：
 
-* 雲端上Adobe Commerce的[CPU配置計算](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-cpu-allocation-calculation.html?lang=zh-Hant)
+* [雲端上Adobe Commerce的CPU配置計算](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-cpu-allocation-calculation.html?lang=zh-Hant)
 * [檢查雲端上的Adobe Commerce是否需要主機執行個體的大小調整](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-check-if-upsize-for-hosts-instances-is-needed.html?lang=zh-Hant)
 * [檢查雲端上Adobe Commerce的主機CPU設定](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-check-hosts-cpu-configuration.html?lang=zh-Hant)
-* [識別並測量雲端上Adobe Commerce的中斷](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/how-to-identify-outages.html?lang=zh-Hant)
+* [識別並測量雲端上Adobe Commerce的中斷情形](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/how-to-identify-outages.html?lang=zh-Hant)
