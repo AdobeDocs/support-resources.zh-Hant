@@ -7,15 +7,18 @@ solution: Experience Cloud, Experience Platform, Journey Optimizer, Customer Jou
 role: Developer, Admin, Leader, User
 index: true
 exl-id: 7a36a281-98d0-4b1f-afc5-dbcde10fddaf
-source-git-commit: bbc1d3c0a0436a36d55adac14bb354fe0ecf96da
+source-git-commit: e2fdb2c6d832c090b2222b771c67e2c9659b0fa0
 workflow-type: tm+mt
-source-wordcount: '4788'
+source-wordcount: '4830'
 ht-degree: 3%
 
 ---
 
 # Adobe DX解決方案統一假日整備指南
 
+>[!NOTE]
+>
+>這些指引在2025年10月為最新。 2026年假日季節的更新版本計畫於2026年9月底發佈。
 
 Adobe DX解決方案統一假日整備指南將重點放在主動式規劃而非被動式問題解決上，協助您為假日季節做好準備。 它提供實用的步驟，確保您的執行個體已準備就緒，以在潛在問題出現之前將其減至最少。 Adobe團隊擁有技術專業知識、廣泛的功能，以及經過驗證的方法，可提供適當層級的支援和指導（包括技術和策略層面），讓您的企業做好準備。
 
