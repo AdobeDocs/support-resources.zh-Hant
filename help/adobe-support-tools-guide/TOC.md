@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: a7eb36ed1c3484a870a207f0fcad2a3a0d7b9083
+source-git-commit: 1bd9b6f79456a3827b1919c79a8b9770c8e42833
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '363'
 ht-degree: 2%
 
 ---
@@ -49,6 +49,7 @@ ht-degree: 2%
   - [依IP位址限制產品存取](adobe-admin-console/adobe-ip-based-access.md)
   - [下載稽核記錄和匯出報告](adobe-admin-console/download-audit-logs-and-export-reports.md)
   - [將現有使用者移轉至Adobe Admin Console](adobe-admin-console/migrate-existing-users-to-the-adobe-admin-console.md)
+  - [將Frame.io使用者管理移轉至Admin Console](adobe-admin-console/migrate-user-management-to-the-adobe-admin-console.md)
 - Adobe Workfront支援 {#workfront}
   - [常見問題集](faq.md)
 - Adobe Commerce支援 {#adobe-commerce-support}
