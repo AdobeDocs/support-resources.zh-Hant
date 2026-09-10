@@ -3,24 +3,23 @@ title: 建立及管理支援案例
 description: 瞭解如何在重新設計的Experience League支援入口網站中建立、檢視及管理支援案例。
 autotag-review: '2026-07-22T11:27:24.736Z'
 TQID: 'https://experienceleague.adobe.com/vmb2kfbBn3vgPgTQC1W3vf4CodiDfR6lzJNB0EBz71A'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: f4a8d4cf7aa7438acd341e166f123ff908d9ef67
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+source-git-commit: 0c48dae797a8bdfe2723b40e305b33effce08417
 workflow-type: tm+mt
-source-wordcount: 1214
+source-wordcount: 1239
 ht-degree: 0%
 
 ---
 
 # 建立及管理支援案例
 
-若要在[Experience League](https://experienceleague.adobe.com/zh-hant/support?support-tab=home#home)中提交支援案例，您需要系統管理員指派支援管理員角色。 如需支援權益和角色需求，請參閱[案例提交所需的支援授權角色](https://experienceleague.adobe.com/zh-hant/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#support-entitled-roles-needed-for-case-submission-submit-ticket)。
+若要在[Experience League](https://experienceleague.adobe.com/en/support?support-tab=home#home)中提交支援案例，您需要系統管理員指派支援管理員角色。 如需支援權益和角色需求，請參閱[案例提交所需的支援授權角色](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#support-entitled-roles-needed-for-case-submission-submit-ticket)。
 
 ## 使用新的使用者介面建立支援案例
 
 >[!NOTE]
 >
->在提交支援案例之前，請先檢查[Adobe狀態網站](https://status.adobe.com/zh-tw/)上的Adobe系統效能、使用狀態和已知問題。
+>在提交支援案例之前，請先檢查[Adobe狀態網站](https://status.adobe.com/)上的Adobe系統效能、使用狀態和已知問題。
 
 若要在Experience League中建立支援案例，請遵循下列步驟：
 
@@ -49,7 +48,7 @@ ht-degree: 0%
 
    ![產品選擇步驟](/help/adobe-support-tools-guide/assets/create-support-ticket-product-selection.png)
 
-2. 在&#x200B;**[!UICONTROL 問題說明]**&#x200B;區段中，輸入問題的說明。 案例標題會根據問題說明自動產生。 您可以視需要編輯標題。 確認是否可以重新產生問題。 如果問題可重現，請選取&#x200B;**[!UICONTROL 是]**。 此時會出現一個文字方塊，您可在其中說明重現問題所需的步驟。 如果問題無法一致地重現，請選取&#x200B;**[!UICONTROL 否]**，然後按一下[下一步]&#x200B;**&#x200B;**。
+2. 在&#x200B;**[!UICONTROL 問題說明]**&#x200B;區段中，輸入問題的說明。 案例標題會根據問題說明自動產生。 您可以視需要編輯標題。 確認是否可以重新產生問題。 如果問題可重現，請選取&#x200B;**[!UICONTROL 是]**。 此時會出現一個文字方塊，您可在其中說明重現問題所需的步驟。 如果問題無法一致地重現，請選取&#x200B;**[!UICONTROL 否]**，然後按一下[下一步]****。
 
    ![問題說明步驟](/help/adobe-support-tools-guide/assets/create-support-ticket-problem-description.png)
 
@@ -72,11 +71,11 @@ ht-degree: 0%
 
    說明內含少於50個字元時，系統會顯示建議的文章以供參考。 內建字元計數器會即時追蹤最低需求。
 
-   當您輸入問題詳細資訊時，「系統深入分析」面板會出現在畫面右側，AI支援的建議區段下方。 「系統深入分析」目前僅適用於Adobe Commerce。 如需詳細資訊，請參閱[系統深入分析](https://experienceleague.adobe.com/zh-hant/docs/support-resources/adobe-support-tools-guide/system-insights)。
+   當您輸入問題詳細資訊時，「系統深入分析」面板會出現在畫面右側，AI支援的建議區段下方。 「系統深入分析」目前僅適用於Adobe Commerce。 如需詳細資訊，請參閱[系統深入分析](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/system-insights)。
 
    ![問題說明步驟](/help/adobe-support-tools-guide/assets/create-support-ticket-helpful-resources.png)
 
-   選取右上角的&#x200B;**[!UICONTROL 傳統表單]**&#x200B;或&#x200B;**[!UICONTROL AI聊天]**，以切換案例建立體驗。 如需AI聊天室詳細資料，請參閱案例建立體驗[&#128279;](https://experienceleague.adobe.com/zh-hant/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#ai-chat-in-the-case-creation-experience)中的AI聊天。
+   選取右上角的&#x200B;**[!UICONTROL 傳統表單]**&#x200B;或&#x200B;**[!UICONTROL AI聊天]**，以切換案例建立體驗。 如需AI聊天室詳細資料，請參閱案例建立體驗](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#ai-chat-in-the-case-creation-experience)中的[AI聊天。
 
    ![AI聊天](/help/adobe-support-tools-guide/assets/create-support-ticket-ai-chat.png)
 
@@ -90,7 +89,7 @@ ht-degree: 0%
 
 4. 在&#x200B;**[!UICONTROL 優先順序與業務影響]**&#x200B;區段中，選取案例優先順序（P4 — 次要、P3 — 重要、P2 — 緊急、P1 — 嚴重）。 當選取的優先順序為P1 — 嚴重時，提供業務影響詳細資料，然後選取&#x200B;**[!UICONTROL 下一步]**。
 
-   如需案例優先順序與業務影響如何影響支援回應時間的詳細資訊，請參閱[支援的目標初始回應時間](https://experienceleague.adobe.com/zh-hant/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support)。
+   如需案例優先順序與業務影響如何影響支援回應時間的詳細資訊，請參閱[支援的目標初始回應時間](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support)。
 
    ![優先順序和業務影響步驟](/help/adobe-support-tools-guide/assets/create-support-ticket-priority.png)
 
@@ -125,7 +124,11 @@ ht-degree: 0%
 
 ![檢視及管理您的案例進入點](/help/adobe-support-tools-guide/assets/my-cases-entry-points.png)
 
-**[!UICONTROL 您的所有案例]**&#x200B;頁面隨即開啟。 在&#x200B;**[!UICONTROL 我的案例]**&#x200B;和&#x200B;**[!UICONTROL 我的組織案例]**&#x200B;之間切換，以檢視您整個組織的案例或案例。 使用&#x200B;**[!UICONTROL 搜尋案例]**&#x200B;在選取的時間範圍內進行搜尋。 在右上角，選取檢視過去3、6、12、18或24個月資料的時間範圍。 根據預設，案例、搜尋結果和篩選器會顯示過去3個月的資料。
+**[!UICONTROL 您的所有案例]**&#x200B;頁面隨即開啟。 選取&#x200B;**[!UICONTROL 我的案例]**&#x200B;以檢視您的案例，或選取&#x200B;**[!UICONTROL 我的組織案例]**&#x200B;以檢視整個組織的案例。 使用&#x200B;**[!UICONTROL 搜尋案例]**&#x200B;在選取的時間範圍內進行搜尋。
+
+在右上角，選取一個時間範圍以檢視過去3、6、12、18、24個月或「全部」時間的大小寫。 根據預設，案例清單、搜尋結果和篩選器會顯示過去3個月的資料。
+
+若要檢視完整的案例歷史記錄，包括超過24個月案例，請從下拉式清單中選取&#x200B;**[!UICONTROL 所有時間]**&#x200B;選項。
 
 ![我的案例頁面](/help/adobe-support-tools-guide/assets/my-cases-page.png)
 
