@@ -3,7 +3,8 @@ title: 建立及管理支援案例
 description: 瞭解如何在重新設計的Experience League支援入口網站中建立、檢視及管理支援案例。
 autotag-review: '2026-07-22T11:27:24.736Z'
 TQID: 'https://experienceleague.adobe.com/vmb2kfbBn3vgPgTQC1W3vf4CodiDfR6lzJNB0EBz71A'
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
 source-git-commit: 0c48dae797a8bdfe2723b40e305b33effce08417
 workflow-type: tm+mt
 source-wordcount: 1239
@@ -48,7 +49,7 @@ ht-degree: 0%
 
    ![產品選擇步驟](/help/adobe-support-tools-guide/assets/create-support-ticket-product-selection.png)
 
-2. 在&#x200B;**[!UICONTROL 問題說明]**&#x200B;區段中，輸入問題的說明。 案例標題會根據問題說明自動產生。 您可以視需要編輯標題。 確認是否可以重新產生問題。 如果問題可重現，請選取&#x200B;**[!UICONTROL 是]**。 此時會出現一個文字方塊，您可在其中說明重現問題所需的步驟。 如果問題無法一致地重現，請選取&#x200B;**[!UICONTROL 否]**，然後按一下[下一步]****。
+2. 在&#x200B;**[!UICONTROL 問題說明]**&#x200B;區段中，輸入問題的說明。 案例標題會根據問題說明自動產生。 您可以視需要編輯標題。 確認是否可以重新產生問題。 如果問題可重現，請選取&#x200B;**[!UICONTROL 是]**。 此時會出現一個文字方塊，您可在其中說明重現問題所需的步驟。 如果問題無法一致地重現，請選取&#x200B;**[!UICONTROL 否]**，然後按一下[下一步]&#x200B;**&#x200B;**。
 
    ![問題說明步驟](/help/adobe-support-tools-guide/assets/create-support-ticket-problem-description.png)
 
@@ -75,7 +76,7 @@ ht-degree: 0%
 
    ![問題說明步驟](/help/adobe-support-tools-guide/assets/create-support-ticket-helpful-resources.png)
 
-   選取右上角的&#x200B;**[!UICONTROL 傳統表單]**&#x200B;或&#x200B;**[!UICONTROL AI聊天]**，以切換案例建立體驗。 如需AI聊天室詳細資料，請參閱案例建立體驗](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#ai-chat-in-the-case-creation-experience)中的[AI聊天。
+   選取右上角的&#x200B;**[!UICONTROL 傳統表單]**&#x200B;或&#x200B;**[!UICONTROL AI聊天]**，以切換案例建立體驗。 如需AI聊天室詳細資料，請參閱案例建立體驗[&#128279;](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#ai-chat-in-the-case-creation-experience)中的AI聊天。
 
    ![AI聊天](/help/adobe-support-tools-guide/assets/create-support-ticket-ai-chat.png)
 
