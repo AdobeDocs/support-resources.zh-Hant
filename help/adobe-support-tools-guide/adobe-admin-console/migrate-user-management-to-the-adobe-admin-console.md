@@ -5,9 +5,13 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 TQID: 'https://experienceleague.adobe.com/l0jyxNyd32NYh6ggu2iNYz-7DgSsKSmgl1wgQAVskIc'
-product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
-feature_v2: id: d1c959e9-891f-4624-8eb1-4d6658c0f72f
-topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+feature_v2:
+  - id: d1c959e9-891f-4624-8eb1-4d6658c0f72f
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: 70691859da7915a2a4680ba19aca444ac9a94293
 workflow-type: tm+mt
 source-wordcount: 286
