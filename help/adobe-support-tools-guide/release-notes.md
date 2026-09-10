@@ -15,9 +15,9 @@ level_v2:
 topic_v2:
   - id: d00e9f03-e50b-4162-b143-0c0817c937c2
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: f4a8d4cf7aa7438acd341e166f123ff908d9ef67
+source-git-commit: bc8a6f909b97a103a097b7c683d41f56cc45b75c
 workflow-type: tm+mt
-source-wordcount: 2250
+source-wordcount: 2402
 ht-degree: 0%
 
 ---
@@ -30,6 +30,18 @@ ht-degree: 0%
 ![新](../adobe-support-tools-guide/assets/new.svg)新功能
 ![修正](../adobe-support-tools-guide/assets/fix.svg)修正和改良
 ![錯誤](../adobe-support-tools-guide/assets/bug.svg)已知問題
+
+## 2026年9月10日 — 重新設計的Experience League支援入口網站現在是預設體驗
+
+1. 重新設計的Experience League支援入口網站現在已設定為所有使用者的預設體驗。 存取支援應用程式時，使用者會自動導向重新設計的入口網站。
+
+1. UI切換器標籤已從&#x200B;**[!UICONTROL 嘗試新的首頁]**&#x200B;更新為&#x200B;**[!UICONTROL 返回上一個體驗]**&#x200B;以更清楚明瞭。
+
+1. 入口網站偏好設定會根據&#x200B;**[!UICONTROL 返回上一個體驗]**&#x200B;切換器選擇繼續儲存和套用，因此使用者在每次造訪時都會被導向到他們上次選取的入口網站體驗。
+
+1. 已在&#x200B;**[!UICONTROL 我的案例]**&#x200B;頁面上的&#x200B;**[!UICONTROL 時間範圍]**&#x200B;篩選器下拉式清單中引進新的&#x200B;**[!UICONTROL 所有時間]**&#x200B;選項，以便檢視過去24個月以外的完整案例歷史記錄。
+
+1. 案例建立表單上的Adobe Commerce **[!UICONTROL 系統深入分析]** Widget已重新定位，顯示在右側邊欄的&#x200B;**[!UICONTROL AI建議]**&#x200B;區段上方。
 
 ## 2026年8月27日 — 重新設計的Experience League支援入口網站更新
 

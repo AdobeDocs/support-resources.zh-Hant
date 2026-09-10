@@ -5,9 +5,9 @@ autotag-review: '2026-07-22T11:27:24.736Z'
 TQID: 'https://experienceleague.adobe.com/vmb2kfbBn3vgPgTQC1W3vf4CodiDfR6lzJNB0EBz71A'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: f4a8d4cf7aa7438acd341e166f123ff908d9ef67
+source-git-commit: 0c48dae797a8bdfe2723b40e305b33effce08417
 workflow-type: tm+mt
-source-wordcount: 1214
+source-wordcount: 1239
 ht-degree: 0%
 
 ---
@@ -125,7 +125,11 @@ ht-degree: 0%
 
 ![檢視及管理您的案例進入點](/help/adobe-support-tools-guide/assets/my-cases-entry-points.png)
 
-**[!UICONTROL 您的所有案例]**&#x200B;頁面隨即開啟。 在&#x200B;**[!UICONTROL 我的案例]**&#x200B;和&#x200B;**[!UICONTROL 我的組織案例]**&#x200B;之間切換，以檢視您整個組織的案例或案例。 使用&#x200B;**[!UICONTROL 搜尋案例]**&#x200B;在選取的時間範圍內進行搜尋。 在右上角，選取檢視過去3、6、12、18或24個月資料的時間範圍。 根據預設，案例、搜尋結果和篩選器會顯示過去3個月的資料。
+**[!UICONTROL 您的所有案例]**&#x200B;頁面隨即開啟。 選取&#x200B;**[!UICONTROL 我的案例]**&#x200B;以檢視您的案例，或選取&#x200B;**[!UICONTROL 我的組織案例]**&#x200B;以檢視整個組織的案例。 使用&#x200B;**[!UICONTROL 搜尋案例]**&#x200B;在選取的時間範圍內進行搜尋。
+
+在右上角，選取一個時間範圍以檢視過去3、6、12、18、24個月或「全部」時間的大小寫。 根據預設，案例清單、搜尋結果和篩選器會顯示過去3個月的資料。
+
+若要檢視完整的案例歷史記錄，包括超過24個月案例，請從下拉式清單中選取&#x200B;**[!UICONTROL 所有時間]**&#x200B;選項。
 
 ![我的案例頁面](/help/adobe-support-tools-guide/assets/my-cases-page.png)
 

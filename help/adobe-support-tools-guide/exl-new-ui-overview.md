@@ -12,9 +12,9 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 21a6c72123a7415e208ff03e51324cad5a790efd
+source-git-commit: 0c48dae797a8bdfe2723b40e305b33effce08417
 workflow-type: tm+mt
-source-wordcount: 1311
+source-wordcount: 1367
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## 概觀
 
-重新設計的Experience League支援入口網站提供統一且直覺式的體驗，讓您管理Adobe支援活動。 它可讓您更快速地存取基本功能，包括追蹤支援案例、監控產品狀態、存取案例深入分析並與Success團隊連線。
+重新設計的Experience League支援入口網站現在為所有使用者的預設體驗。 存取支援應用程式時，系統會自動將您導向重新設計的入口網站。 此入口網站提供統一且直覺式的體驗，可用於管理Adobe支援活動，讓您更快速地存取基本功能，例如追蹤支援案例、監控產品狀態、存取案例深入分析和與成功團隊連線。
 
 >[!NOTE]
 >
@@ -54,7 +54,7 @@ ht-degree: 0%
 
 ![新UI](/help/adobe-support-tools-guide/assets/new-toggle-1.png)
 
-兩個入口網站都會保持同步，以確保各個體驗中的案例資料和支援資訊都保持一致。
+兩個入口網站體驗皆保持同步，以確保支援案例資料和資訊在各個體驗中保持一致。 您的入口網站偏好設定是根據&#x200B;**[!UICONTROL 返回上一個體驗]**&#x200B;切換器的選擇儲存的，每次造訪時，您都會被導向最後選取的入口網站體驗。
 
 ![舊的UI](/help/adobe-support-tools-guide/assets/old-ui.png)
 
