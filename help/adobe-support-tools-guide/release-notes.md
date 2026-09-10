@@ -5,19 +5,13 @@ feature: Release Notes
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
 autotag-review: '2026-06-12T20:44:20.941Z'
 TQID: 'https://experienceleague.adobe.com/ULOOxxvZGorHsE8Q44r8n7HbvTb712-8NnVMzl0J-Q8'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: d00e9f03-e50b-4162-b143-0c0817c937c2
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: f4a8d4cf7aa7438acd341e166f123ff908d9ef67
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: d00e9f03-e50b-4162-b143-0c0817c937c2id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 40dae33f96e82662fa91719d22690ee3b9002893
 workflow-type: tm+mt
-source-wordcount: 2250
+source-wordcount: 2410
 ht-degree: 0%
 
 ---
@@ -30,6 +24,18 @@ ht-degree: 0%
 ![新](../adobe-support-tools-guide/assets/new.svg)新功能
 ![修正](../adobe-support-tools-guide/assets/fix.svg)修正和改良
 ![錯誤](../adobe-support-tools-guide/assets/bug.svg)已知問題
+
+## 2026年9月10日 — 重新設計的Experience League支援入口網站現在是預設體驗
+
+1. 重新設計的Experience League支援入口網站現在已設定為所有使用者的預設體驗。 存取支援應用程式時，使用者會自動導向重新設計的入口網站。
+
+1. UI切換器標籤已從&#x200B;**[UICONTROL更新嘗試新的首頁]**&#x200B;到&#x200B;**[UICONTROL返回上一個體驗]**，以更清楚明瞭。
+
+1. 系統會根據&#x200B;**[UICONTROL回到上一個體驗]**&#x200B;切換器選擇，繼續儲存並套用入口網站偏好設定，因此使用者在每次造訪時都會被導向到他們上次選取的入口網站體驗。
+
+1. 已在&#x200B;**[UICONTROL我的案例]**&#x200B;頁面的&#x200B;**[UICONTROL時間範圍]**&#x200B;篩選下拉式清單中引進新的&#x200B;**[UICONTROL所有時間]**&#x200B;選項，以便檢視過去24個月以外的完整案例歷史記錄。
+
+1. 案例建立表單上的Adobe Commerce **[UICONTROL System Insights]** Widget已重新定位，以顯示在右側邊欄的&#x200B;**[UICONTROL AI Recommendations]**&#x200B;區段上方。
 
 ## 2026年8月27日 — 重新設計的Experience League支援入口網站更新
 
@@ -106,7 +112,7 @@ ht-degree: 0%
 
 1. 依優先順序的&#x200B;**[!UICONTROL 案例計數]**&#x200B;圖表現在提供暫留的更詳細劃分。 將滑鼠懸停在優先順序區段上會顯示工具提示，顯示案例總數以及開啟和關閉案例的數量。
 
-1. **[!UICONTROL 產品狀態]** Widget現在支援互動式產品篩選。 您可以直接從首頁選取一或多個產品，以篩選系統狀態警示。 在此Widget中選取產品時，不再重新導向至[status.adobe.com](http://status.adobe.com/zh-tw)。
+1. **[!UICONTROL 產品狀態]** Widget現在支援互動式產品篩選。 您可以直接從首頁選取一或多個產品，以篩選系統狀態警示。 在此Widget中選取產品時，不再重新導向至[status.adobe.com](http://status.adobe.com)。
 
 1. **[!UICONTROL 產品狀態]** Widget現在會以更直覺的順序列出產品。 有作用中問題的產品會先出現，接著是依字母順序排序的其餘產品。
 
