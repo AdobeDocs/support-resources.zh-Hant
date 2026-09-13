@@ -328,7 +328,7 @@ AEM客戶運用Adobe Managed Services時，可以主動與其CSE合作，針對�
 * [準備Adobe Workfront發行](https://experienceleague.adobe.com/zh-hant/docs/workfront/using/product-announcements/product-releases/release-readiness)
 * [Workfront發行說明封存](https://experienceleague.adobe.com/zh-hant/docs/workfront/using/product-announcements/product-releases/product-releases)
 * [2025年第1季版本總覽](https://experienceleague.adobe.com/zh-hant/docs/workfront/using/product-announcements/product-releases/release-25-q1/25-q1-release-overview)
-* [Workfront發行網路研討會影片](https://experienceleague.adobe.com/en/docs/events/workfront-recordings/releases/25-1-release-webinar)
+* [Workfront發行網路研討會影片](https://experienceleague.adobe.com/zh-hant/docs/events/workfront-recordings/releases/25-1-release-webinar)
 
 ### 最佳做法
 
@@ -350,7 +350,7 @@ AEM客戶運用Adobe Managed Services時，可以主動與其CSE合作，針對�
 
 ### 讓您的假日行銷活動脫穎而出的專家秘訣
 
-就像開始您的節日購物永遠都不嫌早一樣，開始規劃大獲成功的節日行銷活動也永遠都不嫌早。 有了Adobe Campaign，您可以設計、規劃及執行行銷活動，好讓貴組織的所有節日願望都成真。 但是您知道在年底之前讓執行的行銷活動大獲成功的所有秘訣嗎？ 觀看此影片，[專家秘訣，讓您的假日行銷活動脫穎而出](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03)，其中會討論傳遞能力和執行最佳實務，並示範如何在Adobe Campaign中完成所有工作。
+就像開始您的節日購物永遠都不嫌早一樣，開始規劃大獲成功的節日行銷活動也永遠都不嫌早。 有了Adobe Campaign，您可以設計、規劃及執行行銷活動，好讓貴組織的所有節日願望都成真。 但是您知道在年底之前讓執行的行銷活動大獲成功的所有秘訣嗎？ 觀看此影片，[專家秘訣，讓您的假日行銷活動脫穎而出](https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03)，其中會討論傳遞能力和執行最佳實務，並示範如何在Adobe Campaign中完成所有工作。
 
 ### 假日期間的考量事項和準備事項
 
