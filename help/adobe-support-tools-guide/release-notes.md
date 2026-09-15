@@ -7,21 +7,25 @@ autotag-review: '2026-06-12T20:44:20.941Z'
 TQID: 'https://experienceleague.adobe.com/ULOOxxvZGorHsE8Q44r8n7HbvTb712-8NnVMzl0J-Q8'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: d00e9f03-e50b-4162-b143-0c0817c937c2
+    internal-label: Customer journeys
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: bc8a6f909b97a103a097b7c683d41f56cc45b75c
+    internal-label: Insights
+source-git-commit: adf6f6cb51e5ae7636a5aa45e85196dda37920a0
 workflow-type: tm+mt
-source-wordcount: 2402
+source-wordcount: '2614'
 ht-degree: 0%
-
 ---
-
 
 # Experience League支援發行說明
 
@@ -30,6 +34,24 @@ ht-degree: 0%
 ![新](../adobe-support-tools-guide/assets/new.svg)新功能
 ![修正](../adobe-support-tools-guide/assets/fix.svg)修正和改良
 ![錯誤](../adobe-support-tools-guide/assets/bug.svg)已知問題
+
+## 2026年9月15日 — 日本加班支援更新
+
+1. 日本客戶現在可以在晚上、晚上和週末取得新&#x200B;**AI語音助理**&#x200B;的電話支援(IVR)，因為即時代理程式無法使用。 支援日文的自然語音 — 不需要關鍵字或功能表導覽。
+
+1. **AI語音助理**&#x200B;可以立即檢查案件狀態，告知您案件是否仍在調查中、等待更多資訊或解決。
+
+1. **AI語音小幫手**&#x200B;可以分享您案例上記錄的最新筆記或進度，讓您無需等待回撥或電子郵件即可檢視活動。
+
+1. 若發生重大中斷或嚴重業務影響，助理會將您的案例升級至&#x200B;**[!UICONTROL P1 （嚴重）]**&#x200B;優先順序。
+
+1. 您可以隨時透過助理向Adobe支援工程師要求回撥。
+
+1. 如果助理詢問技術問題以瞭解您的問題（錯誤訊息、重製步驟等），您的答案會自動儲存到您的案例備註中，無需重複給下一個工程師。
+
+>[!NOTE]
+>
+>本服務僅供日語對話使用，於下班後及週末期間使用。 您必須先驗證您的身分或案件詳細資料，助理才能分享案件資訊。 複雜的技術疑難排解或產品設定變更會透過回撥傳送給即時工程師。
 
 ## 2026年9月10日 — 重新設計的Experience League支援入口網站現在是預設體驗
 
@@ -42,6 +64,7 @@ ht-degree: 0%
 1. 已在&#x200B;**[!UICONTROL 我的案例]**&#x200B;頁面上的&#x200B;**[!UICONTROL 時間範圍]**&#x200B;篩選器下拉式清單中引進新的&#x200B;**[!UICONTROL 所有時間]**&#x200B;選項，以便檢視過去24個月以外的完整案例歷史記錄。
 
 1. 案例建立表單上的Adobe Commerce **[!UICONTROL 系統深入分析]** Widget已重新定位，顯示在右側邊欄的&#x200B;**[!UICONTROL AI建議]**&#x200B;區段上方。
+
 
 ## 2026年8月27日 — 重新設計的Experience League支援入口網站更新
 
