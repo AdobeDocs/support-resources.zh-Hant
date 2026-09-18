@@ -2,18 +2,17 @@
 title: Adobe Commerce的MySQL支援終止通知和資料庫相容性指引
 description: 本文提供MySQL支援終止時間表的相關資訊，以及支援Adobe Commerce版本的資料庫相容性指引。
 solution: Commerce
-source-git-commit: 2198e1882260ca17b8b99f7ed6d415791ec0d177
+exl-id: f4ef2b3b-316c-421e-a645-9445cdd13448
+source-git-commit: 6603038e6b5857c3bb34cc62002a0b860702f561
 workflow-type: tm+mt
-source-wordcount: '351'
-ht-degree: 0%
-
+source-wordcount: '380'
+ht-degree: 1%
 ---
-
 # Adobe Commerce的MySQL支援終止通知和資料庫相容性指引
 
 本文提供支援的Adobe Commerce版本的MySQL終止支援(EOS)和資料庫相容性的重要資訊。
 Adobe強烈建議商戶檢閱此公告，並採取行動維護平台穩定性及符合支援要求。
-進一步瞭解[MariaDB升級必要條件](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/implementation-playbook/best-practices/maintenance/mariadb-upgrade)和[系統需求](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/installation-guide/system-requirements)。
+進一步瞭解[MariaDB升級必要條件](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/maintenance/mariadb-upgrade)和[系統需求](https://experienceleague.adobe.com/en/docs/commerce-operations/installation-guide/system-requirements)。
 
 ## MySQL 8.0終止支援(EOS)
 
