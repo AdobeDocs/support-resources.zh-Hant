@@ -188,7 +188,7 @@ Adobe enterprise和teams廣泛定義了兩種使用者：
 
 根據您的授權方式指派授權給一般使用者：
 
-- **具名使用者授權：**&#x200B;將這些使用者新增至&#x200B;**產品** （[適用於團隊](https://helpx.adobe.com/tw/enterprise/using/assign-licenses-to-teams-users.html)）或&#x200B;**產品設定檔** （[適用於企業](https://helpx.adobe.com/tw/enterprise/using/manage-product-profiles.html)），以授予Adobe產品和服務權益。 如需詳細資訊，請參閱如何[建立具名使用者授權套件](https://helpx.adobe.com/enterprise/using/create-nul-packages.html)和[產品設定檔](https://helpx.adobe.com/tw/enterprise/using/manage-product-profiles.html#create-product-profile)。
+- **具名使用者授權：**&#x200B;將這些使用者新增至&#x200B;**產品** （[適用於團隊](https://helpx.adobe.com/tw/enterprise/using/assign-licenses-to-teams-users.html)）或&#x200B;**產品設定檔** （[適用於企業](https://helpx.adobe.com/tw/enterprise/using/manage-product-profiles.html)），以授予Adobe產品和服務權益。 如需詳細資訊，請參閱如何[建立具名使用者授權套件](https://helpx.adobe.com/tw/enterprise/using/create-nul-packages.html)和[產品設定檔](https://helpx.adobe.com/tw/enterprise/using/manage-product-profiles.html#create-product-profile)。
 - **共用裝置授權：** [新增的使用者](https://helpx.adobe.com/tw/enterprise/using/sdl-deployment-guide.html#add-users-admin-console)可以使用已設定的共用裝置，只有&#x200B;**組織使用者才能存取**。 如需詳細資訊，請參閱[建立SDL封裝](https://helpx.adobe.com/tw/enterprise/using/create-sdl-packages.html)。
 
 ### 部署套件

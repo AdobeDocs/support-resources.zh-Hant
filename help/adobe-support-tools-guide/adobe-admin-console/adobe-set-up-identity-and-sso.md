@@ -108,7 +108,7 @@ Adobe正在將所有組織更新至[企業儲存模型](https://helpx.adobe.com/
 瞭解如何管理您的網域和目錄：
 
 - [管理使用者](https://helpx.adobe.com/tw/enterprise/using/users.html)和[群組](https://helpx.adobe.com/enterprise/using/user-groups..html)
-- [將網域連結至目錄](https://helpx.adobe.com/enterprise/using/add-domains-directories.html#link-domains-to-directoies)以控制使用者對應用程式、服務和設定的存取
+- [將網域連結至目錄](https://helpx.adobe.com/tw/enterprise/using/add-domains-directories.html#link-domains-to-directoies)以控制使用者對應用程式、服務和設定的存取
 - [管理目錄信任](https://helpx.adobe.com/tw/enterprise/using/directory-trust.html)以使用其他組織宣告的網域
 
 瞭解如何變更您的身分提供者：
@@ -126,7 +126,7 @@ Adobe正在將所有組織更新至[企業儲存模型](https://helpx.adobe.com/
 
 #### 常見問題集
 
-- [Azure AD聯結器常見問題集](https://helpx.adobe.com/enterprise/using/azure-ad-connector-faq.html)
+- [Azure AD聯結器常見問題集](https://helpx.adobe.com/tw/enterprise/using/azure-ad-connector-faq.html)
 - [如何刪除目錄和網域](https://helpx.adobe.com/tw/enterprise/using/sso-setup-azure.html#Deletedirectoriesandremovedomains)
 
 #### 疑難排解
@@ -149,7 +149,7 @@ Adobe正在將所有組織更新至[企業儲存模型](https://helpx.adobe.com/
 
 ### Google — 常見問題集
 
-- [Google聯結器常見問題集](https://helpx.adobe.com/enterprise/using/google-federation-faq.html)
+- [Google聯結器常見問題集](https://helpx.adobe.com/tw/enterprise/using/google-federation-faq.html)
 - [如何刪除目錄和網域](https://helpx.adobe.com/tw/enterprise/using/setup-sso-google.html#Deletedirectoriesandremovedomains)
 
 ## 加入交談
