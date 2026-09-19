@@ -4,13 +4,12 @@ description: 本文會說明如何在Adobe Commerce內部部署、雲端基礎�
 feature: Best Practices, Compliance, Console
 solution: Commerce
 feature-set: Commerce
-source-git-commit: fa46bb7187c55a0c7d75930868c74bf8ba072c41
+exl-id: 66d8df60-4c4a-49ef-8107-986e10d6e289
+source-git-commit: 32e69e55405db4f7bb78ef055e07175336401179
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '225'
 ht-degree: 0%
-
 ---
-
 # 如何套用Adobe提供的撰寫器修補程式
 
 本文會說明如何在Adobe Commerce內部部署、雲端基礎結構上的Adobe Commerce以及Magento Open Source上套用撰寫器修補程式。

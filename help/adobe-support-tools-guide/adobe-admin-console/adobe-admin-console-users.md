@@ -4,20 +4,19 @@ description: 規劃在Adobe Admin Console上管理使用者的策略 — 新增�
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-source-git-commit: d92f4190b68a480409f4126a877de3469ed836f0
+exl-id: e0d9db48-d2cd-45cf-8751-5e91ba0aad75
+source-git-commit: 0ad0b7f7663be745ef7e51758936a966818b4058
 workflow-type: tm+mt
-source-wordcount: '842'
-ht-degree: 3%
-
+source-wordcount: '1173'
+ht-degree: 6%
 ---
-
 # Adobe Admin Console使用者
 
 適用於企業和團隊。
 
 面對這些問題之一？ 選取問題以檢視解決方案。
 
-- [管理系統管理員角色](https://helpx.adobe.com/tw/enterprise/using/admin-roles.html)
+- [管理管理員角色](https://helpx.adobe.com/tw/enterprise/using/admin-roles.html)
 - [下載安裝問題](https://helpx.adobe.com/tw/download-install.html)
 - [重設Enterprise ID使用者密碼](https://helpx.adobe.com/tw/enterprise/kb/enterprise-id-faq.html#faq)
 - [解決Federated ID錯誤](https://helpx.adobe.com/tw/enterprise/kb/tshoot-fed-id.html)
@@ -77,22 +76,22 @@ Adobe enterprise和teams廣泛定義了兩種使用者：
 </tr>
 <tr>
 <th scope="row"><strong>新增使用者</strong></th>
-<td><strong>Admin Console</strong>中的<strong>使用者</strong>索引標籤。 <a href="https://helpx.adobe.com/tw/enterprise/using/manage-users-individually.html#add-users">閱讀全文</a>。</td>
-<td>在<strong>Admin Console</strong>中使用<strong>透過CSV</strong>新增使用者。 <a href="https://helpx.adobe.com/tw/enterprise/using/bulk-upload-users.html">閱讀更多</a>。<em> （使用預設的CSV範本。）</em></td>
+<td><strong>Admin Console</strong>中的<strong>使用者</strong>索引標籤。 <a href="https://helpx.adobe.com/tw/enterprise/using/manage-users-individually.html#add-users">閱讀更多</a>。</td>
+<td>在<strong>Admin Console</strong>中使用<strong>透過CSV</strong>新增使用者。 <a href="https://helpx.adobe.com/tw/enterprise/using/bulk-upload-users.html">閱讀更多</a>。 <em> （使用預設的CSV範本。）</em></td>
 <td>在<a href="https://helpx.adobe.com/tw/enterprise/using/sso-setup-azure.html">Azure</a>或<a href="https://helpx.adobe.com/tw/enterprise/using/setup-sso-google.html">Google</a>中新增使用者。 或透過<strong>Admin Console</strong>進行。</td>
 <td colspan="2">您應將使用者新增至組織的LDAP中。</td>
 </tr>
 <tr>
 <th scope="row"><strong>移除使用者</strong></th>
-<td>在<strong>Admin Console</strong>中選取並移除使用者。 <a href="https://helpx.adobe.com/tw/enterprise/using/manage-users-individually.html#remove-users">閱讀全文</a>。</td>
-<td>在<strong>Admin Console</strong>的<strong>使用者</strong>索引標籤中選擇<strong>透過CSV移除使用者</strong>。 <a href="https://helpx.adobe.com/tw/enterprise/using/bulk-upload-users.html#remove-users">閱讀更多</a>。<em> （使用預設的CSV範本。）</em></td>
+<td>在<strong>Admin Console</strong>中選取並移除使用者。 <a href="https://helpx.adobe.com/tw/enterprise/using/manage-users-individually.html#remove-users">閱讀更多</a>。</td>
+<td>在<strong>Admin Console</strong>的<strong>使用者</strong>索引標籤中選擇<strong>透過CSV移除使用者</strong>。 <a href="https://helpx.adobe.com/tw/enterprise/using/bulk-upload-users.html#remove-users">閱讀更多</a>。 <em> （使用預設的CSV範本。）</em></td>
 <td>必須在<a href="https://helpx.adobe.com/tw/enterprise/using/sso-setup-azure.html">Azure</a>或<a href="https://helpx.adobe.com/tw/enterprise/using/setup-sso-google.html">Google</a>中移除使用者。</td>
 <td colspan="2">確定使用者資訊已同步。 <strong>警告：</strong>不在您組織LDAP中的使用者會從Admin Console中移除。</td>
 </tr>
 <tr>
 <th scope="row"><strong>編輯使用者詳細資訊</strong></th>
-<td>選取使用者，然後在Admin Console中<strong>編輯使用者詳細資訊</strong>。 <a href="https://helpx.adobe.com/tw/enterprise/using/manage-users-individually.html#edit-user-details">閱讀全文</a>。</td>
-<td>在<strong>Admin Console</strong>的<strong>使用者</strong>索引標籤中選擇<strong>依CSV編輯使用者詳細資訊</strong>。 <a href="https://helpx.adobe.com/tw/enterprise/using/bulk-upload-users.html#edit-user-details">閱讀更多</a>。<em> （使用預設的CSV範本。）</em></td>
+<td>選取使用者，然後在Admin Console中<strong>編輯使用者詳細資訊</strong>。 <a href="https://helpx.adobe.com/tw/enterprise/using/manage-users-individually.html#edit-user-details">閱讀更多</a>。</td>
+<td>在<strong>Admin Console</strong>的<strong>使用者</strong>索引標籤中選擇<strong>依CSV編輯使用者詳細資訊</strong>。 <a href="https://helpx.adobe.com/tw/enterprise/using/bulk-upload-users.html#edit-user-details">閱讀更多</a>。 <em> （使用預設的CSV範本。）</em></td>
 <td>必須在<a href="https://helpx.adobe.com/tw/enterprise/using/sso-setup-azure.html">Azure</a>或<a href="https://helpx.adobe.com/tw/enterprise/using/setup-sso-google.html">Google</a>中變更所有使用者資訊。</td>
 <td colspan="2">確定使用者資訊已同步。</td>
 </tr>
@@ -131,7 +130,7 @@ Adobe enterprise和teams廣泛定義了兩種使用者：
   <ul>
     <li>
       <a href="https://helpx.adobe.com/tw/enterprise/using/bulk-upload-users.html">
-        管理使用者|大量上傳CSV
+        管理使用者 |大量上傳CSV
       </a>
     </li>
     <li>
@@ -199,18 +198,18 @@ Adobe enterprise和teams廣泛定義了兩種使用者：
 - 移至使用者端電腦，然後按兩下套件檔案（Windows或macOS）。
 - 使用Windows命令提示字元或macOS終端機。
 - 使用協力廠商工具：
-   - [Microsoft Intune](https://helpx.adobe.com/tw/enterprise/kb/deploy-packages-using-ms-intune.html)
-   - [Microsoft System Center Configuration Manager (SCCM)](https://helpx.adobe.com/tw/enterprise/kb/deploy-packages-using-sccm.html)
-   - [Apple遠端案頭(ARD)](https://helpx.adobe.com/tw/enterprise/kb/deploy-packages-using-ard.html)
-   - [JAMF Pro](https://helpx.adobe.com/tw/enterprise/kb/deploy-packages-using-jamf-pro.html)
-   - [Munki](https://helpx.adobe.com/tw/enterprise/kb/deploy-packages-using-munki.html)
+  - [Microsoft Intune](https://helpx.adobe.com/tw/enterprise/kb/deploy-packages-using-ms-intune.html)
+  - [Microsoft System Center Configuration Manager (SCCM)](https://helpx.adobe.com/tw/enterprise/kb/deploy-packages-using-sccm.html)
+  - [Apple遠端案頭(ARD)](https://helpx.adobe.com/tw/enterprise/kb/deploy-packages-using-ard.html)
+  - [JAMF Pro](https://helpx.adobe.com/tw/enterprise/kb/deploy-packages-using-jamf-pro.html)
+  - [Munki](https://helpx.adobe.com/tw/enterprise/kb/deploy-packages-using-munki.html)
 
 ## 相關閱讀
 
-- [管理使用者|個別](https://helpx.adobe.com/tw/enterprise/using/manage-users-individually.html)
-- [管理使用者|大量CSV上傳](https://helpx.adobe.com/tw/enterprise/using/bulk-upload-users.html)
+- [管理使用者 |個別](https://helpx.adobe.com/tw/enterprise/using/manage-users-individually.html)
+- [管理使用者 |大量CSV上傳](https://helpx.adobe.com/tw/enterprise/using/bulk-upload-users.html)
 - [管理目錄使用者](https://helpx.adobe.com/tw/enterprise/using/manage-directory-users.html)
 - [Admin Console](https://helpx.adobe.com/tw/enterprise/using/admin-console.html)
 - [將使用者指派給產品設定檔（適用於企業和機構）](https://helpx.adobe.com/tw/enterprise/using/manage-product-profiles.html#assign-users)
-- [指派授權給團隊使用者](https://helpx.adobe.com/tw/enterprise/using/assign-licenses-to-teams-users.html)
-- [商務儲存模型](https://helpx.adobe.com/tw/enterprise/kb/business-storage-model-introduction.html)
+- [將授權指派給Team使用者](https://helpx.adobe.com/tw/enterprise/using/assign-licenses-to-teams-users.html)
+- [商務儲存模式](https://helpx.adobe.com/tw/enterprise/kb/business-storage-model-introduction.html)

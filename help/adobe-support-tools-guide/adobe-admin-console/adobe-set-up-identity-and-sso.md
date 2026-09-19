@@ -4,13 +4,12 @@ description: 瞭解組織系統管理員如何使用Adobe ID、Enterprise ID或F
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-source-git-commit: 0c2992946f1cdbbcfb44a2baf37888bd05b2253b
+exl-id: 7b2bf2f5-d363-4132-9f42-761db1332ce5
+source-git-commit: 0ad0b7f7663be745ef7e51758936a966818b4058
 workflow-type: tm+mt
-source-wordcount: '870'
+source-wordcount: '1068'
 ht-degree: 1%
-
 ---
-
 # 設定身分和單一登入
 
 **套用至：**&#x200B;企業
@@ -108,7 +107,7 @@ Adobe正在將所有組織更新至[企業儲存模型](https://helpx.adobe.com/
 
 瞭解如何管理您的網域和目錄：
 
-- [管理使用者](https://helpx.adobe.com/tw/enterprise/using/users.html)和[群組](https://helpx.adobe.com/tw/enterprise/using/user-groups..html)
+- [管理使用者](https://helpx.adobe.com/tw/enterprise/using/users.html)和[群組](https://helpx.adobe.com/enterprise/using/user-groups..html)
 - [將網域連結至目錄](https://helpx.adobe.com/tw/enterprise/using/add-domains-directories.html#link-domains-to-directoies)以控制使用者對應用程式、服務和設定的存取
 - [管理目錄信任](https://helpx.adobe.com/tw/enterprise/using/directory-trust.html)以使用其他組織宣告的網域
 
@@ -160,4 +159,4 @@ Adobe正在將所有組織更新至[企業儲存模型](https://helpx.adobe.com/
 ## 法律與隱私權
 
 - [法律注意事項](https://helpx.adobe.com/tw/legal/legal-notices.html)
-- [線上隱私權原則](https://www.adobe.com/tw/privacy.html)
+- [線上隱私權原則](https://www.adobe.com/privacy.html)
