@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: aace5ed8-65a6-4cff-8542-bc50e9c765b7
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '1151'
-ht-degree: 0%
-
+source-wordcount: '1258'
+ht-degree: 4%
 ---
-
 # 將現有使用者移轉至Adobe Admin Console
 
 適用於企業和團隊。
@@ -40,25 +46,25 @@ ht-degree: 0%
 
 * 產品相同
 
-   1. 續約視窗會開啟（VIP協定週年日期之前或之後30天）。
-   2. 訂單上的企業產品是相當於目前條款中團隊版本的新SKU。
-   3. 企業授權訂購數量大於或等於現有的團隊授權數量。
+  1. 續約視窗會開啟（VIP協定週年日期之前或之後30天）。
+  2. 訂單上的企業產品是相當於目前條款中團隊版本的新SKU。
+  3. 企業授權訂購數量大於或等於現有的團隊授權數量。
 
 * 產品價值較高
 
-   1. 更新視窗已開啟。
-   2. 訂單上的企業產品是新的SKU，其價值高於目前期限中的團隊產品。
-   3. 企業授權訂購數量大於或等於現有的團隊授權數量。
+  1. 更新視窗已開啟。
+  2. 訂單上的企業產品是新的SKU，其價值高於目前期限中的團隊產品。
+  3. 企業授權訂購數量大於或等於現有的團隊授權數量。
 
 * 快速授權指派在以下情況下無法使用：
 
-   * 訂單上的企業授權數量少於現有的團隊授權數量。
-   * 訂單適用於較高價值的企業產品，但訂購的企業授權數量少於現有的團隊授權數量。
-   * 無論數量為何，訂單都會混合團隊與企業產品。
-   * 客戶已在續約期間之前購買團隊和企業產品。
-   * 企業續約SKU用於新的企業訂單。
-   * 企業產品訂單適用於不同的VIP合約編號。
-   * 目前的團隊產品包含沒有企業版本的專案。
+  * 訂單上的企業授權數量少於現有的團隊授權數量。
+  * 訂單適用於較高價值的企業產品，但訂購的企業授權數量少於現有的團隊授權數量。
+  * 無論數量為何，訂單都會混合團隊與企業產品。
+  * 客戶已在續約期間之前購買團隊和企業產品。
+  * 企業續約SKU用於新的企業訂單。
+  * 企業產品訂單適用於不同的VIP合約編號。
+  * 目前的團隊產品包含沒有企業版本的專案。
 
 Adobe處理您的企業採購單後，您會收到一封包含指示的確認電子郵件，包括您必須將使用者從團隊授權轉移到Admin Console中的企業授權的那一天，他們才會失去存取權。
 
@@ -76,7 +82,7 @@ Adobe處理您的企業採購單後，您會收到一封包含指示的確認電
 
 在Admin Console中下載[結果報告](https://helpx.adobe.com/tw/enterprise/using/users.html#main-pars_header_1346350355)以確認已指派所有授權。 如果您在確認電子郵件中的日期之前完成，一般使用者應該不會遇到服務中斷的情況。
 
-安排Adobe入門專員（如果尚未安排）的1:1入門諮詢電話以進一步瞭解Admin Console，包括[管理員角色](https://helpx.adobe.com/tw/enterprise/using/admin-roles.html)和[身分](https://helpx.adobe.com/tw/enterprise/using/identity.html)。
+排程與Adobe入門專員（若尚未排程）進行1:1入門諮詢電話會議，以進一步瞭解Admin Console，包括[管理員角色](https://helpx.adobe.com/tw/enterprise/using/admin-roles.html)和[身分](https://helpx.adobe.com/tw/enterprise/using/identity.html)。
 
 >[!NOTE]
 >
@@ -90,7 +96,7 @@ Adobe處理您的企業採購單後，您會收到一封包含指示的確認電
 * 您必須在續約期間之外指派授權。
 
 1. 在您存取[Adobe Admin Console](https://adminconsole.adobe.com/enterprise)並新增授權後，請移至&#x200B;**[!UICONTROL 使用者]** > **[!UICONTROL 使用者]**。
-2. 按一下![使用者](assets/migrate-more-options.png)頁面右上角的&#x200B;**[!UICONTROL 更多選項功能表]**，然後選擇&#x200B;**[!UICONTROL 以CSV編輯使用者詳細資訊]**。
+2. 按一下&#x200B;**[!UICONTROL 使用者]**&#x200B;頁面右上角的![更多選項功能表](assets/migrate-more-options.png)，然後選擇&#x200B;**[!UICONTROL 以CSV編輯使用者詳細資訊]**。
 3. 在&#x200B;**[!UICONTROL 以CSV編輯使用者]**&#x200B;對話方塊中，按一下&#x200B;**[!UICONTROL 下載CSV範本]**&#x200B;並選擇&#x200B;**[!UICONTROL 目前的使用者清單]**。
 
    ![使用CSV編輯使用者](assets/migrate-edit-users-by-csv.png)

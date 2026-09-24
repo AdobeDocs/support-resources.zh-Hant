@@ -4,22 +4,29 @@ description: 瞭解全域管理員如何在Global Admin Console中為組織及�
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
+exl-id: bf8d4e71-30a6-4d6c-8749-47070e5b1906
+TQID: 'https://experienceleague.adobe.com/X-f8Rr9evlFaLc3dBbXwbRvCZDrAHTTuqv-Mpxp-oc4'
 product_v2:
   - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-exl-id: bf8d4e71-30a6-4d6c-8749-47070e5b1906
-TQID: https://experienceleague.adobe.com/X-f8Rr9evlFaLc3dBbXwbRvCZDrAHTTuqv-Mpxp-oc4
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Administration
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: 1045
+source-wordcount: '1050'
 ht-degree: 1%
-
 ---
-
 # 在Global Admin Console中更新組織原則
 
 **套用至：**&#x200B;企業

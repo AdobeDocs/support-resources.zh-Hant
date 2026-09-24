@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 1e20362a-0974-4b83-a083-9edaab04c255
-source-git-commit: ad324036dbeb2a54855349321b2ba33405d2c075
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '1333'
-ht-degree: 0%
-
+source-wordcount: '1505'
+ht-degree: 1%
 ---
-
 # 在Global Admin Console中管理使用者群組
 
 在Global Admin Console中建立、管理和共用使用者群組，透過將具有相同許可權的使用者分組、節省時間並確保一致性，來簡化使用者管理。
@@ -39,7 +45,7 @@ ht-degree: 0%
 
    您指定的產品設定檔會指派給使用者群組，而您指定的管理員會成為該群組的使用者群組管理員。 使用者群組管理員可使用相關組織的Adobe Admin Console來管理群組。
 
-4. 選取&#x200B;**[!UICONTROL 「儲存」]**。
+4. 選取「**[!UICONTROL 儲存]**」。
 
 5. 選取&#x200B;**[!UICONTROL 檢閱擱置的變更]**&#x200B;以檢閱更新。 然後，選取&#x200B;**[!UICONTROL 提交變更]**&#x200B;以[執行](https://experienceleague.adobe.com/zh-hant/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/execute-jobs)它們。
 

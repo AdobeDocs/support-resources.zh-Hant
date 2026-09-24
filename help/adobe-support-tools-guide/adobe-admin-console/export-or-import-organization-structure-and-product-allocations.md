@@ -5,20 +5,26 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 3220086a-4603-465f-a3e3-194193ca10ba
-source-git-commit: 063b67cf71db5b2dc4739b6c67623e9223ce1b28
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '4430'
+source-wordcount: '4528'
 ht-degree: 3%
-
 ---
-
 # 匯出或匯入組織結構和產品配置
 
 **套用至：**&#x200B;企業
 
 瞭解全域管理員如何透過Global Admin Console中的匯出和匯入功能簡化組織和產品管理。
 
-存取&#x200B;**[!UICONTROL Global Admin Console]**&#x200B;中的[組織](https://experienceleague.adobe.com/zh-hant/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)索引標籤，以匯出或匯入組織結構。 移至&#x200B;**[!UICONTROL 產品配置]**&#x200B;索引標籤以檢視配置資料。 選取&#x200B;**[!UICONTROL 其他選項]** (⋮)圖示，然後選擇&#x200B;**[!UICONTROL 匯出]**&#x200B;或&#x200B;**[!UICONTROL 匯入]**。 前往這裡[登入Global Admin Console](https://global-admin-console.adobe.com)。
+存取[Global Admin Console](https://experienceleague.adobe.com/zh-hant/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)中的&#x200B;**[!UICONTROL 組織]**&#x200B;索引標籤，以匯出或匯入組織結構。 移至&#x200B;**[!UICONTROL 產品配置]**&#x200B;索引標籤以檢視配置資料。 選取&#x200B;**[!UICONTROL 其他選項]** (⋮)圖示，然後選擇&#x200B;**[!UICONTROL 匯出]**&#x200B;或&#x200B;**[!UICONTROL 匯入]**。 前往這裡[登入Global Admin Console](https://global-admin-console.adobe.com)。
 
 ## 匯出組織結構
 
@@ -391,9 +397,9 @@ ht-degree: 3%
 - 要更新和刪除的設定檔必須存在於組織中。
 - 要更新和刪除（已停用）的資源必須存在於設定檔中。
 - 對於要建立的設定檔，請確保：
-   - orgId應為新組織或現有組織。
-   - licenseId應為新產品或現有產品。
-   - 驗證設定檔的資源。
+  - orgId應為新組織或現有組織。
+  - licenseId應為新產品或現有產品。
+  - 驗證設定檔的資源。
 
 ### 產品設定檔中的資源
 
@@ -547,9 +553,9 @@ ht-degree: 3%
 - 要更新和刪除的userGroups必須存在於組織中。
 - 要從使用者群組移除的設定檔必須存在於使用者群組中。 無法在使用者群組的設定檔上執行更新操作。
 - 對於要建立的使用者群組，請確定以下事項：
-   - orgId應為新組織或現有組織。
-   - 該licenseId （如果適用）應為新產品或現有產品。
-   - productProfileId應為新的產品設定檔或現有的產品設定檔。
+  - orgId應為新組織或現有組織。
+  - 該licenseId （如果適用）應為新產品或現有產品。
+  - productProfileId應為新的產品設定檔或現有的產品設定檔。
 
 ### 網域
 
@@ -699,8 +705,8 @@ ht-degree: 3%
 - 產品匯入資料屬性的型別必須正確。
 - 不得為不同資源提供產品原則欄位(overAllocation)。
 - grantedQuantity欄位：
-   - 無法變更為&#x200B;*unlimited* （如果尚未變更為&#x200B;*unlimited*）。
-   - 必須是非負數整數或字串值&#x200B;*無限制。*
+  - 無法變更為&#x200B;*unlimited* （如果尚未變更為&#x200B;*unlimited*）。
+  - 必須是非負數整數或字串值&#x200B;*無限制。*
 
 **許可權/可存取的驗證**
 

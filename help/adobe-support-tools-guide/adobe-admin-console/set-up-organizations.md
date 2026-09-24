@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 6fcf16e3-0408-4961-9981-14d526e1ea28
-source-git-commit: e4d473130a577a7673aba981a42bcb7ac352c18c
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '1872'
+source-wordcount: '1881'
 ht-degree: 0%
-
 ---
-
 # 管理組織階層
 
 適用於企業。
@@ -35,8 +41,8 @@ ht-degree: 0%
 - 組織的[原則](https://helpx.adobe.com/tw/enterprise/global-admin-console/update-policies.html)設定（如果有的話，包括鎖定）。
 - 系統管理員清單（由&#x200B;**[!UICONTROL 建立]** [原則](https://helpx.adobe.com/tw/enterprise/global-admin-console/update-policies.html)時繼承系統管理員控制）。
 下列專案可防止系統管理員被繼承：
-   - 缺少[網域信任](https://helpx.adobe.com/tw/enterprise/using/directory-trust.html)。
-   - 使用者型別限制（新增Adobe ID / Enterprise ID / Federated ID使用者原則）。 瞭解[原則詳細資料](https://helpx.adobe.com/tw/enterprise/global-admin-console/update-policies.html)。
+  - 缺少[網域信任](https://helpx.adobe.com/tw/enterprise/using/directory-trust.html)。
+  - 使用者型別限制（新增Adobe ID / Enterprise ID / Federated ID使用者原則）。 瞭解[原則詳細資料](https://helpx.adobe.com/tw/enterprise/global-admin-console/update-policies.html)。
 - 從父級組織有權存取的網域存取Federated ID或Enterprise ID使用者。 這使父項中的網域使用者可在子組織中使用。 使用者存取權的繼承由&#x200B;**從父系組織管理的目錄繼承使用者** [原則](https://helpx.adobe.com/tw/enterprise/global-admin-console/update-policies.html)。
 - 共用原則、密碼原則及安全性連絡人（由&#x200B;**在建立子組織時繼承資產共用設定** [原則](https://helpx.adobe.com/tw/enterprise/global-admin-console/update-policies.html)）所控制。
 
@@ -58,7 +64,7 @@ ht-degree: 0%
 - 組織中沒有Sign帳戶、Adobe Stock購買或存放庫。
 - 組織中沒有已宣告的網域。
 - 組織中沒有具現化的產品。
-- 沒有任何Experience Cloud產品可以包含組織中的具現化。
+- 沒有任何Experience Cloud產品可以在組織中包含具現化。
 
 >[!WARNING]
 >

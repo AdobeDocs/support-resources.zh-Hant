@@ -6,13 +6,22 @@ solution: Commerce
 feature-set: Commerce
 role: Developer
 exl-id: 2dc52d5e-0930-48c4-986e-ce3f9f6f8221
-source-git-commit: 755c6dc9cff041b9ca9183fbecde21f90fbaee1a
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: 5a951749-fac9-5bc7-9a98-ebe4ff066437
+    internal-label: Cloud
+  - id: 00451af3-7b97-5414-9992-3a6c269e413f
+    internal-label: Paas
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '287'
-ht-degree: 1%
-
+source-wordcount: '368'
+ht-degree: 0%
 ---
-
 # 無法將使用者新增至Adobe Commerce雲端專案
 
 本文提供當您嘗試將使用者新增至雲端專案時的解決方案，但失敗並出現錯誤： *使用者XXX不存在*。

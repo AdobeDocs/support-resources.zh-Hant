@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 6a7b5650-c9bf-475b-b330-1f4dba5d659b
-source-git-commit: ad324036dbeb2a54855349321b2ba33405d2c075
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '1645'
-ht-degree: 0%
-
+source-wordcount: '1654'
+ht-degree: 1%
 ---
-
 # 管理角色
 
 使用Adobe Admin Console，組織可以定義靈活的管理階層，以更精細地管理Adobe產品的存取及使用。 在企業上線流程中布建的一或多個系統管理員位於階層的頂端。 這些系統管理員可以將責任委派給其他管理員，同時仍保留整體控制權。
@@ -38,7 +44,7 @@ _管理員角色階層_
 
 | 角色 | 說明 |
 |--- |--- |
-| **系統管理員** | 組織的超級使用者；有權在Admin Console中執行所有管理工作。<br>此外，具有將下列管理功能委派給其他使用者的許可權：產品管理員、產品設定檔管理員、使用者群組管理員、部署管理員和支援管理員。 |
+| **系統管理員** | 組織的超級使用者；有權在Admin Console中執行所有管理工作。<br>此外，還有將下列管理功能委派給其他使用者的許可權：產品管理員、產品設定檔管理員、使用者群組管理員、部署管理員和支援管理員。 |
 | **產品管理員** | 管理指派給該管理員的產品及所有相關的管理功能，包括：<ul><li>建立產品設定檔</li><li>將使用者與使用者群組新增至組織，但不會移除這些使用者與使用者群組</li><li>從產品設定檔新增或移除使用者和使用者群組</li><li>從產品設定檔新增或移除產品設定檔管理員</li><li>從產品新增或移除其他產品管理員</li><li>新增或移除群組中的群組管理員</li></ul> |
 | **產品設定檔管理員** | 管理指派給該管理員的產品設定檔說明以及所有相關管理功能，包括：<ul><li>將使用者與使用者群組新增至組織，但不會移除這些使用者與使用者群組</li><li>從產品設定檔新增或移除使用者和使用者群組</li><li>從產品設定檔指派或撤銷使用者和使用者群組的產品許可權</li><li>管理產品設定檔的使用者和使用者群組的產品角色 |
 | **使用者群組管理員** | 管理指派給該管理員的使用者群組說明以及所有相關的管理功能，包括：<ul><li>新增或移除群組中的使用者</li><li>新增或移除群組中的使用者群組管理員 |
@@ -132,7 +138,7 @@ _管理員角色階層_
    或者，前往相關的產品、產品設定檔或使用者群組，然後導覽至&#x200B;**[!UICONTROL 管理員]**&#x200B;標籤。
 
 1. 按一下要編輯的管理員名稱。
-1. 在&#x200B;**[!UICONTROL 使用者詳細資訊]**&#x200B;中，按一下![管理許可權](../assets/one-console-ellipses.png)區段的&#x200B;**圖示**，然後選擇&#x200B;**[!UICONTROL 編輯管理許可權]**。
+1. 在&#x200B;**[!UICONTROL 使用者詳細資訊]**&#x200B;中，按一下&#x200B;**管理許可權**&#x200B;區段的![圖示](../assets/one-console-ellipses.png)，然後選擇&#x200B;**[!UICONTROL 編輯管理許可權]**。
 
    ![編輯管理許可權](../assets/admin-rights-section.png)
 
@@ -150,7 +156,7 @@ _管理員角色階層_
 
    現有管理員清單隨即顯示。
 
-1. 在&#x200B;**[!UICONTROL 使用者詳細資訊]**&#x200B;中，按一下![管理許可權](../assets/one-console-ellipses.png)區段右側的&#x200B;**[!UICONTROL 圖示]**，然後選擇&#x200B;**[!UICONTROL 編輯管理許可權]**。
+1. 在&#x200B;**[!UICONTROL 使用者詳細資訊]**&#x200B;中，按一下&#x200B;**[!UICONTROL 管理許可權]**&#x200B;區段右側的![圖示](../assets/one-console-ellipses.png)，然後選擇&#x200B;**[!UICONTROL 編輯管理許可權]**。
 
    ![編輯管理許可權](../assets/admin-rights-section.png)
 

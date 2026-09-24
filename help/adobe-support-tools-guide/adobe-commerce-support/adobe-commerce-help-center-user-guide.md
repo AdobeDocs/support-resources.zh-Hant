@@ -5,13 +5,37 @@ feature: Support, Roles/Permissions, Tools and External Services, Admin Workspac
 feature-set: Commerce
 solution: Commerce
 exl-id: a7833d47-1d4b-4c10-9d2e-42fa43f8513c
-source-git-commit: 6ac712151b002370eb84a3e3deb5480921cc40a6
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: e439352c-5b67-587d-b34e-d2a0aa5a0242
+    internal-label: Roles/Permissions
+  - id: 125c1f49-aefd-5f34-a252-288937f95f6b
+    internal-label: Marketing Tools
+  - id: e7dae43f-215c-4cdf-90d3-c5a461a6e669
+    internal-label: Admin tools and workspace
+  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+    internal-label: Architecture
+subfeature_v2:
+  - id: a59f76dc-e003-5617-951e-dffa5bd3de81
+    internal-label: Support
+  - id: 618ab558-d6ad-5352-99d6-d5702c6fdf80
+    internal-label: Tools and External Services
+  - id: bb2df8be-afdd-4818-b6b5-95ca1dd3bc3a
+    internal-label: Admin workspace
+  - id: df5e974b-6742-4873-a687-a6bedaafdaa2
+    internal-label: IaaS
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '3602'
+source-wordcount: '3662'
 ht-degree: 0%
-
 ---
-
 # 適用於Adobe Commerce的Experience League支援使用指南
 
 在本指南中，瞭解如何向[Experience League支援](https://experienceleague.adobe.com/home?lang=zh-Hant#support)提交支援票證，以及提供Adobe Commerce帳戶的共用存取權。
@@ -203,7 +227,7 @@ Adobe Experience League支援案例管理可透過案例與支援人員合作，
 >[!NOTE]
 >
 >如果您的支援案例是除了Commerce以外提交其他Adobe產品，則系統無法從相同畫面追蹤這些票證 — 您必須先切換至與產品軟體權利檔案相關聯的組織。
->例如，您先前選取以「(Commerce)」結尾的組織來追蹤您的Commerce案例，同時您也有AEP支援案例 — 這些案例將不會顯示在這裡。
+>例如，您先前選取以「(Commerce)」結尾的組織來追蹤您的Commerce案例，同時您也有AEP支援案例 — 這些案例不會顯示在這裡。
 
 #### 檢視您的案例
 
@@ -256,7 +280,7 @@ Adobe Experience League支援案例管理可透過案例與支援人員合作，
 
 ### 您案例中的註解 {#comments-in-your-case}
 
-您案例中的註解包含您或Adobe Commerce支援團隊所撰寫的所有註解。註解會以最新（頂端）到最早（底部）的順序顯示。
+您案例中的註解包含您或Adobe Commerce支援團隊所撰寫的所有註解。 註解會以最新（頂端）到最早（底部）的順序顯示。
 若要新增註解，請執行下列步驟：
 
 1. 捲動至票證底部。
@@ -392,7 +416,7 @@ Adobe Experience League支援案例管理可透過案例與支援人員合作，
 >[!NOTE]
 >
 >提交Adobe Commerce的票證不需要此步驟。
->如需提交Adobe Commerce票證的示範，[請參閱此影片](https://experienceleague.adobe.com/zh-hant/playlists/support-requests)。
+>如需有關提交Adobe Commerce票證的示範，[請參閱此影片](https://experienceleague.adobe.com/zh-hant/playlists/support-requests)。
 
 若要使用為您提供的共用存取權，請遵循下列步驟：
 

@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 4b562a4d-14e5-4687-a1ae-6a435f087627
-source-git-commit: 7211d382c6cfba6070c8c3203956a1193f64ffbe
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '872'
+source-wordcount: '941'
 ht-degree: 2%
-
 ---
-
 # 下載稽核記錄和匯出報告
 
 適用於企業。
@@ -111,7 +117,7 @@ ht-degree: 2%
 
    | 欄位 | 說明 |
    |------|------------|
-   | 報表 | 產生報表的日期和時間（當地時區） |
+   | 報告 | 產生報表的日期和時間（當地時區） |
    | 格式 | 檔案格式(CSV、JSON、XLSX) |
    | 大小 | 檔案大小 |
    | 建立者 | 產生報表之管理員的電子郵件地址 |

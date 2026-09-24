@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 4da055a9-7cdc-4411-8895-016e24eabb2e
-source-git-commit: 817407268abec35b0b252ffb54540be29948f9b6
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '929'
+source-wordcount: '955'
 ht-degree: 0%
-
 ---
-
 # 採用全域管理
 
 適用於企業。
@@ -82,7 +88,7 @@ Global Admin Console不會取代或變更現有Admin Console的日常功能。 �
 1. 在&#x200B;**[!UICONTROL 中說明您面臨的問題性質]**，說明您的組織正在要求存取Global Admin Console，並包含下列詳細資料：
 
    - **名稱與主控台ID** （可在URL中找到，作為「@AdobeOrg」之前的數字與字母系列）的Admin Console，以指定為&#x200B;*根（頂端）*組織，或要求新的主控台並指定所要的名稱。
- — 在某些情況下，新主控台是偏好選項。您的Adobe代表可為您提供指引。請謹慎選取*根*&#x200B;組織，因為很難在稍後變更。
+      — 在某些情況下，新主控台是偏好選項。 您的Adobe代表可為您提供指引。 請謹慎選取*root*&#x200B;組織，因為很難在稍後變更。
    - 至少指派一位目前系統管理員給全域管理員角色。 您稍後可以新增其他管理員。
    - Adobe代表或客戶成功經理的姓名和電子郵件地址。
 

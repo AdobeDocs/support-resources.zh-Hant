@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: de6e785d-8965-40d5-ac78-7fbb2cd7afc7
-source-git-commit: 174cc3f37780e28d7de9359071ebfebbf7f063da
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '1100'
+source-wordcount: '1192'
 ht-degree: 0%
-
 ---
-
 # 使用Global Admin Console將產品配置給子組織
 
 適用於企業。
@@ -56,7 +62,7 @@ Global Admin Console中的&#x200B;**[!UICONTROL 產品配置]**&#x200B;索引標
    >如果下階組織已有採購合約，則上階組織至該下階組織的產品配置可能會受到限制。 [了解更多](https://helpx.adobe.com/tw/enterprise/global-admin-console/allocate-products.html#limited-product-allocation)。
 
 1. 若要配置產品，請選取相關組織的&#x200B;**[!UICONTROL 新增+]**&#x200B;圖示。\
-   有些產品包含多個可配置的資源；在這種情況下，對話方塊中會列出多個資源，而且您必須為每個資源提供值。例如，Adobe Stock可包含Adobe Stock影像積分和進階積分。
+   有些產品包含多個可配置的資源；在這種情況下，對話方塊中會列出多個資源，而且您必須為每個資源提供值。 例如，Adobe Stock可包含Adobe Stock影像積分和進階積分。
    ![Adobe Stock影像](/help/adobe-support-tools-guide/assets/adobe-stock-images.png)
 1. 在出現的對話方塊中，指定產品數量。
 1. 選取「**[!UICONTROL 儲存]**」。
@@ -89,8 +95,8 @@ Global Admin Console可讓您在整個組織階層中配置與分配Acrobat Sign
 
 與產品及組織關聯的配置[原則](https://helpx.adobe.com/tw/enterprise/global-admin-console/update-policies.html#update-policies)指出是否允許過度配置。
 
-過度配置允許將比父組織可用的更多產品資源授與子組織。當配置近似時，它很有用，並且管理員不想負擔使資源分配相加的負擔。
-如果針對組織中的產品資源停用過度配置，則子授權的總和不能超過父授權。對於標示為已停用過度配置的資源，將不會執行過度配置請求。
+過度配置允許將比父組織可用的更多產品資源授與子組織。 當配置近似時，它很有用，並且管理員不想負擔使資源分配相加的負擔。
+如果針對組織中的產品資源停用過度配置，則子授權的總和不能超過父授權。 對於標示為已停用過度配置的資源，將不會執行過度配置請求。
 當過度配置切換從啟用切換到停用時，如果資源的授權數量中存在過度配置情況，則必須調整授權值以排除過度配置，然後才能執行授權更新。
 
 ![過度配置](/help/adobe-support-tools-guide/assets/overallocation.png)

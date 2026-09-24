@@ -5,13 +5,16 @@ Feature-set: Experience Cloud Services
 Solution: Admin Console
 Feature: Admin Console
 exl-id: e53ded7c-1ba3-4d98-bc20-792a252618ac
-source-git-commit: f20f8cfe6f9f31af953c089b9c5f4e76d0573f84
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '840'
+source-wordcount: '848'
 ht-degree: 5%
-
 ---
-
 # 身分總覽
 
 適用於企業和團隊。
