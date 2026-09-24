@@ -7,18 +7,27 @@ feature: Admin Console
 TQID: 'https://experienceleague.adobe.com/l0jyxNyd32NYh6ggu2iNYz-7DgSsKSmgl1wgQAVskIc'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
 feature_v2:
   - id: d1c959e9-891f-4624-8eb1-4d6658c0f72f
+    internal-label: Creative services
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 70691859da7915a2a4680ba19aca444ac9a94293
+    internal-label: Administration
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: 286
+source-wordcount: '286'
 ht-degree: 0%
-
 ---
-
 # 將使用者管理移轉至Adobe Admin Console
 
 請聯絡您的Adobe客戶團隊，討論如何透過Adobe Admin Console將符合資格的解決方案轉換為集中式使用者管理。

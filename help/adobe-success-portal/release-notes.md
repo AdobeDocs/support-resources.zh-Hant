@@ -1,23 +1,31 @@
 ---
 title: Adobe Success 入口網站發行說明
-description: ' [!DNL Adobe Success portal] 的最新版本資訊。'
+description: '[!DNL Adobe Success portal]的最新發行資訊。'
 feature: Release Notes
 exl-id: be268e05-8298-4f21-8f2f-f66c52d76fe3
-TQID: https://experienceleague.adobe.com/LSmHwDaQ39QEnzOcHgHLlr7g8OhoO3CQTsiFlceM8AA
+TQID: 'https://experienceleague.adobe.com/LSmHwDaQ39QEnzOcHgHLlr7g8OhoO3CQTsiFlceM8AA'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
+feature_v2:
+  - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
+    internal-label: Administration
+subfeature_v2:
+  - id: e53834d3-a86e-47ae-8257-15f5f3639855
+    internal-label: Release notes
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: b701d905fa6fc5c837ec3bdd633504c65694f621
+    internal-label: Insights
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: 597
-ht-degree: 81%
-
+source-wordcount: '597'
+ht-degree: 80%
 ---
-
 # [!DNL Adobe Success portal] 發行說明
 
 以下發行說明包含 [!DNL Adobe Success portal] 的更新內容，以及：
@@ -47,14 +55,14 @@ _2025 年 10 月 9 日_
 * 從「行動計劃 KBO」頁面或從「**[!UICONTROL KBO]**/**[!UICONTROL 加速器]**/**[!UICONTROL 活動]**&#x200B;詳細資料」頁面中存取行事曆 (僅在它們連結至 KBO 時)。
 * 在清單檢視 (預設) 和行事曆檢視之間切換。
 * 行事曆會顯示每個 KBO 的可收合區段：
-   * 藍色代表&#x200B;**[!UICONTROL 加速器]**
-   * 綠色代表&#x200B;**[!UICONTROL 活動]**
+  * 藍色代表&#x200B;**[!UICONTROL 加速器]**
+  * 綠色代表&#x200B;**[!UICONTROL 活動]**
 * 每個&#x200B;**[!UICONTROL 加速器]**/**[!UICONTROL 活動]**&#x200B;都會顯示名稱、狀態和開始/結束日期 (格式為 *YYYY 年* *XX 月*)。
 * 按一下事件卡片會開啟包含事件詳細資料的頁面。 按一下「上一頁」按鈕會返回 。
 * 事件會以顏色標示：藍色代表&#x200B;**[!UICONTROL 加速器]**，綠色代表&#x200B;**[!UICONTROL 活動]**。 垂直捲動可瀏覽 KBO，水平捲動可按週或月瀏覽。
 * 工具提示會在文字遭截斷時顯示全名，時間軸會在捲動時保持可見。
 * 預設檢視為當週；導覽箭頭可在不同週之間移動。
-* 月檢視可提供進行中和已規劃工作的明確時間軸。
+* 月視圖可提供進行中和已規劃工作的明確時間軸。
 
 ![修正](../adobe-success-portal/assets/fix.svg) 已增強「**[!UICONTROL 行動計劃]**」中的「**[!UICONTROL 關鍵業務目標]**」和「**[!UICONTROL 活動]**」頁面，以在完成日期上顯示工具提示，從而改善時間軸可見度。
 

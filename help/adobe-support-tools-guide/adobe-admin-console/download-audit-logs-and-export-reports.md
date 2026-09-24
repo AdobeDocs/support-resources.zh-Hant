@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 4b562a4d-14e5-4687-a1ae-6a435f087627
-source-git-commit: 7211d382c6cfba6070c8c3203956a1193f64ffbe
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '872'
+source-wordcount: '941'
 ht-degree: 2%
-
 ---
-
 # 下載稽核記錄和匯出報告
 
 適用於企業。
@@ -24,12 +30,12 @@ ht-degree: 2%
 
 身為全域管理員，您可以完整檢視Global Admin Console中的變更。 您可以搜尋所有組織中的稽核記錄，以找出過去90天內採取的動作，包括動作發生的時間及執行者。
 - 稽核記錄可防止不適當的系統存取並稽核組織內的可疑行為，有助於確保持續合規性。
-- Global Admin Console中可用的記錄檔僅包含全域管理員可存取的事件。 不包含使用者指派或使用者事件。 [深入瞭解](https://experienceleague.adobe.com/zh-hant/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview)每個主控台提供的不同功能。
+- Global Admin Console中可用的記錄檔僅包含全域管理員可存取的事件。 不包含使用者指派或使用者事件。 [深入瞭解](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview)每個主控台提供的不同功能。
 - 記錄會涵蓋階層中所有組織的事件，讓您一次搜尋所有組織的稽核記錄。
 
 >[!NOTE]
 >
-> 作為[Adobe Admin Console](https://adminconsole.adobe.com)組織中的系統管理員，您可以使用[稽核記錄](https://helpx.adobe.com/tw/enterprise/using/audit-logs.html)來檢閱使用者指派和使用者事件。 稽核記錄中也會包含所選組織的子組織中系統管理員所執行的動作。 深入瞭解系統管理員如何[追蹤在Admin Console中所做的變更](https://helpx.adobe.com/tw/enterprise/using/audit-logs.html)。
+> 作為[Adobe Admin Console](https://adminconsole.adobe.com)組織中的系統管理員，您可以使用[稽核記錄](https://helpx.adobe.com/enterprise/using/audit-logs.html)來檢閱使用者指派和使用者事件。 稽核記錄中也會包含所選組織的子組織中系統管理員所執行的動作。 深入瞭解系統管理員如何[追蹤在Admin Console中所做的變更](https://helpx.adobe.com/enterprise/using/audit-logs.html)。
 
 若要檢視或下載組織的稽核記錄：
 
@@ -106,12 +112,12 @@ ht-degree: 2%
 
 1. 登入[Global Admin Console](https://global-admin-console.adobe.com/insights)並導覽至&#x200B;**[!UICONTROL Insights]** > **[!UICONTROL 匯出報表]**。
 
-   系統會顯示過去90天內產生的報表。 90天後，您可以再次產生報表。 瞭解如何產生[組織結構](https://experienceleague.adobe.com/zh-hant/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/export-or-import-organization-structure-and-product-allocations#export-the-organization-structure)的報告。
+   系統會顯示過去90天內產生的報表。 90天後，您可以再次產生報表。 瞭解如何產生[組織結構](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/export-or-import-organization-structure-and-product-allocations#export-the-organization-structure)的報告。
 
 
    | 欄位 | 說明 |
    |------|------------|
-   | 報表 | 產生報表的日期和時間（當地時區） |
+   | 報告 | 產生報表的日期和時間（當地時區） |
    | 格式 | 檔案格式(CSV、JSON、XLSX) |
    | 大小 | 檔案大小 |
    | 建立者 | 產生報表之管理員的電子郵件地址 |

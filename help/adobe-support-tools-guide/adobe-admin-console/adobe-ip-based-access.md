@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: e4595040-3930-48af-9888-cf1349596c77
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '480'
+source-wordcount: '517'
 ht-degree: 0%
-
 ---
-
 # 依IP位址限制產品存取
 
 適用於企業。
@@ -27,7 +33,7 @@ IP型存取控制使用IP位址允許清單，來限制從隨機公用IP位址�
 您可以將信任的公用IP新增至&#x200B;**允許的IP位址**&#x200B;清單，以停止使用者：
 
 - 從允許的IP範圍以外的公用IP存取產品
-- 從允許的IP範圍外的公用IP登入Adobe [使用者設定檔](https://helpx.adobe.com/tw/enterprise/using/manage-adobe-profiles.html)
+- 從允許的IP範圍外的公用IP登入Adobe [使用者設定檔](https://helpx.adobe.com/enterprise/using/manage-adobe-profiles.html)
 - 在允許的IP範圍以外的網頁應用程式上切換使用者設定檔
 
   ![匯出組織結構](./assets/ip-based-access.avif)
@@ -64,9 +70,9 @@ IP型存取控制使用IP位址允許清單，來限制從隨機公用IP位址�
 >[!NOTE]
 >
 >- 啟用IP型存取時，**不會發生強制登出**。 只有當使用者嘗試在登入或切換網頁上的設定檔時選取受限的設定檔時，才會受到影響。
->- 如果您使用安全的網頁閘道，請確定所有流量都透過該閘道進行路由。 檢視允許[網域清單](https://helpx.adobe.com/tw/enterprise/kb/network-endpoints.html)，讓Adobe應用程式和服務正常運作。
->- 如果您因輸入無效的IP位址而被鎖定在Admin Console之外，請連絡[Adobe客戶服務](https://helpx.adobe.com/tw/enterprise/using/support-for-enterprise.html)。
+>- 如果您使用安全的網頁閘道，請確定所有流量都透過該閘道進行路由。 檢視允許[網域清單](https://helpx.adobe.com/enterprise/kb/network-endpoints.html)，讓Adobe應用程式和服務正常運作。
+>- 如果您因輸入無效的IP位址而被鎖定在Admin Console之外，請連絡[Adobe客戶服務](https://helpx.adobe.com/enterprise/using/support-for-enterprise.html)。
 
 ## 加入交談
 
-若要共同作業、提出問題並與其他管理員交談，請造訪我們的[企業與Teams社群](https://www.adobe.com/go/entcom_tw)。
+若要共同作業、提出問題並與其他管理員交談，請造訪我們的[企業與Teams社群](https://www.adobe.com/go/entcom)。

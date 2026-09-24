@@ -5,27 +5,39 @@ feature: Best Practices, Compliance, Console
 solution: Commerce
 feature-set: Commerce
 exl-id: d86356e7-863f-4da0-bd7e-5ea4ac38e3a3
-TQID: https://experienceleague.adobe.com/wq3cHAM0iXukRpSigq8-erSJ9wZBHfDRFaNefMFZsIE
+TQID: 'https://experienceleague.adobe.com/wq3cHAM0iXukRpSigq8-erSJ9wZBHfDRFaNefMFZsIE'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: b5f00040-57a0-4a6d-a39e-383b1936c2c9
+    internal-label: Compliance
   - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+    internal-label: Security
   - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+    internal-label: Storefront
+  - id: cdfd3bc1-dc23-5cf0-b965-d3c0c55cde67
+    internal-label: Best Practices
+  - id: 125c1f49-aefd-5f34-a252-288937f95f6b
+    internal-label: Marketing Tools
 subfeature_v2:
   - id: f2261633-201d-46c5-8a66-999e70527a83
+    internal-label: PCI
+  - id: c4af0798-d497-5e6b-8380-19812c26d00a
+    internal-label: Console
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Security
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: 1808
+source-wordcount: '1808'
 ht-degree: 0%
-
 ---
-
 # Adobe Commerce軟體終止支援常見問題集
 
 下列常見問題集旨在協助商家、開發人員和合作夥伴瞭解Adobe Commerce針對受影響版本Adobe Commerce的已發佈終止支援(EOS)日期的影響。
@@ -34,7 +46,7 @@ ht-degree: 0%
 
 ### 我可以在哪裡找到所有Adobe Commerce版本的軟體支援日期？
 
-您可以在[Adobe Commerce軟體生命週期原則](https://www.adobe.com/content/dam/cc/en/legal/terms/enterprise/pdfs/Adobe-Commerce-Software-Lifecycle-Policy.pdf)中找到Adobe Commerce軟體生命週期原則與軟體支援日期。 我們也會在[開發人員檔案頁面](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/release/versions)上發佈終止支援(EOS)日期。
+您可以在[Adobe Commerce軟體生命週期原則](https://www.adobe.com/content/dam/cc/en/legal/terms/enterprise/pdfs/Adobe-Commerce-Software-Lifecycle-Policy.pdf)中找到Adobe Commerce軟體生命週期原則與軟體支援日期。 我們也會在[開發人員檔案頁面](https://experienceleague.adobe.com/en/docs/commerce-operations/release/versions)上發佈終止支援(EOS)日期。
 
 ### Adobe終止支援某個Adobe Commerce軟體版本代表什麼意思？
 
@@ -74,17 +86,17 @@ ht-degree: 0%
 
 * 除了讓您的平台保持最新狀態，並具備最新的安全性保護（包括PCI相容性），升級至支援的版本還能改善效能和擴充性，讓您能夠使用最新的創新技術。
 * Adobe Commerce 2.4.4將於2022年4月12日推出，標誌著在商務功能、效能和保護上向前邁進了一步。 這為Adobe未來幾年的創新奠定了基礎，協助商業恢復能力。 最新版本建置在最新版PHP 8.1上，可讓商戶透過以下方式未來證明其數位商業業務：
-   * 更快速地存取SaaS服務所提供的創新功能，例如產品推薦、付費服務和即時搜尋
-   * 更輕鬆、更符合成本效益的維護與升級
-   * 持續彈性，可自訂並符合獨特的業務需求
-   * 大幅提升效能與擴充能力
-   * 監控平台健全狀態的更佳開發人員體驗和工具
+  * 更快速地存取SaaS服務所提供的創新功能，例如產品推薦、付費服務和即時搜尋
+  * 更輕鬆、更符合成本效益的維護與升級
+  * 持續彈性，可自訂並符合獨特的業務需求
+  * 大幅提升效能與擴充能力
+  * 監控平台健全狀態的更佳開發人員體驗和工具
 
 ### 要避免軟體終止支援問題，該怎麼辦？
 
 您的Commerce平台是貴公司的重要商務系統，及時瞭解最新資訊是商務的重要持續投資。 數位店面的最新技術和安全性更新在許多層面上都很重要，可協助促進創新和成長。
 
-移至最新版Adobe Commerce軟體可能需要時間和資源才能順利執行。 您最好在支援結束日期之前儘早進行規劃，以確保您有適當的時間和資源在預算內如期實現您的策略目標。 為協助您進行下一次升級，Adobe已發佈[2.4升級指南](https://experienceleague.adobe.com/docs/commerce-operations/assets/adobe-commerce-2-4-upgrade-guide.pdf?lang=zh-Hant)，其中包含要遵循的最佳實務和技術步驟，以及執行升級時可使用的工具和資源。
+移至最新版Adobe Commerce軟體可能需要時間和資源才能順利執行。 您最好在支援結束日期之前儘早進行規劃，以確保您有適當的時間和資源在預算內如期實現您的策略目標。 為協助您進行下一次升級，Adobe已發佈[2.4升級指南](https://experienceleague.adobe.com/docs/commerce-operations/assets/adobe-commerce-2-4-upgrade-guide.pdf)，其中包含要遵循的最佳實務和技術步驟，以及執行升級時可使用的工具和資源。
 
 另一個重要的考量是儘早預留開發人員和合作夥伴資源。 合作夥伴的時間和資源經常在支援結束日期之前預定，導致協助移轉專案的資源大幅減少。 建議您至少每年討論一次三年滾動計畫，並確定下一年的計畫和預算。 使用[Adobe的發行行事曆](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/release/planning/schedule)追蹤發行日期。
 

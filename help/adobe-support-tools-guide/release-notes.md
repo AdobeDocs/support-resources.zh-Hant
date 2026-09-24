@@ -8,6 +8,12 @@ TQID: 'https://experienceleague.adobe.com/ULOOxxvZGorHsE8Q44r8n7HbvTb712-8NnVMzl
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
     internal-label: CX Enterprise
+feature_v2:
+  - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
+    internal-label: Administration
+subfeature_v2:
+  - id: e53834d3-a86e-47ae-8257-15f5f3639855
+    internal-label: Release notes
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
@@ -21,7 +27,7 @@ topic_v2:
     internal-label: Customer journeys
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: adf6f6cb51e5ae7636a5aa45e85196dda37920a0
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
 source-wordcount: '2614'
 ht-degree: 0%
@@ -141,7 +147,7 @@ ht-degree: 0%
 
 1. 依優先順序的&#x200B;**[!UICONTROL 案例計數]**&#x200B;圖表現在提供暫留的更詳細劃分。 將滑鼠懸停在優先順序區段上會顯示工具提示，顯示案例總數以及開啟和關閉案例的數量。
 
-1. **[!UICONTROL 產品狀態]** Widget現在支援互動式產品篩選。 您可以直接從首頁選取一或多個產品，以篩選系統狀態警示。 在此Widget中選取產品時，不再重新導向至[status.adobe.com](http://status.adobe.com/zh-tw)。
+1. **[!UICONTROL 產品狀態]** Widget現在支援互動式產品篩選。 您可以直接從首頁選取一或多個產品，以篩選系統狀態警示。 在此Widget中選取產品時，不再重新導向至[status.adobe.com](http://status.adobe.com)。
 
 1. **[!UICONTROL 產品狀態]** Widget現在會以更直覺的順序列出產品。 有作用中問題的產品會先出現，接著是依字母順序排序的其餘產品。
 

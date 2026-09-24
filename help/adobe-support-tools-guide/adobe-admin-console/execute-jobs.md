@@ -5,23 +5,29 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 18549d19-7985-4a45-8894-e69836ddb23c
-source-git-commit: e563559180f239e828650859035bace80e7473a2
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '498'
+source-wordcount: '517'
 ht-degree: 0%
-
 ---
-
 # 執行擱置中的工作
 
 此功能適用於使用[[!DNL Global Admin Console]](https://global-admin-console.adobe.com/)的企業組織。
 
 - [[!DNL Global Admin Console]](https://global-admin-console.adobe.com/)中的變更分兩個階段完成：
 
-   1. **編輯階段**：變更組織或配置產品。
-   2. **執行階段**：檢閱並執行暫止的變更，使其生效。
+  1. **編輯階段**：變更組織或配置產品。
+  2. **執行階段**：檢閱並執行暫止的變更，使其生效。
 
-- 若要確保[[!DNL Global Admin Console]](https://helpx.adobe.com/tw/enterprise/global-admin-console/adopt-global-administration.html)中所做的所有變更已實作並生效，請選取&#x200B;**[!UICONTROL 工作執行]**&#x200B;索引標籤，然後繼續執行暫止的變更。
+- 若要確保[[!DNL Global Admin Console]](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html)中所做的所有變更已實作並生效，請選取&#x200B;**[!UICONTROL 工作執行]**&#x200B;索引標籤，然後繼續執行暫止的變更。
 
   登入[[!DNL Global Admin Console]](https://global-admin-console.adobe.com/)。
 
@@ -31,8 +37,8 @@ ht-degree: 0%
 
 - 您可以登出並在稍後返回，而不會遺失擱置的變更。
 - 未執行的變更：
-   - 會在30天後捨棄。
-   - 作業階段結束時會被清除，例如瀏覽器標籤或視窗關閉時。
+  - 會在30天後捨棄。
+  - 作業階段結束時會被清除，例如瀏覽器標籤或視窗關閉時。
 
 >[!NOTE]
 >
@@ -41,10 +47,10 @@ ht-degree: 0%
 ### 多個管理員和衝突
 
 - 在同一個組織工作的兩名管理員：
-   - 不要看到彼此的未執行變更。
-   - 僅在下列時間後檢視變更：
-      - 執行，以及
-      - 正在重新整理顯示或重新登入。
+  - 不要看到彼此的未執行變更。
+  - 僅在下列時間後檢視變更：
+    - 執行，以及
+    - 正在重新整理顯示或重新登入。
 - 未執行的變更可能會與已執行的變更發生衝突。
 
 ### 衝突處理
@@ -107,14 +113,14 @@ ht-degree: 0%
 
 - 若要檢視過去30天內執行的工作：
 
-   1. 登入[!DNL Global Admin Console]。
-   2. 選取&#x200B;**[!UICONTROL 工作執行]**。
-   3. 捲動至頁面底部。
-   4. 選取&#x200B;**[!UICONTROL 最近的工作]**。
+  1. 登入[!DNL Global Admin Console]。
+  2. 選取&#x200B;**[!UICONTROL 工作執行]**。
+  3. 捲動至頁面底部。
+  4. 選取&#x200B;**[!UICONTROL 最近的工作]**。
 
 - 最近的工作顯示：
-   - 已提交&#x200B;**工作命令**。
-   - 與執行相關的&#x200B;**錯誤**&#x200B;和&#x200B;**警告**。
+  - 已提交&#x200B;**工作命令**。
+  - 與執行相關的&#x200B;**錯誤**&#x200B;和&#x200B;**警告**。
 
 >[!NOTE]
 >
