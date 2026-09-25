@@ -33,10 +33,10 @@ role_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
+source-git-commit: 61c5015c99b5a898f9aa0e8093f07d905f81dc7d
 workflow-type: tm+mt
-source-wordcount: '1808'
-ht-degree: 0%
+source-wordcount: '1855'
+ht-degree: 1%
 ---
 # Adobe Commerce軟體終止支援常見問題集
 
@@ -46,7 +46,7 @@ ht-degree: 0%
 
 ### 我可以在哪裡找到所有Adobe Commerce版本的軟體支援日期？
 
-您可以在[Adobe Commerce軟體生命週期原則](https://www.adobe.com/content/dam/cc/en/legal/terms/enterprise/pdfs/Adobe-Commerce-Software-Lifecycle-Policy.pdf)中找到Adobe Commerce軟體生命週期原則與軟體支援日期。 我們也會在[開發人員檔案頁面](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/release/versions)上發佈終止支援(EOS)日期。
+您可以在[Adobe Commerce軟體生命週期原則](https://www.adobe.com/content/dam/cc/en/legal/terms/enterprise/pdfs/Adobe-Commerce-Software-Lifecycle-Policy.pdf)中找到Adobe Commerce軟體生命週期原則。 如需特定版本的生命週期與軟體支援日期，請參閱[Adobe Commerce生命週期原則與支援日期](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/release/planning/lifecycle-policy)。 我們也會在[開發人員檔案頁面](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/release/versions)上發佈終止支援(EOS)日期。
 
 ### Adobe終止支援某個Adobe Commerce軟體版本代表什麼意思？
 
@@ -130,7 +130,7 @@ Adobe Commerce授權到期後，您必須停止使用Adobe Commerce軟體，並�
 
 ### 對於在支援日期結束前開啟的支援票證，是否有警報提醒商家即將結束支援？
 
-否，沒有提醒警報通知支援票證使用者支援日期即將結束。 票證開啟者有責任知道其所在的Adobe Commerce版本的支援結束日期，這些日期可在我們的[Adobe Commerce軟體生命週期原則](https://magento.com/sites/default/files/magento-software-lifecycle-policy.pdf)中找到。
+否，沒有提醒警報通知支援票證使用者支援日期即將結束。 票證開啟者有責任知道其所在的Adobe Commerce版本的支援結束日期，這些日期可在[Adobe Commerce軟體生命週期原則](https://www.adobe.com/content/dam/cc/en/legal/terms/enterprise/pdfs/Adobe-Commerce-Software-Lifecycle-Policy.pdf)和[Adobe Commerce生命週期原則與支援日期](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/release/planning/lifecycle-policy)中找到。
 
 ### 如果軟體版本的支援票證在該版本的支援結束日期之後開啟，是否仍可繼續處理以解決問題？
 
