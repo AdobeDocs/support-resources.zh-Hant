@@ -142,7 +142,7 @@ Admin Console上的每個標籤都可讓您執行各種工作。 選取連結的
 - 使用您想要一般使用者擁有的組態和應用程式，建立自訂的[具名使用者授權](https://helpx.adobe.com/tw/enterprise/using/create-nul-packages.html)或[共用裝置](https://helpx.adobe.com/tw/enterprise/using/create-sdl-packages.html)授權（適用於教育機構）封裝。
 - 啟用電子郵件通知，以便在新產品版本可用時收到通知。
 - 檢視您或組織中其他管理員先前建立的套件。 此外，也可以檢視特定套件的詳細資料，並追蹤套件中應用程式的可用更新。
-- 下載IT工具，例如[遠端更新管理員](https://helpx.adobe.com/tw/enterprise/using/using-remote-update-manager.html)和[Adobe更新伺服器安裝工具](https://helpx.adobe.com/enterprise/using/update-server-setup-tool.html)。
+- 下載IT工具，例如[遠端更新管理員](https://helpx.adobe.com/tw/enterprise/using/using-remote-update-manager.html)和[Adobe更新伺服器安裝工具](https://helpx.adobe.com/tw/enterprise/using/update-server-setup-tool.html)。
 - 下載Adobe Extension Manager命令列工具，以[從ZXP檔案容器格式](https://helpx.adobe.com/tw/enterprise/using/manage-extensions.html)安裝擴充功能和外掛程式。
 
 如需詳細資訊，請參閱[透過Admin Console封裝應用程式](https://helpx.adobe.com/tw/enterprise/using/package-apps-admin-console.html)。
