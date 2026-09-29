@@ -46,9 +46,9 @@ role_v2:
     internal-label: Leader
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
-source-git-commit: ec060fad85a22f6d55c4de3dc2d7fbf8a1ecb8c7
+source-git-commit: 743b2b6ac4401c01df9590bb749d56734334a05b
 workflow-type: tm+mt
-source-wordcount: '4677'
+source-wordcount: '4647'
 ht-degree: 3%
 ---
 # Adobe CX解決方案統一假日整備指南
@@ -89,7 +89,7 @@ Adobe Experience Platform (AEP)在提供即時客戶體驗方面扮演了重要�
 
 ### 預測季節性需求
 
-為了準備好因應季節性流量尖峰，Adobe建議規劃容量並監控串流設定檔擷取。 這包括預測資料量，並確保您的系統能夠處理增加的輸送量。 請參閱[容量和季節性流量的計畫](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/dataflows/ui/monitor-streaming-profile#plan-for-capacity-and-seasonal-traffic){target="_blank"}以取得參考。
+使用歷史模式和計畫的活動，預測季節性資料量和尖峰串流設定檔擷取。 檢閱內嵌監視，以識別需求何時可能尖峰，以及容量是否可能是限制。 請參閱[容量和季節性流量的計畫](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/dataflows/ui/monitor-streaming-profile#plan-for-capacity-and-seasonal-traffic){target="_blank"}以取得參考。
 
 ### 準備進行擴展
 
@@ -108,7 +108,7 @@ Adobe提供數種策略，確保您的環境已準備好因應假期流量：
 * [串流輸送量最佳實務](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/landing/license/capacity){target="_blank"}
 * [資料擷取的護欄](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/ingestion/guardrails){target="_blank"}
 * [即時客戶個人檔案資料和細分的預設護欄](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/profile/guardrails){target="_blank"}
-* [AEP藍圖：護欄](https://experienceleague.adobe.com/zh-hant/docs/blueprints-learn/architecture/architecture-overview/guardrails){target="_blank"}
+* [AEP藍圖：護欄](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/architecture-overview/guardrails){target="_blank"}
 
 ### 安全性與治理
 
@@ -200,7 +200,7 @@ Adobe強調強大的安全性和治理實務，尤其是在高流量季節中，
 
 +++**按一下以檢視Customer Journey Analytics (CJA)假期整備建議。**
 
-Customer Journey Analytics使用5 P來達成假日/旺季整備。
+Adobe建議採取下列步驟，為假期準備Customer Journey Analytics執行個體。
 
 ### 準備進行擴展
 
@@ -213,10 +213,9 @@ Customer Journey Analytics使用5 P來達成假日/旺季整備。
 * 使用[錯誤和疑難排解指南](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-workspace/workspace-faq/error-messages){target="_blank"}和[已知限制](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-workspace/workspace-faq/aw-limitations){target="_blank"}文章，在尖峰負載期間留意延遲增加的情況。
 * 讓管理員透過RAM暫停或取消長期執行/封鎖的要求。 請參閱CJA[&#128279;](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-cancel-requests){target="_blank"}文章中的取消報告要求。
 
-### 最佳做法
+### 最佳實務
 
-* 在低流量期間排程匯出/報告，以平滑載入並將延遲降至最低。 請參閱[排程報告](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-components/scheduled-projects-manager){target="_blank"}文章。
-* 展開請求：以一天中的不同間隔排程報表。
+* 分散報表和匯出會在一天中執行，儘可能安排非尖峰期的優先順序，以分散負載並儘可能減少延遲。 請參閱[排程報告](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-components/scheduled-projects-manager){target="_blank"}文章。
 * 減少面板、簡化區段、縮短日期範圍，以及避免過多的並行工作。 請參閱[最佳化CJA Workspace效能](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-workspace/workspace-faq/optimizing-performance){target="_blank"}文章以取得詳細資料。
 
 ### 疑難排解
@@ -241,7 +240,7 @@ Customer Journey Analytics使用5 P來達成假日/旺季整備。
 
 ### 預測需求
 
-* 在旺季假期銷售期間（11月中旬至1月中旬），Adobe建議雲端基礎結構上代管的所有Adobe Commerce商戶透過提交假期高載容量要求，主動規劃訪客增加。 如需詳細資訊，請參閱雲端基礎結構上的[Adobe Commerce的假期突增容量要求](https://experienceleague.adobe.com/zh-hant/docs/commerce-knowledge-base/kb/announcements/commerce-announcements/holiday-surge-capacity-requests-for-magento-commerce-cloud){target="_blank"}。
+在旺季假期銷售期間（11月中旬至1月中旬），Adobe建議雲端基礎結構上代管的所有Adobe Commerce商戶透過提交假期高載容量要求，主動規劃訪客增加。 如需詳細資訊，請參閱雲端基礎結構上的[Adobe Commerce的假期突增容量要求](https://experienceleague.adobe.com/zh-hant/docs/commerce-knowledge-base/kb/announcements/commerce-announcements/holiday-surge-capacity-requests-for-magento-commerce-cloud){target="_blank"}。
 
 ### 準備進行擴展
 
@@ -285,9 +284,9 @@ Customer Journey Analytics使用5 P來達成假日/旺季整備。
 
 Adobe已排程維護排除期，以確保在關鍵假期期間服務不會中斷：
 
-* **在下列時間範圍內不會發生自動AEMaaCS維護**，開始和結束時間為歐洲中部時間午夜(00:00)：
-  * 2026年11月23日星期一至2026年12月1日星期二。
-  * 2026年12月14日星期一至2027年1月3日星期日。
+**在下列時間範圍內不會發生自動AEMaaCS維護**，開始和結束時間為歐洲中部時間午夜(00:00)：
+* 2026年11月23日星期一至2026年12月1日星期二。
+* 2026年12月14日星期一至2027年1月3日星期日。
 
 這可確保高流量期間的穩定性。 如需完整的發行排程和維護期間，請參閱[AEM發行藍圖](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-release-information/aem-release-updates/update-releases-roadmap){target="_blank"}。
 
@@ -361,7 +360,7 @@ AEM客戶運用Adobe Managed Services時，可以主動與其CSE合作，針對�
 * [準備Adobe Workfront發行](https://experienceleague.adobe.com/zh-hant/docs/workfront/using/product-announcements/product-releases/release-readiness){target="_blank"}
 * [Workfront發行說明封存](https://experienceleague.adobe.com/zh-hant/docs/workfront/using/product-announcements/product-releases/product-releases){target="_blank"}
 
-### 最佳做法
+### 最佳實務
 
 * 主動式計畫：識別任何可能受內部休假排程影響的系統相依性或排程的自動化。
 * 持續溝通：讓您的內部團隊和Adobe支援得知規劃的維護或關鍵事件。
@@ -466,3 +465,4 @@ Adobe通常會在假期尖峰期間強制執行&#x200B;**維護排除期間**，
 在個人化體驗之前，請先確認GDPR和CCPA下的同意合規性。 請避免將個人識別資訊(PII)儲存在設定檔引數中，並驗證API安全性以保護客戶資料。
 
 +++
+
