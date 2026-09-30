@@ -23,7 +23,7 @@ role_v2:
     internal-label: Admin
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer
-source-git-commit: 8b0e99848d1e5798cce52e21f9052b2b57c73b38
+source-git-commit: b2220ea4cb5a301cbee6cea5fb90d6dc8a05eeff
 workflow-type: tm+mt
 source-wordcount: '1698'
 ht-degree: 0%
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 ## 最佳化Fastly請求快取（僅限雲端） {#optimize-fastly-request-caching}
 
-[!DNL Fastly]會在邊緣快取回應，以減少原始伺服器的負載。 在高峰季節，一些設定檢查可協助您善加利用快取，尤其是當您使用追蹤引數或Headless店面執行促銷活動時。 如需完整的組態參考，請參閱[自訂快取組態](https://experienceleague.adobe.com/zh-hant/docs/commerce-on-cloud/user-guide/cdn/setup-fastly/fastly-custom-cache-configuration)。
+[!DNL Fastly]會在邊緣快取回應，以減少原始伺服器的負載。 在高峰季節，一些設定檢查可協助您善加利用快取，尤其是當您使用追蹤引數或Headless店面執行促銷活動時。 如需完整的組態參考，請參閱[自訂快取組態](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/cdn/setup-fastly/fastly-custom-cache-configuration)。
 
 * 標準化追蹤引數：在節日期間，您可能會執行社交和付費行銷活動（例如Google Ads、Facebook和X），這些會將唯一的追蹤字串附加至每個URL。 每個唯一字串會為原本屬於相同頁面的內容建立個別的快取專案，以降低快取命中率。 將這些引數新增至Adobe Commerce管理員中[!DNL Fastly]設定的&#x200B;**[!UICONTROL 已忽略的URL引數]**&#x200B;清單，讓[!DNL Fastly]可將其視為同等專案。
 * 確認您的登入頁面可快取：檢查每個促銷活動登入頁面上的`x-cache`回應標題。 可快取頁面在後續載入時傳回`HIT`或`HIT`/`MISS`配對。 如果標頭傳回`MISS, MISS`，表示頁面未快取，需要調查。
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 ## 啟用Fastly IO （僅限雲端） {#enable-fastly-io}
 
-[!DNL Fastly] IO將影像調整大小和格式轉換解除安裝到[!DNL Fastly]邊緣網路，而非Adobe Commerce來源。 這可以降低伺服器負載，並提升影像密集型店面的頁面轉譯速度，這是高流量銷售期間常見的瓶頸。 如需設定選項，請參閱[Fastly影像最佳化](https://experienceleague.adobe.com/zh-hant/docs/commerce-on-cloud/user-guide/cdn/fastly-image-optimization)。
+[!DNL Fastly] IO將影像調整大小和格式轉換解除安裝到[!DNL Fastly]邊緣網路，而非Adobe Commerce來源。 這可以降低伺服器負載，並提升影像密集型店面的頁面轉譯速度，這是高流量銷售期間常見的瓶頸。 如需設定選項，請參閱[Fastly影像最佳化](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/cdn/fastly-image-optimization)。
 
 開始之前，請確認已設定來源遮蔽。[!DNL Fastly] IO需要來源遮蔽作為先決條件。 如需組態詳細資訊，請參閱[Fastly來源遮蔽](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/scalability-capacity-planning.md#fastly-origin-shielding)。
 
@@ -74,9 +74,9 @@ ht-degree: 0%
 
 ## 實作Redis L2快取 {#implement-redis-l2-cache}
 
-實作有效的快取做法，讓您的存放區在流量尖峰季節可靠執行。[!DNL Redis] L2快取會將快取資料儲存在每個網頁節點本機，將網路頻寬減少到[!DNL Redis]。 如需L2快取運作方式的背景資訊，請參閱[第二級快取](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/configuration-guide/cache/level-two-cache)。
+實作有效的快取做法，讓您的存放區在流量尖峰季節可靠執行。[!DNL Redis] L2快取會將快取資料儲存在每個網頁節點本機，將網路頻寬減少到[!DNL Redis]。 如需L2快取運作方式的背景資訊，請參閱[第二級快取](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/cache/level-two-cache)。
 
-在雲端基礎結構上的Commerce上，設定`REDIS_BACKEND`部署變數來啟用此功能。 如需設定步驟，請參閱《雲端基礎結構上的Commerce指南》中的[REDIS_BACKEND](https://experienceleague.adobe.com/zh-hant/docs/commerce-on-cloud/user-guide/configure/env/stage/variables-deploy#redis_backend)。 內部部署，直接在`app/etc/env.php`中進行設定。
+在雲端基礎結構上的Commerce上，設定`REDIS_BACKEND`部署變數來啟用此功能。 如需設定步驟，請參閱《雲端基礎結構上的Commerce指南》中的[REDIS_BACKEND](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/configure/env/stage/variables-deploy#redis_backend)。 內部部署，直接在`app/etc/env.php`中進行設定。
 
 >[!NOTE]
 >
@@ -84,7 +84,7 @@ ht-degree: 0%
 
 ## 啟用MySQL和Redis從屬連線（僅限雲端） {#enable-mysql-and-redis-slave-connections}
 
-[!DNL Redis]和[!DNL MySQL]從屬連線會將讀取流量解除安裝到復本節點，減少高流量期間主連線的負載。 如需設定步驟，請參閱[MYSQL_USE_SLAVE_CONNECTION](https://experienceleague.adobe.com/zh-hant/docs/commerce-on-cloud/user-guide/configure/env/stage/variables-deploy#mysql_use_slave_connection)和[REDIS_USE_SLAVE_CONNECTION](https://experienceleague.adobe.com/zh-hant/docs/commerce-on-cloud/user-guide/configure/env/stage/variables-deploy#redis_use_slave_connection)或[VALKEY_USE_SLAVE_CONNECTION](https://experienceleague.adobe.com/zh-hant/docs/commerce-on-cloud/user-guide/configure/env/stage/variables-deploy#valkey_use_slave_connection) （視您的Adobe Commerce版本而定）。
+[!DNL Redis]和[!DNL MySQL]從屬連線會將讀取流量解除安裝到復本節點，減少高流量期間主連線的負載。 如需設定步驟，請參閱[MYSQL_USE_SLAVE_CONNECTION](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/configure/env/stage/variables-deploy#mysql_use_slave_connection)和[REDIS_USE_SLAVE_CONNECTION](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/configure/env/stage/variables-deploy#redis_use_slave_connection)或[VALKEY_USE_SLAVE_CONNECTION](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/configure/env/stage/variables-deploy#valkey_use_slave_connection) （視您的Adobe Commerce版本而定）。
 
 ### Redis從屬連線
 
@@ -104,7 +104,7 @@ ht-degree: 0%
 
 ## 啟用非同步訂單和電子郵件處理 {#enable-asynchronous-order-and-email-processing}
 
-使用非同步處理在背景將大量訂單相關作業排入佇列並執行，減少尖峰流量期間的前端延遲。 這涵蓋三個相關但不同的設定 — 請參閱[組態最佳實務](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/performance-best-practices/configuration)以取得概覽。
+使用非同步處理在背景將大量訂單相關作業排入佇列並執行，減少尖峰流量期間的前端延遲。 這涵蓋三個相關但不同的設定 — 請參閱[組態最佳實務](https://experienceleague.adobe.com/en/docs/commerce-operations/performance-best-practices/configuration)以取得概覽。
 
 * 非同步訂購位置： 「非同步訂購」模組會將訂單標示為已接收、將其置於佇列中，並處理先進先出的訂單。 預設為停用。 從命令列啟用它：
 
@@ -112,23 +112,23 @@ ht-degree: 0%
   bin/magento setup:config:set --checkout-async 1
   ```
 
-  啟用後，無法立即取得訂單詳細資料 — 訂單會維持佇列狀態，直到`placeOrderProcess`消費者根據存貨（預設為啟用）驗證並更新為止。 在停用此模組之前，請確認所有執行中的非同步訂單皆已完成處理。 如需詳細資訊，請參閱[結帳效能最佳實務](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/performance-best-practices/high-throughput-order-processing)。
+  啟用後，無法立即取得訂單詳細資料 — 訂單會維持佇列狀態，直到`placeOrderProcess`消費者根據存貨（預設為啟用）驗證並更新為止。 在停用此模組之前，請確認所有執行中的非同步訂單皆已完成處理。 如需詳細資訊，請參閱[結帳效能最佳實務](https://experienceleague.adobe.com/en/docs/commerce-operations/performance-best-practices/high-throughput-order-processing)。
 
 * 非同步處理訂單資料：密集的店面銷售和密集的訂單處理可能在資料庫層級發生衝突。 啟用此設定會區分這兩種流量模式，因此訂單會暫時儲存並大量移至Order Management格線，而不會發生衝突。 此排程會依cron更新「訂單」、「商業發票」、「出貨」及「銷退折讓單」等網格，避免鎖定並減少處理時間。 為了獲得最佳結果，請設定cron每分鐘執行一次。
 
->[!NOTE]
->
->啟用方式取決於您的部署模式。 雲端基礎結構暫存和生產環境上的Adobe Commerce預設以生產模式執行，其中無法透過管理員使用此設定。 在生產模式中，請改為執行`bin/magento config:set dev/grid/async_indexing 1`。 在預設模式下，移至&#x200B;**[!UICONTROL 商店]** > **[!UICONTROL 設定]** > **[!UICONTROL 進階]** > **[!UICONTROL 開發人員]** > **[!UICONTROL 格線設定]**，並將&#x200B;**[!UICONTROL 非同步索引]**&#x200B;設定為&#x200B;*[!UICONTROL 啟用]*。
+  >[!NOTE]
+  > 
+  >啟用方式取決於您的部署模式。 雲端基礎結構暫存和生產環境上的Adobe Commerce預設以生產模式執行，其中無法透過管理員使用此設定。 在生產模式中，請改為執行`bin/magento config:set dev/grid/async_indexing 1`。 在預設模式下，移至&#x200B;**[!UICONTROL 商店]** > **[!UICONTROL 設定]** > **[!UICONTROL 進階]** > **[!UICONTROL 開發人員]** > **[!UICONTROL 格線設定]**，並將&#x200B;**[!UICONTROL 非同步索引]**&#x200B;設定為&#x200B;*[!UICONTROL 啟用]*。
 
-如需詳細資訊，請參閱[已排程的訂單作業](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/stores-sales/order-management/orders/order-scheduled-operations)。
+  如需詳細資訊，請參閱[已排程的訂單作業](https://experienceleague.adobe.com/en/docs/commerce-admin/stores-sales/order-management/orders/order-scheduled-operations)。
 
 * 非同步電子郵件通知：此設定會將結帳與訂單處理電子郵件通知移至背景。 在&#x200B;**[!UICONTROL 商店]** > **[!UICONTROL 設定]** > **[!UICONTROL 銷售]** > **[!UICONTROL 銷售電子郵件]** > **[!UICONTROL 一般設定]** > **[!UICONTROL 非同步傳送]**&#x200B;啟用它。
 
 ## 設定索引器以依排程更新 {#configure-indexers-for-update-on-schedule}
 
-將索引器設定為以排程模式執行，以避免資料庫鎖定，並改善頻繁更新目錄時的回應能力。 如需詳細資訊，請參閱[索引器組態的最佳實務](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/implementation-playbook/best-practices/maintenance/indexer-configuration)。
+將索引器設定為以排程模式執行，以避免資料庫鎖定，並改善頻繁更新目錄時的回應能力。 如需詳細資訊，請參閱[索引器組態的最佳實務](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/maintenance/indexer-configuration)。
 
-索引子可以在儲存&#x200B;**時以**&#x200B;[!UICONTROL &#x200B; Update或排程&#x200B;]&#x200B;**模式下以** Update執行。
+索引子可以在儲存&#x200B;]**時以**[!UICONTROL  Update或排程&#x200B;]**模式下以**[!UICONTROL  Update執行。
 
 * 每當目錄或其他資料變更時，就立即&#x200B;**[!UICONTROL 儲存時更新]**&#x200B;索引。 假設更新和瀏覽強度低，在高負載下可能會導致嚴重延遲和資料無法使用。
 * 建議將&#x200B;**[!UICONTROL 排程更新]**&#x200B;用於生產。 它會透過專用的cron工作，在背景中儲存資料更新和重新索引的相關資訊。
@@ -141,7 +141,7 @@ ht-degree: 0%
 
 ## 停用並評估型錄平面表格 {#disable-and-evaluate-catalog-flat-table}
 
-不建議將平面表格用於產品和類別。 這項已棄用的功能可能會導致效能降低和索引問題。 如需詳細資訊，請參閱[一般目錄](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/catalog/catalog/catalog-flat)。
+不建議將平面表格用於產品和類別。 這項已棄用的功能可能會導致效能降低和索引問題。 如需詳細資訊，請參閱[一般目錄](https://experienceleague.adobe.com/en/docs/commerce-admin/catalog/catalog/catalog-flat)。
 
 若要停用一般目錄，請移至&#x200B;**[!UICONTROL 商店]** > **[!UICONTROL 設定]** > **[!UICONTROL 目錄]** > **[!UICONTROL 目錄]** > **[!UICONTROL 店面]**，將&#x200B;**[!UICONTROL 使用一般目錄類別]**&#x200B;設定為&#x200B;*[!UICONTROL 否]*，將&#x200B;**[!UICONTROL 使用一般目錄產品]**&#x200B;設定為&#x200B;*[!UICONTROL 否]*，然後按一下&#x200B;**[!UICONTROL 儲存設定]**。
 
@@ -149,7 +149,7 @@ ht-degree: 0%
 
 ## 考慮縮放（分割）架構（僅限雲端） {#consider-scaled-split-architecture}
 
-如果在套用之前的設定和程式碼層級最佳化後，負載測試或即時基礎架構效能仍顯示CPU和其他資源已達上限，請考慮移至縮放（分割）架構。 如需詳細資訊，請參閱[縮放架構](https://experienceleague.adobe.com/zh-hant/docs/commerce-on-cloud/user-guide/architecture/scaled-architecture)。
+如果在套用之前的設定和程式碼層級最佳化後，負載測試或即時基礎架構效能仍顯示CPU和其他資源已達上限，請考慮移至縮放（分割）架構。 如需詳細資訊，請參閱[縮放架構](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/architecture/scaled-architecture)。
 
 >[!NOTE]
 >
