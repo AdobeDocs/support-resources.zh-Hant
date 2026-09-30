@@ -128,7 +128,7 @@ ht-degree: 0%
 
 將索引器設定為以排程模式執行，以避免資料庫鎖定，並改善頻繁更新目錄時的回應能力。 如需詳細資訊，請參閱[索引器組態的最佳實務](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/maintenance/indexer-configuration)。
 
-索引子可以在儲存&#x200B;]**時以**[!UICONTROL  Update或排程&#x200B;]**模式下以**[!UICONTROL  Update執行。
+索引子可以在儲存&#x200B;**時以**&#x200B;[!UICONTROL &#x200B; Update或排程&#x200B;]&#x200B;**模式下以** Update執行。
 
 * 每當目錄或其他資料變更時，就立即&#x200B;**[!UICONTROL 儲存時更新]**&#x200B;索引。 假設更新和瀏覽強度低，在高負載下可能會導致嚴重延遲和資料無法使用。
 * 建議將&#x200B;**[!UICONTROL 排程更新]**&#x200B;用於生產。 它會透過專用的cron工作，在背景中儲存資料更新和重新索引的相關資訊。
