@@ -63,11 +63,11 @@ FACET geo_country_code
 SINCE 7 days ago until today
 ```
 
-修改此查詢以符合您的需求、進一步區隔查詢，或將其轉換為控制面板以集中追蹤。 如需詳細資訊，請參閱[New Relic記錄檔管理](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/monitor/new-relic/log-management)。
+修改此查詢以符合您的需求、進一步區隔查詢，或將其轉換為控制面板以集中追蹤。 如需詳細資訊，請參閱[New Relic記錄檔管理](https://experienceleague.adobe.com/zh-hant/docs/commerce-on-cloud/user-guide/monitor/new-relic/log-management)。
 
 ## 自訂New Relic警報（僅限雲端） {#customize-new-relic-alerts}
 
-除了Adobe Commerce在雲端基礎結構上設定的「受管理警報」之外，您還可以在銷售旺季為您的平台設定範圍廣泛的警報和通知，例如，通知您機器人流量或GraphQL查詢的回應時間增加。 如需內建警示的完整清單，請參閱[Adobe Commerce的管理警示](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-for-magento-commerce)。
+除了Adobe Commerce在雲端基礎結構上設定的「受管理警報」之外，您還可以在銷售旺季為您的平台設定範圍廣泛的警報和通知，例如，通知您機器人流量或GraphQL查詢的回應時間增加。 如需內建警示的完整清單，請參閱[Adobe Commerce的管理警示](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-for-magento-commerce)。
 
 [!DNL New Relic]警示和AI支援NRQL型查詢結構。 從&#x200B;**[!UICONTROL 警示與AI]**&#x200B;下的[!DNL New Relic]儀表板設定自訂警示。
 
@@ -79,7 +79,7 @@ Apdex分數介於0到1之間。 0分是最差的分數，表示100%的回應時�
 
 Apdex分數為0.5或更低的認股權證調查。 低於0.4的分數會被視為中斷。
 
-[!DNL New Relic]與Apdex一起提供了一系列的統計資料，用於分析Adobe Commerce在雲端基礎結構上的效能問題。 如需相關步驟，請參閱[在Adobe Commerce上使用New Relic進行效能疑難排解](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/troubleshoot-performance-using-new-relic-on-magento-commerce)。
+[!DNL New Relic]與Apdex一起提供了一系列的統計資料，用於分析Adobe Commerce在雲端基礎結構上的效能問題。 如需相關步驟，請參閱[在Adobe Commerce上使用New Relic進行效能疑難排解](https://experienceleague.adobe.com/zh-hant/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/troubleshoot-performance-using-new-relic-on-magento-commerce)。
 
 ## 檢閱支援深入分析（SWAT報表） {#review-support-insights-swat-report}
 
