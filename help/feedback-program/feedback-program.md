@@ -83,6 +83,6 @@ ht-degree: 0%
 
 >[!BEGINSHADEBOX]
 
-[!BADGE 今天加入]{type=Informative url="https://experienceleague.adobe.com/en/feedback-program" newtab=true tooltip="前往https://experienceleague.adobe.com/en/feedback-program"}
+[!BADGE 今天加入]{type=Informative url="https://experienceleague.adobe.com/zh-hant/feedback-program" newtab=true tooltip="前往https://experienceleague.adobe.com/en/feedback-program"}
 
 >[!ENDSHADEBOX]
