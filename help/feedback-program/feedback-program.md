@@ -6,7 +6,7 @@ solution: CX Enterprise
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
     internal-label: CX Enterprise
-source-git-commit: ca761100cdaf8c0b8ca23495393d3f03dafdb28b
+source-git-commit: 8534c0d14db31a8ab8ff75412433a6b9652e01fd
 workflow-type: tm+mt
 source-wordcount: '536'
 ht-degree: 0%
@@ -39,6 +39,14 @@ ht-degree: 0%
 
 商機會因產品區域、地區、客戶設定檔和方案可用性等因素而有所不同，並非所有參與者都會受邀參與每個商機。 您的意見回饋可協助Adobe改善產品、排定未來投資的優先順序，並提供更好的客戶體驗。
 
+## 計畫條款
+
+>[!BEGINSHADEBOX]
+
+參與可能需要接受Adobe意見回饋計畫合約。 其他條款可能視特定方案或活動而適用。
+
+>[!ENDSHADEBOX]
+
 ## 常見問題集
 
 +++ 誰可以參與？
@@ -65,12 +73,6 @@ ht-degree: 0%
 
 +++
 
-## 計畫條款
-
-參與可能需要接受Adobe意見回饋計畫合約。 其他條款可能視特定方案或活動而適用。
-
->[!BEGINSHADEBOX]
-
 ## 加入Adobe意見回饋計畫
 
 透過與我們的產品團隊的搶先使用機會、研究報告和直接意見回饋，協助塑造Adobe產品的未來。
@@ -79,6 +81,8 @@ ht-degree: 0%
 
 請立即聯絡您的Adobe客戶代表，瞭解詳細資訊和資格要求。
 
-[!BADGE 今天加入]{type=Informative url="https://experienceleague.adobe.com/zh-hant/feedback-program" newtab=true tooltip="前往https://experienceleague.adobe.com/en/feedback-program"}
+>[!BEGINSHADEBOX]
+
+[!BADGE 今天加入]{type=Informative url="https://experienceleague.adobe.com/en/feedback-program" newtab=true tooltip="前往https://experienceleague.adobe.com/en/feedback-program"}
 
 >[!ENDSHADEBOX]
