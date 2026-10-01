@@ -23,7 +23,7 @@ role_v2:
     internal-label: Admin
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer
-source-git-commit: 8b0e99848d1e5798cce52e21f9052b2b57c73b38
+source-git-commit: b2220ea4cb5a301cbee6cea5fb90d6dc8a05eeff
 workflow-type: tm+mt
 source-wordcount: '1698'
 ht-degree: 0%
@@ -116,11 +116,11 @@ ht-degree: 0%
 
 * 非同步處理訂單資料：密集的店面銷售和密集的訂單處理可能在資料庫層級發生衝突。 啟用此設定會區分這兩種流量模式，因此訂單會暫時儲存並大量移至Order Management格線，而不會發生衝突。 此排程會依cron更新「訂單」、「商業發票」、「出貨」及「銷退折讓單」等網格，避免鎖定並減少處理時間。 為了獲得最佳結果，請設定cron每分鐘執行一次。
 
->[!NOTE]
->
->啟用方式取決於您的部署模式。 雲端基礎結構暫存和生產環境上的Adobe Commerce預設以生產模式執行，其中無法透過管理員使用此設定。 在生產模式中，請改為執行`bin/magento config:set dev/grid/async_indexing 1`。 在預設模式下，移至&#x200B;**[!UICONTROL 商店]** > **[!UICONTROL 設定]** > **[!UICONTROL 進階]** > **[!UICONTROL 開發人員]** > **[!UICONTROL 格線設定]**，並將&#x200B;**[!UICONTROL 非同步索引]**&#x200B;設定為&#x200B;*[!UICONTROL 啟用]*。
+  >[!NOTE]
+  > 
+  >啟用方式取決於您的部署模式。 雲端基礎結構暫存和生產環境上的Adobe Commerce預設以生產模式執行，其中無法透過管理員使用此設定。 在生產模式中，請改為執行`bin/magento config:set dev/grid/async_indexing 1`。 在預設模式下，移至&#x200B;**[!UICONTROL 商店]** > **[!UICONTROL 設定]** > **[!UICONTROL 進階]** > **[!UICONTROL 開發人員]** > **[!UICONTROL 格線設定]**，並將&#x200B;**[!UICONTROL 非同步索引]**&#x200B;設定為&#x200B;*[!UICONTROL 啟用]*。
 
-如需詳細資訊，請參閱[已排程的訂單作業](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/stores-sales/order-management/orders/order-scheduled-operations)。
+  如需詳細資訊，請參閱[已排程的訂單作業](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/stores-sales/order-management/orders/order-scheduled-operations)。
 
 * 非同步電子郵件通知：此設定會將結帳與訂單處理電子郵件通知移至背景。 在&#x200B;**[!UICONTROL 商店]** > **[!UICONTROL 設定]** > **[!UICONTROL 銷售]** > **[!UICONTROL 銷售電子郵件]** > **[!UICONTROL 一般設定]** > **[!UICONTROL 非同步傳送]**&#x200B;啟用它。
 

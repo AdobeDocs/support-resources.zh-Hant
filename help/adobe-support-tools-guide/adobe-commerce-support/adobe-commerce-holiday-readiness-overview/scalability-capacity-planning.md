@@ -23,7 +23,7 @@ role_v2:
     internal-label: Admin
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer
-source-git-commit: 71589dd124714805fbf844540fb2d272433631ee
+source-git-commit: b2220ea4cb5a301cbee6cea5fb90d6dc8a05eeff
 workflow-type: tm+mt
 source-wordcount: '413'
 ht-degree: 0%
@@ -47,9 +47,7 @@ ht-degree: 0%
 
 Adobe Commerce [!DNL Fastly]來源遮蔽的目的是減少直接傳往Adobe Commerce來源的流量。 收到要求時，[!DNL Fastly]邊緣位置(Point of Presence)會檢查快取的內容並傳送它。 如果未快取，則會繼續到Shield POP檢查它是否已在其中快取，如果先前甚至從其他全域POP請求過內容，則會將其快取。 最後，如果未在Shield POP上快取，則只會繼續前往原始伺服器。
 
-可在Adobe Commerce管理員的[!DNL Fastly]組態後端設定中啟用[!DNL Fastly]來源遮蔽。 選擇最接近Adobe Commerce原始資料中心的遮蔽位置，以獲得最佳效能。 如需詳細資訊，請參閱[設定後端與來源遮蔽](https://experienceleague.adobe.com/zh-hant/docs/commerce-on-cloud/user-guide/cdn/setup-fastly/fastly-custom-cache-configuration#configure-back-ends-and-origin-shielding)。
-
-依預設，[!DNL Fastly]來源遮蔽未啟用。
+可在Adobe Commerce管理員的[!DNL Fastly]組態後端設定中啟用[!DNL Fastly]來源遮蔽。 選擇最接近Adobe Commerce原始資料中心的遮蔽位置，以獲得最佳效能。 如需詳細資訊，請參閱[設定後端與來源遮蔽](https://experienceleague.adobe.com/zh-hant/docs/commerce-on-cloud/user-guide/cdn/setup-fastly/fastly-custom-cache-configuration#configure-back-ends-and-origin-shielding)。 依預設，[!DNL Fastly]來源遮蔽未啟用。
 
 ## 執行載入和容錯移轉測試 {#conduct-load-and-failover-tests}
 
