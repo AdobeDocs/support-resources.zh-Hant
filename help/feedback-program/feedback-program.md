@@ -6,9 +6,9 @@ solution: CX Enterprise
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
     internal-label: CX Enterprise
-source-git-commit: 8534c0d14db31a8ab8ff75412433a6b9652e01fd
+source-git-commit: 09841d315184fd3d0df0d885812c790c2b1ebae8
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '530'
 ht-degree: 0%
 ---
 # Adobe意見回饋計畫
@@ -41,11 +41,7 @@ ht-degree: 0%
 
 ## 計畫條款
 
->[!BEGINSHADEBOX]
-
 參與可能需要接受Adobe意見回饋計畫合約。 其他條款可能視特定方案或活動而適用。
-
->[!ENDSHADEBOX]
 
 ## 常見問題集
 
@@ -81,8 +77,8 @@ ht-degree: 0%
 
 請立即聯絡您的Adobe客戶代表，瞭解詳細資訊和資格要求。
 
->[!BEGINSHADEBOX]
+[![登入按鈕](assets/sign-in-button.png){width="100"}](https://experienceleague.adobe.com/en/feedback-program){target="_blank"}
 
-[!BADGE 今天加入]{type=Informative url="https://experienceleague.adobe.com/zh-hant/feedback-program" newtab=true tooltip="前往https://experienceleague.adobe.com/en/feedback-program"}
-
->[!ENDSHADEBOX]
+<!--
+[!BADGE Join Today]{type=Informative url="https://experienceleague.adobe.com/en/feedback-program" newtab=true tooltip="Go to https://experienceleague.adobe.com/en/feedback-program"}
+-->
