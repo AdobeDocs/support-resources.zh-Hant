@@ -1,7 +1,6 @@
 ---
 title: Adobe CX解決方案統一假日整備指南
 description: AEP、AJO、CJA、Commerce、AEM、Marketo、Workfront、Campaign、Analytics和Target的Adobe CX假日整備可協助您規劃、縮放、保護和最佳化。
-hold: true
 feature-set: Experience Cloud
 feature: Support
 solution: Experience Cloud, Experience Platform, Journey Optimizer, Customer Journey Analytics, Commerce, Experience Manager, Workfront, Campaign, Analytics, Target, Marketo Engage
@@ -46,9 +45,9 @@ role_v2:
     internal-label: Leader
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
-source-git-commit: 743b2b6ac4401c01df9590bb749d56734334a05b
+source-git-commit: 9f49cf28acb39f62f0ec29c620c4d8ef2034f378
 workflow-type: tm+mt
-source-wordcount: '4647'
+source-wordcount: '4693'
 ht-degree: 3%
 ---
 # Adobe CX解決方案統一假日整備指南
@@ -108,7 +107,7 @@ Adobe提供數種策略，確保您的環境已準備好因應假期流量：
 * [串流輸送量最佳實務](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/landing/license/capacity){target="_blank"}
 * [資料擷取的護欄](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/ingestion/guardrails){target="_blank"}
 * [即時客戶個人檔案資料和細分的預設護欄](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/profile/guardrails){target="_blank"}
-* [AEP藍圖：護欄](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/architecture-overview/guardrails){target="_blank"}
+* [AEP藍圖：護欄](https://experienceleague.adobe.com/zh-hant/docs/blueprints-learn/architecture/architecture-diagrams/architecture-overviews/guardrails){target="_blank"}
 
 ### 安全性與治理
 
@@ -171,26 +170,26 @@ Adobe強調強大的安全性和治理實務，尤其是在高流量季節中，
 ### 最佳做法
 
 * 使用全通路協調。 請參閱部落格[Essential全通路客戶歷程，以取得參與度和成長率](https://business.adobe.com/tw/blog/essential-customer-journeys-for-omnichannel-engagement){target="_blank"}文章，其中顯示AJO的假日季節範例。
-* 視需要排定即時觸發器的優先順序。 例如：購物車放棄、瀏覽放棄和股票提醒，因為節日購物者比較被動反應。
-* 利用細分和個人化：鎖定高意圖區段、根據過去的購買行為和偏好設定量身打造選件。
-* 最少的訊息疲勞：強制上限與無訊息工作時間，以避免過度索取。 請參閱AJO中的[每日頻率上限提升客戶體驗](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/elevate-customer-experience-with-daily-frequency-capping-in-ajo/ba-p/761510?profile.language=zh-Hant){target="_blank"}部落格。
+* 視需要排定即時觸發器的優先順序。 例如放棄購買、瀏覽放棄購買，以及股票警示等，因為節日購物者比較容易被動反應。
+* 善用細分和個人化：鎖定高意圖區段，根據過去的購買行為和偏好設定量身打造優惠方案。
+* 將傳送訊息的疲勞降至最低：強制實施上限和無訊息工作時間，以避免過度行銷。 請參閱AJO中的[每日頻率上限提升客戶體驗](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/elevate-customer-experience-with-daily-frequency-capping-in-ajo/ba-p/761510?profile.language=zh-Hant){target="_blank"}部落格。
 * 時機很重要：計畫會在假期中更早傳送（指定壓縮季節），並將頻道與時區和本機對象行為調整一致。
-* 提供動態/限時優惠方案以建立急迫性，但可跨通道協調，以避免重複和衝突。
+* 使用動態/限時優惠方案來建立急迫性，但需跨管道協調，以避免重複和衝突。
 * 使用隱藏邏輯：隱藏剛購買的受眾，或套用購買後歷程以避免備援傳訊。
 
 ### 安全性與治理
 
 * 確保已設定存取控制和許可權，以便只有必要的使用者才能部署歷程或修改商業規則。
 * 監視並強制執行API呼叫/連線上限：例如，請參閱[上限API | Adobe Journey Optimizer](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/connect-systems/external-systems/capping){target="_blank"}文章。
-* 使用簡潔的第一方資料並確保適當的身分拼接，讓傳訊以客戶為中心，不會重複/錯位。
-* 確保傳遞能力網域溫度升高，並具備反垃圾郵件措施，特別是針對高流量假日傳送。
+* 使用簡潔的第一方資料並確保適當的身分拼接，讓傳訊以客戶為中心，而非重複/錯位。
+* 確保可傳遞性網域變暖並具備反垃圾郵件措施，尤其是針對高流量假日傳送。
 * 在高峰季節經常檢閱稽核記錄和歷程變更，以及早偵測誤執行或錯誤的歷程。
 
-### 尖峰後學習
+### 吸取的尖峰後課程
 
 * 在高峰載入後，審查歷程專案計數、隱藏計數、選擇退出率、傳遞能力量度和管道效能。
-* 清理抑制的區段，並暫停或淘汰為假期時段建立的歷程，以避免結轉疲勞。
-* 利用即時績效的深入分析來調整下一年的計畫（例如：傳送時間調整、頻道組合和訊息量）。
+* 清理已抑制的區段，並暫停或淘汰為假日視窗建立的歷程，以避免結轉疲勞。
+* 利用即時績效的深入分析來調整下一年的計畫（例如，傳送時間調整、頻道組合和訊息量）。
 
 透過主動預測季節性需求、設定管道和規則、驗證歷程效能，以及強制實行安全性與控管，組織可確保Adobe Journey Optimizer在本假日季節及其他時間內，提供順暢、個人化和可復原的客戶體驗。
 
@@ -209,7 +208,7 @@ Adobe建議採取下列步驟，為假期準備Customer Journey Analytics執行�
 
 ### 監視效能
 
-* 利用RAM （[[!UICONTROL 報告活動管理員]總覽](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview)）即時監視使用中及佇列的報告要求、識別無容量連線，並找出瓶頸。
+* 利用RAM （[[!UICONTROL 報告活動管理員]總覽](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview){target="_blank"}）即時監視使用中及佇列的報告要求、識別無容量連線，並找出瓶頸。
 * 使用[錯誤和疑難排解指南](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-workspace/workspace-faq/error-messages){target="_blank"}和[已知限制](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-workspace/workspace-faq/aw-limitations){target="_blank"}文章，在尖峰負載期間留意延遲增加的情況。
 * 讓管理員透過RAM暫停或取消長期執行/封鎖的要求。 請參閱CJA[&#128279;](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-cancel-requests){target="_blank"}文章中的取消報告要求。
 
@@ -221,13 +220,13 @@ Adobe建議採取下列步驟，為假期準備Customer Journey Analytics執行�
 ### 疑難排解
 
 * 疑難排解工作區錯誤時，請參閱錯誤訊息以取得原因和建議的動作；使用RAM （[!UICONTROL 報告活動管理員]）來清除瓶頸並有效管理並行。 如需詳細資訊，請參閱[CJA Workspace錯誤處理](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-workspace/workspace-faq/error-messages){target="_blank"}。
-* 使用RAM （[&#128279;](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview)中的[!UICONTROL 報告活動管理員]）來找出有問題的使用者、查詢或專案；視需要排定優先順序並終止/取消。
+* 使用RAM （[&#128279;](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview){target="_blank"}中的[!UICONTROL 報告活動管理員]）來找出有問題的使用者、查詢或專案；視需要排定優先順序並終止/取消。
 
-### 尖峰後學習
+### 吸取的尖峰後課程
 
 * 假日/尖峰期過後，請檢閱效能和事件記錄檔，以評估所提供最佳實務的影響。
 * 檢閱緩慢的查詢和使用者任務，以識別可以為下一季最佳化的模式/趨勢。
-* 從使用者和利害關係人收集意見回饋 — 使用新獲得的見解更新您自己的Runbook和整備計畫。
+* 收集使用者和利害關係人的意見反應。 然後使用新獲得的見解更新您自己的Runbook和整備計畫。
 * 透過您的帳戶團隊向Adobe團隊提供意見回饋。
 
 +++
@@ -240,7 +239,7 @@ Adobe建議採取下列步驟，為假期準備Customer Journey Analytics執行�
 
 ### 預測需求
 
-在旺季假期銷售期間（11月中旬至1月中旬），Adobe建議雲端基礎結構上代管的所有Adobe Commerce商戶透過提交假期高載容量要求，主動規劃訪客增加。 如需詳細資訊，請參閱雲端基礎結構上的[Adobe Commerce的假期突增容量要求](https://experienceleague.adobe.com/zh-hant/docs/commerce-knowledge-base/kb/announcements/commerce-announcements/holiday-surge-capacity-requests-for-magento-commerce-cloud){target="_blank"}。
+在旺季假期銷售期間（11月中旬至1月中旬），Adobe建議雲端基礎結構上代管的所有Adobe Commerce商戶透過提交假期高載容量請求，主動規劃訪客增加。 如需詳細資訊，請參閱雲端基礎結構上的[Adobe Commerce的假期突增容量要求](https://experienceleague.adobe.com/zh-hant/docs/commerce-knowledge-base/kb/announcements/commerce-announcements/holiday-surge-capacity-requests-for-magento-commerce-cloud){target="_blank"}。
 
 ### 準備進行擴展
 
@@ -249,7 +248,7 @@ Adobe建議採取下列步驟，為假期準備Customer Journey Analytics執行�
 ### 最佳做法
 
 * 遵循Adobe的指南[如何針對高流量準備您的基礎結構 — 旺季效能的5 Ps](https://business.adobe.com/tw/blog/how-to/the-5-ps-of-peak-season-performance-a-guide-to-preparing-your-infrastructure-for-high-traffic){target="_blank"}。
-* 檢視[Commerce假期整備的技術秘訣](https://experienceleague.adobe.com/zh-hant/docs/commerce-knowledge-base/kb/how-to/tech-tips-for-commerce-holiday-readiness){target="_blank"}，瞭解如何在假期中讓您的基礎建設準備好應付高流量、防止停機時間，以及最佳化效能的相關秘訣。
+* 如需如何為節日季節準備Adobe Commerce執行個體的詳細技術建議，請參閱[Adobe Commerce節日準備指南](https://experienceleague.adobe.com/zh-hant/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness/holiday-readiness-overview){target="_blank"}。
 
 +++
 
@@ -317,7 +316,7 @@ AEM客戶運用Adobe Managed Services時，可以主動與其CSE合作，針對�
 * 瞭解Marketo如何排定行銷活動流程步驟處理的優先順序，對於避免不慎延遲任何緊急或高優先順序的電子郵件至關重要。 請參閱[Campaign處理的運作方式](https://nation.marketo.com/t5/knowledgebase/how-campaign-processing-works/ta-p/248264)文章。
 * 留意智慧清單邏輯有助於確保您的行銷活動快速並以最高績效執行。 請參閱[智慧列示最佳實務](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/best-practices-for-smart-lists){target="_blank"}文章。
 * **[!UICONTROL 開始時間]**&#x200B;或&#x200B;**[!UICONTROL 收件者時區]**&#x200B;可以在您傳送之前開始建立電子郵件、減少延遲，並為具有高資源邏輯的合格潛在客戶提供額外的準備時間。 如需詳細資訊，請參閱[電子郵件程式](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs){target="_blank"}的「開門即用」，以及[使用收件者時區排程電子郵件程式](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone){target="_blank"}文章。
-* 您的行銷活動處於作用中狀態，潛在客戶正在流過，然後您注意到流程步驟出現錯誤。 快速調整是很容易修正的問題，但若您變更即時等待步驟或重新排序流程時，能知道會發生什麼情況，可協助您避免許多問題，並於稍後清除。 請參閱[在等待步驟](https://nation.marketo.com/t5/knowledgebase/editing-campaign-flow-with-members-in-wait-steps/ta-p/254294)中與成員編輯行銷活動流程。
+* 您的行銷活動為作用中，潛在客戶正在流過，然後您注意到流程步驟中的錯誤。 您很容易快速調整就能修正此問題，但若您變更即時等待步驟或重新排序流程時，能知道會發生什麼情況，可協助您避免許多問題，並於稍後進行清理。 請參閱[在等待步驟](https://nation.marketo.com/t5/knowledgebase/editing-campaign-flow-with-members-in-wait-steps/ta-p/254294){target="_blank"}中與成員編輯行銷活動流程。
 
 ### 測試及驗證
 
@@ -326,13 +325,13 @@ AEM客戶運用Adobe Managed Services時，可以主動與其CSE合作，針對�
 * Marketo提供多種方法來測試電子郵件的外觀。 使用這些按鈕可確保它看起來與您的預期完全一樣。
   * 使用&#x200B;**[!UICONTROL 預覽]**&#x200B;函式，透過分段預覽或個別潛在客戶來確保您的動態內容和Token正確呈現。 請參閱[預覽包含動態內容的電子郵件](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content){target="_blank"}文章。
   * 快速輕鬆地將直接電子郵件傳送至您的測試記錄，以瞭解您的電子郵件在不同使用者端/裝置上的顯示方式。 請參閱[從智慧列示](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list){target="_blank"}文章執行單一流程步驟。
-  * 對於[!DNL Litmus]位使用者，現在比以往更容易整合您的帳戶，並直接從電子郵件編輯器開始轉譯測試。 檢視[使用 [!DNL Litmus]](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/email-marketing/email-designer/test-email-rendering)測試電子郵件轉譯文章。
+  * 對於[!DNL Litmus]位使用者，現在比以往更容易整合您的帳戶，並直接從電子郵件編輯器開始轉譯測試。 檢視[使用 [!DNL Litmus]](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/email-marketing/email-designer/test-email-rendering){target="_blank"}測試電子郵件轉譯文章。
 * 檢視電子郵件垃圾郵件報告功能，此功能與[!DNL SpamAssassin]整合，以檢閱您的電子郵件內容，並指派分數，說明其點選收件匣或標示為&#x200B;*垃圾郵件*&#x200B;的可能性。 請參閱[電子郵件垃圾郵件報告](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/email-marketing/email-designer/spam-report){target="_blank"}文章。
 * 密切注視[!UICONTROL 行銷活動佇列]，確認您的行銷活動正在處理中，並正確排定高度緊急專案的優先順序。 檢視[我的行銷活動是否正在執行？](https://nation.marketo.com/t5/knowledgebase/is-my-campaign-running/ta-p/248662){target="_blank"} 文章。
 
 ### 簡化您的支援體驗
 
-發生錯誤時，速度很重要，Marketo支援可提供協助！ 請在您的支援案例中加入這些細節，避免來回切換，協助我們的團隊加速解決問題。 請參閱[使用Marketo支援的最佳實務](https://nation.marketo.com/t5/knowledgebase/best-practices-for-working-with-marketo-support/ta-p/253491)文章。
+發生錯誤時，速度很重要，Marketo支援可提供協助！ 請參閱[使用Marketo支援的最佳實務](https://nation.marketo.com/t5/knowledgebase/best-practices-for-working-with-marketo-support/ta-p/253491){target="_blank"}文章，瞭解支援案例中要包含的資訊。 預先提供這些詳細資訊，有助於避免來回切換，進而加快解決速度。
 
 有了本指南，您可以更輕鬆地瞭解自己正從有利的位置開始，以在此關鍵期間促進參與和轉換。 利害關係重大，但您的壓力並不一定非要如此。 立即開始準備，讓這個假日季節成為您最成功的季節。
 
@@ -424,7 +423,7 @@ Adobe Campaign Standard的&#x200B;**：**
 
 ### 假日維護規劃
 
-Adobe通常會在假期尖峰期間強制執行&#x200B;**維護排除期間**，以確保服務不會中斷。 透過Experience League監控Adobe的發行和維護排程，並與其Adobe客戶團隊協調支援規劃。
+Adobe通常會在假期尖峰期間強制執行&#x200B;**維護排除期間**，以確保服務不會中斷。 透過Experience League監控Adobe的發行和維護排程，並與您的Adobe客戶團隊協調以制定支援計畫。
 
 依照這些指引，並運用Adobe的公開檔案，組織可確保其Adobe Analytics實作穩健、回應迅速，並因應假日季節的需求。
 
@@ -446,7 +445,7 @@ Adobe通常會在假期尖峰期間強制執行&#x200B;**維護排除期間**，
 
 ### 準備進行擴展
 
-* 規劃網站和行動裝置上的流量增加，並通知Target支援團隊增加伺服器容量，以避免任何封鎖的呼叫。
+* 規劃網站和行動裝置上的流量增加，並要求Target支援團隊增加伺服器容量，以避免任何封鎖的呼叫。
 * 對於任何載入/畫筆測試，應事先通知Target支援團隊。
 * 升級至最新的`at.js`/傳送API版本。
 * 凍結非關鍵變更；準備遞補體驗。
