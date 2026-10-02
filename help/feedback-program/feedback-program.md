@@ -77,8 +77,8 @@ ht-degree: 0%
 
 請立即聯絡您的Adobe客戶代表，瞭解詳細資訊和資格要求。
 
-[![登入按鈕](assets/sign-in-button.png){width="100"}](https://experienceleague.adobe.com/en/feedback-program){target="_blank"}
+[![登入按鈕](assets/sign-in-button.png){width="100"}](https://experienceleague.adobe.com/zh-hant/feedback-program){target="_blank"}
 
 <!--
-[!BADGE Join Today]{type=Informative url="https://experienceleague.adobe.com/en/feedback-program" newtab=true tooltip="Go to https://experienceleague.adobe.com/en/feedback-program"}
+[!BADGE Join Today]{type=Informative url="https://experienceleague.adobe.com/zh-hant/feedback-program" newtab=true tooltip="Go to https://experienceleague.adobe.com/zh-hant/feedback-program"}
 -->
