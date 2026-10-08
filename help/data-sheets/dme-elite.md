@@ -2,27 +2,28 @@
 title: Creative Cloud 和 Adobe Document Cloud 的菁英支援
 description: Adobe 提供全方位的技術資源來支援您的業務，這些資源包含在您的 Adobe 企業訂閱中。 菁英支援計劃可加強這項服務。
 exl-id: 2f506e8d-ac9b-4bc7-b98a-ac5ffc626c65
-TQID: https://experienceleague.adobe.com/daL6pp7pxEL2mHoC8cpKMMQUXYVM3W-dsXldBeyjL3Q
+TQID: 'https://experienceleague.adobe.com/daL6pp7pxEL2mHoC8cpKMMQUXYVM3W-dsXldBeyjL3Q'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 feature_v2:
   - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+    internal-label: Integrations
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Customer experience
+source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
 workflow-type: tm+mt
-source-wordcount: 1122
+source-wordcount: '1122'
 ht-degree: 100%
-
 ---
-
 # Creative Cloud 和 Adobe Document Cloud 的菁英支援
 
 ![圖示](assets/Elitebanner.png)
 
 Adobe 提供全方位的技術資源來支援您的業務，這些資源包含在您的 Adobe 企業訂閱中。 菁英支援計劃可加強這項服務。 菁英客戶可以獲得一位指定的支援工程師和一位技術客戶經理，他們將與您合作，提供一流的主動和被動支援，同時作為您在 Adobe 支援團隊的指定技術連絡人。
 
-憑藉在適用的 Creative Cloud 和 Document Cloud 解決方案方面的深厚經驗，無論您的支援需求有多複雜，您的 Adobe 支援團隊都會全程與您並肩作戰，以確保您最大化在適用 Adobe 解決方案中的投資，並幫助您在問題發生之前未雨綢繆。 您還可以利用我們詳細而深入的技術產品文件和目前的版本注意事項。
+憑藉在適用的 Creative Cloud 和 Document Cloud 解決方案方面的深厚經驗，無論您的支援需求有多複雜，您的 Adobe 支援團隊都會全程與您並肩作戰，以確保您最大化在適用 Adobe 解決方案中的投資，並幫助您在問題發生之前未雨綢繆。 您還可以利用我們詳細而深入的技術產品文件和目前的發行說明。
 
 [檢視 PDF 版本](assets/DMeEliteSupportDatasheet_2022.pdf)
 
@@ -183,7 +184,7 @@ Adobe 提供全方位的技術資源來支援您的業務，這些資源包含�
     <img alt="技術客戶經理" src="assets/dmenamedsupportengineer.png"/>
     <div>
     <p><b>技術客戶經理</b></p>
-    <p>指定的技術客戶經理，負責監督和宣傳您的菁英支援體驗，並提供主動式服務來讓您實現最高業務價值。</p>
+    <p>指定的技術客戶經理，負責監督並為您的菁英支援體驗發聲，並提供主動式服務，以將您的業務價值發揮到最大。</p>
     </div>
   </td>
   <td>
@@ -219,7 +220,7 @@ Adobe 提供全方位的技術資源來支援您的業務，這些資源包含�
     <img alt="服務審查" src="assets/dmeservicereviews.png"/>
     <div>
     <p><b>服務審查</b></p>
-    <p>每兩年對企業計劃服務、權益和支援績效進行一次全面審查。 可與 Adobe 舉行的其他策略業務審查結合使用。</p>
+    <p>每半年對企業方案服務、權益和支援績效進行一次全面審查。 可與 Adobe 舉行的其他策略業務審查結合使用。</p>
     </div>
   </td>
 </tr>
@@ -228,21 +229,21 @@ Adobe 提供全方位的技術資源來支援您的業務，這些資源包含�
     <img alt="區域內支援存取服務" src="assets/dmeinregionsupportaccess.png"/>
     <div>
     <p><b>區域內支援存取服務</b></p>
-    <p>獲得位於全球區域內的 Adobe 支援團隊成員的支援。 這可能包括國內和/或語言支援。</p>
+    <p>獲得位於您所在全球區域的 Adobe 支援團隊成員所提供的支援。 這可能包括國內和/或語言支援。</p>
     </div>
   </td>
   <td>
-    <img alt="解決方案藍圖審查" src="assets/dmesolutionandroadmapreview.png"/>
+    <img alt="解決方案路徑圖審查" src="assets/dmesolutionandroadmapreview.png"/>
     <div>
-    <p><b>解決方案和藍圖審查</b></p>
-    <p>主動審查您的解決方案部署、組態設定及整體架構，包括整合。 將您的解決方案與專案藍圖保持一致，以降低風險並為將來做好準備。</p>
+    <p><b>解決方案和路徑圖審查</b></p>
+    <p>主動審查您的解決方案部署、組態設定及整體架構，包括整合。 將您的解決方案與專案路徑圖保持一致，以降低風險並為將來做好準備。</p>
     </div>
   </td>
   <td>
     <img alt="發行準備與規劃" src="assets/dmereleasepreparationandplanning.png"/>
     <div>
     <p><b>發行準備與規劃</b></p>
-    <p>受益於根據產品設定和使用案例的量身打造版本資訊。</p>
+    <p>受益於根據產品設定和使用案例量身打造的版本資訊。</p>
     </div>
   </td>
 </tr>
@@ -251,7 +252,7 @@ Adobe 提供全方位的技術資源來支援您的業務，這些資源包含�
     <img alt="升級/遷移計劃" src="assets/dmeupgrademigrationplanning.png"/>
     <div>
     <p><b>升級/遷移計劃</b></p>
-    <p>接收升級和遷移計劃用途的個人化指引和主動審查。 受益於 Adobe 專家審查發行和升級計劃。</p>
+    <p>接收個人化指引和主動審查，以用於升級和遷移規劃。 受益於 Adobe 專家對版本和升級計劃的審查。</p>
     </div>
   </td>
   <td>
@@ -293,7 +294,7 @@ Adobe 提供全方位的技術資源來支援您的業務，這些資源包含�
     <img alt="即時聊天支援" src="assets/dmechat.png"/>
     <div>
     <p><b>聊天支援</b></p>
-    <p>授權的使用者 (管理員) 可與 Adobe Support 開始聊天式諮詢，以獲得案件提交的解答與協助。</p>
+    <p>授權的使用者 (管理員) 可與 Adobe Support 開始聊天式諮詢，以獲得解答以及案件提交協助。</p>
     <p><i>以當地時間為準。</i></p>
     </div>
   </td>
@@ -303,7 +304,7 @@ Adobe 提供全方位的技術資源來支援您的業務，這些資源包含�
     <img alt="電話支援" src="assets/dmephone.png"/>
     <div>
     <p><b>電話支援</b></p>
-    <p>授權的使用者 (管理員) 可以透過電話聯絡 Adobe Support，以獲得案件提交的解答與協助。</p>
+    <p>授權的使用者 (管理員) 可以透過電話聯絡 Adobe Support，以獲得解答以及案件提交協助。</p>
     <p><i>以當地時間為準。</i></p>
     </div>
   </td>
@@ -323,7 +324,7 @@ Adobe 提供全方位的技術資源來支援您的業務，這些資源包含�
 |--- |--- |
 | [企業學習與支援](https://helpx.adobe.com/tw/enterprise.html) | 企業學習與支援是可供 Adobe 客戶找到各種支援的地方，其中包括自助式教學課程、產品文件、由講師授課的培訓課程、社群以及精選 Adobe Creative Cloud 和 Document 產品等支援。 |
 | [Adobe 支援社群](https://community.adobe.com/) | Adobe 支援社群是提問、尋找答案、向專家學習和分享知識的地方。 |
-| [生產問題與系統中斷](https://status.adobe.com/zh-tw/) | Status.adobe.com 會傳達所有在多租用戶環境中部署的 Adobe 產品與服務的健康資訊。 客戶可以選擇其訂閱偏好設定，以便在 Adobe 建立、更新或解決產品事件時收到電子郵件通知。 這可以包括預定的維護或是不同嚴重性等級的服務問題。 |
+| [生產問題與系統中斷](https://status.adobe.com/) | Status.adobe.com 會傳達所有在多租用戶環境中部署的 Adobe 產品與服務的健康資訊。 客戶可以選擇其訂閱偏好設定，以便在 Adobe 建立、更新或解決產品事件時收到電子郵件通知。 這可以包括預定的維護或是不同嚴重性等級的服務問題。 |
 | [條款與條件](https://helpx.adobe.com/tw/support/programs/support-policies-terms-conditions.html) | 詳述支援服務方案的條款與條件。 |
 
 {style="table-layout:auto"}

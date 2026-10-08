@@ -3,19 +3,20 @@ keywords: FAQ；常見問題
 title: Adobe商業平台與Admin Console常見問題集
 description: Adobe Workfront常見問題集
 exl-id: 533d7a19-1bb2-4823-860f-d2c66412bb3d
-TQID: https://experienceleague.adobe.com/9vMmY3Kkuy1AuXuGvdqjOwq-eOtL54YaUr1jMVuR-Tw
+TQID: 'https://experienceleague.adobe.com/9vMmY3Kkuy1AuXuGvdqjOwq-eOtL54YaUr1jMVuR-Tw'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Admin
+source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
 workflow-type: tm+mt
-source-wordcount: 484
+source-wordcount: '484'
 ht-degree: 11%
-
 ---
-
 # [!DNL Adobe Business Platform]與Admin Console常見問題集
 
 +++**什麼是Adobe Identity和Admin Console？**
@@ -40,7 +41,7 @@ ht-degree: 11%
 
 IMS是使用Adobe Workfront的Identity Management服務的縮寫，這代表……
 
-組織是可以讓管理員設定群組和使用者，以及控制 Experience Cloud 中單一登入的實體。 組織的作用就像一間登入公司，涵蓋所有 Experience Cloud 產品和應用程式。 通常組織就是您的公司名稱， 但是一間公司可以有多個組織。
+組織是可以讓管理員設定群組和使用者，以及控制 Experience Cloud 中單一登入的實體。 組織的作用就像一間登入公司，涵蓋所有 Experience Cloud 產品和應用程式。 通常組織就是您的公司名稱。 但是一間公司可以有多個組織。
 
 +++
 
@@ -64,7 +65,7 @@ Adobe Workfront支援團隊會透過即時協助和指導來移動客戶，以�
 
 +++**AAC有哪些可用的訓練資源？**
 
-&lt;https://helpx.adobe.com/tw/enterprise/using/admin-console.html >
+&lt;https://helpx.adobe.com/enterprise/using/admin-console.html >
 
 +++
 

@@ -2,19 +2,20 @@
 title: '[!UICONTROL 價值追蹤器]'
 description: '[!UICONTROL 價值追蹤器] 頁面提供由 KBO 分類您的 [!UICONTROL  使用案例] 視圖。'
 exl-id: 2b3d5d40-4c5a-4e34-a7ea-3c16c3b621ff
-TQID: https://experienceleague.adobe.com/TwfH8YYNuuyUaiTY4KnqjepbtqUxX0pbYx9HldoEoeU
+TQID: 'https://experienceleague.adobe.com/TwfH8YYNuuyUaiTY4KnqjepbtqUxX0pbYx9HldoEoeU'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Admin
+source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
 workflow-type: tm+mt
-source-wordcount: 113
+source-wordcount: '113'
 ht-degree: 100%
-
 ---
-
 # [!UICONTROL 價值追蹤器]
 
 **[!UICONTROL 價值追蹤器]** 頁面提供由 KBO 分類不同 **[!UICONTROL 使用案例]** 的視圖。 您可以利用頁面頂部的篩選器，來篩選此視圖中顯示的使用案例。

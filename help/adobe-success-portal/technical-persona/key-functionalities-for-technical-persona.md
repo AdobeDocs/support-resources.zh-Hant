@@ -2,22 +2,25 @@
 title: 技術人物誌的重要功能
 description: /[!DNL Adobe Success/] 入口網站為技術人物誌提供的各項功能，讓使用者能夠建立及管理支援案例、監視系統效能，以及追蹤與安全性和功能相關的警報。
 exl-id: e233ccb8-8d51-4d42-9812-efedd070d45c
-TQID: https://experienceleague.adobe.com/1vFhEr2Mrz-QWoQq0P9L4zpObcHt7jomMoaO9M0AsXk
+TQID: 'https://experienceleague.adobe.com/1vFhEr2Mrz-QWoQq0P9L4zpObcHt7jomMoaO9M0AsXk'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Insights
+source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
 workflow-type: tm+mt
-source-wordcount: 303
+source-wordcount: '303'
 ht-degree: 100%
-
 ---
-
 # 技術人物誌的重要功能
 
 [!DNL Adobe Success] 入口網站的技術人員人物誌視圖旨在協助使用者建立票證、管理支援案例以及監視系統效能。 以下是入口網站為這類使用者提供的重要功能。
@@ -26,7 +29,7 @@ ht-degree: 100%
 
 若要提交支援請求：
 
-1. 導覽至入口網站首頁的右上角。
+1. 前往入口網站首頁的右上角。
 1. 在「**[!UICONTROL 建立新案例]**」小工具內選取「**[!UICONTROL 開啟案例]**」。
 
    ![create-a-new-case](/help/adobe-success-portal/assets/technical-persona-create-case.png)

@@ -1,32 +1,35 @@
 ---
 title: 在 [!DNL Adobe Success] 入口網站中管理結果
-description: 本指南會說明如何存取、解釋和處理 [!DNL Adobe Success] 入口網站中的結果，協助您主動管理產品效能、安全性以及功能風險。
+description: 本指南說明如何存取、解譯及處理[!DNL Adobe Success]入口網站中的發現，協助您主動管理產品效能、安全性和功能風險。
 exl-id: c787ce29-993c-498c-9e39-8a04c2eeedda
-TQID: https://experienceleague.adobe.com/tO1CHOXvHW2yrDt4Kq14NMvOeSv0GP4fOeR-9-S5H3o
+TQID: 'https://experienceleague.adobe.com/tO1CHOXvHW2yrDt4Kq14NMvOeSv0GP4fOeR-9-S5H3o'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Insights
+source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
 workflow-type: tm+mt
-source-wordcount: 862
-ht-degree: 100%
-
+source-wordcount: '864'
+ht-degree: 97%
 ---
-
 # 在 [!DNL Adobe Success] 入口網站中管理結果
 
 本指南說明如何存取、解釋和處理 [!DNL Adobe Success] 入口網站中的結果，協助您主動管理產品效能、安全性以及功能風險。
 
-此 [!DNL Adobe Success] 入口網站「**[!UICONTROL 結果]**」頁面會顯示在您的 Adobe 產品實例中偵測到的問題或風險。 「結果」包含效能、安全性和功能問題，以及其狀態和風險等級。 在這些問題影響您的環境之前，監視此頁面可以協助您儘早解決問題。
+此 [!DNL Adobe Success] 入口網站「**[!UICONTROL 結果]**」頁面會顯示在您的 Adobe 產品實例中偵測到的問題或風險。 發現包含效能、安全性和功能問題，以及其狀態和風險等級。 在這些問題影響您的環境之前，監視此頁面可以協助您儘早解決問題。
 
 **結果包含哪些內容？**
 
-結果為顯示在 [!DNL Adobe Success] 入口網站中的支援洞察警報。 它們將 Adobe 產品設定中的潛在問題醒目提示，例如效能下降、安全性風險或設定不正確。 這些警報是根據如 API、[!DNL New Relic] 及 [!DNL Splunk] 等工具所收集的遙測資料彙集。
+結果為顯示在 [!DNL Adobe Success] 入口網站中的支援洞察警報。 它們會凸顯 Adobe 產品設定中的潛在問題，例如效能下降、安全性風險或設定錯誤。 這些警報是根據如 API、[!DNL New Relic] 及 [!DNL Splunk] 等工具所收集的遙測資料彙集。
 
 **如何建立結果？**
 
@@ -38,7 +41,7 @@ Adobe 團隊會定期研究最常見的支援問題和趨勢。 他們會根據�
 
 **如何修正結果**
 
-每個結果皆包括有關如何解決問題的建議和明確說明，以及相關文件的連結 (如果有)。 與您的 IT、工程團隊或 Adobe 合作夥伴分享這些結果，並共同合作以解決這些問題。 儘早解決這些問題有助於防止更大的問題，並確保系統順利執行。
+每個結果皆包括有關如何解決問題的推薦和明確說明，以及相關文件的連結 (如果有)。 與您的 IT、工程團隊或 Adobe 合作夥伴分享這些發現，並共同合作以解決這些問題。 儘早解決這些問題有助於防止更大的問題，並確保系統順利執行。
 
 
 ## 存取結果
@@ -46,7 +49,7 @@ Adobe 團隊會定期研究最常見的支援問題和趨勢。 他們會根據�
 若要檢視產品的洞察：
 
 1. 瀏覽至&#x200B;**[!UICONTROL 支援與洞察]**。
-1. 選取相關產品卡。 選取「**[!UICONTROL 結果]**」索引標籤。
+1. 選取相關產品卡片。 選取「**[!UICONTROL 結果]**」索引標籤。
 
    ![Adobe Success 入口網站，醒目提示 AEM as Cloud Service - Assets 下方具有 3 個列出項目的「結果」](../../assets/asp-support-inisghts-findings.png "在 Cloud Service 中檢視 AEM Assets 的結果")
 
@@ -61,7 +64,7 @@ Adobe 團隊會定期研究最常見的支援問題和趨勢。 他們會根據�
 
    * 搜尋專屬項目。
    * 選取「**[!UICONTROL 下載結果]**」來匯出結果清單。 若要匯出一個結果的報告，請選取「**[!UICONTROL 結果名稱]**」欄下相關結果旁的核取方塊。 如果您未選取結果，則 PDF 預設包含所有結果的清單。
-   * 選取「**[!UICONTROL 結果名稱]**」下的結果，即可查看該結果的詳細資料，包括建議的解決方案。 「結果」詳細資料頁面會顯示選取的結果，包含其他內容和建議。 若要檢視此報告，請選取此下載箭頭。
+   * 選取「**[!UICONTROL 結果名稱]**」下的結果，即可查看該結果的詳細資料，包括建議的解決方案。 「結果」詳細資料頁面會顯示選取的結果，包含其他背景資訊和推薦。 若要檢視此報告，請選取下載箭頭。
 
 
      ![Adobe Success 入口網站中用於匯出「結果」詳細資料的「下載」按鈕](../../assets/findings-details.png "下載此結果的報告")
@@ -69,22 +72,22 @@ Adobe 團隊會定期研究最常見的支援問題和趨勢。 他們會根據�
 
 ## 動作結果
 
-請按照下列步驟，驗證每項結果是否仍適用或可關閉。
+請按照下列步驟，驗證每項結果是否仍適用或可予以忽略。
 
 >[!NOTE]：
 >
 >在您的實例上執行標準檢查。 如果此檢查並未發現您的實例中存在此問題，則為「**[!UICONTROL 未偵測到]**」狀態。
 
 1. 瀏覽至&#x200B;**[!UICONTROL 支援與洞察]**。
-1. 選取相關產品卡。
-1. 開啟「**[!UICONTROL 結果]**」索引標籤。 您會看到選取產品的所有結果。
+1. 選取相關產品卡片。
+1. 開啟「**[!UICONTROL 結果]**」索引標籤。 您會看到所選產品的所有發現。
 1. 選取「**[!UICONTROL 結果名稱]**」下的項目。 在「結果」詳細資料頁面上，您可以：
    * 選取「**[!UICONTROL 驗證]**」以檢查問題是否仍然存在 (「**[!UICONTROL 驗證]**」按鈕旨在確認此問題已解決)：
 
    ![Adobe Success 入口網站中「結果」面板上的「驗證」按鈕，用於確認問題解決方案](../../assets/adobe-success-portal-validate.png "「驗證」按鈕")
 
 
-   * 如果此問題仍然存在，則會顯示下列訊息：*[!UICONTROL 驗證完成， 仍偵測到結果]*。 使用「結果詳細資料」頁面上的資訊和建議，以進行調查和解決。
+   * 如果此問題仍然存在，則會顯示下列訊息：*[!UICONTROL 驗證完成， 仍偵測到結果]*。 使用「結果詳細資料」頁面上的資訊和推薦，以進行調查和解決。
    * 如果此問題不再存在，則會顯示下列訊息：*[!UICONTROL 驗證完成， 未再偵測到「結果」]*。 不再偵測到此結果時，此結果會以灰色顯示，並且狀態變更為「**[!UICONTROL 未偵測到]**」。 「**[!UICONTROL 未偵測到]**」狀態的結果位於「結果」清單的底部。
    * 如果此問題不適用或與您無關，您可以選取「**[!UICONTROL 關閉]**」來將其關閉。 此結果關閉時，會以灰色顯示，且狀態變更為「**[!UICONTROL 已關閉]**」。  狀態為「**[!UICONTROL 已關閉]**」的結果位於「結果」清單的底部。
 

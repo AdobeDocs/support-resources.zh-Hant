@@ -2,16 +2,15 @@
 title: Creative Enterprise 和 Document Cloud 支援服務概觀
 description: 本文提供 Adobe Creative Cloud 和 Document Cloud 的客戶支援選項摘要。 這些選項包括標準、商務、企業和菁英。
 exl-id: e3c762b9-d4b3-4248-b1c1-8212a763b4c5
-TQID: https://experienceleague.adobe.com/Ly4fta5e3fXbRKDGWPxAIQA45BzxrsHCOw-Xn0aY4ho
+TQID: 'https://experienceleague.adobe.com/Ly4fta5e3fXbRKDGWPxAIQA45BzxrsHCOw-Xn0aY4ho'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: CX Enterprise
+source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
 workflow-type: tm+mt
-source-wordcount: 287
+source-wordcount: '287'
 ht-degree: 98%
-
 ---
-
 # Creative Cloud Enterprise 和 Document Cloud 的支援服務
 
 Adobe Creative Cloud 和 Document Cloud 客戶支援組織旨在致力助您取得成功。 所有應用程式都包含某個支援等級，可讓您輕鬆存取我們的高技能技術資源，以獲得技術方面的協助。
@@ -22,7 +21,7 @@ Adobe Creative Cloud 和 Document Cloud 客戶支援組織旨在致力助您取�
 <tr>
   <td>
     <a href="dme-standard.md">
-    <img alt="標準" src="assets/STANDARDSupportThumbnailCC.png"/>
+    <img alt="Standard" src="assets/STANDARDSupportThumbnailCC.png"/>
     </a>
     <div>
     <a href="dme-standard.md"><strong>標準支援</strong></a> （檢視<a href="assets/DMeStandardSupportDatasheet_2022.pdf" target="_blank">PDF</a>）
@@ -35,7 +34,7 @@ Adobe Creative Cloud 和 Document Cloud 客戶支援組織旨在致力助您取�
       <img alt="商務" src="assets/BusinessSupportThumbnailCC.png">
     </a>
     <div>
-    <a href="dme-business.md"><strong>商務支援</strong></a> (檢視 <a href="assets/DMeBusinessSupportDatasheet_2022.pdf" target="_blank">PDF</a>)
+    <a href="dme-business.md"><strong>商業支援</strong></a> (檢視 <a href="assets/DMeBusinessSupportDatasheet_2022.pdf" target="_blank">PDF</a>)
     </div>
     <p>支援案例優先路由以確保更快聯絡到更資深的支援人員，此外還能夠利用帳戶支援專員，收到您最關鍵支援請求的定期溝通和更新。</p>
     <br>

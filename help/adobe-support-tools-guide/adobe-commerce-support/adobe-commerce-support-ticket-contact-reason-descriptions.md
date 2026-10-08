@@ -2,23 +2,27 @@
 title: Adobe Commerce支援票證[!UICONTROL 問題原因]說明
 description: 本文列出支援票證**[!UICONTROL 問題原因]**欄位選項，並提供每個選項的詳細說明。
 exl-id: 3af194c6-6f28-4ce1-bf60-af80057cb86b
-TQID: https://experienceleague.adobe.com/ON-DBtV4gobYWsItla-mCAVYYpngS6GX6Tq4Omtnf3Y
+TQID: 'https://experienceleague.adobe.com/ON-DBtV4gobYWsItla-mCAVYYpngS6GX6Tq4Omtnf3Y'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Security
+source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
 workflow-type: tm+mt
-source-wordcount: 256
+source-wordcount: '256'
 ht-degree: 1%
-
 ---
-
 # Adobe Commerce支援票證[!UICONTROL 問題原因]說明
 
 本文列出支援票證&#x200B;**[!UICONTROL 問題原因]**&#x200B;欄位選項，並提供每個選項的詳細說明。
@@ -66,4 +70,4 @@ ht-degree: 1%
 
 ## 相關閱讀
 
-* 在Adobe Commerce的Experience League支援使用指南中[提交支援案例](https://experienceleague.adobe.com/zh-hant/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)。
+* 在Adobe Commerce的Experience League支援使用指南中[提交支援案例](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)。

@@ -1,19 +1,19 @@
 ---
 title: Creative Cloud 和 Adobe Document Cloud 的企業支援
-description: Adobe 提供全方位的技術資源來支援您的業務，這些資源包含在您的 Adobe 企業訂閱中。 企業支援計劃可加強這項服務。
+description: Adobe 提供全方位的技術資源來支援您的業務，這些資源包含在您的 Adobe 企業訂閱中。 ENTERPRISE 支援計劃可加強這項服務。
 exl-id: 38467d5a-02b8-496f-ac2b-4d54ac3c5ffc
-TQID: https://experienceleague.adobe.com/-kPhYGpfGdZIP8Is1A-WWfHq6uJzSLNwCei4D8TO8A4
+TQID: 'https://experienceleague.adobe.com/-kPhYGpfGdZIP8Is1A-WWfHq6uJzSLNwCei4D8TO8A4'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Customer experience
+source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
 workflow-type: tm+mt
-source-wordcount: 958
+source-wordcount: '958'
 ht-degree: 100%
-
 ---
-
 # Creative Cloud 和 Adobe Document Cloud 的企業支援
 
 ![圖示](assets/EnterpriseBanner.png)
@@ -188,14 +188,14 @@ Adobe 提供全方位的技術資源來支援您的業務，這些資源包含�
     <img alt="優先案例路由" src="assets/dmeprioritycaserouting.png"/>
     <div>
     <p><b>優先案例路由</b></p>
-    <p>獲得優先路由，以確保根據提交案例更快聯絡到更資深的支援資源。</p>
+    <p>獲得優先路由，以確保針對已提交的案例更快聯絡到更資深的支援資源。</p>
     </div>
   </td>
   <td>
     <img alt="向上呈報管理" src="assets/dmeescalationmanagement.png"/>
     <div>
     <p><b>向上呈報管理</b></p>
-    <p>Adobe 內的指定聯絡人，他可提供向上呈報協助、定期更新，並確保優先處理您最緊急且未解決的支援請求。</p>
+    <p>Adobe 內的指定聯絡人，他可提供向上呈報協助、定期更新，並確保優先處理您最關鍵且未解決的支援請求。</p>
     </div>
   </td>
 </tr>
@@ -204,7 +204,7 @@ Adobe 提供全方位的技術資源來支援您的業務，這些資源包含�
     <img alt="加速問題優先順序" src="assets/dmeacceleratedissue.png"/>
     <div>
     <p><b>加速問題優先順序</b></p>
-    <p>透過促進與工程部門互動，獲得支援案例工作的更高優先順序。</p>
+    <p>透過促進與工程部門互動，讓支援案例處理工作獲得更高的優先順序。</p>
     </div>
   </td>
   <td>
@@ -227,14 +227,14 @@ Adobe 提供全方位的技術資源來支援您的業務，這些資源包含�
     <img alt="服務審查" src="assets/dmeservicereviews.png"/>
     <div>
     <p><b>服務審查</b></p>
-    <p>每兩年對企業計劃服務、權益和支援績效進行一次全面審查。 可與 Adobe 舉行的其他策略業務審查結合使用。</p>
+    <p>每半年對企業方案服務、權益和支援績效進行一次全面審查。 可與 Adobe 舉行的其他策略業務審查結合使用。</p>
     </div>
   </td>
   <td>
     <img alt="區域內支援存取服務" src="assets/dmeinregionsupportaccess.png"/>
     <div>
     <p><b>區域內支援存取服務</b></p>
-    <p>獲得位於全球區域內的 Adobe 支援團隊成員的支援。 這可能包括國內和/或語言支援。</p>
+    <p>獲得位於您所在全球區域的 Adobe 支援團隊成員所提供的支援。 這可能包括國內和/或語言支援。</p>
     </div>
   </td>
 </tr>
@@ -262,7 +262,7 @@ Adobe 提供全方位的技術資源來支援您的業務，這些資源包含�
     <img alt="即時聊天支援" src="assets/dmechat.png"/>
     <div>
     <p><b>聊天支援</b></p>
-    <p>授權的使用者 (管理員) 可與 Adobe Support 開始聊天式諮詢，以獲得案件提交的解答與協助。</p>
+    <p>授權的使用者 (管理員) 可與 Adobe Support 開始聊天式諮詢，以獲得解答以及案件提交協助。</p>
     <p><i>以當地時間為準。</i></p>
     </div>
   </td>
@@ -272,7 +272,7 @@ Adobe 提供全方位的技術資源來支援您的業務，這些資源包含�
     <img alt="電話支援" src="assets/dmephone.png"/>
     <div>
     <p><b>電話支援</b></p>
-    <p>授權的使用者 (管理員) 可以透過電話聯絡 Adobe Support，以獲得案件提交的解答與協助。</p>
+    <p>授權的使用者 (管理員) 可以透過電話聯絡 Adobe Support，以獲得解答以及案件提交協助。</p>
     <p><i>以當地時間為準。</i></p>
     </div>
   </td>
@@ -292,7 +292,7 @@ Adobe 提供全方位的技術資源來支援您的業務，這些資源包含�
 |--- |--- |
 | [企業學習與支援](https://helpx.adobe.com/tw/enterprise.html) | 企業學習與支援是可供 Adobe 客戶找到各種支援的地方，其中包括自助式教學課程、產品文件、由講師授課的培訓課程、社群以及精選 Adobe Creative Cloud 和 Document 產品等支援。 |
 | [Adobe 支援社群](https://community.adobe.com/) | Adobe 支援社群是提問、尋找答案、向專家學習和分享知識的地方。 |
-| [生產問題與系統中斷](https://status.adobe.com/zh-tw/) | Status.adobe.com 會傳達所有在多租用戶環境中部署的 Adobe 產品與服務的健康資訊。 客戶可以選擇其訂閱偏好設定，以便在 Adobe 建立、更新或解決產品事件時收到電子郵件通知。 這可以包括預定的維護或是不同嚴重性等級的服務問題。 |
+| [生產問題與系統中斷](https://status.adobe.com/) | Status.adobe.com 會傳達所有在多租用戶環境中部署的 Adobe 產品與服務的健康資訊。 客戶可以選擇其訂閱偏好設定，以便在 Adobe 建立、更新或解決產品事件時收到電子郵件通知。 這可以包括預定的維護或是不同嚴重性等級的服務問題。 |
 | [條款與條件](https://helpx.adobe.com/tw/support/programs/support-policies-terms-conditions.html) | 詳述支援服務方案的條款與條件。 |
 
 {style="table-layout:auto"}
