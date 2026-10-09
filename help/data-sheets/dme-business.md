@@ -1,26 +1,26 @@
 ---
 title: Creative Cloud 和 Adobe Document Cloud 的商務支援
-description: Adobe 提供全方位的技術資源來支援您的業務，這些資源包含在您的 Adobe 企業訂閱中。 商務支援計劃可加強這項服務。 商務支援包括支援案例的優先路由，以確保根據提交案例更快聯絡到更資深的支援資源。
+description: Adobe 提供全方位的技術資源來支援您的業務，這些資源包含在您的 Adobe 企業訂閱中。 商務支援計劃可加強這項服務。 商務支援包括支援案例的優先路由，以確保針對已提交的案例能更快聯絡到更資深的支援資源。
 exl-id: d2042be3-46af-4863-8f37-491a61ae3b0b
-TQID: https://experienceleague.adobe.com/jYFjKBCdJyMEpfRufkgr6mYLpQLxjvIEh3cOFXEEWhs
+TQID: 'https://experienceleague.adobe.com/jYFjKBCdJyMEpfRufkgr6mYLpQLxjvIEh3cOFXEEWhs'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Customer experience
+source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
 workflow-type: tm+mt
-source-wordcount: 835
+source-wordcount: '835'
 ht-degree: 100%
-
 ---
-
 # Creative Cloud 和 Adobe Document Cloud 的商務支援
 
 ![圖示](assets/Businessbanner.png)
 
 Adobe 提供全方位的技術資源來支援您的業務，這些資源包含在您的 Adobe 企業訂閱中。 商務支援計劃可加強這項服務。 商務支援包括支援案例的優先路由，以確保根據提交案例更快聯絡到更資深的支援資源。
 
-商務客戶還可以透過電話或支援入口網站，聯絡我們的技術支援團隊並提出任何產品查詢；我們可在最關鍵的時刻幫助保護您的業務。 商務客戶將可善用帳戶支援專員來支援案例升級管理，針對您最關鍵的支援請求獲得定期溝通和更新。
+商務客戶還可以透過電話或支援入口網站，聯絡我們的技術支援團隊並提出任何產品查詢；我們可在最關鍵的時刻幫助保護您的業務。 商務客戶將可善用帳戶支援專員進行支援案例升級管理，針對您最關鍵的支援請求獲得定期溝通和更新。
 
 [檢視 PDF 版本](assets/DMeBusinessSupportDatasheet_2022.pdf)
 
@@ -42,7 +42,7 @@ Adobe 提供全方位的技術資源來支援您的業務，這些資源包含�
   </tr>
   <tr>
     <td rowspan="3">指派的專家<br></td>
-    <td>帳戶支援專員</td>
+    <td>客戶支援主管</td>
     <td></td>
     <td>✔</td>
   </tr>
@@ -181,7 +181,7 @@ Adobe 提供全方位的技術資源來支援您的業務，這些資源包含�
     <img alt="帳戶支援專員" src="assets/dmeaccountsupportlead.png"/>
     <div>
     <p><b>帳戶支援專員</b></p>
-    <p>指定的帳戶支援專員，負責監控案件進度，並充當 Adobe 支援團隊內的向上呈報點與內部代言者。</p>
+    <p>指定的帳戶支援專員，負責監控案件進度，並作為您在 Adobe 支援團隊內的升級聯絡窗口與內部倡導者。</p>
     </div>
   </td>
   <td>
@@ -195,7 +195,7 @@ Adobe 提供全方位的技術資源來支援您的業務，這些資源包含�
     <img alt="向上呈報管理" src="assets/dmeescalationmanagement.png"/>
     <div>
     <p><b>向上呈報管理</b></p>
-    <p>Adobe 內的指定聯絡人，他可提供向上呈報協助、定期更新，並確保優先處理您最緊急且未解決的支援請求。</p>
+    <p>Adobe 內的指定聯絡人，他可提供向上呈報協助、定期更新，並確保優先處理您最關鍵且未解決的支援請求。</p>
     </div>
   </td>
 </tr>
@@ -234,7 +234,7 @@ Adobe 提供全方位的技術資源來支援您的業務，這些資源包含�
     <img alt="即時聊天支援" src="assets/dmechat.png"/>
     <div>
     <p><b>聊天支援</b></p>
-    <p>授權的使用者 (管理員) 可與 Adobe Support 開始聊天式諮詢，以獲得案件提交的解答與協助。</p>
+    <p>授權的使用者 (管理員) 可與 Adobe Support 開始聊天式諮詢，以獲得解答以及案件提交協助。</p>
     <p><i>以當地時間為準。</i></p>
     </div>
   </td>
@@ -242,7 +242,7 @@ Adobe 提供全方位的技術資源來支援您的業務，這些資源包含�
     <img alt="電話支援" src="assets/dmephone.png"/>
     <div>
     <p><b>電話支援</b></p>
-    <p>授權的使用者 (管理員) 可以透過電話聯絡 Adobe Support，以獲得案件提交的解答與協助。</p>
+    <p>授權的使用者 (管理員) 可以透過電話聯絡 Adobe Support，以獲得解答以及案件提交協助。</p>
     <p><i>以當地時間為準。</i></p>
     </div>
   </td>

@@ -2,16 +2,15 @@
 title: 先前 Adobe 支援計劃概觀
 description: 本文提供 Adobe Experience Cloud、Adobe Document Cloud 和 Adobe Creative Cloud 的客戶支援選項摘要。
 exl-id: 19b0e8a6-748e-4f6d-a183-30fbde07a367
-TQID: https://experienceleague.adobe.com/0rxkjuPojoUUCx9scnioGGjeJehSLqw44pUGHr9S-j4
+TQID: 'https://experienceleague.adobe.com/0rxkjuPojoUUCx9scnioGGjeJehSLqw44pUGHr9S-j4'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: CX Enterprise
+source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
 workflow-type: tm+mt
-source-wordcount: 165
+source-wordcount: '165'
 ht-degree: 100%
-
 ---
-
 # 先前 Adobe 支援計劃概觀
 
 >[!NOTE]

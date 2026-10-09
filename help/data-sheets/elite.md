@@ -2,26 +2,33 @@
 title: Elite 支援
 description: Adobe Experience Cloud Elite 支援服務提供同級最佳的服務層級目標 (SLT)、主動式支援，以及與技術客戶經理和指定的支援工程師的合作關係。
 exl-id: 46a0f6bb-dccb-4554-a811-de1384db2747
-TQID: https://experienceleague.adobe.com/iF7FcpFJB-kViSwkHmyGYF9fnUKAOdV0s6BcnLpvXWQ
+TQID: 'https://experienceleague.adobe.com/iF7FcpFJB-kViSwkHmyGYF9fnUKAOdV0s6BcnLpvXWQ'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 feature_v2:
   - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+    internal-label: Integrations
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+    internal-label: Measurement
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Optimization
+source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
 workflow-type: tm+mt
-source-wordcount: 1406
+source-wordcount: '1406'
 ht-degree: 100%
-
 ---
-
 # Elite 支援
 
 ![圖示](assets/Elitebanner.png)
@@ -112,7 +119,7 @@ Adobe Experience Cloud Elite 支援服務提供同級最佳的服務層級目標
     <td>✔</td>
   </tr>
   <tr>
-    <td>發行、遷移、升級及產品藍圖審查</td>
+    <td>發行、遷移、升級及產品路線圖審查</td>
     <td></td>
     <td>✔</td>
   </tr>
@@ -123,7 +130,7 @@ Adobe Experience Cloud Elite 支援服務提供同級最佳的服務層級目標
   </tr>
   <tr>
     <td rowspan="2">現場服務</td>
-    <td>上市諮詢服務 – 新解決方案的第一年</td>
+    <td>啟動諮詢服務 – 新解決方案的第一年</td>
     <td></td>
     <td>✔</td>
   </tr>
@@ -191,7 +198,7 @@ Adobe Experience Cloud Elite 支援服務提供同級最佳的服務層級目標
     <img alt="專家諮詢" src="assets/expertsessions.png"/>
     <div>
     <p><b>專家諮詢</b></p>
-    <p>60 分鐘的諮詢，聚焦於特定產品功能以及如何利用它來解決常見的業務問題。</p>
+    <p>60 分鐘的課程，聚焦於特定產品功能以及如何利用它來解決常見的業務問題。</p>
     </div>
   </td>
 </tr>
@@ -204,10 +211,10 @@ Adobe Experience Cloud Elite 支援服務提供同級最佳的服務層級目標
     </div>
   </td>
   <td>
-    <img alt="解決方案藍圖審查" src="assets/SolutionRoadmapReview.png"/>
+    <img alt="解決方案路徑圖審查" src="assets/SolutionRoadmapReview.png"/>
     <div>
-    <p><b>解決方案藍圖審查</b></p>
-    <p>將 Adobe 解決方案藍圖與您的專案藍圖進行比較並將兩者保持一致，以降低風險並為將來做好準備。</p>
+    <p><b>解決方案路徑圖審查</b></p>
+    <p>將 Adobe 解決方案路徑圖與您的專案路徑圖進行比較並將兩者保持一致，以降低風險並為將來做好準備。</p>
     </div>
   </td>
   <td>
@@ -223,7 +230,7 @@ Adobe Experience Cloud Elite 支援服務提供同級最佳的服務層級目標
     <img alt="發行準備與審查" src="assets/releasepreview.png"/>
     <div>
     <p><b>發行準備與審查</b></p>
-    <p>接收有關新產品功能的個人化指引，以利用最新的創新功能，並讓 Adobe 專家審查發行和升級計劃。</p>
+    <p>接收有關新產品功能的個人化指引，以利用最新的創新功能，並讓 Adobe 專家審閱版本和升級計劃。</p>
     </div>
   </td>
   <td>
@@ -290,7 +297,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
     <div>
     <p>即時聊天支援 *</p>
     <p><b>聊天支援</b></p>
-    <p>開始聊天式諮詢，以獲得案件提交的解答與協助。</p>
+    <p>開始聊天工作階段，以取得解答及案件提交方面的協助。</p>
     <p>* <i>並非所有產品都有提供即時聊天支援。</i></p>
     </div>
   </td>
@@ -338,7 +345,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
 ![Support implementation and operation](assets/support-implementation.png)
 -->
 
-Adobe 解決方案專家可向客戶和實作合作夥伴提供以最佳實務為根據的指引，以協助驗證需求、架構、開發流程和上市整備情況審查。
+Adobe 解決方案專家可向客戶和實施合作夥伴提供以最佳實務為根據的指引，以協助驗證需求、架構、開發流程和上市整備情況審查。
 
 上市諮詢服務將透過常見的里程碑 (專案啟動、定義、設計、上線和上市後) 與您的專案時間表保持一致，以便指導、驗證、評估及提出建議。 主要交付成果包括：
 
@@ -380,7 +387,7 @@ Adobe 解決方案專家可向客戶和實作合作夥伴提供以最佳實務�
 
 | 資源 | 說明 |
 |--- |--- |
-| [Experience League](https://experienceleague.adobe.com/zh-hant) | Experience League 是 Adobe 幫助企業經由其所做的 Adobe 投資來實現預期價值的方式。 這是一個統一的位置，客戶可以在這裡學習、交流並沿著個人化的成功路徑而成長，這裡有提供自助式教學課程、產品文件、由講師授課的訓練課程、社群及技術支援。 |
+| [Experience League](https://experienceleague.adobe.com/zh-hant) | Experience League 是 Adobe 幫助企業實現其 Adobe 投資預期價值的方式。 這是一個統一的位置，客戶可以在這裡學習、交流並沿著個人化的成功路徑而成長，這裡有提供自助式教學課程、產品文件、由講師授課的訓練課程、社群及技術支援。 |
 | [訓練](https://training.adobe.com/training/) | 您可以從 Experience League 存取 Adobe 數位學習服務課程。 學習課程整合了隨選課程及講師授課的課程。 您可以在這裡累積具有公認市場價值的技能，並在組織中發揮這些技能以取得成功。 |
 | [生產問題與系統中斷](https://status.adobe.com/zh-tw/) | Status.adobe.com 會傳達所有在多租用戶環境中部署的 Adobe 產品與服務的健康資訊。 客戶可以選擇其訂閱偏好設定，以便在 Adobe 建立、更新或解決產品事件時收到電子郵件通知。 這可以包括預定的維護或是不同嚴重性等級的服務問題。 |
 | [條款與條件](https://helpx.adobe.com/tw/support/programs/support-policies-terms-conditions.html) | 詳述支援服務方案的條款與條件。 |

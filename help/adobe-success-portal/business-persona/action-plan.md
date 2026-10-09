@@ -2,19 +2,20 @@
 title: '[!UICONTROL 行動計劃]'
 description: /[!UICONTROL 行動計劃/] 提供 KBO (關鍵業務目標) 如何執行的結構化視圖。 其中包括 Adobe 團隊已規劃、已完成，或正在積極進行的相關加速器和活動，以協助您實現目標。
 exl-id: 818b149c-91ee-43b6-a235-576f2810db1b
-TQID: https://experienceleague.adobe.com/Hoc6wzygdoIm5nhLxkz5vp1xCyG-v-N2WwXtHQ68ou4
+TQID: 'https://experienceleague.adobe.com/Hoc6wzygdoIm5nhLxkz5vp1xCyG-v-N2WwXtHQ68ou4'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Admin
+source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
 workflow-type: tm+mt
-source-wordcount: 216
+source-wordcount: '216'
 ht-degree: 100%
-
 ---
-
 # [!UICONTROL 行動計劃]
 
 **[!UICONTROL 行動計劃]**&#x200B;提供 KBO (關鍵業務目標) 如何執行的結構化視圖。 其中包括 Adobe 團隊已規劃、已完成，或正在積極進行的相關加速器和活動，以協助您實現目標。

@@ -2,19 +2,20 @@
 title: '[!UICONTROL 參與度計劃]'
 description: 了解[!UICONTROL 參與度計劃]如何透過提供 Adobe 客戶團隊和參與度選項的集中視圖，來增強利害關係人的可見度和溝通能力。
 exl-id: 65a0ac9f-9103-4497-8e85-c471c2ffff51
-TQID: https://experienceleague.adobe.com/M9nZSIddX0t75QsdfRNR0arXCUxoDxcRTdShF3c6-co
+TQID: 'https://experienceleague.adobe.com/M9nZSIddX0t75QsdfRNR0arXCUxoDxcRTdShF3c6-co'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Admin
+source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
 workflow-type: tm+mt
-source-wordcount: 187
+source-wordcount: '187'
 ht-degree: 100%
-
 ---
-
 # [!UICONTROL 參與度計劃]
 
 **[!UICONTROL 參與度計劃]** 區段解決與利害關係人可見度和溝通能力相關的挑戰。 它提供您的 Adobe 客戶團隊集中視圖以及您與他們的互動方式。

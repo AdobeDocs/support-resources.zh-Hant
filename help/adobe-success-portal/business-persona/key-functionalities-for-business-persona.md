@@ -2,22 +2,25 @@
 title: 業務人物誌的重要功能
 description: /[!DNL Adobe Success/] 入口網站為業務人物誌提供的各項功能，可以針對多項關鍵業務目標進行價值衡量、追蹤進度，以及透過容易存取的視圖提供洞察。
 exl-id: 374c3809-a982-464e-b417-1b0ae4191628
-TQID: https://experienceleague.adobe.com/DhUGTnT-ENmeY-Rg65TJLonVqvaSU7dwGrXvsTJV0dk
+TQID: 'https://experienceleague.adobe.com/DhUGTnT-ENmeY-Rg65TJLonVqvaSU7dwGrXvsTJV0dk'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 topic_v2:
   - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+    internal-label: Measurement
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Insights
+source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
 workflow-type: tm+mt
-source-wordcount: 142
+source-wordcount: '142'
 ht-degree: 100%
-
 ---
-
 # 業務人物誌的重要功能
 
 [!DNL Adobe Success] 入口網站為業務人物誌提供的各項功能，可以針對多項 [[!UICONTROL 關鍵業務目標]](/help/adobe-success-portal/business-persona/key-business-objectives.md) (KBO) 進行價值衡量、追蹤進度，以及透過容易存取的視圖提供洞察。

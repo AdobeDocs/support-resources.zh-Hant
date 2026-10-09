@@ -2,24 +2,29 @@
 title: Adobe支援與工具指南總覽
 description: Adobe支援與工具指南 — 您有關Experience League中的案例管理、支援權益、Adobe Admin Console工作與產品特定支援的中央資源。
 exl-id: 8a2832e8-d3c0-465c-b32e-52b3f0ac13d4
-TQID: https://experienceleague.adobe.com/tU02jQ-jAGNsnDEsyiXzBs-rs0poCZostwyaiDDDEpY
+TQID: 'https://experienceleague.adobe.com/tU02jQ-jAGNsnDEsyiXzBs-rs0poCZostwyaiDDDEpY'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Privacy
+source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
 workflow-type: tm+mt
-source-wordcount: 218
+source-wordcount: '218'
 ht-degree: 0%
-
 ---
-
 # Adobe支援與工具指南總覽
 
 **Adobe支援與工具指南**&#x200B;可協助您在同一處使用Adobe數位體驗支援。 它支援Adobe邁向&#x200B;**Experience League**，作為授權客戶的主要專案，以便開啟和追蹤案例、跨產品使用一致的歷程記錄，以及透過您合約中包含的管道與Adobe連絡。

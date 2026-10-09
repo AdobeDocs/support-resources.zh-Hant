@@ -1,23 +1,26 @@
 ---
 title: '[!DNL Adobe Success] 入口網站：客戶常見問題集'
-description: 此常見問題集文章解答許多有關 [!DNL Adobe Success] 入口網站的常見問題。
+description: 此常見問題集文章回答有關[!DNL Adobe Success]入口網站的常見問題。
 exl-id: fff82b90-4077-4669-8cd5-5105cd0c7307
-TQID: https://experienceleague.adobe.com/sIIr9uo3-K1N44AG-k0uhHcfwb9J93r0RbzVz0NRMhk
+TQID: 'https://experienceleague.adobe.com/sIIr9uo3-K1N44AG-k0uhHcfwb9J93r0RbzVz0NRMhk'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Privacy
+source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
 workflow-type: tm+mt
-source-wordcount: 661
-ht-degree: 93%
-
+source-wordcount: '662'
+ht-degree: 91%
 ---
-
 # [!DNL Adobe Success] 入口網站：客戶常見問題集
 
  
@@ -50,7 +53,7 @@ Alpha 入口網站的存取權限僅限於已確認參與 Alpha 方案的預先�
 
 ## 我仍需前往 Experience League 嗎？
 
-Experience League 仍保留此首頁，並提供所有文件、學習內容及社群功能的存取權。 在 Alpha 測試期間，您將仍能夠直接在 Experience League 中開啟並管理您的支援案例，但我們要求您利用 [!DNL Adobe Success] 入口網站作為提交和管理支援案例的主要目標，並作為測試方案的一部分。
+Experience League 仍將是主要入口，所有文件、學習內容及社群功能都應從這裡存取。 在 Alpha 測試期間，您將仍能夠直接在 Experience League 中開啟並管理您的支援案例，但我們要求您利用 [!DNL Adobe Success] 入口網站作為提交和管理支援案例的主要目標，並作為測試方案的一部分。
 
 ## 我的資料可從何處提取？ 如何受到保護？
 
@@ -64,6 +67,6 @@ Experience League 仍保留此首頁，並提供所有文件、學習內容及�
 
 若要回報錯誤或問題，我們建議直接在 [!DNL Adobe Success] 入口網站中使用 [!UICONTROL Alpha 版意見工具]。 您也可以使用 [Alpha Teams 管道](https://teams.microsoft.com/l/channel/19:h-GcuAZs9uF05rervqTdx2U27ohYINuRUIfbMte9B-U1@thread.tacv2/General?groupId=02b87789-3475-47e4-94c1-0981f63ae89f&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)聯絡我們的團隊。
 
-## 針對新功能或增強功能，我有一個想法。 我應該前往何處進行提交？
+## 我對新功能或功能增強有想法。 我應該前往何處進行提交？
 
 功能增強要求應透過 [!DNL Adobe Success] 入口網站中的 [!UICONTROL Alpha 版意見工具] 進行提交。 您可以隨時利用可用的其他管道，包括您的客戶團隊和 [Alpha Teams 管道](https://teams.microsoft.com/l/channel/19:h-GcuAZs9uF05rervqTdx2U27ohYINuRUIfbMte9B-U1@thread.tacv2/General?groupId=02b87789-3475-47e4-94c1-0981f63ae89f&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)。

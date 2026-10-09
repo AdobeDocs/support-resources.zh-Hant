@@ -2,26 +2,29 @@
 title: Adobe Commerce支援票證生命週期原則更新
 description: 本文提供Adobe Commerce支援票證生命週期原則更新的相關資訊。
 exl-id: 1d0da27f-4334-4f3a-a9b5-fca2eb16de4e
-TQID: https://experienceleague.adobe.com/InnjmzEbkWnGVY47P4F76Fb9l-ul0KMe5Kk377XUwiY
+TQID: 'https://experienceleague.adobe.com/InnjmzEbkWnGVY47P4F76Fb9l-ul0KMe5Kk377XUwiY'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Privacy
+source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
 workflow-type: tm+mt
-source-wordcount: 546
+source-wordcount: '546'
 ht-degree: 39%
-
 ---
-
 # Adobe Commerce支援票證生命週期原則更新
 
 本文概述了 Adobe DX 支援案例生命週期的改善內容，其目的為加強溝通並盡快為客戶提供解決方案，以協助確保客戶成功。 您也可在[Adobe成功計畫總覽：支援案例生命週期](https://experienceleague.adobe.com/zh-hant/docs/support-resources/data-sheets/overview#support-case-lifecycle---coming-soon)中找到此專案。
-以下是支援過程中可能遇到的各種場景時間表和通知：
+以下是支援過程中可能遇到的各種情況時間表和通知：
 
 ## 案例後續提醒
 
@@ -42,7 +45,7 @@ ht-degree: 39%
 * 在狀態設為&#x200B;**擱置回應**&#x200B;後的第1、3和5天，會傳送後續通知給客戶要求其他資訊。
 * 如果在狀態設定為&#x200B;**擱置回應**&#x200B;後6天內沒有來自客戶的回應，則案例會設定為「已關閉」，並傳送關閉通知。
 
-客戶可以在 14 天內重新開啟 Experience League 的已關閉案例，繼續進行溝通。 超過 14 天後，可以開啟新的支援案例，繼續進行與先前已關閉案例相關的溝通。 請注意，回覆有關已關閉的支援服務單的電子郵件，不會重新開啟該服務單。
+客戶可以在 Experience League 上於 14 天內重新開啟已關閉的案例，繼續進行溝通。 超過 14 天後，可以開啟新的支援案例，繼續進行與先前已關閉案例相關的溝通。 請注意，回覆有關已關閉的支援服務單的電子郵件，不會重新開啟該服務單。
 
 ### 當工程師提供解決方案時
 

@@ -4,23 +4,27 @@ title: Adobe Experience Cloud企業客戶一
 description: Adobe客戶支援體驗
 seo-description: Adobe Customer Support Experience
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-TQID: https://experienceleague.adobe.com/cGHwAzUXOUNouNknfl84ix4Gi7t8koCJVICt1zJWRp8
+TQID: 'https://experienceleague.adobe.com/cGHwAzUXOUNouNknfl84ix4Gi7t8koCJVICt1zJWRp8'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: f4a8d4cf7aa7438acd341e166f123ff908d9ef67
+    internal-label: Personalization
+source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
 workflow-type: tm+mt
-source-wordcount: 2122
+source-wordcount: '2122'
 ht-degree: 0%
-
 ---
-
 # Adobe客戶支援體驗
 
 >[!NOTE]

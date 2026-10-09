@@ -1,25 +1,30 @@
 ---
 title: 字彙表
-description: ' [!DNL Adobe Success]  入口網站內的重要術語集以及其定義。'
+description: '[!DNL Adobe Success]入口網站中的關鍵術語及其定義的集合。'
 exl-id: 76bb7345-6827-4a42-9784-441f2875435e
-TQID: https://experienceleague.adobe.com/qKraH4XPhSdzrkILT0YBRE3dV5U3tdf69DO-IGJAeS0
+TQID: 'https://experienceleague.adobe.com/qKraH4XPhSdzrkILT0YBRE3dV5U3tdf69DO-IGJAeS0'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Insights
+source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
 workflow-type: tm+mt
-source-wordcount: 386
-ht-degree: 100%
-
+source-wordcount: '387'
+ht-degree: 97%
 ---
-
 # 字彙表
 
 | 術語 | 定義 |
