@@ -6,7 +6,7 @@ solution: CX Enterprise
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
     internal-label: CX Enterprise
-source-git-commit: 09841d315184fd3d0df0d885812c790c2b1ebae8
+source-git-commit: 9d6bb04c884f3ccdbe3a6f5ddfd6500984464b21
 workflow-type: tm+mt
 source-wordcount: '530'
 ht-degree: 0%
@@ -77,7 +77,7 @@ ht-degree: 0%
 
 請立即聯絡您的Adobe客戶代表，瞭解詳細資訊和資格要求。
 
-[![登入按鈕](assets/sign-in-button.png){width="100"}](https://experienceleague.adobe.com/zh-hant/feedback-program){target="_blank"}
+[![登入按鈕](assets/sign-in-button.svg){width="100"}](https://experienceleague.adobe.com/zh-hant/feedback-program){target="_blank"}
 
 <!--
 [!BADGE Join Today]{type=Informative url="https://experienceleague.adobe.com/zh-hant/feedback-program" newtab=true tooltip="Go to https://experienceleague.adobe.com/zh-hant/feedback-program"}
