@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: ca0c06009bbd0bc7d6cdb24a28eb3d99bb9ac6b7
+source-git-commit: 5c224ff05365a96b1259adcde2bea70061fe27e5
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '397'
 ht-degree: 2%
 ---
 # Adobe支援與工具指南 {#adobe-support-tools-guide}
@@ -76,4 +76,5 @@ ht-degree: 2%
   - [無法將使用者新增至Adobe Commerce雲端專案](adobe-commerce-support/unable-add-user-adobe-commerce-cloud-project.md)
   - [如何套用Adobe提供的撰寫器修補程式](adobe-commerce-support/how-to-apply-a-composer-patch-provided-by-magento.md)
   - [如何套用Adobe提供的獨立修補程式](adobe-commerce-support/how-to-apply-an-isolated-security-patch-file-provided-by-adobe.md)
+  - [如何回報協力廠商安全機構發現的弱點](/help/adobe-support-tools-guide/adobe-commerce-support/third-party-test-reports-are-handled-by-integriti.md)
   - [支援工具總覽](adobe-commerce-support/overview.md)
