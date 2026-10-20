@@ -167,4 +167,4 @@ Adobe正在將所有組織更新至[企業儲存模型](https://helpx.adobe.com/
 ## 法律與隱私權
 
 - [法律注意事項](https://helpx.adobe.com/tw/legal/legal-notices.html)
-- [線上隱私權原則](https://www.adobe.com/privacy.html)
+- [線上隱私權原則](https://www.adobe.com/tw/privacy.html)
