@@ -1,19 +1,17 @@
 ---
 title: Adobe Creative Cloud 和 Adobe Document Cloud 的標準支援
-description: Adobe 提供全方位的技術資源來支援您的業務，這些資源包含在您的 Adobe 企業訂閱中。標準支援包括全天候存取我們的自助支援資源，包括 HelpX 上的文章以及與 Adobe 社群上的其他客戶互動。
+description: Adobe 提供全方位的技術資源來支援您的業務，這些資源包含在您的 Adobe 企業訂閱中。 標準支援包括全天候存取我們的自助支援資源，包括 HelpX 上的文章以及與 Adobe 社群上的其他客戶互動。
 exl-id: 2ce6a990-1dbc-4f08-a29b-357e3e03a6d6
 source-git-commit: ddaeba7f5e8c2e6d4c7fc2112425ee83ee7eccd3
 workflow-type: tm+mt
-source-wordcount: '777'
+source-wordcount: '756'
 ht-degree: 100%
-
 ---
-
 # Creative Cloud 和 Adobe Document Cloud 的標準支援
 
 ![圖示](assets/StandardBanner.png)
 
-Adobe 提供全方位的技術資源來支援您的業務，這些資源包含在您的 Adobe 企業訂閱中。標準支援包括全天候存取我們的自助支援資源，包括 HelpX 上的文章以及與 Adobe 社群上的其他客戶互動。
+Adobe 提供全方位的技術資源來支援您的業務，這些資源包含在您的 Adobe 企業訂閱中。 標準支援包括全天候存取我們的自助支援資源，包括 HelpX 上的文章以及與 Adobe 社群上的其他客戶互動。
 
 您可以利用我們詳細而深入的技術產品文件和目前的版本注意事項，這些內容都發佈在 <https://www.adobe.com/tw> 上。 我們的標準支援還包括授權的使用者 (管理員) 可透過聊天或電話與我們的技術支援團隊互動 (24x7 全年無休)，也可以透過我們的支援入口網站提出協助請求。
 
@@ -25,7 +23,7 @@ Adobe 提供全方位的技術資源來支援您的業務，這些資源包含�
     <th></th>
     <th></th>
     <th>標準支援</th>
-    <th>商業支援</th>
+    <th>業務支援</th>
     <th>企業支援</th>
     <th>Elite 支援</th>
   </tr>
@@ -39,7 +37,7 @@ Adobe 提供全方位的技術資源來支援您的業務，這些資源包含�
   </tr>
   <tr>
     <td rowspan="3">指派的專家<br></td>
-    <td>帳戶支援專員</td>
+    <td>客戶支援主管</td>
     <td></td>
     <td>✔</td>
     <td></td>
@@ -182,7 +180,7 @@ Adobe 提供全方位的技術資源來支援您的業務，這些資源包含�
   <tr>
     <th>優先順序</th>
     <th>標準支援</th>
-    <th>商業支援</th>
+    <th>業務支援</th>
     <th>企業支援</th>
     <th>Elite 支援</th>
   </tr>
@@ -214,7 +212,7 @@ Adobe 提供全方位的技術資源來支援您的業務，這些資源包含�
 
 ## 標準支援 {#standard-support-options}
 
-Adobe 客戶支援提供對文件資源的存取權，以及與其他專家和客戶互動的機會以獲得最佳實務。我們也提供幾個管道來讓您提交問題和案件
+Adobe 客戶支援提供對文件資源的存取權，以及與其他專家和客戶互動的機會以獲得最佳實務。 我們也提供幾個管道來讓您提交問題和案件
 
 <table style="table-layout:fixed">
 <tr>
@@ -238,7 +236,7 @@ Adobe 客戶支援提供對文件資源的存取權，以及與其他專家和�
     <img alt="即時聊天支援" src="assets/dmechat.png"/>
     <div>
     <p><b>聊天支援</b></p>
-    <p>授權的使用者 (管理員) 可與 Adobe Support 開始聊天式諮詢，以獲得案件提交的解答與協助。</p>
+    <p>授權的使用者 (管理員) 可與 Adobe Support 開始聊天式諮詢，以獲得解答以及案件提交協助。</p>
     <p><i>以當地時間為準。</i></p>
     </div>
   </td>
@@ -246,7 +244,7 @@ Adobe 客戶支援提供對文件資源的存取權，以及與其他專家和�
     <img alt="電話支援" src="assets/dmephone.png"/>
     <div>
     <p><b>電話支援</b></p>
-    <p>授權的使用者 (管理員) 可以透過電話聯絡 Adobe Support，以獲得案件提交的解答與協助。</p>
+    <p>授權的使用者 (管理員) 可以透過電話聯絡 Adobe Support，以獲得解答以及案件提交協助。</p>
     <p><i>以當地時間為準。</i></p>
     </div>
   </td>
