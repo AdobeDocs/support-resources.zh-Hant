@@ -13,7 +13,7 @@ ht-degree: 100%
 
 Adobe 提供全方位的技術資源來支援您的業務，這些資源包含在您的 Adobe 企業訂閱中。 標準支援包括全天候存取我們的自助支援資源，包括 HelpX 上的文章以及與 Adobe 社群上的其他客戶互動。
 
-您可以利用我們詳細而深入的技術產品文件和目前的版本注意事項，這些內容都發佈在 <https://www.adobe.com> 上。 我們的標準支援還包括授權的使用者 (管理員) 可透過聊天或電話與我們的技術支援團隊互動 (24x7 全年無休)，也可以透過我們的支援入口網站提出協助請求。
+您可以利用我們詳細而深入的技術產品文件和目前的版本注意事項，這些內容都發佈在 <https://www.adobe.com/tw> 上。 我們的標準支援還包括授權的使用者 (管理員) 可透過聊天或電話與我們的技術支援團隊互動 (24x7 全年無休)，也可以透過我們的支援入口網站提出協助請求。
 
 [檢視 PDF 版本](assets/DMeStandardSupportDatasheet_2022.pdf)
 
@@ -264,9 +264,9 @@ Adobe 客戶支援提供對文件資源的存取權，以及與其他專家和�
 
 | 資源 | 說明 |
 |--- |--- |
-| [Experience League](https://experienceleague.adobe.com/) | Experience League 是可供 Adobe 客戶找到自助式教學課程、產品文件、由講師授課的培訓課程、社群以及精選 Adobe Creative Cloud 和 Document 產品的支援的地方。 |
+| [Experience League](https://experienceleague.adobe.com/zh-hant) | Experience League 是可供 Adobe 客戶找到自助式教學課程、產品文件、由講師授課的培訓課程、社群以及精選 Adobe Creative Cloud 和 Document 產品的支援的地方。 |
 | [Adobe 支援社群](https://community.adobe.com/) | Adobe 支援社群是提問、尋找答案、向專家學習和分享知識的地方。 |
-| [生產問題與系統中斷](https://status.adobe.com/) | Status.adobe.com 會傳達所有在多租用戶環境中部署的 Adobe 產品與服務的健康資訊。 客戶可以選擇其訂閱偏好設定，以便在 Adobe 建立、更新或解決產品事件時收到電子郵件通知。 這可以包括預定的維護或是不同嚴重性等級的服務問題。 |
+| [生產問題與系統中斷](https://status.adobe.com/zh-tw/) | Status.adobe.com 會傳達所有在多租用戶環境中部署的 Adobe 產品與服務的健康資訊。 客戶可以選擇其訂閱偏好設定，以便在 Adobe 建立、更新或解決產品事件時收到電子郵件通知。 這可以包括預定的維護或是不同嚴重性等級的服務問題。 |
 | [條款與條件](https://helpx.adobe.com/tw/support/programs/support-policies-terms-conditions.html) | 詳述支援服務方案的條款與條件。 |
 
 {style="table-layout:auto"}
