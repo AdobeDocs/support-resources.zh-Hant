@@ -45,7 +45,7 @@ role_v2:
     internal-label: Leader
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
-source-git-commit: 9f49cf28acb39f62f0ec29c620c4d8ef2034f378
+source-git-commit: bdf7e388b52a7a70f1f3673e630f1cb154898b2f
 workflow-type: tm+mt
 source-wordcount: '4693'
 ht-degree: 3%
@@ -212,7 +212,7 @@ Adobe建議採取下列步驟，為假期準備Customer Journey Analytics執行�
 * 使用[錯誤和疑難排解指南](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-workspace/workspace-faq/error-messages){target="_blank"}和[已知限制](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-workspace/workspace-faq/aw-limitations){target="_blank"}文章，在尖峰負載期間留意延遲增加的情況。
 * 讓管理員透過RAM暫停或取消長期執行/封鎖的要求。 請參閱CJA[&#128279;](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-cancel-requests){target="_blank"}文章中的取消報告要求。
 
-### 最佳實務
+### 最佳做法
 
 * 分散報表和匯出會在一天中執行，儘可能安排非尖峰期的優先順序，以分散負載並儘可能減少延遲。 請參閱[排程報告](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-components/scheduled-projects-manager){target="_blank"}文章。
 * 減少面板、簡化區段、縮短日期範圍，以及避免過多的並行工作。 請參閱[最佳化CJA Workspace效能](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-workspace/workspace-faq/optimizing-performance){target="_blank"}文章以取得詳細資料。
@@ -243,7 +243,7 @@ Adobe建議採取下列步驟，為假期準備Customer Journey Analytics執行�
 
 ### 準備進行擴展
 
-遵循[計畫和樞紐分析：2025年旺季的戰略方針](https://experienceleague.adobe.com/zh-hant/perspectives/planning-and-pivoting-a-strategic-approach-to-peak-season-2025){target="_blank"}指南中的建議，該指南使用Adobe Commerce （和選用的Adobe Experience Cloud工具）提供可操作的策略，以幫助您規劃、樞紐分析並在一年中最繁忙的時段提供傑出的客戶體驗。
+遵循[計畫和樞紐分析：2026年旺季的戰略方針](https://experienceleague.adobe.com/en/perspectives/planning-and-pivoting-a-strategic-approach-to-peak-season-2026){target="_blank"}指南中的建議，該指南使用Adobe Commerce （和選用的Adobe Experience Cloud工具）提供可操作的策略，以幫助您規劃、樞紐分析並在一年中最繁忙的時段提供傑出的客戶體驗。
 
 ### 最佳做法
 
@@ -359,7 +359,7 @@ AEM客戶運用Adobe Managed Services時，可以主動與其CSE合作，針對�
 * [準備Adobe Workfront發行](https://experienceleague.adobe.com/zh-hant/docs/workfront/using/product-announcements/product-releases/release-readiness){target="_blank"}
 * [Workfront發行說明封存](https://experienceleague.adobe.com/zh-hant/docs/workfront/using/product-announcements/product-releases/product-releases){target="_blank"}
 
-### 最佳實務
+### 最佳做法
 
 * 主動式計畫：識別任何可能受內部休假排程影響的系統相依性或排程的自動化。
 * 持續溝通：讓您的內部團隊和Adobe支援得知規劃的維護或關鍵事件。
