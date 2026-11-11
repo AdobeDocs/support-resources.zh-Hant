@@ -14,12 +14,14 @@ role_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
+source-git-commit: 4b28824c942028c3152a2b59f15bcde436a91185
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 0%
+source-wordcount: '155'
+ht-degree: 1%
 ---
 # 指定偏好的支援電話號碼
+
+## 開始之前
 
 當您被指派為&#x200B;**管理員**&#x200B;角色（例如&#x200B;**產品支援管理員**）時，您會收到一封電子郵件，確認您具有管理執行個體的管理員許可權。
 
@@ -27,17 +29,14 @@ ht-degree: 0%
 
 ![偏好的支援號碼](assets/admin-console-1.png)
 
-若要指定您偏好的電話號碼：
+## 設定您偏好的支援電話號碼
 
 1. 按一下&#x200B;**[!UICONTROL 帳戶設定檔]**&#x200B;連結，開啟新視窗以使用`account.adobe.com`登入。
-
    ![登入](assets/sign-in.png)
-
 1. 完成登入程式，並在`account.adobe.com`的下列畫面登陸。
 1. 選取「**[!UICONTROL 帳戶與安全性]** > **[!UICONTROL 帳戶]**」以檢視「支援電話號碼」欄位。
 1. 在這裡新增電話號碼，以便我們識別您的支援需求。
-
-![指定詳細資料](assets/account-info.png)
+   ![指定詳細資料](assets/account-info.png)
 
 ![新增電話號碼](assets/enter-phone-number.png)
 
