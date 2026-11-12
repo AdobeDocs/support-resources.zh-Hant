@@ -12,12 +12,14 @@ role_v2:
     internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin
-source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
+source-git-commit: 4b28824c942028c3152a2b59f15bcde436a91185
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '499'
 ht-degree: 11%
 ---
 # [!DNL Adobe Business Platform]與Admin Console常見問題集
+
+## 轉移至Adobe Identity和Admin Console
 
 +++**什麼是Adobe Identity和Admin Console？**
 
@@ -30,6 +32,8 @@ ht-degree: 11%
 客戶將移至[!DNL Adobe Business Platform]，體驗更安全、更直覺的管理主控台。
 
 +++
+
+## 移轉程式與時間
 
 +++**客戶何時需要移至AAC？**
 
@@ -57,15 +61,23 @@ Adobe Workfront支援團隊會透過即時協助和指導來移動客戶，以�
 
 +++
 
-+++**AAC有哪些新功能目前無法供Workfront的客戶使用？**
++++**一般Workfront客戶移至AAC需要多久時間？**
 
-
+客戶實作AAC的時間長度可能有所不同，但一般體驗是與客戶進行約兩個小時的即時電話會議。
 
 +++
 
-+++**AAC有哪些可用的訓練資源？**
+## 成本與影響
 
-&lt;https://helpx.adobe.com/tw/enterprise/using/admin-console.html >
++++**客戶移至AAC是否需要費用？**
+
+客戶改用AAC不需額外付費。
+
++++
+
++++**這會影響我在Adobe產品之外已整合至Workfront解決方案的其他技術嗎？**
+
+使用[!DNL Fusion]應用程式連線到其他服務的客戶，只有在[!DNL Fusion]應用程式準備進行此變更時，才會移動。
 
 +++
 
@@ -81,26 +93,20 @@ Adobe Workfront支援團隊會透過即時協助和指導來移動客戶，以�
 
 +++
 
-+++**一般Workfront客戶移至AAC需要多久時間？**
-
-客戶實作AAC的時間長度可能有所不同，但一般體驗是與客戶進行約兩個小時的即時電話會議。
-
-+++
-
-+++**這會影響我在Adobe產品之外已整合至Workfront解決方案的其他技術嗎？**
-
-使用[!DNL Fusion]應用程式連線到其他服務的客戶，只有在[!DNL Fusion]應用程式準備進行此變更時，才會移動。
-
-+++
-
-+++**客戶移至AAC是否需要費用？**
-
-客戶改用AAC不需額外付費。
-
-+++
-
 +++**沒有理由不移至AAC嗎？**
 
 AAC將能在Workfront的未來使用中為客戶提供最佳更新和增強功能，這對客戶而言是絕佳舉措。 由於舊版示範主控台將會關閉，因此所有客戶在2023年底之前都必須移至AAC。
+
++++
+
++++**AAC有哪些可用的訓練資源？**
+
+&lt;https://helpx.adobe.com/tw/enterprise/using/admin-console.html >
+
++++
+
++++**AAC有哪些新功能目前無法供Workfront的客戶使用？**
+
+
 
 +++
