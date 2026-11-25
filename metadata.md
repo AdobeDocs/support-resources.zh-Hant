@@ -1,6 +1,6 @@
 ---
 cloud: Experience Cloud
-solution: Experience Cloud
+solution: CX Enterprise
 usetq: true
 product: experience cloud
 type: Documentation
@@ -10,7 +10,7 @@ index: true
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
     internal-label: CX Enterprise
-source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
+source-git-commit: 17f0b74fedb2260a13d089bc6b3a3a6376a74ae6
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 100%

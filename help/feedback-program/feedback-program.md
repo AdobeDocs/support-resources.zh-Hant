@@ -1,12 +1,12 @@
 ---
 title: Adobe意見回饋計畫
 description: Adobe意見回饋計畫
-hide: true
+index: true
 solution: CX Enterprise
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
     internal-label: CX Enterprise
-source-git-commit: 9d6bb04c884f3ccdbe3a6f5ddfd6500984464b21
+source-git-commit: 17f0b74fedb2260a13d089bc6b3a3a6376a74ae6
 workflow-type: tm+mt
 source-wordcount: '530'
 ht-degree: 0%
